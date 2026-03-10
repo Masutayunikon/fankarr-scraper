@@ -42,7 +42,7 @@ jobs:
       - name: s1 — Collect torrents from Discord + Nyaa
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+          CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
         run: python scripts/s1_collect.py
 
       - name: s2 — Parse torrent names
