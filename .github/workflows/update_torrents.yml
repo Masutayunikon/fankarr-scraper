@@ -27,7 +27,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       # ── 3. Sauvegarder l'ancien JSON avant de le regénérer ───────────────────
       - name: Save old torrent_final.json
