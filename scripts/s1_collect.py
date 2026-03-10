@@ -12,6 +12,8 @@ import time
 import requests
 import os
 from urllib.parse import unquote_plus
+from dotenv import load_dotenv
+load_dotenv()
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
