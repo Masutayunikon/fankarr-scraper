@@ -10,7 +10,7 @@ pip install bencode.py requests
 import re
 import time
 import requests
-import bencode    # pip install bencode.py
+import bencodepy as bencode    # pip install bencode.py
 
 
 # ─── Récupération + parsing du .torrent ──────────────────────────────────────
