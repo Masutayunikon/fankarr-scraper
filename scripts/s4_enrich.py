@@ -126,6 +126,24 @@ def extract_episode_number(filename: str) -> int | None:
             return int(m.group(1))
     return None
 
+# Dossiers à exclure de l'organisation (bonus, musiques, images...)
+_EXCLUDED_FOLDERS = {
+    "endings", "ending", "openings", "opening", "ost", "artworks", "artwork",
+    "bonus", "extras", "extra", "specials", "special", "ncop", "nced",
+    "images", "image", "scans", "scan", "soundtrack", "music",
+}
+
+def _is_in_excluded_folder(path: list[str]) -> bool:
+    """Retourne True si le fichier est dans un dossier à exclure."""
+    for folder in path[:-1]:
+        if folder.lower().strip() in _EXCLUDED_FOLDERS:
+            return True
+        # Préfixes connus : "ENDINGS", "ENDING 01", "OST", etc.
+        folder_lower = folder.lower()
+        if any(folder_lower.startswith(excl) for excl in _EXCLUDED_FOLDERS):
+            return True
+    return False
+
 def parse_torrent_structure(files: list[dict]) -> dict:
     episodes = []
     folders  = set()
@@ -141,6 +159,11 @@ def parse_torrent_structure(files: list[dict]) -> dict:
                 folders.add(folder)
 
         if filename.lower().endswith((".mkv", ".mp4", ".avi")):
+            # Ignorer les fichiers dans des dossiers bonus/musique/images
+            if _is_in_excluded_folder(path):
+                extras.append(filename)
+                continue
+
             ep_num = extract_episode_number(filename)
             if ep_num is not None:
                 episodes.append({
@@ -149,6 +172,8 @@ def parse_torrent_structure(files: list[dict]) -> dict:
                     "path"    : path,
                     "size"    : size,
                 })
+            else:
+                extras.append(filename)
         elif filename and not filename.startswith("."):
             extras.append(filename)
 
