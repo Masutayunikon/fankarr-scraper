@@ -30,6 +30,7 @@ from dataclasses import dataclass, field
 
 INPUT_FILE  = "data/torrent_raw.json"
 OUTPUT_FILE = "data/torrent_parsed.json"
+NAME_FILE = "data/torrent_names.txt"
 
 from pathlib import Path
 Path("data").mkdir(exist_ok=True)
@@ -265,7 +266,7 @@ if __name__ == "__main__":
     import json
 
     # Charger les noms
-    with open("torrent_names.txt", encoding="utf-8") as f:
+    with open(NAME_FILE, encoding="utf-8") as f:
         names = [l.strip() for l in f if l.strip() and not l.startswith("#")]
 
     # Charger torrent_raw.json pour récupérer torrent_url / magnet / infohash
