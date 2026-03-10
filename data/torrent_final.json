@@ -3384,7 +3384,399 @@
     "torrent_url": "https://nyaa.si/download/1357267.torrent",
     "magnet": "magnet:?xt=urn:btih:e9acde526588d7b38a9fb649446c835b8ff2a265&dn=Hunter%20X%20Hunter%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2821%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BAvalokitesvara%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "e9acde526588d7b38a9fb649446c835b8ff2a265",
-    "resolve_status": "no_serie_match"
+    "serie_id": 74,
+    "serie_title": "Hunter x Hunter Kaï (2011)",
+    "season_id": 188,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 74,
+        "season_id": 188,
+        "season_number": 1,
+        "episode_id": 1192,
+        "episode_number": 1,
+        "filename": "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 188,
+        "season_number": 1,
+        "episode_id": 1191,
+        "episode_number": 2,
+        "filename": "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 188,
+        "season_number": 1,
+        "episode_id": 1194,
+        "episode_number": 3,
+        "filename": "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 188,
+        "season_number": 1,
+        "episode_id": 1193,
+        "episode_number": 4,
+        "filename": "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 186,
+        "season_number": 2,
+        "episode_id": 1178,
+        "episode_number": 5,
+        "filename": "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 186,
+        "season_number": 2,
+        "episode_id": 1181,
+        "episode_number": 6,
+        "filename": "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 186,
+        "season_number": 2,
+        "episode_id": 1180,
+        "episode_number": 7,
+        "filename": "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 186,
+        "season_number": 2,
+        "episode_id": 1179,
+        "episode_number": 8,
+        "filename": "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 184,
+        "season_number": 3,
+        "episode_id": 1174,
+        "episode_number": 9,
+        "filename": "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 184,
+        "season_number": 3,
+        "episode_id": 1175,
+        "episode_number": 10,
+        "filename": "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1185,
+        "episode_number": 11,
+        "filename": "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1187,
+        "episode_number": 12,
+        "filename": "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1186,
+        "episode_number": 13,
+        "filename": "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1188,
+        "episode_number": 14,
+        "filename": "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1190,
+        "episode_number": 15,
+        "filename": "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1184,
+        "episode_number": 16,
+        "filename": "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1182,
+        "episode_number": 17,
+        "filename": "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1189,
+        "episode_number": 18,
+        "filename": "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 187,
+        "season_number": 4,
+        "episode_id": 1183,
+        "episode_number": 19,
+        "filename": "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 185,
+        "season_number": 5,
+        "episode_id": 1176,
+        "episode_number": 20,
+        "filename": "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 74,
+        "season_id": 185,
+        "season_number": 5,
+        "episode_id": 1177,
+        "episode_number": 21,
+        "filename": "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1665878940
+      },
+      {
+        "num": 2,
+        "filename": "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1288477268
+      },
+      {
+        "num": 3,
+        "filename": "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1355369185
+      },
+      {
+        "num": 4,
+        "filename": "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1462147008
+      },
+      {
+        "num": 5,
+        "filename": "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2686118481
+      },
+      {
+        "num": 6,
+        "filename": "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1270873209
+      },
+      {
+        "num": 7,
+        "filename": "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2389636669
+      },
+      {
+        "num": 8,
+        "filename": "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2225632278
+      },
+      {
+        "num": 9,
+        "filename": "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2252364998
+      },
+      {
+        "num": 10,
+        "filename": "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2376237918
+      },
+      {
+        "num": 11,
+        "filename": "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1628472888
+      },
+      {
+        "num": 12,
+        "filename": "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1798110134
+      },
+      {
+        "num": 13,
+        "filename": "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1476968168
+      },
+      {
+        "num": 14,
+        "filename": "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1857376508
+      },
+      {
+        "num": 15,
+        "filename": "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1537442410
+      },
+      {
+        "num": 16,
+        "filename": "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1772929939
+      },
+      {
+        "num": 17,
+        "filename": "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1670886781
+      },
+      {
+        "num": 18,
+        "filename": "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1960389248
+      },
+      {
+        "num": 19,
+        "filename": "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1198096123
+      },
+      {
+        "num": 20,
+        "filename": "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1655799190
+      },
+      {
+        "num": 21,
+        "filename": "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1188929138
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "unresolved_files": []
   },
   {
     "raw": "Mirai Nikki Henshū (Fan-Kai) - INTEGRALE (6 films) - 1080p.MULTI.VF/VOSTFR.x264 [MECHAPOULPE]",
@@ -8043,6 +8435,86 @@
     "unresolved_files": []
   },
   {
+    "raw": "[Brazh] Ao Ashi Henshū - Saison 1 (6 films) - 1080p.VOSTFR.x264",
+    "show_title": "Ao Ashi Henshū",
+    "groupe": "Brazh",
+    "type": "pack_saison",
+    "episodes": [],
+    "saisons": [
+      1
+    ],
+    "torrent_url": "https://nyaa.si/download/2045408.torrent",
+    "magnet": "magnet:?xt=urn:btih:d91ac098f4980f5559d104409d3280ba1d78b50d&dn=%5BBrazh%5D%20Ao%20Ashi%20Hensh%C5%AB%20-%20Saison%201%20%286%20films%29%20-%201080p.VOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
+    "serie_id": 80,
+    "serie_title": "Ao Ashi Henshū",
+    "season_id": 202,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 80,
+        "season_id": 202,
+        "season_number": 1,
+        "episode_id": 1254,
+        "episode_number": 1,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 80,
+        "season_id": 202,
+        "season_number": 1,
+        "episode_id": 1258,
+        "episode_number": 2,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 80,
+        "season_id": 202,
+        "season_number": 1,
+        "episode_id": 1255,
+        "episode_number": 3,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 80,
+        "season_id": 202,
+        "season_number": 1,
+        "episode_id": 1257,
+        "episode_number": 4,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 80,
+        "season_id": 202,
+        "season_number": 1,
+        "episode_id": 1253,
+        "episode_number": 5,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 80,
+        "season_id": 202,
+        "season_number": 1,
+        "episode_id": 1256,
+        "episode_number": 6,
+        "filename": null,
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [
+      {
+        "season_id": 202,
+        "season_number": 1
+      }
+    ],
+    "resolve_status": "ok"
+  },
+  {
     "raw": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264",
     "show_title": "Boruto Kaï",
     "groupe": "Brazh",
@@ -8553,6 +9025,139 @@
       }
     ],
     "resolved_seasons": [],
+    "resolve_status": "ok"
+  },
+  {
+    "raw": "[Brazh] Kenshin le vagabond Henshū - Saison 1 (Arc Tokyo) - 1080p.VOSTFR.x264",
+    "show_title": "Kenshin le Vagabond Henshū",
+    "groupe": "Brazh",
+    "type": "pack_saison",
+    "episodes": [],
+    "saisons": [
+      1
+    ],
+    "torrent_url": "https://nyaa.si/download/1951707.torrent",
+    "magnet": "magnet:?xt=urn:btih:d2ebb700c71e3155db51ceeb1280b4407434a575&dn=%5BBrazh%5D%20Kenshin%20le%20vagabond%20Hensh%C5%AB%20-%20Saison%201%20%28Arc%20Tokyo%29%20-%201080p.VOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "d2ebb700c71e3155db51ceeb1280b4407434a575",
+    "serie_id": 84,
+    "serie_title": "Kenshin le Vagabond Henshū",
+    "season_id": 212,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 84,
+        "season_id": 212,
+        "season_number": 1,
+        "episode_id": 1292,
+        "episode_number": 1,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 212,
+        "season_number": 1,
+        "episode_id": 1290,
+        "episode_number": 2,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 212,
+        "season_number": 1,
+        "episode_id": 1294,
+        "episode_number": 3,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 212,
+        "season_number": 1,
+        "episode_id": 1293,
+        "episode_number": 4,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 212,
+        "season_number": 1,
+        "episode_id": 1291,
+        "episode_number": 14,
+        "filename": null,
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [
+      {
+        "season_id": 212,
+        "season_number": 1
+      }
+    ],
+    "resolve_status": "ok"
+  },
+  {
+    "raw": "[Brazh] Kenshin le vagabond Henshū - Saison 2 (Arc Kyoto, partie 1) - 1080p.VOSTFR.x264",
+    "show_title": "Kenshin le Vagabond Henshū",
+    "groupe": "Brazh",
+    "type": "pack_saison",
+    "episodes": [],
+    "saisons": [
+      2
+    ],
+    "torrent_url": "https://nyaa.si/download/2013832.torrent",
+    "magnet": "magnet:?xt=urn:btih:b854769297b2ddd240c8c8a3fe3d6f5b3ac36afa&dn=%5BBrazh%5D%20Kenshin%20le%20vagabond%20Hensh%C5%AB%20-%20Saison%202%20%28Arc%20Kyoto%2C%20partie%201%29%20-%201080p.VOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "b854769297b2ddd240c8c8a3fe3d6f5b3ac36afa",
+    "serie_id": 84,
+    "serie_title": "Kenshin le Vagabond Henshū",
+    "season_id": 211,
+    "season_number": 2,
+    "resolved_episodes": [
+      {
+        "serie_id": 84,
+        "season_id": 211,
+        "season_number": 2,
+        "episode_id": 1287,
+        "episode_number": 6,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 211,
+        "season_number": 2,
+        "episode_id": 1288,
+        "episode_number": 7,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 211,
+        "season_number": 2,
+        "episode_id": 1286,
+        "episode_number": 8,
+        "filename": null,
+        "is_special": false
+      },
+      {
+        "serie_id": 84,
+        "season_id": 211,
+        "season_number": 2,
+        "episode_id": 1289,
+        "episode_number": 9,
+        "filename": null,
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [
+      {
+        "season_id": 211,
+        "season_number": 2
+      }
+    ],
     "resolve_status": "ok"
   },
   {
