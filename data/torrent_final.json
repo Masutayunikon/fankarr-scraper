@@ -1279,111 +1279,7 @@
     "torrent_url": "https://nyaa.si/download/1356560.torrent",
     "magnet": "magnet:?xt=urn:btih:5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e&dn=Dragon%20Ball%20GT%20%28Fan-Kai%29%20-%20INTEGRALE%20%285%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BKaimisama%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
-    "serie_id": 66,
-    "serie_title": "Dragon Ball GT Fan-Cut",
-    "season_id": 157,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 66,
-        "season_id": 157,
-        "season_number": 1,
-        "episode_id": 1006,
-        "episode_number": 1,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 66,
-        "season_id": 157,
-        "season_number": 1,
-        "episode_id": 1008,
-        "episode_number": 2,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 66,
-        "season_id": 157,
-        "season_number": 1,
-        "episode_id": 1009,
-        "episode_number": 3,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 66,
-        "season_id": 157,
-        "season_number": 1,
-        "episode_id": 1010,
-        "episode_number": 4,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 66,
-        "season_id": 157,
-        "season_number": 1,
-        "episode_id": 1007,
-        "episode_number": 5,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1863111626
-      },
-      {
-        "num": 2,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1800322138
-      },
-      {
-        "num": 3,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1852041183
-      },
-      {
-        "num": 4,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1175593899
-      },
-      {
-        "num": 5,
-        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2028253571
-      }
-    ],
-    "torrent_folders": [],
-    "torrent_extras": [],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "unresolved_files": []
+    "resolve_status": "no_serie_match"
   },
   {
     "raw": "Dragon Ball Super (Fan-Kai) - INTEGRALE (11 films) - 720p.VOSTFR.x264 [Kaimisama]",
@@ -1395,219 +1291,7 @@
     "torrent_url": "https://nyaa.si/download/1356564.torrent",
     "magnet": "magnet:?xt=urn:btih:74e5e6cf9f17e8794758b8dff03d373e3d4082b3&dn=Dragon%20Ball%20Super%20%28Fan-Kai%29%20-%20INTEGRALE%20%2811%20films%29%20-%20720p.VOSTFR.x264%20%5BKaimisama%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "74e5e6cf9f17e8794758b8dff03d373e3d4082b3",
-    "serie_id": 63,
-    "serie_title": "Dragon Ball Super Kaï",
-    "season_id": 150,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 63,
-        "season_id": 150,
-        "season_number": 1,
-        "episode_id": 967,
-        "episode_number": 1,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 150,
-        "season_number": 1,
-        "episode_id": 968,
-        "episode_number": 2,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 148,
-        "season_number": 2,
-        "episode_id": 961,
-        "episode_number": 3,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 148,
-        "season_number": 2,
-        "episode_id": 960,
-        "episode_number": 4,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 147,
-        "season_number": 3,
-        "episode_id": 959,
-        "episode_number": 5,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 147,
-        "season_number": 3,
-        "episode_id": 958,
-        "episode_number": 6,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 149,
-        "season_number": 4,
-        "episode_id": 962,
-        "episode_number": 7,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 149,
-        "season_number": 4,
-        "episode_id": 963,
-        "episode_number": 8,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 149,
-        "season_number": 4,
-        "episode_id": 964,
-        "episode_number": 9,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 149,
-        "season_number": 4,
-        "episode_id": 965,
-        "episode_number": 10,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      },
-      {
-        "serie_id": 63,
-        "season_id": 149,
-        "season_number": 4,
-        "episode_id": 966,
-        "episode_number": 11,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1161042378
-      },
-      {
-        "num": 2,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1248071127
-      },
-      {
-        "num": 3,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 373993318
-      },
-      {
-        "num": 4,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1230863975
-      },
-      {
-        "num": 5,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1184451799
-      },
-      {
-        "num": 6,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1202799261
-      },
-      {
-        "num": 7,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 927451543
-      },
-      {
-        "num": 8,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 633325352
-      },
-      {
-        "num": 9,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1603372380
-      },
-      {
-        "num": 10,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1348564688
-      },
-      {
-        "num": 11,
-        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4",
-        "path": [
-          "[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4"
-        ],
-        "size": 1680044859
-      }
-    ],
-    "torrent_folders": [],
-    "torrent_extras": [],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
-    ],
-    "unresolved_files": []
+    "resolve_status": "no_serie_match"
   },
   {
     "raw": "Dragon Ball Yabaï (Fan-Kai) - INTEGRALE (14 films) - 720p.MULTI.VF/VOSTFR.x264 [Mixouille]",
@@ -1897,205 +1581,205 @@
     "torrent_url": "https://nyaa.si/download/1373053.torrent",
     "magnet": "magnet:?xt=urn:btih:ccd2f08caff81bde8176ef33bc514c53a4f1941b&dn=Dragon%20Ball%20Z%20Yaba%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BMixouille%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
-    "serie_id": 12,
-    "serie_title": "Dragon Ball Z Recut",
-    "season_id": 21,
+    "serie_id": 31,
+    "serie_title": "Dragon Ball Z Yabai",
+    "season_id": 65,
     "season_number": 1,
     "resolved_episodes": [
       {
-        "serie_id": 12,
-        "season_id": 21,
+        "serie_id": 31,
+        "season_id": 65,
         "season_number": 1,
-        "episode_id": 203,
+        "episode_id": 478,
         "episode_number": 1,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 01 - La Menace Saiyenne - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
+        "serie_id": 31,
+        "season_id": 65,
         "season_number": 1,
-        "episode_id": 206,
+        "episode_id": 479,
         "episode_number": 2,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 02 - L'Autre Monde - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
+        "serie_id": 31,
+        "season_id": 65,
         "season_number": 1,
-        "episode_id": 212,
+        "episode_id": 480,
         "episode_number": 3,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 03 - Vegeta - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 210,
+        "serie_id": 31,
+        "season_id": 63,
+        "season_number": 2,
+        "episode_id": 468,
         "episode_number": 4,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 04 - La Planète Namek - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 207,
+        "serie_id": 31,
+        "season_id": 63,
+        "season_number": 2,
+        "episode_id": 466,
         "episode_number": 5,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 05 - Le Commando Ginyu - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 205,
+        "serie_id": 31,
+        "season_id": 63,
+        "season_number": 2,
+        "episode_id": 467,
         "episode_number": 6,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 06 - L'Apparition de Polunga - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 204,
+        "serie_id": 31,
+        "season_id": 63,
+        "season_number": 2,
+        "episode_id": 469,
         "episode_number": 7,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 07 - Freezer - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 200,
+        "serie_id": 31,
+        "season_id": 63,
+        "season_number": 2,
+        "episode_id": 465,
         "episode_number": 8,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 08 - Le Choc des Titans - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 213,
+        "serie_id": 31,
+        "season_id": 62,
+        "season_number": 3,
+        "episode_id": 462,
         "episode_number": 9,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 09 - Le Visiteur du Futur - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 214,
+        "serie_id": 31,
+        "season_id": 62,
+        "season_number": 3,
+        "episode_id": 459,
         "episode_number": 10,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 10 - Les Guerriers de Métal - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 208,
+        "serie_id": 31,
+        "season_id": 62,
+        "season_number": 3,
+        "episode_id": 464,
         "episode_number": 11,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 11 - En quête de perfection - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 202,
+        "serie_id": 31,
+        "season_id": 62,
+        "season_number": 3,
+        "episode_id": 461,
         "episode_number": 12,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 12 - Super Vegeta - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 211,
+        "serie_id": 31,
+        "season_id": 62,
+        "season_number": 3,
+        "episode_id": 463,
         "episode_number": 13,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 13 - Cell Game - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 201,
+        "serie_id": 31,
+        "season_id": 62,
+        "season_number": 3,
+        "episode_id": 460,
         "episode_number": 14,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 14 - La Relève - 720p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 21,
-        "season_number": 1,
-        "episode_id": 209,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 475,
         "episode_number": 15,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 15 - Great Saiyaman - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 142,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 477,
         "episode_number": 16,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 16 - Le 25e Tenkaichi Budokai - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 132,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 476,
         "episode_number": 17,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 17 - Bibidi Babidi Boo ! - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 129,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 473,
         "episode_number": 18,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 18 - Délices et Sacrifice - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 143,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 470,
         "episode_number": 19,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 19 - Résistances - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 154,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 471,
         "episode_number": 20,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 20 - Jeux d'enfants - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 158,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 472,
         "episode_number": 21,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 21 - Fusion et Absorption - 1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
-        "serie_id": 12,
-        "season_id": 19,
-        "season_number": 2,
-        "episode_id": 153,
+        "serie_id": 31,
+        "season_id": 64,
+        "season_number": 4,
+        "episode_id": 474,
         "episode_number": 22,
         "filename": "[Mixouille] Dragon Ball Z Yabai - 22 - Dernier round - 1080p.MULTI.x264.mkv",
         "is_special": false
@@ -3384,399 +3068,7 @@
     "torrent_url": "https://nyaa.si/download/1357267.torrent",
     "magnet": "magnet:?xt=urn:btih:e9acde526588d7b38a9fb649446c835b8ff2a265&dn=Hunter%20X%20Hunter%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2821%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BAvalokitesvara%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "e9acde526588d7b38a9fb649446c835b8ff2a265",
-    "serie_id": 74,
-    "serie_title": "Hunter x Hunter Kaï (2011)",
-    "season_id": 188,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 74,
-        "season_id": 188,
-        "season_number": 1,
-        "episode_id": 1192,
-        "episode_number": 1,
-        "filename": "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 188,
-        "season_number": 1,
-        "episode_id": 1191,
-        "episode_number": 2,
-        "filename": "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 188,
-        "season_number": 1,
-        "episode_id": 1194,
-        "episode_number": 3,
-        "filename": "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 188,
-        "season_number": 1,
-        "episode_id": 1193,
-        "episode_number": 4,
-        "filename": "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 186,
-        "season_number": 2,
-        "episode_id": 1178,
-        "episode_number": 5,
-        "filename": "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 186,
-        "season_number": 2,
-        "episode_id": 1181,
-        "episode_number": 6,
-        "filename": "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 186,
-        "season_number": 2,
-        "episode_id": 1180,
-        "episode_number": 7,
-        "filename": "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 186,
-        "season_number": 2,
-        "episode_id": 1179,
-        "episode_number": 8,
-        "filename": "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 184,
-        "season_number": 3,
-        "episode_id": 1174,
-        "episode_number": 9,
-        "filename": "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 184,
-        "season_number": 3,
-        "episode_id": 1175,
-        "episode_number": 10,
-        "filename": "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1185,
-        "episode_number": 11,
-        "filename": "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1187,
-        "episode_number": 12,
-        "filename": "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1186,
-        "episode_number": 13,
-        "filename": "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1188,
-        "episode_number": 14,
-        "filename": "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1190,
-        "episode_number": 15,
-        "filename": "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1184,
-        "episode_number": 16,
-        "filename": "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1182,
-        "episode_number": 17,
-        "filename": "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1189,
-        "episode_number": 18,
-        "filename": "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 187,
-        "season_number": 4,
-        "episode_id": 1183,
-        "episode_number": 19,
-        "filename": "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 185,
-        "season_number": 5,
-        "episode_id": 1176,
-        "episode_number": 20,
-        "filename": "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 74,
-        "season_id": 185,
-        "season_number": 5,
-        "episode_id": 1177,
-        "episode_number": 21,
-        "filename": "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1665878940
-      },
-      {
-        "num": 2,
-        "filename": "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1288477268
-      },
-      {
-        "num": 3,
-        "filename": "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1355369185
-      },
-      {
-        "num": 4,
-        "filename": "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1462147008
-      },
-      {
-        "num": 5,
-        "filename": "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2686118481
-      },
-      {
-        "num": 6,
-        "filename": "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1270873209
-      },
-      {
-        "num": 7,
-        "filename": "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2389636669
-      },
-      {
-        "num": 8,
-        "filename": "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2225632278
-      },
-      {
-        "num": 9,
-        "filename": "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2252364998
-      },
-      {
-        "num": 10,
-        "filename": "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2376237918
-      },
-      {
-        "num": 11,
-        "filename": "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1628472888
-      },
-      {
-        "num": 12,
-        "filename": "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1798110134
-      },
-      {
-        "num": 13,
-        "filename": "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1476968168
-      },
-      {
-        "num": 14,
-        "filename": "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1857376508
-      },
-      {
-        "num": 15,
-        "filename": "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1537442410
-      },
-      {
-        "num": 16,
-        "filename": "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1772929939
-      },
-      {
-        "num": 17,
-        "filename": "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1670886781
-      },
-      {
-        "num": 18,
-        "filename": "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1960389248
-      },
-      {
-        "num": 19,
-        "filename": "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1198096123
-      },
-      {
-        "num": 20,
-        "filename": "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1655799190
-      },
-      {
-        "num": 21,
-        "filename": "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1188929138
-      }
-    ],
-    "torrent_folders": [],
-    "torrent_extras": [],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21
-    ],
-    "unresolved_files": []
+    "resolve_status": "no_serie_match"
   },
   {
     "raw": "Mirai Nikki Henshū (Fan-Kai) - INTEGRALE (6 films) - 1080p.MULTI.VF/VOSTFR.x264 [MECHAPOULPE]",
@@ -4555,8 +3847,8 @@
     "torrent_url": "https://nyaa.si/download/2084491.torrent",
     "magnet": "magnet:?xt=urn:btih:89f8ee4c67ef236a88d4a7f0c419807a7a0b6496&dn=One%20Piece%20Ka%C3%AF%20ULTIMATE%20PACK%20%281-133%29%20%28Fan-Kai%29.MULTI.VF%2FVOSTFR&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-    "serie_id": 88,
-    "serie_title": "One Piece Yabai",
+    "serie_id": 87,
+    "serie_title": "One Piece Kaï",
     "season_id": 230,
     "season_number": 1,
     "resolved_episodes": [
