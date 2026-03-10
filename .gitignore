@@ -1,0 +1,5 @@
+data/fankai_cache.json
+data/torrent_enriched.json
+data/torrent_raw.json
+data/torrent_resolved.json
+data/torrent_names.txt

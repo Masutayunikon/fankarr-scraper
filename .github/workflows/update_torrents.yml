@@ -85,7 +85,6 @@ jobs:
             automated
           add-paths: |
             data/torrent_final.json
-            data/fankai_cache.json
 
       # ── 7. Cleanup ────────────────────────────────────────────────────────────
       - name: Cleanup temp files
