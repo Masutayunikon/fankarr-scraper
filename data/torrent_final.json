@@ -1279,7 +1279,111 @@
     "torrent_url": "https://nyaa.si/download/1356560.torrent",
     "magnet": "magnet:?xt=urn:btih:5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e&dn=Dragon%20Ball%20GT%20%28Fan-Kai%29%20-%20INTEGRALE%20%285%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BKaimisama%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
-    "resolve_status": "no_serie_match"
+    "serie_id": 66,
+    "serie_title": "Dragon Ball GT Fan-Cut",
+    "season_id": 157,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 66,
+        "season_id": 157,
+        "season_number": 1,
+        "episode_id": 1006,
+        "episode_number": 1,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 66,
+        "season_id": 157,
+        "season_number": 1,
+        "episode_id": 1008,
+        "episode_number": 2,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 66,
+        "season_id": 157,
+        "season_number": 1,
+        "episode_id": 1009,
+        "episode_number": 3,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 66,
+        "season_id": 157,
+        "season_number": 1,
+        "episode_id": 1010,
+        "episode_number": 4,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 66,
+        "season_id": 157,
+        "season_number": 1,
+        "episode_id": 1007,
+        "episode_number": 5,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1863111626
+      },
+      {
+        "num": 2,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1800322138
+      },
+      {
+        "num": 3,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1852041183
+      },
+      {
+        "num": 4,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1175593899
+      },
+      {
+        "num": 5,
+        "filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2028253571
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unresolved_files": []
   },
   {
     "raw": "Dragon Ball Super (Fan-Kai) - INTEGRALE (11 films) - 720p.VOSTFR.x264 [Kaimisama]",
@@ -1291,7 +1395,219 @@
     "torrent_url": "https://nyaa.si/download/1356564.torrent",
     "magnet": "magnet:?xt=urn:btih:74e5e6cf9f17e8794758b8dff03d373e3d4082b3&dn=Dragon%20Ball%20Super%20%28Fan-Kai%29%20-%20INTEGRALE%20%2811%20films%29%20-%20720p.VOSTFR.x264%20%5BKaimisama%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "74e5e6cf9f17e8794758b8dff03d373e3d4082b3",
-    "resolve_status": "no_serie_match"
+    "serie_id": 63,
+    "serie_title": "Dragon Ball Super Kaï",
+    "season_id": 150,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 63,
+        "season_id": 150,
+        "season_number": 1,
+        "episode_id": 967,
+        "episode_number": 1,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 150,
+        "season_number": 1,
+        "episode_id": 968,
+        "episode_number": 2,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 148,
+        "season_number": 2,
+        "episode_id": 961,
+        "episode_number": 3,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 148,
+        "season_number": 2,
+        "episode_id": 960,
+        "episode_number": 4,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 147,
+        "season_number": 3,
+        "episode_id": 959,
+        "episode_number": 5,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 147,
+        "season_number": 3,
+        "episode_id": 958,
+        "episode_number": 6,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 149,
+        "season_number": 4,
+        "episode_id": 962,
+        "episode_number": 7,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 149,
+        "season_number": 4,
+        "episode_id": 963,
+        "episode_number": 8,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 149,
+        "season_number": 4,
+        "episode_id": 964,
+        "episode_number": 9,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 149,
+        "season_number": 4,
+        "episode_id": 965,
+        "episode_number": 10,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 63,
+        "season_id": 149,
+        "season_number": 4,
+        "episode_id": 966,
+        "episode_number": 11,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1161042378
+      },
+      {
+        "num": 2,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1248071127
+      },
+      {
+        "num": 3,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 373993318
+      },
+      {
+        "num": 4,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1230863975
+      },
+      {
+        "num": 5,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1184451799
+      },
+      {
+        "num": 6,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1202799261
+      },
+      {
+        "num": 7,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 927451543
+      },
+      {
+        "num": 8,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 633325352
+      },
+      {
+        "num": 9,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1603372380
+      },
+      {
+        "num": 10,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1348564688
+      },
+      {
+        "num": 11,
+        "filename": "[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4",
+        "path": [
+          "[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4"
+        ],
+        "size": 1680044859
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "unresolved_files": []
   },
   {
     "raw": "Dragon Ball Yabaï (Fan-Kai) - INTEGRALE (14 films) - 720p.MULTI.VF/VOSTFR.x264 [Mixouille]",
