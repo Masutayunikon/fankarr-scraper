@@ -185,18 +185,17 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
             continue
         if status not in ("ok", "partial", None):
             continue
-        if status == "ok" and torrent.get("resolved_episodes"):
-            continue
-        if status == "ok" and t_type == "pack_saison" and torrent.get("season_id"):
-            continue
+        # Toujours enrichir torrent_files même si resolved_episodes existe déjà
+        # (nécessaire pour que l'organizer sache où sont les fichiers)
 
         raw_name = torrent.get("raw", "")
         raw      = raw_by_title.get(raw_name)
-        if not raw:
-            continue
 
-        torrent_url = raw.get("torrent_url") or raw.get("torrent")
-        infohash    = raw.get("infohash") or raw.get("info_hash") or raw.get("hash")
+        # Fallback : utiliser directement torrent_url et infohash du torrent résolu
+        torrent_url = (raw.get("torrent_url") or raw.get("torrent")) if raw else None
+        torrent_url = torrent_url or torrent.get("torrent_url")
+        infohash    = (raw.get("infohash") or raw.get("info_hash") or raw.get("hash")) if raw else None
+        infohash    = infohash or torrent.get("infohash")
 
         if not infohash:
             magnet = raw.get("magnet", "")
