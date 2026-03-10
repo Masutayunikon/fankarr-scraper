@@ -176,12 +176,18 @@ def find_serie(torrent_name: str, series: list[dict]) -> dict | None:
                     match_count += 1
                 else:
                     break
-            # On accepte si au moins len(title_words)-1 mots matchent
-            # (le dernier mot du titre peut être absent, ex: Kaï vs 19)
             if match_count >= len(title_words) - 1 and match_count >= 2:
-                score = match_count * 10  # score artificiel < match exact
+                last_word = title_words[-1]
+                # Si le dernier mot du titre n'a pas matché, vérifier que
+                # le mot à cette position dans clean n'est pas un mot incompatible
+                # Ex: "dragon ball z recut" ne doit pas matcher "dragon ball z yabai"
+                if match_count < len(title_words):
+                    clean_word_at_pos = clean_words[match_count] if match_count < len(clean_words) else ""
+                    if clean_word_at_pos and not clean_word_at_pos.isdigit() and clean_word_at_pos != last_word:
+                        continue  # mots incompatibles → skip
+                score = match_count * 10
                 if score > best_len:
-                    best     = serie
+                    best = serie
                     best_len = score
 
     return best
