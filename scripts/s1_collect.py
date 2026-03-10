@@ -18,9 +18,9 @@ load_dotenv()
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
 DISCORD_TOKEN = os.environ["DISCORD_TOKEN"]
-CHANNEL_ID    = os.environ["DISCORD_CHANNEL_ID"]   # ID du channel
-NYAA_API_BASE  = "https://nyaaapi.onrender.com"
-OUTPUT_FILE   = "data/torrent_names.txt"
+CHANNEL_ID = os.environ["CHANNEL_ID"]   # ID du channel
+NYAA_API_BASE = "https://nyaaapi.onrender.com"
+OUTPUT_FILE = "data/torrent_names.txt"
 RAW_JSON_FILE = "data/torrent_raw.json"
 
 from pathlib import Path
