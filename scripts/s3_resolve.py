@@ -135,9 +135,13 @@ def _normalize(s: str) -> str:
 # Aliases : torrent_prefix_normalisé → show_title exact dans l'API
 # Utilisé quand la normalisation seule ne suffit pas
 SERIE_ALIASES: dict[str, str] = {
-    "haikyu":          "Haikyuu!! Henshū",   # un u vs deux u
-    "inazuma eleven":  "Inazuma Eleven Fan-Cut",  # numéro collé au titre, Fan-Cut absent
-    "kaguya-sama":     "Kaguya-sama : Love is War Henshū",  # - vs : dans le séparateur
+    "haikyu":              "Haikyuu!! Henshū",
+    "inazuma eleven":      "Inazuma Eleven Fan-Cut",
+    "kaguya-sama":         "Kaguya-sama : Love is War Henshū",
+    "dragon ball gt":      "Dragon Ball GT Fan-Cut",
+    "dragon ball super":   "Dragon Ball Super Kaï",
+    "dragon ball yabai":   "Dragon Ball Yabai",
+    "dragon ball z yabai": "Dragon Ball Z Yabai",
 }
 
 def find_serie(torrent_name: str, series: list[dict]) -> dict | None:
