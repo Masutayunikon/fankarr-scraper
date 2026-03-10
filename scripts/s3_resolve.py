@@ -142,8 +142,8 @@ SERIE_ALIASES: dict[str, str] = {
     "dragon ball super":   "Dragon Ball Super Kaï",
     "dragon ball yabai":   "Dragon Ball Yabai",
     "dragon ball z yabai": "Dragon Ball Z Yabai",
-    "one piece yabai":     "One Piece Yabai",
-    "one piece kai":      "One Piece Kaï",
+    "hunter x hunter":  "Hunter x Hunter Kaï (2011)",
+
 }
 
 def find_serie(torrent_name: str, series: list[dict]) -> dict | None:

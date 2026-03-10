@@ -23,6 +23,13 @@ NYAA_API_BASE = "https://nyaaapi.onrender.com"
 OUTPUT_FILE = "data/torrent_names.txt"
 RAW_JSON_FILE = "data/torrent_raw.json"
 
+# Torrents ajoutés manuellement (liens directs depuis #news ou autre salon)
+MANUAL_VIEW_IDS: list[str] = [
+    "2045408",
+    "1951707",
+    "2013832",
+]
+
 from pathlib import Path
 Path("data").mkdir(exist_ok=True)
 # ──────────────────────────────────────────────────────────────────────────────
@@ -264,6 +271,12 @@ def main():
 
     # 2. Extraction liens
     view_ids, searches = extract_nyaa_links(messages)
+
+    # Ajouter les IDs manuels
+    for vid in MANUAL_VIEW_IDS:
+        if vid not in view_ids:
+            view_ids.append(vid)
+            print(f"  [manual] torrent direct ajouté : {vid}")
 
     if not view_ids and not searches:
         print("[!] Aucun lien Nyaa trouvé dans le channel. Vérifie le token/channel ID.")
