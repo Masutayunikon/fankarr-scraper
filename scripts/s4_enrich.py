@@ -114,10 +114,13 @@ _EP_PATTERNS = [
     re.compile(r"Henshū\s+(\d{1,3})\b",              re.IGNORECASE),
     re.compile(r"Ka[iï]\s+(\d{1,3})\b",              re.IGNORECASE),
     re.compile(r"Yaba[iï]\s+(\d{1,3})\b",            re.IGNORECASE),
-    re.compile(r"\bS\d+E(\d+)\b",                    re.IGNORECASE),
+    re.compile(r"\bS\d+E(\d+)\b",                    re.IGNORECASE),  # S01E10
+    re.compile(r"\b\d{1,2}x(\d{2,3})\b",             re.IGNORECASE),  # 01x10
     re.compile(r"\b(\d{1,3})\s*[-–]\s+\w",           re.IGNORECASE),
     re.compile(r"[-–\s](\d{2,3})[-–\s]",             re.IGNORECASE),
 ]
+
+_SEASON_FROM_FILE_PATTERN = re.compile(r"\b(\d{1,2})x\d{2,3}\b", re.IGNORECASE)  # 01x10 → saison 1
 
 def extract_episode_number(filename: str) -> int | None:
     for pat in _EP_PATTERNS:
@@ -125,6 +128,11 @@ def extract_episode_number(filename: str) -> int | None:
         if m:
             return int(m.group(1))
     return None
+
+def extract_season_from_filename(filename: str) -> int | None:
+    """Extrait le numéro de saison depuis un nom de fichier style 01x10."""
+    m = _SEASON_FROM_FILE_PATTERN.search(filename)
+    return int(m.group(1)) if m else None
 
 # Dossiers à exclure de l'organisation (bonus, musiques, images...)
 _EXCLUDED_FOLDERS = {
@@ -166,11 +174,13 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
             ep_num = extract_episode_number(filename)
             if ep_num is not None:
+                season_num = extract_season_from_filename(filename)
                 episodes.append({
-                    "num"     : ep_num,
-                    "filename": filename,
-                    "path"    : path,
-                    "size"    : size,
+                    "num"          : ep_num,
+                    "filename"     : filename,
+                    "path"         : path,
+                    "size"         : size,
+                    "season_number": season_num,
                 })
             else:
                 extras.append(filename)
