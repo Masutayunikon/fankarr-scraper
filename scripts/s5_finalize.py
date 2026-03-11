@@ -34,8 +34,8 @@ Path("data").mkdir(exist_ok=True)
 SERIE_FALLBACK = {
     # One Piece Yabai (87) → fallback One Piece Kaï (88)
     # Note : les IDs sont à confirmer selon ton API
-    87: 88,
-    88: 87,
+    89: 90,
+    90: 89,
 }
 
 
@@ -175,8 +175,8 @@ class Resolver:
 # L'ordre compte : plus spécifique en premier
 SERIE_PATTERNS: list[tuple[re.Pattern, int]] = [
     # One Piece Yabai avant Kaï (plus spécifique)
-    (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 87),
-    (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 88),
+    (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 90),
+    (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 89),
 ]
 
 def detect_serie_from_filename(filename: str, default_serie_id: int) -> int:

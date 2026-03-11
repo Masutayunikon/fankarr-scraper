@@ -137,7 +137,7 @@ def extract_season_from_filename(filename: str) -> int | None:
 # Dossiers à exclure de l'organisation (bonus, musiques, images...)
 _EXCLUDED_FOLDERS = {
     "endings", "ending", "openings", "opening", "ost", "artworks", "artwork",
-    "bonus", "extras", "extra", "specials", "special", "ncop", "nced",
+    "extras", "extra", "ncop", "nced",
     "images", "image", "scans", "scan", "soundtrack", "music",
 }
 

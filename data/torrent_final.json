@@ -5760,9 +5760,1198 @@
     "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
     "serie_id": 89,
     "serie_title": "One Piece Kaï",
-    "season_id": null,
-    "season_number": null,
-    "resolved_episodes": [],
+    "season_id": 266,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1771,
+        "episode_number": 1,
+        "filename": "One Piece Yabai - 001 - Chapeau de Paille - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1769,
+        "episode_number": 2,
+        "filename": "One Piece Yabai - 002 - Le Garçon qui criait au loup - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1767,
+        "episode_number": 3,
+        "filename": "One Piece Yabai - 003 - Cuisine et Délinquance - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1768,
+        "episode_number": 4,
+        "filename": "One Piece Yabai - 004 - Seigneur de Guerre - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1770,
+        "episode_number": 5,
+        "filename": "One Piece Yabai - 005 - Le Gang du Requin - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1772,
+        "episode_number": 6,
+        "filename": "One Piece Yabai - 006 - Ma Partenaire - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 266,
+        "season_number": 1,
+        "episode_id": 1766,
+        "episode_number": 7,
+        "filename": "One Piece Yabai - 007 - Tout se termine... et tout commence ! - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1725,
+        "episode_number": 8,
+        "filename": "One Piece Yabai - 008 - La Route de tous les Périls - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1727,
+        "episode_number": 9,
+        "filename": "One Piece Yabai - 009 - Le Monde Perdu - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1724,
+        "episode_number": 10,
+        "filename": "One Piece Yabai - 010 - Le Retour du Roi - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1728,
+        "episode_number": 11,
+        "filename": "One Piece Yabai - 011 - Le Temps des Cerisiers - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1723,
+        "episode_number": 12,
+        "filename": "One Piece Yabai - 012 - La Traversée du Désert - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1730,
+        "episode_number": 13,
+        "filename": "One Piece Yabai - 013 - Le Ventre du Crocodile - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1729,
+        "episode_number": 14,
+        "filename": "One Piece Yabai - 014 - Insurrection - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1726,
+        "episode_number": 15,
+        "filename": "One Piece Yabai - 015 - Contre la montre - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 261,
+        "season_number": 2,
+        "episode_id": 1731,
+        "episode_number": 16,
+        "filename": "One Piece Yabai - 016 - Jour de Pluie - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 256,
+        "season_number": 3,
+        "episode_id": 1690,
+        "episode_number": 17,
+        "filename": "One Piece Yabai - 017 - Les Yeux dans les Cieux - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 256,
+        "season_number": 3,
+        "episode_id": 1688,
+        "episode_number": 18,
+        "filename": "One Piece Yabai - 018 - Le Jugement Divin - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 256,
+        "season_number": 3,
+        "episode_id": 1692,
+        "episode_number": 19,
+        "filename": "One Piece Yabai - 019 - Jeu de Survie - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 256,
+        "season_number": 3,
+        "episode_id": 1691,
+        "episode_number": 20,
+        "filename": "One Piece Yabai - 020 - L'Arche Divine - 1080p.MULTI.x264 [Mixouille].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 256,
+        "season_number": 3,
+        "episode_id": 1693,
+        "episode_number": 21,
+        "filename": "One Piece Yabai - 021 - Montblanc Norland - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 256,
+        "season_number": 3,
+        "episode_id": 1689,
+        "episode_number": 22,
+        "filename": "One Piece Yabai - 022 - Ranimer la flamme de Shandora - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1753,
+        "episode_number": 23,
+        "filename": "One Piece Yabai - 023 - Davy Back Fight - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1747,
+        "episode_number": 24,
+        "filename": "One Piece Yabai - 024 - Le Faisan Bleu - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1742,
+        "episode_number": 25,
+        "filename": "One Piece Yabai - 025 - La Métropole aquatique - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1748,
+        "episode_number": 26,
+        "filename": "One Piece Yabai - 026 - L'Avenir du Vogue Merry - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1745,
+        "episode_number": 27,
+        "filename": "One Piece Yabai - 027 - Le Cyborg - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1746,
+        "episode_number": 28,
+        "filename": "One Piece Yabai - 028 - La Part d'Ombre - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1749,
+        "episode_number": 29,
+        "filename": "One Piece Yabai - 029 - Les Artisans de Tom - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1743,
+        "episode_number": 30,
+        "filename": "One Piece Yabai - 030 - Sacrifice en eaux troubles - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1750,
+        "episode_number": 31,
+        "filename": "One Piece Yabai - 031 - Un long, long voyage - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1739,
+        "episode_number": 32,
+        "filename": "One Piece Yabai - 032 - Jour de Jugement - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1752,
+        "episode_number": 33,
+        "filename": "One Piece Yabai - 033 - Le Dernier Démon d'Ohara - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1744,
+        "episode_number": 34,
+        "filename": "One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1741,
+        "episode_number": 35,
+        "filename": "One Piece Yabai - 035 - Chasseurs v. Chasseurs - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1751,
+        "episode_number": 36,
+        "filename": "One Piece Yabai - 036 - Justice Absolue - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 264,
+        "season_number": 4,
+        "episode_id": 1740,
+        "episode_number": 37,
+        "filename": "One Piece Yabai - 037 - Casus Belli - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 257,
+        "season_number": 5,
+        "episode_id": 1697,
+        "episode_number": 38,
+        "filename": "One Piece Yabai - 038 - Thriller Bark - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 257,
+        "season_number": 5,
+        "episode_id": 1694,
+        "episode_number": 39,
+        "filename": "One Piece Yabai - 039 - La Chasse Nocturne - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 257,
+        "season_number": 5,
+        "episode_id": 1696,
+        "episode_number": 40,
+        "filename": "One Piece Yabai - 040 - Les Trois Mystérieux - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 257,
+        "season_number": 5,
+        "episode_id": 1698,
+        "episode_number": 41,
+        "filename": "One Piece Yabai - 041 - Oz, le démon - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 257,
+        "season_number": 5,
+        "episode_id": 1695,
+        "episode_number": 42,
+        "filename": "One Piece Yabai - 042 - Le bon rhum de Binks - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1701,
+        "episode_number": 43,
+        "filename": "One Piece Yabai - 043 - Duval au masque de fer - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1710,
+        "episode_number": 44,
+        "filename": "One Piece Yabai - 044 - Les Dragons Célestes - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1709,
+        "episode_number": 45,
+        "filename": "One Piece Yabai - 045 - Le Singe Jaune - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1700,
+        "episode_number": 46,
+        "filename": "One Piece Yabai - 046 - L'Île des femmes - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1705,
+        "episode_number": 47,
+        "filename": "One Piece Yabai - 047 - La Prison Sous-marine - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1707,
+        "episode_number": 48,
+        "filename": "One Piece Yabai - 048 - La Résistance fluide - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1706,
+        "episode_number": 49,
+        "filename": "One Piece Yabai - 049 - Par la grande porte - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1704,
+        "episode_number": 50,
+        "filename": "One Piece Yabai - 050 - Guerre totale - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1703,
+        "episode_number": 51,
+        "filename": "One Piece Yabai - 051 - Le pouvoir le plus redoutable - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1702,
+        "episode_number": 52,
+        "filename": "One Piece Yabai - 052 - Le sauvetage d'Ace - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1708,
+        "episode_number": 53,
+        "filename": "One Piece Yabai - 053 - Fuir ou mourir - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1699,
+        "episode_number": 54,
+        "filename": "One Piece Yabai - 054 - Frères - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 258,
+        "season_number": 6,
+        "episode_id": 1711,
+        "episode_number": 55,
+        "filename": "One Piece Yabai - 055 - Nouvelle ère - 1080p.MULTI.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1737,
+        "episode_number": 56,
+        "filename": "One Piece Yabai - 056 - Nouveau Départ - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1734,
+        "episode_number": 57,
+        "filename": "One Piece Yabai - 057 - Le Royaume des abysses - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1733,
+        "episode_number": 58,
+        "filename": "One Piece Yabai - 058 - Le Pacte des maudits - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1735,
+        "episode_number": 59,
+        "filename": "One Piece Yabai - 059 - Deux visions, un combat - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1732,
+        "episode_number": 60,
+        "filename": "One Piece Yabai - 060 - Cent Mille VS Dix - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1738,
+        "episode_number": 61,
+        "filename": "One Piece Yabai - 061 - L'Héritage de la haine - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 263,
+        "season_number": 7,
+        "episode_id": 1736,
+        "episode_number": 62,
+        "filename": "One Piece Yabai - 062 - Vers le Soleil - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 260,
+        "season_number": 8,
+        "episode_id": 1721,
+        "episode_number": 63,
+        "filename": "One Piece Yabai - 063 - L'île bipolaire - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 260,
+        "season_number": 8,
+        "episode_id": 1718,
+        "episode_number": 64,
+        "filename": "One Piece Yabai - 064 - Alliance pirate - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 260,
+        "season_number": 8,
+        "episode_id": 1717,
+        "episode_number": 65,
+        "filename": "One Piece Yabai - 065 - L'Ange de la mort - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 260,
+        "season_number": 8,
+        "episode_id": 1719,
+        "episode_number": 66,
+        "filename": "One Piece Yabai - 066 - Rats de laboratoires - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 260,
+        "season_number": 8,
+        "episode_id": 1720,
+        "episode_number": 67,
+        "filename": "One Piece Yabai - 067 - À Tristesse tranchée - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 90,
+        "season_id": 260,
+        "season_number": 8,
+        "episode_id": 1722,
+        "episode_number": 68,
+        "filename": "One Piece Yabai - 068 - Derrière le sourire - 1080p.MULTI.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1676,
+        "episode_number": 69,
+        "filename": "One Piece Kaï - 069 - Dressrosa, le pays de l'amour, de la passion... - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1669,
+        "episode_number": 70,
+        "filename": "One Piece Kaï - 070 - Colosseum - Bloc B - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1663,
+        "episode_number": 71,
+        "filename": "One Piece Kaï - 071 - Le piège - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1665,
+        "episode_number": 72,
+        "filename": "One Piece Kaï - 072 - Colosseum - Bloc C - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1672,
+        "episode_number": 73,
+        "filename": "One Piece Kaï - 073 - Les Oubliés de Dressrosa - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1661,
+        "episode_number": 74,
+        "filename": "One Piece Kaï - 074 - La Paria du Bloc D - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1675,
+        "episode_number": 75,
+        "filename": "One Piece Kaï - 075 - La nuit où tout a basculé - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1677,
+        "episode_number": 76,
+        "filename": "One Piece Kaï - 076 - Le Revenant - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1671,
+        "episode_number": 77,
+        "filename": "One Piece Kaï - 077 - Opération S.O.P. - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1673,
+        "episode_number": 78,
+        "filename": "One Piece Kaï - 078 - Le Gladiateur Légendaire - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1666,
+        "episode_number": 79,
+        "filename": "One Piece Kaï - 079 - Dressrosa tremble - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1668,
+        "episode_number": 80,
+        "filename": "One Piece Kaï - 080 - Inglourious Basterds - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1680,
+        "episode_number": 81,
+        "filename": "One Piece Kaï - 081 - Miser sur le bon pirate - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1678,
+        "episode_number": 82,
+        "filename": "One Piece Kaï - 082 - A risque ou à péril - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1662,
+        "episode_number": 83,
+        "filename": "One Piece Kaï - 083 - Le Saturnisme Blanc - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1667,
+        "episode_number": 84,
+        "filename": "One Piece Kaï - 084 - Sur trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1670,
+        "episode_number": 85,
+        "filename": "One Piece Kaï - 085 - Toujours sur les trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1664,
+        "episode_number": 86,
+        "filename": "One Piece Kaï - 086 - Le Démon Céleste - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1674,
+        "episode_number": 87,
+        "filename": "One Piece Kaï - 087 - Dans dix minutes... et quelque - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1660,
+        "episode_number": 88,
+        "filename": "One Piece Kaï - 088 - La naissance d’un Révolutionnaire - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 254,
+        "season_number": 9,
+        "episode_id": 1679,
+        "episode_number": 89,
+        "filename": "One Piece Kaï - 089 - Le Bon, la Buse, et les Cinglés - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1622,
+        "episode_number": 90,
+        "filename": "One Piece Kaï - 090 - Vers Zo - 720p.VOSTFR.x264 [Knuckalex].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1624,
+        "episode_number": 91,
+        "filename": "One Piece Kaï - 091 - Le rideau se lève sur une nouvelle aventure - 720p.VOSTFR.x264 [Zdk].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1625,
+        "episode_number": 92,
+        "filename": "One Piece Kaï - 092 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1629,
+        "episode_number": 94,
+        "filename": "One Piece Kaï - 094 - Le troisième homme - 720p.VOSTFR.x264 [Zdk].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1626,
+        "episode_number": 95,
+        "filename": "One Piece Kaï - 095 - Un serment entre hommes - 720p.VOSTFR.x264 [Zdk].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1631,
+        "episode_number": 96,
+        "filename": "One Piece Kaï - 096 - Totto Land - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1621,
+        "episode_number": 97,
+        "filename": "One Piece Kaï - 097 - Aventure dans la  forêt enchantée - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1630,
+        "episode_number": 98,
+        "filename": "One Piece Kaï - 098 - Le commandant sucré Cracker - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1628,
+        "episode_number": 99,
+        "filename": "One Piece Kaï - 099 - Mégot - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1633,
+        "episode_number": 100,
+        "filename": "One Piece Kaï - 100 - Le plan d'assassinat de l'Empereur - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1618,
+        "episode_number": 101,
+        "filename": "One Piece Kaï - 101 - Tea Party - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1623,
+        "episode_number": 102,
+        "filename": "One Piece Kaï - 102 - Impitoyable - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1620,
+        "episode_number": 103,
+        "filename": "One Piece Kaï - 103 - Merienda - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1619,
+        "episode_number": 104,
+        "filename": "One Piece Kaï - 104 - Sulong - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1627,
+        "episode_number": 105,
+        "filename": "One Piece Kaï - 105 - End roll - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 250,
+        "season_number": 10,
+        "episode_id": 1632,
+        "episode_number": 106,
+        "filename": "One Piece Kaï - 106 - Rêverie - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1597,
+        "episode_number": 107,
+        "filename": "One Piece Kaï - 107 - Koinobori - 1080p.VOSTFR.x264 [Sacha].mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1577,
+        "episode_number": 108,
+        "filename": "One Piece Kaï - 108 - Sumo à Wano - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1590,
+        "episode_number": 109,
+        "filename": "One Piece Kaï - 109 - Les ruines du château d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1583,
+        "episode_number": 110,
+        "filename": "One Piece Kaï - 110 - La suprême courtisane Komurasaki - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1582,
+        "episode_number": 111,
+        "filename": "One Piece Kaï - 111 - Passé oublié - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1592,
+        "episode_number": 112,
+        "filename": "One Piece Kaï - 112 - Shimotsuki Yasuie - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1593,
+        "episode_number": 113,
+        "filename": "One Piece Kaï - 113 - Smile - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1589,
+        "episode_number": 114,
+        "filename": "One Piece Kaï - 114 - Préparatifs - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1586,
+        "episode_number": 115,
+        "filename": "One Piece Kaï - 115 - Kozuki Oden entre en scène ! - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1575,
+        "episode_number": 116,
+        "filename": "One Piece Kaï - 116 - L'aventure d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1594,
+        "episode_number": 117,
+        "filename": "One Piece Kaï - 117 - Bouillir, tel est le propre du Oden ! - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1585,
+        "episode_number": 118,
+        "filename": "One Piece Kaï - 118 - Cap sur Onigashima - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1576,
+        "episode_number": 119,
+        "filename": "One Piece Kaï - 119 - Infiltration à la fête - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1588,
+        "episode_number": 120,
+        "filename": "One Piece Kaï - 120 - Mon nom - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1578,
+        "episode_number": 121,
+        "filename": "One Piece Kaï - 121 - Le futur Roi des pirates - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1595,
+        "episode_number": 122,
+        "filename": "One Piece Kaï - 122 - La nouvelle génération - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1591,
+        "episode_number": 123,
+        "filename": "One Piece Kaï - 123 - Boulettes de millet - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1587,
+        "episode_number": 124,
+        "filename": "One Piece Kaï - 124 - L'Avatar du démon - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1579,
+        "episode_number": 125,
+        "filename": "One Piece Kaï - 125 - Les Dragons jumeaux - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1581,
+        "episode_number": 126,
+        "filename": "One Piece Kaï - 126 - Têtes d'affiche - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1584,
+        "episode_number": 127,
+        "filename": "One Piece Kaï - 127 - Les vainqueurs n'ont pas besoin d'épithète - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1580,
+        "episode_number": 128,
+        "filename": "One Piece Kaï - 128 - Le guerrier de la libération - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 246,
+        "season_number": 11,
+        "episode_id": 1596,
+        "episode_number": 129,
+        "filename": "One Piece Kaï - 129 - Rideau - 1080p.VOSTFR.x264 [Livaï].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 253,
+        "season_number": 12,
+        "episode_id": 1658,
+        "episode_number": 130,
+        "filename": "One Piece Kaï - 130 - Le Cerveau du Monde - 1080p.VOSTFR.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 253,
+        "season_number": 12,
+        "episode_id": 1656,
+        "episode_number": 131,
+        "filename": "One Piece Kaï - 131 - Chasse au Savoir - 1080p.VOSTFR.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 253,
+        "season_number": 12,
+        "episode_id": 1659,
+        "episode_number": 132,
+        "filename": "One Piece Kaï - 132 - Satellite défaillant - 1080p.VOSTFR.x264 [Johker].mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 89,
+        "season_id": 253,
+        "season_number": 12,
+        "episode_id": 1657,
+        "episode_number": 133,
+        "filename": "One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv",
+        "is_special": false
+      }
+    ],
     "resolved_seasons": [],
     "resolve_status": "partial",
     "torrent_files": [
@@ -7279,536 +8468,8 @@
     ],
     "unresolved_files": [
       {
-        "episode_number": 1,
-        "filename": "One Piece Yabai - 001 - Chapeau de Paille - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 2,
-        "filename": "One Piece Yabai - 002 - Le Garçon qui criait au loup - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 3,
-        "filename": "One Piece Yabai - 003 - Cuisine et Délinquance - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 4,
-        "filename": "One Piece Yabai - 004 - Seigneur de Guerre - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 5,
-        "filename": "One Piece Yabai - 005 - Le Gang du Requin - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 6,
-        "filename": "One Piece Yabai - 006 - Ma Partenaire - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 7,
-        "filename": "One Piece Yabai - 007 - Tout se termine... et tout commence ! - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 8,
-        "filename": "One Piece Yabai - 008 - La Route de tous les Périls - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 9,
-        "filename": "One Piece Yabai - 009 - Le Monde Perdu - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 10,
-        "filename": "One Piece Yabai - 010 - Le Retour du Roi - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 11,
-        "filename": "One Piece Yabai - 011 - Le Temps des Cerisiers - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 12,
-        "filename": "One Piece Yabai - 012 - La Traversée du Désert - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 13,
-        "filename": "One Piece Yabai - 013 - Le Ventre du Crocodile - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 14,
-        "filename": "One Piece Yabai - 014 - Insurrection - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 15,
-        "filename": "One Piece Yabai - 015 - Contre la montre - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 16,
-        "filename": "One Piece Yabai - 016 - Jour de Pluie - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 17,
-        "filename": "One Piece Yabai - 017 - Les Yeux dans les Cieux - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 18,
-        "filename": "One Piece Yabai - 018 - Le Jugement Divin - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 19,
-        "filename": "One Piece Yabai - 019 - Jeu de Survie - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 20,
-        "filename": "One Piece Yabai - 020 - L'Arche Divine - 1080p.MULTI.x264 [Mixouille].mkv"
-      },
-      {
-        "episode_number": 21,
-        "filename": "One Piece Yabai - 021 - Montblanc Norland - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 22,
-        "filename": "One Piece Yabai - 022 - Ranimer la flamme de Shandora - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 23,
-        "filename": "One Piece Yabai - 023 - Davy Back Fight - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 24,
-        "filename": "One Piece Yabai - 024 - Le Faisan Bleu - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 25,
-        "filename": "One Piece Yabai - 025 - La Métropole aquatique - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 26,
-        "filename": "One Piece Yabai - 026 - L'Avenir du Vogue Merry - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 27,
-        "filename": "One Piece Yabai - 027 - Le Cyborg - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 28,
-        "filename": "One Piece Yabai - 028 - La Part d'Ombre - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 29,
-        "filename": "One Piece Yabai - 029 - Les Artisans de Tom - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 30,
-        "filename": "One Piece Yabai - 030 - Sacrifice en eaux troubles - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 31,
-        "filename": "One Piece Yabai - 031 - Un long, long voyage - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 32,
-        "filename": "One Piece Yabai - 032 - Jour de Jugement - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 33,
-        "filename": "One Piece Yabai - 033 - Le Dernier Démon d'Ohara - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 34,
-        "filename": "One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 35,
-        "filename": "One Piece Yabai - 035 - Chasseurs v. Chasseurs - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 36,
-        "filename": "One Piece Yabai - 036 - Justice Absolue - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 37,
-        "filename": "One Piece Yabai - 037 - Casus Belli - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 38,
-        "filename": "One Piece Yabai - 038 - Thriller Bark - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 39,
-        "filename": "One Piece Yabai - 039 - La Chasse Nocturne - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 40,
-        "filename": "One Piece Yabai - 040 - Les Trois Mystérieux - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 41,
-        "filename": "One Piece Yabai - 041 - Oz, le démon - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 42,
-        "filename": "One Piece Yabai - 042 - Le bon rhum de Binks - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 43,
-        "filename": "One Piece Yabai - 043 - Duval au masque de fer - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 44,
-        "filename": "One Piece Yabai - 044 - Les Dragons Célestes - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 45,
-        "filename": "One Piece Yabai - 045 - Le Singe Jaune - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 46,
-        "filename": "One Piece Yabai - 046 - L'Île des femmes - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 47,
-        "filename": "One Piece Yabai - 047 - La Prison Sous-marine - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 48,
-        "filename": "One Piece Yabai - 048 - La Résistance fluide - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 49,
-        "filename": "One Piece Yabai - 049 - Par la grande porte - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 50,
-        "filename": "One Piece Yabai - 050 - Guerre totale - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 51,
-        "filename": "One Piece Yabai - 051 - Le pouvoir le plus redoutable - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 52,
-        "filename": "One Piece Yabai - 052 - Le sauvetage d'Ace - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 53,
-        "filename": "One Piece Yabai - 053 - Fuir ou mourir - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 54,
-        "filename": "One Piece Yabai - 054 - Frères - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 55,
-        "filename": "One Piece Yabai - 055 - Nouvelle ère - 1080p.MULTI.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 56,
-        "filename": "One Piece Yabai - 056 - Nouveau Départ - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 57,
-        "filename": "One Piece Yabai - 057 - Le Royaume des abysses - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 58,
-        "filename": "One Piece Yabai - 058 - Le Pacte des maudits - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 59,
-        "filename": "One Piece Yabai - 059 - Deux visions, un combat - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 60,
-        "filename": "One Piece Yabai - 060 - Cent Mille VS Dix - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 61,
-        "filename": "One Piece Yabai - 061 - L'Héritage de la haine - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 62,
-        "filename": "One Piece Yabai - 062 - Vers le Soleil - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 63,
-        "filename": "One Piece Yabai - 063 - L'île bipolaire - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 64,
-        "filename": "One Piece Yabai - 064 - Alliance pirate - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 65,
-        "filename": "One Piece Yabai - 065 - L'Ange de la mort - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 66,
-        "filename": "One Piece Yabai - 066 - Rats de laboratoires - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 67,
-        "filename": "One Piece Yabai - 067 - À Tristesse tranchée - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 68,
-        "filename": "One Piece Yabai - 068 - Derrière le sourire - 1080p.MULTI.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 69,
-        "filename": "One Piece Kaï - 069 - Dressrosa, le pays de l'amour, de la passion... - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 70,
-        "filename": "One Piece Kaï - 070 - Colosseum - Bloc B - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 71,
-        "filename": "One Piece Kaï - 071 - Le piège - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 72,
-        "filename": "One Piece Kaï - 072 - Colosseum - Bloc C - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 73,
-        "filename": "One Piece Kaï - 073 - Les Oubliés de Dressrosa - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 74,
-        "filename": "One Piece Kaï - 074 - La Paria du Bloc D - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 75,
-        "filename": "One Piece Kaï - 075 - La nuit où tout a basculé - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 76,
-        "filename": "One Piece Kaï - 076 - Le Revenant - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 77,
-        "filename": "One Piece Kaï - 077 - Opération S.O.P. - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 78,
-        "filename": "One Piece Kaï - 078 - Le Gladiateur Légendaire - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 79,
-        "filename": "One Piece Kaï - 079 - Dressrosa tremble - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 80,
-        "filename": "One Piece Kaï - 080 - Inglourious Basterds - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 81,
-        "filename": "One Piece Kaï - 081 - Miser sur le bon pirate - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 82,
-        "filename": "One Piece Kaï - 082 - A risque ou à péril - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 83,
-        "filename": "One Piece Kaï - 083 - Le Saturnisme Blanc - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 84,
-        "filename": "One Piece Kaï - 084 - Sur trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 85,
-        "filename": "One Piece Kaï - 085 - Toujours sur les trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 86,
-        "filename": "One Piece Kaï - 086 - Le Démon Céleste - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 87,
-        "filename": "One Piece Kaï - 087 - Dans dix minutes... et quelque - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 88,
-        "filename": "One Piece Kaï - 088 - La naissance d’un Révolutionnaire - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 89,
-        "filename": "One Piece Kaï - 089 - Le Bon, la Buse, et les Cinglés - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 90,
-        "filename": "One Piece Kaï - 090 - Vers Zo - 720p.VOSTFR.x264 [Knuckalex].mp4"
-      },
-      {
-        "episode_number": 91,
-        "filename": "One Piece Kaï - 091 - Le rideau se lève sur une nouvelle aventure - 720p.VOSTFR.x264 [Zdk].mkv"
-      },
-      {
-        "episode_number": 92,
-        "filename": "One Piece Kaï - 092 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv"
-      },
-      {
         "episode_number": 93,
         "filename": "One Piece Kaï - 093 - Le liens entre les Minks et l'équipage - 720p.VOSTFR.x264 [Zdk].mkv"
-      },
-      {
-        "episode_number": 94,
-        "filename": "One Piece Kaï - 094 - Le troisième homme - 720p.VOSTFR.x264 [Zdk].mkv"
-      },
-      {
-        "episode_number": 95,
-        "filename": "One Piece Kaï - 095 - Un serment entre hommes - 720p.VOSTFR.x264 [Zdk].mp4"
-      },
-      {
-        "episode_number": 96,
-        "filename": "One Piece Kaï - 096 - Totto Land - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 97,
-        "filename": "One Piece Kaï - 097 - Aventure dans la  forêt enchantée - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 98,
-        "filename": "One Piece Kaï - 098 - Le commandant sucré Cracker - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 99,
-        "filename": "One Piece Kaï - 099 - Mégot - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 100,
-        "filename": "One Piece Kaï - 100 - Le plan d'assassinat de l'Empereur - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 101,
-        "filename": "One Piece Kaï - 101 - Tea Party - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 102,
-        "filename": "One Piece Kaï - 102 - Impitoyable - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 103,
-        "filename": "One Piece Kaï - 103 - Merienda - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 104,
-        "filename": "One Piece Kaï - 104 - Sulong - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 105,
-        "filename": "One Piece Kaï - 105 - End roll - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 106,
-        "filename": "One Piece Kaï - 106 - Rêverie - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 107,
-        "filename": "One Piece Kaï - 107 - Koinobori - 1080p.VOSTFR.x264 [Sacha].mp4"
-      },
-      {
-        "episode_number": 108,
-        "filename": "One Piece Kaï - 108 - Sumo à Wano - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 109,
-        "filename": "One Piece Kaï - 109 - Les ruines du château d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 110,
-        "filename": "One Piece Kaï - 110 - La suprême courtisane Komurasaki - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 111,
-        "filename": "One Piece Kaï - 111 - Passé oublié - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 112,
-        "filename": "One Piece Kaï - 112 - Shimotsuki Yasuie - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 113,
-        "filename": "One Piece Kaï - 113 - Smile - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 114,
-        "filename": "One Piece Kaï - 114 - Préparatifs - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 115,
-        "filename": "One Piece Kaï - 115 - Kozuki Oden entre en scène ! - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 116,
-        "filename": "One Piece Kaï - 116 - L'aventure d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 117,
-        "filename": "One Piece Kaï - 117 - Bouillir, tel est le propre du Oden ! - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 118,
-        "filename": "One Piece Kaï - 118 - Cap sur Onigashima - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 119,
-        "filename": "One Piece Kaï - 119 - Infiltration à la fête - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 120,
-        "filename": "One Piece Kaï - 120 - Mon nom - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 121,
-        "filename": "One Piece Kaï - 121 - Le futur Roi des pirates - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 122,
-        "filename": "One Piece Kaï - 122 - La nouvelle génération - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 123,
-        "filename": "One Piece Kaï - 123 - Boulettes de millet - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 124,
-        "filename": "One Piece Kaï - 124 - L'Avatar du démon - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 125,
-        "filename": "One Piece Kaï - 125 - Les Dragons jumeaux - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 126,
-        "filename": "One Piece Kaï - 126 - Têtes d'affiche - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 127,
-        "filename": "One Piece Kaï - 127 - Les vainqueurs n'ont pas besoin d'épithète - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 128,
-        "filename": "One Piece Kaï - 128 - Le guerrier de la libération - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 129,
-        "filename": "One Piece Kaï - 129 - Rideau - 1080p.VOSTFR.x264 [Livaï].mkv"
-      },
-      {
-        "episode_number": 130,
-        "filename": "One Piece Kaï - 130 - Le Cerveau du Monde - 1080p.VOSTFR.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 131,
-        "filename": "One Piece Kaï - 131 - Chasse au Savoir - 1080p.VOSTFR.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 132,
-        "filename": "One Piece Kaï - 132 - Satellite défaillant - 1080p.VOSTFR.x264 [Johker].mkv"
-      },
-      {
-        "episode_number": 133,
-        "filename": "One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv"
       }
     ]
   },
@@ -10971,9 +11632,18 @@
     "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
     "serie_id": 72,
     "serie_title": "Spy x Family Henshū",
-    "season_id": 182,
-    "season_number": 1,
+    "season_id": 181,
+    "season_number": 0,
     "resolved_episodes": [
+      {
+        "serie_id": 72,
+        "season_id": 181,
+        "season_number": 0,
+        "episode_id": 1162,
+        "episode_number": 1,
+        "filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      },
       {
         "serie_id": 72,
         "season_id": 182,
@@ -11046,6 +11716,16 @@
     ],
     "resolve_status": "ok",
     "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Specials",
+          "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 7070506948,
+        "season_number": null
+      },
       {
         "num": 1,
         "filename": "[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.mkv",
@@ -11122,10 +11802,10 @@
       "Specials"
     ],
     "torrent_extras": [
-      "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
       "Spy x Family Henshū.zip"
     ],
     "file_ep_numbers": [
+      1,
       1,
       2,
       3,
@@ -13297,6 +13977,15 @@
       },
       {
         "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 26,
+        "episode_number": 1,
+        "filename": "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      },
+      {
+        "serie_id": 6,
         "season_id": 11,
         "season_number": 1,
         "episode_id": 50,
@@ -13405,12 +14094,30 @@
       },
       {
         "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 25,
+        "episode_number": 2,
+        "filename": "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      },
+      {
+        "serie_id": 6,
         "season_id": 10,
         "season_number": 2,
         "episode_id": 31,
         "episode_number": 19,
         "filename": "[Johker] My Hero Academia Henshū 19 - My Villain Academia 1080p.MULTI.x264.mkv",
         "is_special": false
+      },
+      {
+        "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 27,
+        "episode_number": 3,
+        "filename": "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv",
+        "is_special": true
       },
       {
         "serie_id": 6,
@@ -13536,6 +14243,16 @@
       },
       {
         "num": 7,
+        "filename": "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Bonus",
+          "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 3467685738,
+        "season_number": null
+      },
+      {
+        "num": 7,
         "filename": "[Johker] My Hero Academia Henshū 7 - Ennemi intime - 1080p.MULTI.x264.mkv",
         "path": [
           "Saga 1 - Héros de Yuei (Saisons 1-2-3)",
@@ -13656,12 +14373,32 @@
       },
       {
         "num": 19,
+        "filename": "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Bonus",
+          "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 4827750216,
+        "season_number": null
+      },
+      {
+        "num": 19,
         "filename": "[Johker] My Hero Academia Henshū 19 - My Villain Academia 1080p.MULTI.x264.mkv",
         "path": [
           "Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)",
           "[Johker] My Hero Academia Henshū 19 - My Villain Academia 1080p.MULTI.x264.mkv"
         ],
         "size": 2337253408,
+        "season_number": null
+      },
+      {
+        "num": 20,
+        "filename": "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Bonus",
+          "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 3962154742,
         "season_number": null
       },
       {
@@ -13724,9 +14461,6 @@
     ],
     "torrent_extras": [
       "Pack_Plex.zip",
-      "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv",
-      "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv",
-      "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv",
       "[Johker] My Hero Academia Henshū 1 - Izuku Midoriya Origines.png",
       "[Johker] My Hero Academia Henshū 2 - Yuei, l'Académie des Héros.png",
       "[Johker] My Hero Academia Henshū 3 - Rencontre avec l'Inconnu.png",
@@ -13768,6 +14502,7 @@
       5,
       6,
       7,
+      7,
       8,
       9,
       10,
@@ -13780,6 +14515,8 @@
       17,
       18,
       19,
+      19,
+      20,
       20,
       21,
       22,
@@ -17630,10 +18367,22 @@
     ],
     "resolved_seasons": [],
     "resolve_status": "ok",
-    "torrent_files": [],
+    "torrent_files": [
+      {
+        "num": 29,
+        "filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet  - 720p.MULTI.x264.mkv",
+        "path": [
+          "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet  - 720p.MULTI.x264.mkv"
+        ],
+        "size": 2784799397,
+        "season_number": null
+      }
+    ],
     "torrent_folders": [],
     "torrent_extras": [],
-    "file_ep_numbers": []
+    "file_ep_numbers": [
+      29
+    ]
   },
   {
     "raw": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264",
