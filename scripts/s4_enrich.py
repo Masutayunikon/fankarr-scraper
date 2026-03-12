@@ -120,9 +120,32 @@ _EP_PATTERNS = [
     re.compile(r"[-–\s](\d{2,3})[-–\s]",             re.IGNORECASE),
 ]
 
+# Patterns pour détecter les numéros flottants type 8.5, 2.5...
+_EP_FLOAT_PATTERN = re.compile(r"\b(\d{1,3}\.\d)\b")
+
+# Mots-clés dans le nom de fichier indiquant un bonus/extra
+_BONUS_KEYWORDS = {"bonus", "extra", "special", "ova", "ona", "ncop", "nced", "opening", "ending"}
+
+_SEASON_FOLDER_PATTERN = re.compile(r"saison\s*(\d+)", re.IGNORECASE)
 _SEASON_FROM_FILE_PATTERN = re.compile(r"\b(\d{1,2})x\d{2,3}\b", re.IGNORECASE)  # 01x10 → saison 1
 
+def extract_season_from_path(path: list[str]) -> int | None:
+    """Déduit le numéro de saison depuis le dossier parent (ex: 'Saison 1', 'Saison 0')."""
+    for folder in path[:-1]:
+        m = _SEASON_FOLDER_PATTERN.search(folder)
+        if m:
+            return int(m.group(1))
+    return None
+
+def _is_bonus_filename(filename: str) -> bool:
+    """Retourne True si le nom de fichier contient un mot-clé bonus."""
+    name_lower = filename.lower()
+    return any(kw in name_lower for kw in _BONUS_KEYWORDS)
+
 def extract_episode_number(filename: str) -> int | None:
+    # D'abord vérifier si c'est un numéro flottant (ex: 8.5) → traiter comme extra
+    if _EP_FLOAT_PATTERN.search(filename):
+        return None
     for pat in _EP_PATTERNS:
         m = pat.search(filename)
         if m:
@@ -137,7 +160,7 @@ def extract_season_from_filename(filename: str) -> int | None:
 # Dossiers à exclure de l'organisation (bonus, musiques, images...)
 _EXCLUDED_FOLDERS = {
     "endings", "ending", "openings", "opening", "ost", "artworks", "artwork",
-    "extras", "extra", "ncop", "nced",
+    "bonus", "extras", "extra", "specials", "special", "ncop", "nced",
     "images", "image", "scans", "scan", "soundtrack", "music",
 }
 
@@ -153,9 +176,10 @@ def _is_in_excluded_folder(path: list[str]) -> bool:
     return False
 
 def parse_torrent_structure(files: list[dict]) -> dict:
-    episodes = []
-    folders  = set()
-    extras   = []
+    episodes  = []
+    specials  = []
+    folders   = set()
+    extras    = []
 
     for f in files:
         path     = f["path"]
@@ -167,21 +191,44 @@ def parse_torrent_structure(files: list[dict]) -> dict:
                 folders.add(folder)
 
         if filename.lower().endswith((".mkv", ".mp4", ".avi")):
-            # Ignorer les fichiers dans des dossiers bonus/musique/images
+            # Fichiers dans des dossiers bonus/musique/images → extras
             if _is_in_excluded_folder(path):
                 extras.append(filename)
                 continue
 
-            ep_num = extract_episode_number(filename)
-            if ep_num is not None:
-                season_num = extract_season_from_filename(filename)
-                episodes.append({
-                    "num"          : ep_num,
+            # Fichiers bonus/special dans le nom ou numéro flottant → saison 0
+            if _is_bonus_filename(filename) or _EP_FLOAT_PATTERN.search(filename):
+                season_from_path = extract_season_from_path(path)
+                specials.append({
                     "filename"     : filename,
                     "path"         : path,
                     "size"         : size,
-                    "season_number": season_num,
+                    "season_number": season_from_path if season_from_path == 0 else 0,
                 })
+                continue
+
+            ep_num = extract_episode_number(filename)
+            if ep_num is not None:
+                # Priorité : saison depuis le dossier > saison depuis le nom de fichier
+                season_num = extract_season_from_path(path) or extract_season_from_filename(filename)
+
+                # Fichier en saison 0 (dossier "Saison 0") → épisode 00 devient épisode 1
+                if season_num == 0:
+                    specials.append({
+                        "num"          : max(ep_num, 1),
+                        "filename"     : filename,
+                        "path"         : path,
+                        "size"         : size,
+                        "season_number": 0,
+                    })
+                else:
+                    episodes.append({
+                        "num"          : ep_num,
+                        "filename"     : filename,
+                        "path"         : path,
+                        "size"         : size,
+                        "season_number": season_num,
+                    })
             else:
                 extras.append(filename)
         elif filename and not filename.startswith("."):
@@ -189,8 +236,14 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
     episodes.sort(key=lambda e: e["num"])
 
+    # Numéroter les specials séquentiellement
+    for i, sp in enumerate(specials, start=1):
+        sp["num"] = i
+
+    all_episodes = episodes + specials
+
     return {
-        "episodes": episodes,
+        "episodes": all_episodes,
         "folders" : sorted(folders),
         "extras"  : extras,
     }

@@ -34,8 +34,8 @@ Path("data").mkdir(exist_ok=True)
 SERIE_FALLBACK = {
     # One Piece Yabai (87) → fallback One Piece Kaï (88)
     # Note : les IDs sont à confirmer selon ton API
-    89: 90,
-    90: 89,
+    93: 92,
+    92: 93,
 }
 
 
@@ -175,8 +175,8 @@ class Resolver:
 # L'ordre compte : plus spécifique en premier
 SERIE_PATTERNS: list[tuple[re.Pattern, int]] = [
     # One Piece Yabai avant Kaï (plus spécifique)
-    (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 90),
-    (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 89),
+    (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 93),
+    (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 92),
 ]
 
 def detect_serie_from_filename(filename: str, default_serie_id: int) -> int:
@@ -318,9 +318,18 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
     unresolved        = []
 
     for f in torrent_files:
-        filename  = f.get("filename", "")
-        ep_num    = f.get("num")
-        is_special = False
+        filename    = f.get("filename", "")
+        ep_num      = f.get("num")
+        file_season = f.get("season_number")  # issu du dossier "Saison 0/1/2..."
+
+        # Si season_number absent, tenter de le déduire depuis le path
+        if file_season is None:
+            for folder in f.get("path", [])[:-1]:
+                m = re.search(r"saison\s*(\d+)", folder, re.IGNORECASE)
+                if m:
+                    file_season = int(m.group(1))
+                    break
+        is_special  = False
 
         # Ré-parser le filename pour détecter les spéciaux ET la série
         file_serie_id = serie_id
@@ -333,6 +342,14 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
             # Détecter la série depuis le nom du fichier (ex: Yabai vs Kaï)
             file_serie_id = detect_serie_from_filename(filename, serie_id)
 
+        # Si le fichier est dans "Saison 0" (dossier ou bonus détecté en s4) → forcer special
+        if file_season == 0:
+            is_special = True
+            use_s0_map = False
+            # ep 00 → ep 1 (l'API numérote à partir de 1)
+            if ep_num == 0:
+                ep_num = 1
+
         if ep_num is None:
             continue
 
@@ -340,7 +357,6 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
         # Spéciaux sans map → chercher en saison 0 en priorité (numéro brut)
         # Normaux → exclure saison 0
         if use_s0_map:
-            # Le numéro est déjà le bon episode_number en saison 0
             season_hint = 0
         elif is_special:
             season_hint = 0
@@ -428,7 +444,6 @@ def main():
         print(f"[{i:3d}] {raw[:65]}")
         resolve_season_episodes(torrent, resolver)
         ep_ids = [e["episode_id"] for e in torrent.get("resolved_episodes", [])]
-        print(f"       → {len(ep_ids)} épisodes résolus")
         print(f"       → {len(ep_ids)} épisodes résolus: {ep_ids[:10]}"
               f"{'...' if len(ep_ids) > 10 else ''}")
 
