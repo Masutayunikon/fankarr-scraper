@@ -26,10 +26,10 @@ INPUT_FILE    = "data/torrent_resolved.json"
 OUTPUT_FILE   = "data/torrent_enriched.json"
 NYA_RAW_PATH  = "data/torrent_raw.json"
 
-# Fichiers .torrent locaux : { raw_name_exact: chemin_fichier }
-# Le raw_name doit correspondre exactement au champ "raw" dans torrent_resolved.json
-LOCAL_TORRENTS: dict[str, str] = {
-    "Reborn! Kaï": "reborn_kai.torrent",
+# Fichiers .torrent locaux : { raw_name_exact: (chemin_fichier, serie_id, serie_title, type) }
+# Ces torrents seront injectés dans le pipeline s'ils sont absents de torrent_resolved.json
+LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
+    "Reborn! Kaï (Fan-Kai)": ("reborn_kai.torrent", 60, "Reborn! Kaï", "pack_integrale"),
 }
 
 # Sources de téléchargement de .torrent par infohash (fallback dans l'ordre)
@@ -285,6 +285,34 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
         if title:
             raw_by_title[title] = t
 
+    # Injecter les torrents locaux manquants dans le pipeline
+    existing_raws = {t.get("raw", "") for t in resolved}
+    for raw_name, (local_path, serie_id, serie_title, t_type) in LOCAL_TORRENTS.items():
+        if raw_name not in existing_raws:
+            print(f"  [LOCAL] Injection de '{raw_name}' dans le pipeline")
+            resolved.append({
+                "raw"              : raw_name,
+                "show_title"       : serie_title,
+                "groupe"           : None,
+                "type"             : t_type,
+                "episodes"         : [],
+                "saisons"          : [],
+                "torrent_url"      : None,
+                "magnet"           : None,
+                "infohash"         : None,
+                "serie_id"         : serie_id,
+                "serie_title"      : serie_title,
+                "season_id"        : None,
+                "season_number"    : None,
+                "resolved_episodes": [],
+                "resolved_seasons" : [],
+                "resolve_status"   : "ok",
+                "torrent_files"    : [],
+                "torrent_folders"  : [],
+                "torrent_extras"   : [],
+                "file_ep_numbers"  : [],
+            })
+
     enriched = 0
     for torrent in resolved:
         t_type = torrent.get("type")
@@ -299,7 +327,8 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
         raw      = raw_by_title.get(raw_name)
 
         # ── Priorité 1 : fichier .torrent local ──────────────────────────────
-        local_path = LOCAL_TORRENTS.get(raw_name)
+        local_entry = LOCAL_TORRENTS.get(raw_name)
+        local_path  = local_entry[0] if local_entry else None
         if local_path:
             print(f"  → Parsing torrent local: {raw_name[:60]}")
             files, infohash = fetch_torrent_files_from_local(local_path)
