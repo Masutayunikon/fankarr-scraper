@@ -4388,11 +4388,29 @@
       },
       {
         "serie_id": 33,
+        "season_id": 68,
+        "season_number": 5,
+        "episode_id": 488,
+        "episode_number": 17,
+        "filename": "Hokuto No Ken Fan-Kai - 02x01 - Retour en Enfer.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
         "season_id": 72,
         "season_number": 1,
         "episode_id": 504,
         "episode_number": 2,
         "filename": "Hokuto No Ken Fan-Kai - 01x02 - God Land.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
+        "season_id": 68,
+        "season_number": 5,
+        "episode_id": 487,
+        "episode_number": 18,
+        "filename": "Hokuto No Ken Fan-Kai - 02x02 - Empereur Céleste.1080p.DvdRip.x264.Illuzionn.mkv",
         "is_special": false
       },
       {
@@ -4406,11 +4424,29 @@
       },
       {
         "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 491,
+        "episode_number": 19,
+        "filename": "Hokuto No Ken Fan-Kai - 02x03 - Pays de Shura.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
         "season_id": 72,
         "season_number": 1,
         "episode_id": 502,
         "episode_number": 4,
         "filename": "Hokuto No Ken Fan-Kai - 01x04 - Kiba.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 489,
+        "episode_number": 20,
+        "filename": "Hokuto No Ken Fan-Kai - 02x04 - Défaite totale.1080p.DvdRip.x264.Illuzionn.mkv",
         "is_special": false
       },
       {
@@ -4424,11 +4460,29 @@
       },
       {
         "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 492,
+        "episode_number": 21,
+        "filename": "Hokuto No Ken Fan-Kai - 02x05 - Deux frères.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
         "season_id": 70,
         "season_number": 2,
         "episode_id": 496,
         "episode_number": 6,
         "filename": "Hokuto No Ken Fan-Kai - 01x06 - Miracles.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 490,
+        "episode_number": 22,
+        "filename": "Hokuto No Ken Fan-Kai - 02x06 - Origines.1080p.DvdRip.x264.Illuzionn.mkv",
         "is_special": false
       },
       {
@@ -5339,6 +5393,640 @@
       4,
       5,
       6
+    ],
+    "unresolved_files": []
+  },
+  {
+    "raw": "Naruto Shippuden Kaï (Fan-Kai) - INTEGRALE (32 films) - 720p.FRENCH.x264 [Mixouille]",
+    "show_title": "Naruto Shippuden Kaï",
+    "groupe": null,
+    "type": "pack_integrale",
+    "episodes": [],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1373039.torrent",
+    "magnet": "magnet:?xt=urn:btih:0f9457b82452c14b2cc6f5ab2924c04f6350cf73&dn=Naruto%20Shippuden%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2832%20films%29%20-%20720p.FRENCH.x264%20%5BMixouille%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
+    "serie_id": 38,
+    "serie_title": "Naruto Shippuden Kaï",
+    "season_id": 80,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 550,
+        "episode_number": 1,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 01 - Retour à la maison - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 552,
+        "episode_number": 2,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 02 - Les Jinchuuriki - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 551,
+        "episode_number": 3,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 03 - La mort de Gaara - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 549,
+        "episode_number": 4,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 04 - La colère d'un ami - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 548,
+        "episode_number": 5,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 05 - Les froides retrouvailles - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 554,
+        "episode_number": 6,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 06 - La digne fin d'un shinobi - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 80,
+        "season_number": 1,
+        "episode_id": 553,
+        "episode_number": 7,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 07 - La Volonté du Feu - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 529,
+        "episode_number": 8,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 08 - Hebi - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 534,
+        "episode_number": 9,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 09 - Pain - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 530,
+        "episode_number": 10,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 10 - La confrontation de deux Uchiha - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 528,
+        "episode_number": 11,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 11 - Deux vérités qui blessent - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 531,
+        "episode_number": 12,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 12 - L'offensive de Pain - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 533,
+        "episode_number": 13,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 13 - Mode Sennin, la fureur de Naruto - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 78,
+        "season_number": 2,
+        "episode_id": 532,
+        "episode_number": 14,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 14 - Le cercle de la haine - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 77,
+        "season_number": 3,
+        "episode_id": 524,
+        "episode_number": 15,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 15 - Le Conseil des cinq Kage - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 77,
+        "season_number": 3,
+        "episode_id": 525,
+        "episode_number": 16,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 16 - Shimura Danzo - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 77,
+        "season_number": 3,
+        "episode_id": 527,
+        "episode_number": 17,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 17 - Les prémices de la guerre - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 77,
+        "season_number": 3,
+        "episode_id": 523,
+        "episode_number": 18,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 18 - Le chakra de Kyûbi - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 77,
+        "season_number": 3,
+        "episode_id": 526,
+        "episode_number": 19,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 19 - Edo Tensei - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 544,
+        "episode_number": 20,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 20- La Quatrième Grande Guerre - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 538,
+        "episode_number": 21,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 21- Champ de bataille - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 540,
+        "episode_number": 22,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 22 - Naruto entre en guerre - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 541,
+        "episode_number": 23,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 23 - Les deux Madara - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 539,
+        "episode_number": 24,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 24 - Yakushi Kabuto - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 546,
+        "episode_number": 25,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 25 - Le masque tombe - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 545,
+        "episode_number": 26,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 26 - Jûbi - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 542,
+        "episode_number": 27,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 27 - Le retour de la Team 7 - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 547,
+        "episode_number": 28,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 28 - L'hôte de Jûbi - 720p.FRENCH.x264.mp4",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 535,
+        "episode_number": 29,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 29 - Résurrection - 720p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 543,
+        "episode_number": 30,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 30 - Rikudô Sennin - 720p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 536,
+        "episode_number": 31,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 31 - Ôtsutsuki Kaguya - 720p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 38,
+        "season_id": 79,
+        "season_number": 4,
+        "episode_id": 537,
+        "episode_number": 32,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 32 - Révolution - 720p.MULTI.x264.mkv",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 01 - Retour à la maison - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 01 - Retour à la maison - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1538158986,
+        "season_number": null
+      },
+      {
+        "num": 2,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 02 - Les Jinchuuriki - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 02 - Les Jinchuuriki - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1722296798,
+        "season_number": null
+      },
+      {
+        "num": 3,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 03 - La mort de Gaara - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 03 - La mort de Gaara - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1016793339,
+        "season_number": null
+      },
+      {
+        "num": 4,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 04 - La colère d'un ami - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 04 - La colère d'un ami - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1537989165,
+        "season_number": null
+      },
+      {
+        "num": 5,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 05 - Les froides retrouvailles - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 05 - Les froides retrouvailles - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1108978605,
+        "season_number": null
+      },
+      {
+        "num": 6,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 06 - La digne fin d'un shinobi - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 06 - La digne fin d'un shinobi - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1445324753,
+        "season_number": null
+      },
+      {
+        "num": 7,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 07 - La Volonté du Feu - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 07 - La Volonté du Feu - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 2813636007,
+        "season_number": null
+      },
+      {
+        "num": 8,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 08 - Hebi - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 08 - Hebi - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1974280247,
+        "season_number": null
+      },
+      {
+        "num": 9,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 09 - Pain - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 09 - Pain - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1671755986,
+        "season_number": null
+      },
+      {
+        "num": 10,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 10 - La confrontation de deux Uchiha - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 10 - La confrontation de deux Uchiha - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1787020793,
+        "season_number": null
+      },
+      {
+        "num": 11,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 11 - Deux vérités qui blessent - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 11 - Deux vérités qui blessent - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1536070851,
+        "season_number": null
+      },
+      {
+        "num": 12,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 12 - L'offensive de Pain - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 12 - L'offensive de Pain - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1635356978,
+        "season_number": null
+      },
+      {
+        "num": 13,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 13 - Mode Sennin, la fureur de Naruto - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 13 - Mode Sennin, la fureur de Naruto - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1517562521,
+        "season_number": null
+      },
+      {
+        "num": 14,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 14 - Le cercle de la haine - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 14 - Le cercle de la haine - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1709534858,
+        "season_number": null
+      },
+      {
+        "num": 15,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 15 - Le Conseil des cinq Kage - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 15 - Le Conseil des cinq Kage - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1362360083,
+        "season_number": null
+      },
+      {
+        "num": 16,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 16 - Shimura Danzo - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 16 - Shimura Danzo - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1639438040,
+        "season_number": null
+      },
+      {
+        "num": 17,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 17 - Les prémices de la guerre - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 17 - Les prémices de la guerre - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1609943889,
+        "season_number": null
+      },
+      {
+        "num": 18,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 18 - Le chakra de Kyûbi - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 18 - Le chakra de Kyûbi - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1707547270,
+        "season_number": null
+      },
+      {
+        "num": 19,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 19 - Edo Tensei - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 19 - Edo Tensei - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1721656558,
+        "season_number": null
+      },
+      {
+        "num": 20,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 20- La Quatrième Grande Guerre - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 20- La Quatrième Grande Guerre - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1860987657,
+        "season_number": null
+      },
+      {
+        "num": 21,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 21- Champ de bataille - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 21- Champ de bataille - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 2638636910,
+        "season_number": null
+      },
+      {
+        "num": 22,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 22 - Naruto entre en guerre - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 22 - Naruto entre en guerre - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 2600663646,
+        "season_number": null
+      },
+      {
+        "num": 23,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 23 - Les deux Madara - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 23 - Les deux Madara - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1724148136,
+        "season_number": null
+      },
+      {
+        "num": 24,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 24 - Yakushi Kabuto - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 24 - Yakushi Kabuto - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1805441927,
+        "season_number": null
+      },
+      {
+        "num": 25,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 25 - Le masque tombe - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 25 - Le masque tombe - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1901892932,
+        "season_number": null
+      },
+      {
+        "num": 26,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 26 - Jûbi - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 26 - Jûbi - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1618362365,
+        "season_number": null
+      },
+      {
+        "num": 27,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 27 - Le retour de la Team 7 - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 27 - Le retour de la Team 7 - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 1937145576,
+        "season_number": null
+      },
+      {
+        "num": 28,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 28 - L'hôte de Jûbi - 720p.FRENCH.x264.mp4",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 28 - L'hôte de Jûbi - 720p.FRENCH.x264.mp4"
+        ],
+        "size": 2060585597,
+        "season_number": null
+      },
+      {
+        "num": 29,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 29 - Résurrection - 720p.MULTI.x264.mkv",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 29 - Résurrection - 720p.MULTI.x264.mkv"
+        ],
+        "size": 1299608445,
+        "season_number": null
+      },
+      {
+        "num": 30,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 30 - Rikudô Sennin - 720p.MULTI.x264.mkv",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 30 - Rikudô Sennin - 720p.MULTI.x264.mkv"
+        ],
+        "size": 1120738061,
+        "season_number": null
+      },
+      {
+        "num": 31,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 31 - Ôtsutsuki Kaguya - 720p.MULTI.x264.mkv",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 31 - Ôtsutsuki Kaguya - 720p.MULTI.x264.mkv"
+        ],
+        "size": 1480343691,
+        "season_number": null
+      },
+      {
+        "num": 32,
+        "filename": "[Mixouille] Naruto Shippuden Kai - 32 - Révolution - 720p.MULTI.x264.mkv",
+        "path": [
+          "[Mixouille] Naruto Shippuden Kai - 32 - Révolution - 720p.MULTI.x264.mkv"
+        ],
+        "size": 921693997,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
     ],
     "unresolved_files": []
   },
