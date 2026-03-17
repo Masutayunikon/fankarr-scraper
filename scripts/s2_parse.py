@@ -23,6 +23,7 @@ Cas couverts (d'après torrent_names.txt) :
   K) Show Title NUM LANG - Auteur  (style Roro)              → épisode simple
   L) Show Title Films N à M - LANG - Auteur (style Roro)     → pack épisodes
   M) [Auteur] Show Title.qualité...  (sans num du tout)      → pack intégrale / inconnu
+  N) Show Title - Saga 1/2/3/4/5/6 - qualité                → pack intégrale
 """
 
 import re
@@ -113,12 +114,22 @@ def _ep_inazuma(m, **_):
 def _ep_roro_style(m, **_):
     return {"type": "episode", "episodes": [int(m.group(1))]}
 
-# ── D : Saga / Arc ────────────────────────────────────────────────────────────
+# ── D : Saga / Arc numéroté (épisode unique) ──────────────────────────────────
 # "- Saga 01 -"  "- Arc 1 -"
 
 @_reg("pack_saga_arc", r"[-–]\s*(?:Saga|Arc)\s+(\d+)\s*[-–]", re.IGNORECASE)
 def _ep_saga(m, **_):
     return {"type": "pack_saison", "saisons": [int(m.group(1))]}
+
+# ── N : Saga multi (slash) → pack_integrale ───────────────────────────────────
+# "Saga 1/2/3/4/5/6"  → pack intégrale
+# Doit être avant les patterns épisode pour ne pas matcher le dernier chiffre
+
+@_reg("pack_saga_slash",
+      r"[-–\s]\s*Saga\s+[\d]+(?:/[\d]+)+",
+      re.IGNORECASE)
+def _pack_saga_slash(m, **_):
+    return {"type": "pack_integrale"}
 
 
 # ── E/F/G : Packs saisons ────────────────────────────────────────────────────
@@ -170,8 +181,6 @@ def _pack_integrale(m, **_):
 # ── J : Saison + N Films (Frieren style) ──────────────────────────────────────
 # "- Saison 1 - 8 Films -"   → pack_saison avec saison connue, épisodes non bornés
 
-# (déjà capturé par pack_saison_single via le suffixe optionnel Films,
-#  mais on veut aussi extraire le nb de films si dispo)
 @_reg("pack_saison_n_films",
       r"[-–\s]\s*(?:Saison|Season)\s+(\d+)\s*[-–]\s*(\d+)\s*Films",
       re.IGNORECASE)
@@ -190,8 +199,9 @@ def _pack_saison_films(m, **_):
 #     [Triggerforce] Naruto Shippuden Yabaï 16 - Les Kage...
 #     [Triggerforce] Tokyo Revengers Henshu 03 - Revanche
 # IMPORTANT : placé après les packs pour ne pas les court-circuiter
+# (?<!/) empêche de matcher un chiffre précédé d'un slash (ex: "1/2/3/4/5/6 - 1080p")
 
-@_reg("episode_num_tiret_apres", r"\b(\d{1,3})\s*[-–]\s+\w")
+@_reg("episode_num_tiret_apres", r"(?<!/)\b(\d{1,3})\s*[-–]\s+\w")
 def _ep_num_tiret_apres(m, **_):
     return {"type": "episode", "episodes": [int(m.group(1))]}
 
