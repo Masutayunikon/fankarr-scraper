@@ -217,6 +217,13 @@ SPECIAL_EP_MAP: dict[tuple[int, int], int] = {
     (6, 20): 3,  # MHA 20,5 → World Heroes Mission
 }
 
+# Offset épisode par saison torrent → numéro épisode global API
+# Format : {serie_id: {season_number_torrent: offset_a_ajouter}}
+# Ex: Hokuto saison 02 torrent → épisodes 17-22 sur l'API → offset +16
+SEASON_EP_OFFSET: dict[int, dict[int, int]] = {
+    33: {2: 16},  # Hokuto No Ken Kaï : saison 02 → +16
+}
+
 def parse_file_episode(filename: str, serie_id: int = 0) -> tuple[int | None, bool, bool]:
     m = _S00_RE.search(filename)
     if m:
@@ -323,6 +330,12 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
             use_s0_map = False
             if ep_num == 0:
                 ep_num = 1
+
+        # Appliquer l'offset épisode si défini pour cette série/saison
+        if file_season and file_season > 0 and ep_num is not None:
+            offset = SEASON_EP_OFFSET.get(serie_id, {}).get(file_season)
+            if offset:
+                ep_num = ep_num + offset
 
         if ep_num is None:
             continue
