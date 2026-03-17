@@ -35,7 +35,6 @@ SERIE_FALLBACK = {
     # One Piece Yabai (87) → fallback One Piece Kaï (88)
     # Note : les IDs sont à confirmer selon ton API
     93: 92,
-    92: 93,
 }
 
 
@@ -174,8 +173,8 @@ class Resolver:
 # Format : liste de (pattern_regex, serie_id)
 # L'ordre compte : plus spécifique en premier
 SERIE_PATTERNS: list[tuple[re.Pattern, int]] = [
-    # One Piece Yabai avant Kaï (plus spécifique)
-    (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 93),
+    # Yabai et Kaï → toujours résoudre sous série 92 (Kaï)
+    (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 92),
     (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 92),
 ]
 
