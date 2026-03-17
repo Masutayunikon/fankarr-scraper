@@ -12719,6 +12719,15 @@
         "episode_number": 7,
         "filename": "[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.mkv",
         "is_special": false
+      },
+      {
+        "serie_id": 72,
+        "season_id": 181,
+        "season_number": 0,
+        "episode_id": 1162,
+        "episode_number": 1,
+        "filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
+        "is_special": true
       }
     ],
     "resolved_seasons": [
@@ -12798,6 +12807,16 @@
         ],
         "size": 2339569511,
         "season_number": 1
+      },
+      {
+        "num": 1,
+        "filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Specials",
+          "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 7070506948,
+        "season_number": 0
       }
     ],
     "torrent_folders": [
@@ -12805,7 +12824,6 @@
       "Specials"
     ],
     "torrent_extras": [
-      "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
       "Spy x Family Henshū.zip"
     ],
     "file_ep_numbers": [
@@ -12815,7 +12833,8 @@
       4,
       5,
       6,
-      7
+      7,
+      1
     ],
     "unresolved_files": []
   },
@@ -15139,6 +15158,33 @@
         "episode_number": 24,
         "filename": "[Johker] My Hero Academia Henshū 24 - L'Évadé 1080p.MULTI.x264.mkv",
         "is_special": false
+      },
+      {
+        "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 26,
+        "episode_number": 1,
+        "filename": "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      },
+      {
+        "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 25,
+        "episode_number": 2,
+        "filename": "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      },
+      {
+        "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 27,
+        "episode_number": 3,
+        "filename": "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv",
+        "is_special": true
       }
     ],
     "resolved_seasons": [
@@ -15396,6 +15442,36 @@
         ],
         "size": 2829767197,
         "season_number": 6
+      },
+      {
+        "num": 7,
+        "filename": "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Bonus",
+          "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 3467685738,
+        "season_number": 0
+      },
+      {
+        "num": 19,
+        "filename": "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Bonus",
+          "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 4827750216,
+        "season_number": 0
+      },
+      {
+        "num": 20,
+        "filename": "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Bonus",
+          "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 3962154742,
+        "season_number": 0
       }
     ],
     "torrent_folders": [
@@ -15407,9 +15483,6 @@
     ],
     "torrent_extras": [
       "Pack_Plex.zip",
-      "[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv",
-      "[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv",
-      "[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv",
       "[Johker] My Hero Academia Henshū 1 - Izuku Midoriya Origines.png",
       "[Johker] My Hero Academia Henshū 2 - Yuei, l'Académie des Héros.png",
       "[Johker] My Hero Academia Henshū 3 - Rencontre avec l'Inconnu.png",
@@ -15467,7 +15540,10 @@
       21,
       22,
       23,
-      24
+      24,
+      7,
+      19,
+      20
     ],
     "unresolved_files": []
   },

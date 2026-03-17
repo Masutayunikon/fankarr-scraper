@@ -161,7 +161,7 @@ _EP_PATTERNS = [
 ]
 
 # Patterns pour détecter les numéros flottants type 8.5, 2.5...
-_EP_FLOAT_PATTERN = re.compile(r"\b(\d{1,3}\.\d)\b")
+_EP_FLOAT_PATTERN = re.compile(r"\b(\d{1,3})[.,](\d)\b")
 
 # Mots-clés bonus/extra — utilise \b pour éviter les faux positifs
 _BONUS_KW_RE = re.compile(
@@ -227,11 +227,21 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
         if filename.lower().endswith((".mkv", ".mp4", ".avi")):
             if _is_in_excluded_folder(path):
-                # Exception : fichiers flottants (ex: 7,5 / 19,5) dans dossier bonus → saison 0
+                # Exception 1 : fichiers flottants (ex: 7,5 / 19,5) dans dossier bonus → saison 0
                 float_m2 = _EP_FLOAT_PATTERN.search(filename)
+                # Exception 2 : fichiers S00Exx dans dossier specials → saison 0
+                s00_m = re.search(r"S00E(\d+)", filename, re.IGNORECASE)
                 if float_m2:
                     specials.append({
-                        "num"          : int(float(float_m2.group(1))),
+                        "num"          : int(float_m2.group(1)),
+                        "filename"     : filename,
+                        "path"         : path,
+                        "size"         : size,
+                        "season_number": 0,
+                    })
+                elif s00_m:
+                    specials.append({
+                        "num"          : int(s00_m.group(1)),
                         "filename"     : filename,
                         "path"         : path,
                         "size"         : size,
@@ -252,7 +262,7 @@ def parse_torrent_structure(files: list[dict]) -> dict:
                 }
                 # Extraire le numéro entier depuis le flottant (ex: 8.5 → 8)
                 if float_m:
-                    sp["num"] = int(float(float_m.group(1)))
+                    sp["num"] = int(float_m.group(1))  # partie entière seulement
                 specials.append(sp)
                 continue
 
@@ -429,8 +439,8 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
         infohash    = infohash or torrent.get("infohash")
 
         if not infohash:
-            magnet = (raw.get("magnet", "") if raw else "") or torrent.get("magnet", "")
-            m = re.search(r"btih:([a-fA-F0-9]{40})", magnet or "", re.I)
+            magnet = (raw.get("magnet") if raw else None) or torrent.get("magnet") or ""
+            m = re.search(r"btih:([a-fA-F0-9]{40})", magnet, re.I)
             if m:
                 infohash = m.group(1).lower()
 
