@@ -130,7 +130,7 @@ _BONUS_KW_RE = re.compile(
     re.IGNORECASE
 )
 
-_SEASON_FOLDER_PATTERN = re.compile(r"saison\s*(\d+)", re.IGNORECASE)
+_SEASON_FOLDER_PATTERN = re.compile(r"(?:saison|partie|part)\s*(\d+)", re.IGNORECASE)
 _SEASON_FROM_FILE_PATTERN = re.compile(r"\b(\d{1,2})x\d{2,3}\b", re.IGNORECASE)  # 01x10 → saison 1
 
 def extract_season_from_path(path: list[str]) -> int | None:

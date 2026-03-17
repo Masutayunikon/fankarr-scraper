@@ -126,7 +126,7 @@ def _ep_saga(m, **_):
 # Doit être avant les patterns épisode pour ne pas matcher le dernier chiffre
 
 @_reg("pack_saga_slash",
-      r"[-–\s]\s*Saga\s+[\d]+(?:/[\d]+)+",
+      r"[-–\s]\s*(?:Saga|Partie|Part)\s+[\d]+(?:/[\d]+)+",
       re.IGNORECASE)
 def _pack_saga_slash(m, **_):
     return {"type": "pack_integrale"}
