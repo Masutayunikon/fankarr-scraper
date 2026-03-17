@@ -4388,11 +4388,29 @@
       },
       {
         "serie_id": 33,
+        "season_id": 68,
+        "season_number": 5,
+        "episode_id": 488,
+        "episode_number": 17,
+        "filename": "Hokuto No Ken Fan-Kai - 02x01 - Retour en Enfer.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
         "season_id": 72,
         "season_number": 1,
         "episode_id": 504,
         "episode_number": 2,
         "filename": "Hokuto No Ken Fan-Kai - 01x02 - God Land.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
+        "season_id": 68,
+        "season_number": 5,
+        "episode_id": 487,
+        "episode_number": 18,
+        "filename": "Hokuto No Ken Fan-Kai - 02x02 - Empereur Céleste.1080p.DvdRip.x264.Illuzionn.mkv",
         "is_special": false
       },
       {
@@ -4406,11 +4424,29 @@
       },
       {
         "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 491,
+        "episode_number": 19,
+        "filename": "Hokuto No Ken Fan-Kai - 02x03 - Pays de Shura.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
         "season_id": 72,
         "season_number": 1,
         "episode_id": 502,
         "episode_number": 4,
         "filename": "Hokuto No Ken Fan-Kai - 01x04 - Kiba.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 489,
+        "episode_number": 20,
+        "filename": "Hokuto No Ken Fan-Kai - 02x04 - Défaite totale.1080p.DvdRip.x264.Illuzionn.mkv",
         "is_special": false
       },
       {
@@ -4424,11 +4460,29 @@
       },
       {
         "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 492,
+        "episode_number": 21,
+        "filename": "Hokuto No Ken Fan-Kai - 02x05 - Deux frères.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
         "season_id": 70,
         "season_number": 2,
         "episode_id": 496,
         "episode_number": 6,
         "filename": "Hokuto No Ken Fan-Kai - 01x06 - Miracles.1080p.DvdRip.x264.Illuzionn.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 33,
+        "season_id": 69,
+        "season_number": 6,
+        "episode_id": 490,
+        "episode_number": 22,
+        "filename": "Hokuto No Ken Fan-Kai - 02x06 - Origines.1080p.DvdRip.x264.Illuzionn.mkv",
         "is_special": false
       },
       {
