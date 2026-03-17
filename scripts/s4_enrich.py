@@ -11,6 +11,7 @@ import re
 import time
 import json
 import sys
+import hashlib
 import requests
 import bencodepy as bencode    # pip install bencode.py
 
@@ -24,6 +25,12 @@ Path("data").mkdir(exist_ok=True)
 INPUT_FILE    = "data/torrent_resolved.json"
 OUTPUT_FILE   = "data/torrent_enriched.json"
 NYA_RAW_PATH  = "data/torrent_raw.json"
+
+# Fichiers .torrent locaux : { raw_name_exact: chemin_fichier }
+# Le raw_name doit correspondre exactement au champ "raw" dans torrent_resolved.json
+LOCAL_TORRENTS: dict[str, str] = {
+    "Reborn! Kaï": "reborn_kai.torrent",
+}
 
 # Sources de téléchargement de .torrent par infohash (fallback dans l'ordre)
 TORRENT_SOURCES = [
@@ -68,8 +75,32 @@ def _parse_bencode_files(data: dict) -> list[dict]:
 
     return files
 
+def _infohash_from_data(data: dict) -> str:
+    """Calcule l'infohash SHA1 depuis un dict bencode décodé."""
+    info = _bget(data, "info") or {}
+    return hashlib.sha1(bencode.encode(info)).hexdigest()
+
 
 # ─── Récupération + parsing du .torrent ──────────────────────────────────────
+
+def fetch_torrent_files_from_local(filepath: str) -> tuple[list[dict], str]:
+    """
+    Lit un fichier .torrent local et retourne (fichiers, infohash).
+    """
+    path = Path(filepath)
+    if not path.exists():
+        print(f"  [!] Fichier local introuvable : {filepath}")
+        return [], ""
+    try:
+        data = bencode.decode(path.read_bytes())
+        infohash = _infohash_from_data(data)
+        files = _parse_bencode_files(data)
+        print(f"  [✓] Fichier local OK: {filepath} (infohash={infohash})")
+        return files, infohash
+    except Exception as e:
+        print(f"  [!] Erreur lecture fichier local {filepath}: {e}")
+        return [], ""
+
 
 def fetch_torrent_files(infohash: str) -> list[dict]:
     """
@@ -124,17 +155,15 @@ _EP_PATTERNS = [
 _EP_FLOAT_PATTERN = re.compile(r"\b(\d{1,3}\.\d)\b")
 
 # Mots-clés bonus/extra — utilise \b pour éviter les faux positifs
-# ex: "ona" dans "national", "nced" dans autre chose, etc.
 _BONUS_KW_RE = re.compile(
     r"\b(?:bonus|extra|special|ova|ona|ncop|nced|opening|ending|film\s+bonus)\b",
     re.IGNORECASE
 )
 
 _SEASON_FOLDER_PATTERN = re.compile(r"(?:saison|partie|part)\s*(\d+)", re.IGNORECASE)
-_SEASON_FROM_FILE_PATTERN = re.compile(r"\b(\d{1,2})x\d{2,3}\b", re.IGNORECASE)  # 01x10 → saison 1
+_SEASON_FROM_FILE_PATTERN = re.compile(r"\b(\d{1,2})x\d{2,3}\b", re.IGNORECASE)
 
 def extract_season_from_path(path: list[str]) -> int | None:
-    """Déduit le numéro de saison depuis le dossier parent (ex: 'Saison 1', 'Saison 0')."""
     for folder in path[:-1]:
         m = _SEASON_FOLDER_PATTERN.search(folder)
         if m:
@@ -142,11 +171,9 @@ def extract_season_from_path(path: list[str]) -> int | None:
     return None
 
 def _is_bonus_filename(filename: str) -> bool:
-    """Retourne True si le nom de fichier contient un mot-clé bonus (avec word boundaries)."""
     return bool(_BONUS_KW_RE.search(filename))
 
 def extract_episode_number(filename: str) -> int | None:
-    # D'abord vérifier si c'est un numéro flottant (ex: 8.5) → traiter comme extra
     if _EP_FLOAT_PATTERN.search(filename):
         return None
     for pat in _EP_PATTERNS:
@@ -156,11 +183,9 @@ def extract_episode_number(filename: str) -> int | None:
     return None
 
 def extract_season_from_filename(filename: str) -> int | None:
-    """Extrait le numéro de saison depuis un nom de fichier style 01x10."""
     m = _SEASON_FROM_FILE_PATTERN.search(filename)
     return int(m.group(1)) if m else None
 
-# Dossiers à exclure de l'organisation (bonus, musiques, images...)
 _EXCLUDED_FOLDERS = {
     "endings", "ending", "openings", "opening", "ost", "artworks", "artwork",
     "bonus", "extras", "extra", "specials", "special", "ncop", "nced",
@@ -168,11 +193,9 @@ _EXCLUDED_FOLDERS = {
 }
 
 def _is_in_excluded_folder(path: list[str]) -> bool:
-    """Retourne True si le fichier est dans un dossier à exclure."""
     for folder in path[:-1]:
         if folder.lower().strip() in _EXCLUDED_FOLDERS:
             return True
-        # Préfixes connus : "ENDINGS", "ENDING 01", "OST", etc.
         folder_lower = folder.lower()
         if any(folder_lower.startswith(excl) for excl in _EXCLUDED_FOLDERS):
             return True
@@ -194,12 +217,10 @@ def parse_torrent_structure(files: list[dict]) -> dict:
                 folders.add(folder)
 
         if filename.lower().endswith((".mkv", ".mp4", ".avi")):
-            # Fichiers dans des dossiers bonus/musique/images → extras
             if _is_in_excluded_folder(path):
                 extras.append(filename)
                 continue
 
-            # Fichiers bonus/special dans le nom ou numéro flottant → saison 0
             if _is_bonus_filename(filename) or _EP_FLOAT_PATTERN.search(filename):
                 season_from_path = extract_season_from_path(path)
                 specials.append({
@@ -212,10 +233,8 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
             ep_num = extract_episode_number(filename)
             if ep_num is not None:
-                # Priorité : saison depuis le dossier > saison depuis le nom de fichier
                 season_num = extract_season_from_path(path) or extract_season_from_filename(filename)
 
-                # Fichier en saison 0 (dossier "Saison 0") → épisode 00 devient épisode 1
                 if season_num == 0:
                     specials.append({
                         "num"          : max(ep_num, 1),
@@ -239,7 +258,6 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
     episodes.sort(key=lambda e: e["num"])
 
-    # Numéroter les specials séquentiellement
     for i, sp in enumerate(specials, start=1):
         sp["num"] = i
 
@@ -276,20 +294,57 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
             continue
         if status not in ("ok", "partial", None):
             continue
-        # Toujours enrichir torrent_files même si resolved_episodes existe déjà
-        # (nécessaire pour que l'organizer sache où sont les fichiers)
 
         raw_name = torrent.get("raw", "")
         raw      = raw_by_title.get(raw_name)
 
-        # Fallback : utiliser directement torrent_url et infohash du torrent résolu
+        # ── Priorité 1 : fichier .torrent local ──────────────────────────────
+        local_path = LOCAL_TORRENTS.get(raw_name)
+        if local_path:
+            print(f"  → Parsing torrent local: {raw_name[:60]}")
+            files, infohash = fetch_torrent_files_from_local(local_path)
+            if files:
+                # Propager l'infohash si absent
+                if infohash and not torrent.get("infohash"):
+                    torrent["infohash"] = infohash
+                if infohash and not torrent.get("magnet"):
+                    import urllib.parse
+                    name = torrent.get("raw", "")
+                    magnet = f"magnet:?xt=urn:btih:{infohash}&dn={urllib.parse.quote(name)}"
+                    # Ajouter les trackers depuis le fichier .torrent si présents
+                    try:
+                        raw_data = bencode.decode(Path(local_path).read_bytes())
+                        announce = _bget(raw_data, "announce")
+                        if announce:
+                            magnet += f"&tr={urllib.parse.quote(_bstr(announce), safe='')}"
+                        announce_list = _bget(raw_data, "announce-list") or []
+                        for tier in announce_list:
+                            for tracker in (tier if isinstance(tier, list) else [tier]):
+                                t_url = _bstr(tracker)
+                                if t_url and f"tr={urllib.parse.quote(t_url, safe='')}" not in magnet:
+                                    magnet += f"&tr={urllib.parse.quote(t_url, safe='')}"
+                    except Exception:
+                        pass
+                    torrent["magnet"] = magnet
+                structure = parse_torrent_structure(files)
+                torrent["torrent_files"]   = structure["episodes"]
+                torrent["torrent_folders"] = structure["folders"]
+                torrent["torrent_extras"]  = structure["extras"]
+                torrent["file_ep_numbers"] = [e["num"] for e in structure["episodes"]]
+                print(f"     {len(structure['episodes'])} épisodes trouvés: {torrent['file_ep_numbers']}")
+                print(f"     Dossiers: {structure['folders']}")
+                enriched += 1
+                time.sleep(0.1)
+                continue
+
+        # ── Priorité 2 : URL directe ou infohash ─────────────────────────────
         torrent_url = (raw.get("torrent_url") or raw.get("torrent")) if raw else None
         torrent_url = torrent_url or torrent.get("torrent_url")
         infohash    = (raw.get("infohash") or raw.get("info_hash") or raw.get("hash")) if raw else None
         infohash    = infohash or torrent.get("infohash")
 
         if not infohash:
-            magnet = raw.get("magnet", "")
+            magnet = (raw.get("magnet", "") if raw else "") or torrent.get("magnet", "")
             m = re.search(r"btih:([a-fA-F0-9]{40})", magnet, re.I)
             if m:
                 infohash = m.group(1).lower()
@@ -322,9 +377,16 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        # Mode test : python s4_enrich.py <infohash>
-        infohash  = sys.argv[1]
-        files     = fetch_torrent_files(infohash)
+        arg = sys.argv[1]
+        # Mode test fichier local : python s4_enrich.py --local reborn_kai.torrent
+        if arg == "--local" and len(sys.argv) > 2:
+            local_file = sys.argv[2]
+            files, infohash = fetch_torrent_files_from_local(local_file)
+            print(f"  infohash: {infohash}")
+        else:
+            # Mode test infohash : python s4_enrich.py <infohash>
+            files = fetch_torrent_files(arg)
+
         structure = parse_torrent_structure(files)
 
         print(f"\n=== DOSSIERS ===")
