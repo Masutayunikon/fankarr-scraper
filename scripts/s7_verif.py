@@ -111,6 +111,26 @@ class FankaiClient:
                 })
         return episodes
 
+    def get_all_specials(self, serie_id: int) -> list[dict]:
+        """Retourne tous les épisodes de la saison 0 d'une série."""
+        specials = []
+        seen_ids = set()
+        for season in self.get_seasons(serie_id):
+            if season.get("season_number", 0) != 0:
+                continue
+            for ep in self.get_episodes(season["id"]):
+                eid = ep["id"]
+                if eid in seen_ids:
+                    continue
+                seen_ids.add(eid)
+                specials.append({
+                    "episode_id"    : eid,
+                    "episode_number": ep.get("episode_number"),
+                    "season_number" : 0,
+                    "season_id"     : season["id"],
+                })
+        return specials
+
 # ─── Collecte des épisodes couverts par les torrents ─────────────────────────
 
 def collect_covered_episodes(torrents: list[dict]) -> dict[int, set[int]]:
@@ -156,12 +176,16 @@ def main():
     series_in_file = set(covered.keys())
 
     # ── Rapport ──────────────────────────────────────────────────────────────
-    total_missing_eps    = 0
-    total_missing_series = 0
-    series_complete      = 0
+    total_missing_eps     = 0
+    total_missing_series  = 0
+    series_complete       = 0
+    total_api_eps         = 0
+    total_covered_eps     = 0
+    total_api_specials    = 0
+    total_covered_specials= 0
 
     print("=" * 65)
-    print(f"{'SÉRIE':<35} {'API':>5} {'OK':>5} {'MANQUE':>6}")
+    print(f"{'SÉRIE':<35} {'API':>5} {'OK/TOTAL':>9} {'MANQUE':>6}")
     print("=" * 65)
 
     for serie in sorted(all_series, key=lambda s: s.get("title", "")):
@@ -170,36 +194,47 @@ def main():
 
         # Récupérer tous les épisodes API pour cette série
         api_episodes = client.get_all_episodes(serie_id)
-        if not api_episodes:
+        api_specials = client.get_all_specials(serie_id)
+
+        if not api_episodes and not api_specials:
             continue  # Série sans épisodes sur l'API, on skip
 
-        api_ep_ids = {ep["episode_id"] for ep in api_episodes}
-        covered_ids = covered.get(serie_id, set())
-        missing_ids = api_ep_ids - covered_ids
+        api_ep_ids     = {ep["episode_id"] for ep in api_episodes}
+        api_sp_ids     = {ep["episode_id"] for ep in api_specials}
+        covered_ids    = covered.get(serie_id, set())
+        missing_ids    = api_ep_ids - covered_ids
 
-        api_count     = len(api_ep_ids)
-        covered_count = len(covered_ids & api_ep_ids)
-        missing_count = len(missing_ids)
+        api_count      = len(api_ep_ids)
+        covered_count  = len(covered_ids & api_ep_ids)
+        missing_count  = len(missing_ids)
+        sp_count       = len(api_sp_ids)
+        sp_covered     = len(covered_ids & api_sp_ids)
+
+        total_api_eps          += api_count
+        total_covered_eps      += covered_count
+        total_api_specials     += sp_count
+        total_covered_specials += sp_covered
+
+        sp_suffix = f"  [S00: {sp_covered}/{sp_count}]" if sp_count > 0 else ""
 
         # Série entièrement absente
         if serie_id not in series_in_file:
             total_missing_series += 1
             total_missing_eps    += api_count
-            print(f"  ✗ {serie_title:<33} {api_count:>5} {'0':>5} {api_count:>6}  ← SÉRIE ABSENTE")
+            print(f"  ✗ {serie_title:<33} {api_count:>5} {'0':>3}/{api_count:<3} {api_count:>6}  ← SÉRIE ABSENTE{sp_suffix}")
             continue
 
         if missing_count == 0:
             series_complete += 1
-            print(f"  ✓ {serie_title:<33} {api_count:>5} {covered_count:>5} {'0':>6}")
+            print(f"  ✓ {serie_title:<33} {api_count:>5} {covered_count:>3}/{api_count:<3} {'0':>6}{sp_suffix}")
         else:
             total_missing_eps += missing_count
-            # Construire la liste des numéros d'épisodes manquants
             missing_ep_labels = sorted(
                 f"S{ep['season_number']:02d}E{ep['episode_number']:02d}"
                 for ep in api_episodes
                 if ep["episode_id"] in missing_ids and ep["episode_number"] is not None
             )
-            print(f"  ⚠ {serie_title:<33} {api_count:>5} {covered_count:>5} {missing_count:>6}  → {', '.join(missing_ep_labels)}")
+            print(f"  ⚠ {serie_title:<33} {api_count:>5} {covered_count:>3}/{api_count:<3} {missing_count:>6}  → {', '.join(missing_ep_labels)}{sp_suffix}")
 
     # ── Résumé global ─────────────────────────────────────────────────────────
     print("=" * 65)
@@ -207,7 +242,9 @@ def main():
     print(f"  Séries complètes     : {series_complete}")
     print(f"  Séries avec manques  : {len(all_series) - series_complete - total_missing_series}")
     print(f"  Séries absentes      : {total_missing_series}")
+    print(f"  Épisodes couverts    : {total_covered_eps}/{total_api_eps}")
     print(f"  Épisodes manquants   : {total_missing_eps}")
+    print(f"  Spéciaux (S00)       : {total_covered_specials}/{total_api_specials}")
 
 if __name__ == "__main__":
     main()

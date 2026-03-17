@@ -32,6 +32,15 @@ LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
     "Reborn! Kaï (Fan-Kai)": ("reborn_kai.torrent", 60, "Reborn! Kaï", "pack_integrale"),
 }
 
+# Torrents manuels avec URL directe (pas de fichier local, pas sur Nyaa Fankai)
+# Format : { raw_name: (torrent_url, serie_id, serie_title, season_number, episode_number) }
+MANUAL_TORRENTS: dict[str, tuple[str, int, str, int, int]] = {
+    "My Hero Academia Henshū - Film 4 - You're Next": (
+        "https://nyaa.si/download/1964024.torrent",
+        6, "My Hero Academia Henshū", 0, 4
+    ),
+}
+
 # Sources de téléchargement de .torrent par infohash (fallback dans l'ordre)
 TORRENT_SOURCES = [
     "https://itorrents.org/torrent/{HASH}.torrent",
@@ -218,17 +227,33 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
         if filename.lower().endswith((".mkv", ".mp4", ".avi")):
             if _is_in_excluded_folder(path):
-                extras.append(filename)
+                # Exception : fichiers flottants (ex: 7,5 / 19,5) dans dossier bonus → saison 0
+                float_m2 = _EP_FLOAT_PATTERN.search(filename)
+                if float_m2:
+                    specials.append({
+                        "num"          : int(float(float_m2.group(1))),
+                        "filename"     : filename,
+                        "path"         : path,
+                        "size"         : size,
+                        "season_number": 0,
+                    })
+                else:
+                    extras.append(filename)
                 continue
 
-            if _is_bonus_filename(filename) or _EP_FLOAT_PATTERN.search(filename):
+            float_m = _EP_FLOAT_PATTERN.search(filename)
+            if _is_bonus_filename(filename) or float_m:
                 season_from_path = extract_season_from_path(path)
-                specials.append({
+                sp = {
                     "filename"     : filename,
                     "path"         : path,
                     "size"         : size,
                     "season_number": season_from_path if season_from_path == 0 else 0,
-                })
+                }
+                # Extraire le numéro entier depuis le flottant (ex: 8.5 → 8)
+                if float_m:
+                    sp["num"] = int(float(float_m.group(1)))
+                specials.append(sp)
                 continue
 
             ep_num = extract_episode_number(filename)
@@ -258,8 +283,12 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
     episodes.sort(key=lambda e: e["num"])
 
-    for i, sp in enumerate(specials, start=1):
-        sp["num"] = i
+    # Numéroter les specials séquentiellement (sauf ceux qui ont déjà un num depuis le flottant)
+    seq = 1
+    for sp in specials:
+        if "num" not in sp:
+            sp["num"] = seq
+        seq += 1
 
     all_episodes = episodes + specials
 
@@ -307,6 +336,33 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
                 "resolved_episodes": [],
                 "resolved_seasons" : [],
                 "resolve_status"   : "ok",
+                "torrent_files"    : [],
+                "torrent_folders"  : [],
+                "torrent_extras"   : [],
+                "file_ep_numbers"  : [],
+            })
+
+    # Injecter les torrents manuels (URL directe, épisode connu)
+    for raw_name, (torrent_url, serie_id, serie_title, season_number, episode_number) in MANUAL_TORRENTS.items():
+        if raw_name not in existing_raws:
+            print(f"  [MANUAL] Injection de '{raw_name}' dans le pipeline")
+            resolved.append({
+                "raw"              : raw_name,
+                "show_title"       : serie_title,
+                "groupe"           : None,
+                "type"             : "episode",
+                "episodes"         : [episode_number],
+                "saisons"          : [],
+                "torrent_url"      : torrent_url,
+                "magnet"           : None,
+                "infohash"         : None,
+                "serie_id"         : serie_id,
+                "serie_title"      : serie_title,
+                "season_id"        : None,
+                "season_number"    : season_number,
+                "resolved_episodes": [],
+                "resolved_seasons" : [],
+                "resolve_status"   : None,
                 "torrent_files"    : [],
                 "torrent_folders"  : [],
                 "torrent_extras"   : [],
@@ -374,7 +430,7 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
 
         if not infohash:
             magnet = (raw.get("magnet", "") if raw else "") or torrent.get("magnet", "")
-            m = re.search(r"btih:([a-fA-F0-9]{40})", magnet, re.I)
+            m = re.search(r"btih:([a-fA-F0-9]{40})", magnet or "", re.I)
             if m:
                 infohash = m.group(1).lower()
 

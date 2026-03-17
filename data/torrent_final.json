@@ -26035,6 +26035,15 @@
         "episode_number": 10,
         "filename": "[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - DVD.MULTI.x264.mkv",
         "is_special": true
+      },
+      {
+        "serie_id": 59,
+        "season_id": 138,
+        "season_number": 0,
+        "episode_id": 903,
+        "episode_number": 8,
+        "filename": "[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - DVD.MULTI.x264.mkv",
+        "is_special": true
       }
     ],
     "resolved_seasons": [],
@@ -26137,7 +26146,7 @@
         ],
         "size": 1090031591,
         "season_number": 0,
-        "num": 2
+        "num": 8
       }
     ],
     "torrent_folders": [],
@@ -26155,7 +26164,7 @@
       8,
       9,
       1,
-      2
+      8
     ],
     "unresolved_files": []
   },
@@ -29115,5 +29124,41 @@
       23
     ],
     "unresolved_files": []
+  },
+  {
+    "raw": "My Hero Academia Henshū - Film 4 - You're Next",
+    "show_title": "My Hero Academia Henshū",
+    "groupe": null,
+    "type": "episode",
+    "episodes": [
+      4
+    ],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1964024.torrent",
+    "magnet": null,
+    "infohash": null,
+    "serie_id": 6,
+    "serie_title": "My Hero Academia Henshū",
+    "season_id": null,
+    "season_number": 0,
+    "resolved_episodes": [
+      {
+        "serie_id": 6,
+        "season_id": 9,
+        "season_number": 0,
+        "episode_id": 28,
+        "episode_number": 4,
+        "filename": "My Hero Academia Henshū - Film 4 - You're Next",
+        "is_special": true
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [],
+    "torrent_folders": [],
+    "torrent_extras": [
+      "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
+    ],
+    "file_ep_numbers": []
   }
 ]

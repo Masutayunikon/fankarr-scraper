@@ -1,14 +1,5 @@
 """
 ÉTAPE 5 - Fankai Final Resolver
-=================================
-Pour chaque torrent enrichi (torrent_enriched.json), résout les file_ep_numbers
-en episode_id Fankai via l'API, avec :
-  - Détection des films spéciaux (numéros X,5) → saison 0
-  - Fallback sur série liée (ex: One Piece Yabai → One Piece Kaï)
-  - Cache Fankai réutilisé depuis step3
-
-Input  : torrent_enriched.json
-Output : torrent_final.json
 """
 
 import re
@@ -17,27 +8,15 @@ import time
 import requests
 from pathlib import Path
 
-
-# ─── Config ───────────────────────────────────────────────────────────────────
-
-FANKAI_BASE   = "https://metadata.fankai.fr"
+FANKAI_BASE = "https://metadata.fankai.fr"
 INPUT_FILE  = "data/torrent_enriched.json"
 OUTPUT_FILE = "data/torrent_final.json"
 CACHE_FILE  = "data/fankai_cache.json"
-DELAY         = 0.2
+DELAY       = 0.2
 
-from pathlib import Path
 Path("data").mkdir(exist_ok=True)
 
-# Liens entre séries : si épisode introuvable dans serie_id A → essayer B
-# Format : {serie_id_principal: serie_id_fallback}
-SERIE_FALLBACK = {
-    # One Piece Yabai (93) → fallback One Piece Kaï (92)
-    93: 92,
-}
-
-
-# ─── Cache (réutilisé depuis step3) ──────────────────────────────────────────
+SERIE_FALLBACK = { 93: 92 }
 
 class Cache:
     def __init__(self, path: str):
@@ -49,30 +28,18 @@ class Cache:
                 print(f"[Cache] {len(self.data)} entrées chargées")
             except Exception:
                 self.data = {}
-
-    def get(self, key):
-        return self.data.get(key)
-
+    def get(self, key): return self.data.get(key)
     def set(self, key, value):
         self.data[key] = value
-        self.path.write_text(
-            json.dumps(self.data, ensure_ascii=False, indent=2), encoding="utf-8"
-        )
-
-    def __contains__(self, key):
-        return key in self.data
-
-
-# ─── Client API Fankai ────────────────────────────────────────────────────────
+        self.path.write_text(json.dumps(self.data, ensure_ascii=False, indent=2), encoding="utf-8")
+    def __contains__(self, key): return key in self.data
 
 class FankaiClient:
     def __init__(self, cache: Cache):
         self.cache   = cache
         self.session = requests.Session()
-
     def _get(self, path: str):
-        if path in self.cache:
-            return self.cache.get(path)
+        if path in self.cache: return self.cache.get(path)
         try:
             r = self.session.get(f"{FANKAI_BASE}{path}", timeout=15)
             r.raise_for_status()
@@ -83,17 +50,12 @@ class FankaiClient:
         except Exception as e:
             print(f"  [!] API {path}: {e}")
             return None
-
     def get_seasons(self, serie_id: int) -> list[dict]:
         data = self._get(f"/series/{serie_id}/seasons")
         return data.get("seasons", []) if isinstance(data, dict) else []
-
     def get_episodes(self, season_id: int) -> list[dict]:
         data = self._get(f"/seasons/{season_id}/episodes")
         return data.get("episodes", []) if isinstance(data, dict) else []
-
-
-# ─── Resolver avec cache mémoire ─────────────────────────────────────────────
 
 class Resolver:
     def __init__(self, client: FankaiClient):
@@ -115,28 +77,15 @@ class Resolver:
                      season_number: int | None = None,
                      exclude_season_zero: bool = False,
                      strict_season: bool = False) -> dict | None:
-        """
-        Cherche episode_number dans les saisons de serie_id.
-        Si season_number fourni et strict_season=True → cherche UNIQUEMENT dans cette saison.
-        Si season_number fourni et strict_season=False → cherche d'abord dans cette saison.
-        Si exclude_season_zero=True → ignore la saison 0 (spéciaux/films).
-        """
         seasons = self._seasons(serie_id)
-
-        # Exclure saison 0 pour les épisodes normaux
         if exclude_season_zero:
             seasons = [s for s in seasons if s.get("season_number", 0) != 0]
-
-        # Strict : chercher UNIQUEMENT dans la saison demandée (ex: Partie 1/2/3)
         if season_number is not None and strict_season:
             ordered = [s for s in seasons if s.get("season_number") == season_number]
-        # Priorité : saison demandée en premier, fallback sur les autres
         elif season_number is not None:
-            ordered = sorted(seasons,
-                key=lambda s: 0 if s.get("season_number") == season_number else 1)
+            ordered = sorted(seasons, key=lambda s: 0 if s.get("season_number") == season_number else 1)
         else:
             ordered = seasons
-
         for season in ordered:
             for ep in self._episodes(season["id"]):
                 if ep.get("episode_number") == ep_number:
@@ -153,125 +102,80 @@ class Resolver:
                    season_number: int | None = None,
                    is_special: bool = False,
                    strict_season: bool = False) -> dict | None:
-        """Cherche l'épisode, avec fallback sur série liée si introuvable."""
-        # Les épisodes non-spéciaux ne doivent jamais matcher la saison 0
         exclude_s0 = not is_special
         result = self.find_episode(serie_id, ep_number, season_number,
-                                   exclude_season_zero=exclude_s0,
-                                   strict_season=strict_season)
-        if result:
-            return result
-
-        # Si strict a échoué → retenter sans strict (ex: numérotation API différente)
+                                   exclude_season_zero=exclude_s0, strict_season=strict_season)
+        if result: return result
         if strict_season and season_number is not None:
             result = self.find_episode(serie_id, ep_number, season_number,
-                                       exclude_season_zero=exclude_s0,
-                                       strict_season=False)
-            if result:
-                return result
-
-        # Fallback série liée (sans strict pour maximiser les chances)
+                                       exclude_season_zero=exclude_s0, strict_season=False)
+            if result: return result
         fallback_id = SERIE_FALLBACK.get(serie_id)
         if fallback_id:
             result = self.find_episode(fallback_id, ep_number, season_number,
-                                       exclude_season_zero=exclude_s0,
-                                       strict_season=False)
+                                       exclude_season_zero=exclude_s0, strict_season=False)
             if result:
                 print(f"    ↩️  ep {ep_number} trouvé via fallback serie {fallback_id}")
                 return result
-
         return None
 
-
-# ─── Index des séries connues (titre normalisé → serie_id) ──────────────────
 SERIE_PATTERNS: list[tuple[re.Pattern, int]] = [
-    # One Piece Yabai et Kaï → toujours résoudre sous série 92 (Kaï)
     (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 92),
     (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 92),
 ]
 
 def detect_serie_from_filename(filename: str, default_serie_id: int) -> int:
     for pattern, serie_id in SERIE_PATTERNS:
-        if pattern.search(filename):
-            return serie_id
+        if pattern.search(filename): return serie_id
     return default_serie_id
 
-
-# ─── Parsing des numéros de films spéciaux (X,5 ou X.5) ─────────────────────
-
-_SPECIAL_RE = re.compile(
-    r"(?:Henshu|Henshū|Ka[iï]|Yaba[iï])\s+(\d+)[,.]5\b",
-    re.IGNORECASE
-)
-_EPISODE_RE = re.compile(
-    r"(?:Henshu|Henshū|Ka[iï]|Yaba[iï])\s+(\d+)\b",
-    re.IGNORECASE
-)
-
-_S00_RE  = re.compile(r"S00E(\d+)", re.IGNORECASE)
-_SxxE_RE = re.compile(r"S(\d+)E(\d+)", re.IGNORECASE)
+_SPECIAL_RE = re.compile(r"(?:Henshu|Henshū|Ka[iï]|Yaba[iï])\s+(\d+)[,.]5\b", re.IGNORECASE)
+_EPISODE_RE = re.compile(r"(?:Henshu|Henshū|Ka[iï]|Yaba[iï])\s+(\d+)\b",      re.IGNORECASE)
+_S00_RE     = re.compile(r"S00E(\d+)",   re.IGNORECASE)
+_SxxE_RE    = re.compile(r"S(\d+)E(\d+)", re.IGNORECASE)
 
 SPECIAL_EP_MAP: dict[tuple[int, int], int] = {
     (6, 7):  1,  # MHA 7,5  → Two Heroes
     (6, 19): 2,  # MHA 19,5 → Heroes Rising
     (6, 20): 3,  # MHA 20,5 → World Heroes Mission
+    (6, 4):  4,  # MHA Film 4 → You're Next
 }
 
-# Offset épisode par saison torrent → numéro épisode global API
-# Format : {serie_id: {season_number_torrent: offset_a_ajouter}}
-# Ex: Hokuto saison 02 torrent → épisodes 17-22 sur l'API → offset +16
 SEASON_EP_OFFSET: dict[int, dict[int, int]] = {
     33: {2: 16},  # Hokuto No Ken Kaï : saison 02 → +16
 }
 
 def parse_file_episode(filename: str, serie_id: int = 0) -> tuple[int | None, bool, bool]:
     m = _S00_RE.search(filename)
-    if m:
-        return int(m.group(1)), True, True
-
+    if m: return int(m.group(1)), True, True
     m = _SPECIAL_RE.search(filename)
     if m:
         base_num = int(m.group(1))
         s0_num = SPECIAL_EP_MAP.get((serie_id, base_num))
-        if s0_num is not None:
-            return s0_num, True, True
+        if s0_num is not None: return s0_num, True, True
         return base_num, True, False
-
     m = _SxxE_RE.search(filename)
-    if m and int(m.group(1)) > 0:
-        return int(m.group(2)), False, False
-
+    if m and int(m.group(1)) > 0: return int(m.group(2)), False, False
     m = _EPISODE_RE.search(filename)
-    if m:
-        return int(m.group(1)), False, False
-
+    if m: return int(m.group(1)), False, False
     m = re.search(r"[-–]\s*(\d{1,3})\s*[-–]", filename)
-    if m:
-        return int(m.group(1)), False, False
-
+    if m: return int(m.group(1)), False, False
     return None, False, False
-
-
-# ─── Résolution complète d'une saison (pack_saison déjà résolu) ─────────────
 
 def resolve_season_episodes(torrent: dict, resolver: Resolver) -> dict:
     serie_id = torrent.get("serie_id")
-
     resolved_seasons = torrent.get("resolved_seasons") or []
     if resolved_seasons:
         seasons_to_resolve = resolved_seasons
     elif torrent.get("season_id"):
-        seasons_to_resolve = [{"season_id": torrent["season_id"],
-                                "season_number": torrent.get("season_number")}]
+        seasons_to_resolve = [{"season_id": torrent["season_id"], "season_number": torrent.get("season_number")}]
     else:
         return torrent
-
     resolved = []
     for s in seasons_to_resolve:
         season_id     = s["season_id"]
         season_number = s["season_number"]
-        episodes = resolver._episodes(season_id)
-        for ep in episodes:
+        for ep in resolver._episodes(season_id):
             resolved.append({
                 "serie_id"      : serie_id,
                 "season_id"     : season_id,
@@ -281,18 +185,12 @@ def resolve_season_episodes(torrent: dict, resolver: Resolver) -> dict:
                 "filename"      : None,
                 "is_special"    : False,
             })
-
-    if resolved:
-        torrent["resolved_episodes"] = resolved
+    if resolved: torrent["resolved_episodes"] = resolved
     return torrent
-
-
-# ─── Résolution des épisodes d'un torrent enrichi ────────────────────────────
 
 def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
     serie_id = torrent.get("serie_id")
-    if not serie_id:
-        return torrent
+    if not serie_id: return torrent
 
     torrent_files = torrent.get("torrent_files", [])
     if not torrent_files:
@@ -305,9 +203,8 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
     for f in torrent_files:
         filename    = f.get("filename", "")
         ep_num      = f.get("num")
-        file_season = f.get("season_number")  # issu du dossier "Saison/Partie 0/1/2..."
+        file_season = f.get("season_number")
 
-        # Si season_number absent, tenter de le déduire depuis le path
         if file_season is None:
             for folder in f.get("path", [])[:-1]:
                 m = re.search(r"(?:saison|partie|part)\s*(\d+)", folder, re.IGNORECASE)
@@ -315,51 +212,37 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
                     file_season = int(m.group(1))
                     break
 
-        is_special  = False
+        is_special    = False
         file_serie_id = serie_id
-        use_s0_map = False
+        use_s0_map    = False
 
         if filename:
             ep_num_parsed, is_special, use_s0_map = parse_file_episode(filename, serie_id)
-            if ep_num_parsed is not None:
-                ep_num = ep_num_parsed
+            if ep_num_parsed is not None: ep_num = ep_num_parsed
             file_serie_id = detect_serie_from_filename(filename, serie_id)
 
         if file_season == 0:
             is_special = True
             use_s0_map = False
-            if ep_num == 0:
-                ep_num = 1
+            if ep_num == 0: ep_num = 1
 
-        # Appliquer l'offset épisode si défini pour cette série/saison
         if file_season and file_season > 0 and ep_num is not None:
             offset = SEASON_EP_OFFSET.get(serie_id, {}).get(file_season)
-            if offset:
-                ep_num = ep_num + offset
+            if offset: ep_num = ep_num + offset
 
-        if ep_num is None:
-            continue
+        if ep_num is None: continue
 
-        # Spéciaux via map → strict saison 0
-        # Spéciaux sans map → priorité saison 0
-        # Normaux avec season_number connu (Partie/Saison) → strict sur cette saison
-        # Normaux sans season_number → exclure saison 0
         if use_s0_map:
-            season_hint = 0
-            strict      = True
+            season_hint, strict = 0, True
         elif is_special:
-            season_hint = 0
-            strict      = False
+            season_hint, strict = 0, False
         elif file_season is not None and file_season > 0:
-            season_hint = file_season
-            strict      = True
+            season_hint, strict = file_season, True
         else:
-            season_hint = None
-            strict      = False
+            season_hint, strict = None, False
 
         result = resolver.resolve_ep(file_serie_id, ep_num, season_hint,
                                      is_special=is_special, strict_season=strict)
-
         if result:
             result["filename"]   = filename
             result["is_special"] = is_special
@@ -367,9 +250,7 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
         else:
             unresolved.append({"episode_number": ep_num, "filename": filename})
 
-    # Dédupliquer par episode_id
-    seen    = set()
-    deduped = []
+    seen, deduped = set(), []
     for ep in resolved_episodes:
         eid = ep["episode_id"]
         if eid not in seen:
@@ -378,22 +259,16 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
 
     torrent["resolved_episodes"] = deduped
     torrent["unresolved_files"]  = unresolved
+    torrent["resolve_status"]    = "partial" if unresolved else "ok"
 
     if unresolved:
-        torrent["resolve_status"] = "partial"
-        print(f"    ⚠️  {len(unresolved)} fichiers non résolus: "
-              f"{[u['episode_number'] for u in unresolved]}")
-    else:
-        torrent["resolve_status"] = "ok"
+        print(f"    ⚠️  {len(unresolved)} fichiers non résolus: {[u['episode_number'] for u in unresolved]}")
 
     if deduped:
         torrent["season_id"]     = deduped[0]["season_id"]
         torrent["season_number"] = deduped[0]["season_number"]
 
     return torrent
-
-
-# ─── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
     with open(INPUT_FILE, encoding="utf-8") as f:
@@ -408,9 +283,28 @@ def main():
     print(f"[Step5] {enriched_count} torrents avec fichiers à résoudre\n")
 
     for i, torrent in enumerate(torrents, 1):
+        # ── Cas torrent manuel : season_number=0 et episodes connus, pas de torrent_files
+        if (torrent.get("season_number") == 0
+                and torrent.get("episodes")
+                and not torrent.get("resolved_episodes")
+                and not torrent.get("torrent_files")):
+            serie_id = torrent.get("serie_id")
+            for ep_num in torrent["episodes"]:
+                result = resolver.resolve_ep(serie_id, ep_num, season_number=0,
+                                             is_special=True, strict_season=True)
+                if result:
+                    result["filename"]   = torrent.get("raw", "")
+                    result["is_special"] = True
+                    torrent.setdefault("resolved_episodes", []).append(result)
+            if torrent.get("resolved_episodes"):
+                torrent["resolve_status"] = "ok"
+                print(f"[{i:3d}] {torrent.get('raw','')[:65]}")
+                print(f"       → Manuel S00: {[e['episode_id'] for e in torrent['resolved_episodes']]}")
+            continue
+
         if not torrent.get("torrent_files"):
             continue
-        # Skip si résolution complète ET nombre d'épisodes cohérent
+
         resolved_count = len(torrent.get("resolved_episodes") or [])
         files_count    = len(torrent.get("torrent_files") or [])
         if torrent.get("resolve_status") == "ok" and resolved_count > 0 and resolved_count >= files_count:
@@ -425,16 +319,11 @@ def main():
         print(f"       → {len(ep_ids)} épisodes résolus: {ep_ids[:10]}"
               f"{'...' if len(ep_ids) > 10 else ''}")
 
-    # Passe 2 : pack_saison avec season_id mais sans resolved_episodes
     print("\n--- Passe 2 : résolution des épisodes des pack_saison ---")
     for i, torrent in enumerate(torrents, 1):
-        if torrent.get("type") != "pack_saison":
-            continue
-        if torrent.get("resolved_episodes"):
-            continue
-        if not torrent.get("season_id"):
-            continue
-
+        if torrent.get("type") != "pack_saison": continue
+        if torrent.get("resolved_episodes"):      continue
+        if not torrent.get("season_id"):          continue
         raw = torrent.get("raw", "")
         print(f"[{i:3d}] {raw[:65]}")
         resolve_season_episodes(torrent, resolver)
@@ -442,12 +331,11 @@ def main():
         print(f"       → {len(ep_ids)} épisodes résolus: {ep_ids[:10]}"
               f"{'...' if len(ep_ids) > 10 else ''}")
 
-    # Résumé
     from collections import Counter
     statuses = Counter(t.get("resolve_status", "?") for t in torrents)
     print("\n=== RÉSUMÉ FINAL ===")
-    for s, c in sorted(statuses.items()):
-        print(f"  {s:20s} : {c}")
+    for s, c in sorted(statuses.items(), key=lambda x: x[0] or ""):
+        print(f"  {str(s or '?'):20s} : {c}")
 
     with_eps = sum(1 for t in torrents if t.get("resolved_episodes"))
     print(f"\n  Torrents avec episodes résolus : {with_eps}/{len(torrents)}")
@@ -455,7 +343,6 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(torrents, f, ensure_ascii=False, indent=2)
     print(f"\n✅ Résultat final → {OUTPUT_FILE}")
-
 
 if __name__ == "__main__":
     main()
