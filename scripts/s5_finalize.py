@@ -173,7 +173,7 @@ class Resolver:
 # Format : liste de (pattern_regex, serie_id)
 # L'ordre compte : plus spécifique en premier
 SERIE_PATTERNS: list[tuple[re.Pattern, int]] = [
-    # Yabai et Kaï → toujours résoudre sous série 92 (Kaï)
+    # One Piece Yabai avant Kaï (plus spécifique)
     (re.compile(r"One\s+Piece\s+Yaba[iï]", re.IGNORECASE), 92),
     (re.compile(r"One\s+Piece\s+Ka[iï]",   re.IGNORECASE), 92),
 ]
@@ -417,7 +417,11 @@ def main():
         # Uniquement les torrents enrichis par step4 sans résolution complète
         if not torrent.get("torrent_files"):
             continue
-        if torrent.get("resolve_status") == "ok" and torrent.get("resolved_episodes"):
+        # Skip seulement si résolution complète ET nombre d'épisodes cohérent
+        # (évite le cas où resolve_status="ok" mais un seul épisode résolu sur 37)
+        resolved_count = len(torrent.get("resolved_episodes") or [])
+        files_count    = len(torrent.get("torrent_files") or [])
+        if torrent.get("resolve_status") == "ok" and resolved_count > 0 and resolved_count >= files_count:
             continue
 
         raw = torrent.get("raw", "")

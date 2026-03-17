@@ -123,8 +123,12 @@ _EP_PATTERNS = [
 # Patterns pour détecter les numéros flottants type 8.5, 2.5...
 _EP_FLOAT_PATTERN = re.compile(r"\b(\d{1,3}\.\d)\b")
 
-# Mots-clés dans le nom de fichier indiquant un bonus/extra
-_BONUS_KEYWORDS = {"bonus", "extra", "special", "ova", "ona", "ncop", "nced", "opening", "ending"}
+# Mots-clés bonus/extra — utilise \b pour éviter les faux positifs
+# ex: "ona" dans "national", "nced" dans autre chose, etc.
+_BONUS_KW_RE = re.compile(
+    r"\b(?:bonus|extra|special|ova|ona|ncop|nced|opening|ending|film\s+bonus)\b",
+    re.IGNORECASE
+)
 
 _SEASON_FOLDER_PATTERN = re.compile(r"saison\s*(\d+)", re.IGNORECASE)
 _SEASON_FROM_FILE_PATTERN = re.compile(r"\b(\d{1,2})x\d{2,3}\b", re.IGNORECASE)  # 01x10 → saison 1
@@ -138,9 +142,8 @@ def extract_season_from_path(path: list[str]) -> int | None:
     return None
 
 def _is_bonus_filename(filename: str) -> bool:
-    """Retourne True si le nom de fichier contient un mot-clé bonus."""
-    name_lower = filename.lower()
-    return any(kw in name_lower for kw in _BONUS_KEYWORDS)
+    """Retourne True si le nom de fichier contient un mot-clé bonus (avec word boundaries)."""
+    return bool(_BONUS_KW_RE.search(filename))
 
 def extract_episode_number(filename: str) -> int | None:
     # D'abord vérifier si c'est un numéro flottant (ex: 8.5) → traiter comme extra

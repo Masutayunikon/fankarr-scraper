@@ -2608,10 +2608,337 @@
     "season_number": 1,
     "resolved_episodes": [
       {
+        "serie_id": 53,
+        "season_id": 112,
+        "season_number": 1,
+        "episode_id": 712,
+        "episode_number": 1,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 01 - La Meilleure des Guildes - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 112,
+        "season_number": 1,
+        "episode_id": 713,
+        "episode_number": 2,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 02 - La Malédiction de la Lune - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 112,
+        "season_number": 1,
+        "episode_id": 716,
+        "episode_number": 3,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 03 - La Guerre des Guildes - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 112,
+        "season_number": 1,
+        "episode_id": 711,
+        "episode_number": 4,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 04 - La Loi des Fées - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 112,
+        "season_number": 1,
+        "episode_id": 715,
+        "episode_number": 5,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 05 - La Tour du Paradis - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
         "season_id": 112,
         "season_number": 1,
         "episode_id": 714,
-        "episode_number": 6
+        "episode_number": 6,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 06 - La Bataille de Fairy Tail - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 110,
+        "season_number": 2,
+        "episode_id": 700,
+        "episode_number": 7,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 07 - Coalition de Guildes - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 110,
+        "season_number": 2,
+        "episode_id": 701,
+        "episode_number": 8,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 08 - Lumière et Ténèbres - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 110,
+        "season_number": 2,
+        "episode_id": 704,
+        "episode_number": 9,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 09 - La Puissance du Nirvana - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 110,
+        "season_number": 2,
+        "episode_id": 703,
+        "episode_number": 10,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 10 - Un Autre Monde - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 110,
+        "season_number": 2,
+        "episode_id": 699,
+        "episode_number": 11,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 11 - Extalia, le Pays des Chats - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 110,
+        "season_number": 2,
+        "episode_id": 702,
+        "episode_number": 12,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 12 - La Guerre d'Edolas - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 107,
+        "season_number": 3,
+        "episode_id": 684,
+        "episode_number": 13,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 13 - L'Examen des Rangs S - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 107,
+        "season_number": 3,
+        "episode_id": 682,
+        "episode_number": 14,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 14 - Les Chevaliers du Purgatoire - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 107,
+        "season_number": 3,
+        "episode_id": 680,
+        "episode_number": 15,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 15 - La Bataille de Tenrô - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 107,
+        "season_number": 3,
+        "episode_id": 683,
+        "episode_number": 16,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 16 - Acnologia - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 107,
+        "season_number": 3,
+        "episode_id": 681,
+        "episode_number": 17,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 17 - Fairy Tail, Année X-791 - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 111,
+        "season_number": 4,
+        "episode_id": 707,
+        "episode_number": 18,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 18 - Crocus, la Cité Fleurie - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 111,
+        "season_number": 4,
+        "episode_id": 706,
+        "episode_number": 19,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 19 - Le Deuxième Jour - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 111,
+        "season_number": 4,
+        "episode_id": 705,
+        "episode_number": 20,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 20 - Pour la Première Place - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 111,
+        "season_number": 4,
+        "episode_id": 710,
+        "episode_number": 21,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 21 - L’Ordre des Loups Affamés - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 111,
+        "season_number": 4,
+        "episode_id": 709,
+        "episode_number": 22,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 22 - Destin - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 111,
+        "season_number": 4,
+        "episode_id": 708,
+        "episode_number": 23,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 23 - La Fin du Monde - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 108,
+        "season_number": 5,
+        "episode_id": 685,
+        "episode_number": 24,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 24 - Le Village du Soleil - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 108,
+        "season_number": 5,
+        "episode_id": 687,
+        "episode_number": 25,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 25 - La Porte des Neuf Démons - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 108,
+        "season_number": 5,
+        "episode_id": 689,
+        "episode_number": 26,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 26 - Face et le Roi des Enfers - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 108,
+        "season_number": 5,
+        "episode_id": 688,
+        "episode_number": 27,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 27 - Père et Fils - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 108,
+        "season_number": 5,
+        "episode_id": 690,
+        "episode_number": 28,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 28 - Ignir - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 108,
+        "season_number": 5,
+        "episode_id": 686,
+        "episode_number": 29,
+        "filename": "[Avalokitesvara] Fairy Tail Kai - 29 - Zerø - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 696,
+        "episode_number": 30,
+        "filename": "[Livaï] Fairy Tail Kai - 30 - Rassemblement - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 695,
+        "episode_number": 31,
+        "filename": "[Livaï] Fairy Tail Kai - 31 - L'Empereur Spriggan - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 697,
+        "episode_number": 32,
+        "filename": "[Livaï] Fairy Tail Kai - 32 - La défense de Magnolia - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 698,
+        "episode_number": 33,
+        "filename": "[Livaï] Fairy Tail Kai - 33 - Détermination - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 691,
+        "episode_number": 34,
+        "filename": "[Livaï] Fairy Tail Kai - 34 - Universe One - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 692,
+        "episode_number": 35,
+        "filename": "[Livaï] Fairy Tail Kai - 35 - Il y a 400 ans - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 694,
+        "episode_number": 36,
+        "filename": "[Livaï] Fairy Tail Kai - 36 - Néo-Éclipse - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 53,
+        "season_id": 109,
+        "season_number": 6,
+        "episode_id": 693,
+        "episode_number": 37,
+        "filename": "[Livaï] Fairy Tail Kai - 37 - Liés par le cœur - 1080p.MULTI.x264.mkv",
+        "is_special": false
       }
     ],
     "resolved_seasons": [],
@@ -3122,7 +3449,8 @@
       35,
       36,
       37
-    ]
+    ],
+    "unresolved_files": []
   },
   {
     "raw": "Fullmetal Alchemist Kaï (Fan-Kai) -  INTEGRALE (12 films) - 1080p.x264 [Johker] [VO|VF] [Subtitles] [FR|POR]",
@@ -5749,14 +6077,14 @@
     ]
   },
   {
-    "raw": "One Piece Kaï ULTIMATE PACK (Yabaï/Kaï 1-133) (Fan-Kai).MULTI.VF/VOSTFR",
+    "raw": "One Piece Kaï ULTIMATE PACK (Yabai/Kai 1-133) (Fan-Kai).MULTI.VF/VOSTFR",
     "show_title": "One Piece Kaï",
     "groupe": null,
     "type": "pack_integrale",
     "episodes": [],
     "saisons": [],
     "torrent_url": "https://nyaa.si/download/2084491.torrent",
-    "magnet": "magnet:?xt=urn:btih:89f8ee4c67ef236a88d4a7f0c419807a7a0b6496&dn=One%20Piece%20Ka%C3%AF%20ULTIMATE%20PACK%20%28Yaba%C3%AF%2FKa%C3%AF%201-133%29%20%28Fan-Kai%29.MULTI.VF%2FVOSTFR&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "magnet": "magnet:?xt=urn:btih:89f8ee4c67ef236a88d4a7f0c419807a7a0b6496&dn=One%20Piece%20Ka%C3%AF%20ULTIMATE%20PACK%20%28Yabai%2FKai%201-133%29%20%28Fan-Kai%29.MULTI.VF%2FVOSTFR&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
     "serie_id": 92,
     "serie_title": "One Piece Kaï",
@@ -8703,6 +9031,15 @@
         "episode_number": 8,
         "filename": "[Titou] Slam dunk Kaï Film 8 - Les débuts du bonze roux -  VOSTFR X264 1080p.mkv",
         "is_special": false
+      },
+      {
+        "serie_id": 82,
+        "season_id": 207,
+        "season_number": 1,
+        "episode_id": 1276,
+        "episode_number": 9,
+        "filename": "[Titou] Slam dunk Kaï Film 9 - Aux portes du tournoi national -  VOSTFR X264 1080p.mkv",
+        "is_special": false
       }
     ],
     "resolved_seasons": [],
@@ -8781,13 +9118,13 @@
         "season_number": null
       },
       {
+        "num": 9,
         "filename": "[Titou] Slam dunk Kaï Film 9 - Aux portes du tournoi national -  VOSTFR X264 1080p.mkv",
         "path": [
           "[Titou] Slam dunk Kaï Film 9 - Aux portes du tournoi national -  VOSTFR X264 1080p.mkv"
         ],
         "size": 3834683344,
-        "season_number": 0,
-        "num": 1
+        "season_number": null
       }
     ],
     "torrent_folders": [],
@@ -8801,7 +9138,7 @@
       6,
       7,
       8,
-      1
+      9
     ],
     "unresolved_files": []
   },
@@ -8905,19 +9242,19 @@
         "serie_id": 69,
         "season_id": 167,
         "season_number": 1,
-        "episode_id": 1062,
-        "episode_number": 11,
-        "filename": "[Triggerforce]Soul Eater Kaï 11 - La bataille pour l'Infusio.mkv",
+        "episode_id": 1065,
+        "episode_number": 10,
+        "filename": "[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv",
         "is_special": false
       },
       {
         "serie_id": 69,
         "season_id": 167,
         "season_number": 1,
-        "episode_id": 1065,
-        "episode_number": 10,
-        "filename": "[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv",
-        "is_special": true
+        "episode_id": 1062,
+        "episode_number": 11,
+        "filename": "[Triggerforce]Soul Eater Kaï 11 - La bataille pour l'Infusio.mkv",
+        "is_special": false
       }
     ],
     "resolved_seasons": [],
@@ -9005,6 +9342,15 @@
         "season_number": null
       },
       {
+        "num": 10,
+        "filename": "[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv",
+        "path": [
+          "[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv"
+        ],
+        "size": 584121506,
+        "season_number": null
+      },
+      {
         "num": 11,
         "filename": "[Triggerforce]Soul Eater Kaï 11 - La bataille pour l'Infusio.mkv",
         "path": [
@@ -9012,15 +9358,6 @@
         ],
         "size": 1357932369,
         "season_number": null
-      },
-      {
-        "filename": "[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv",
-        "path": [
-          "[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv"
-        ],
-        "size": 584121506,
-        "season_number": 0,
-        "num": 1
       }
     ],
     "torrent_folders": [],
@@ -9035,8 +9372,8 @@
       7,
       8,
       9,
-      11,
-      1
+      10,
+      11
     ],
     "unresolved_files": []
   },
@@ -9799,6 +10136,15 @@
         "serie_id": 23,
         "season_id": 46,
         "season_number": 1,
+        "episode_id": 379,
+        "episode_number": 2,
+        "filename": "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 23,
+        "season_id": 46,
+        "season_number": 1,
         "episode_id": 378,
         "episode_number": 3,
         "filename": "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 03 - Ishigami, le trésorier - 1080p.MULTI.x264.mkv",
@@ -9875,15 +10221,6 @@
         "episode_number": 11,
         "filename": "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 11 - Dual au sommet - 1080p.MULTI.x264.mkv",
         "is_special": false
-      },
-      {
-        "serie_id": 23,
-        "season_id": 46,
-        "season_number": 1,
-        "episode_id": 379,
-        "episode_number": 2,
-        "filename": "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv",
-        "is_special": true
       }
     ],
     "resolved_seasons": [],
@@ -9897,6 +10234,16 @@
           "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 01 - Guerre romantico-psychologique - 1080p.MULTI.x264.mkv"
         ],
         "size": 1763888370,
+        "season_number": 1
+      },
+      {
+        "num": 2,
+        "filename": "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Saison 1",
+          "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1329906746,
         "season_number": 1
       },
       {
@@ -9988,16 +10335,6 @@
         ],
         "size": 1997447009,
         "season_number": 1
-      },
-      {
-        "filename": "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1329906746,
-        "season_number": 0,
-        "num": 1
       }
     ],
     "torrent_folders": [
@@ -10008,6 +10345,7 @@
     ],
     "file_ep_numbers": [
       1,
+      2,
       3,
       4,
       5,
@@ -10016,8 +10354,7 @@
       8,
       9,
       10,
-      11,
-      1
+      11
     ],
     "unresolved_files": []
   },
@@ -10353,19 +10690,19 @@
     "resolve_status": "ok",
     "torrent_files": [
       {
+        "num": 4,
         "filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv",
         "path": [
           "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv"
         ],
         "size": 2456455058,
-        "season_number": 0,
-        "num": 1
+        "season_number": null
       }
     ],
     "torrent_folders": [],
     "torrent_extras": [],
     "file_ep_numbers": [
-      1
+      4
     ]
   },
   {
@@ -13576,10 +13913,10 @@
         "serie_id": 21,
         "season_id": 39,
         "season_number": 1,
-        "episode_id": 347,
-        "episode_number": 3,
-        "filename": "[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "episode_id": 355,
+        "episode_number": 1,
+        "filename": "[Johker] Détective Conan Kaï - 001 - Conan Edogawa, Détective - 1080p.MULTI.x264.mkv",
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13588,16 +13925,16 @@
         "episode_id": 351,
         "episode_number": 2,
         "filename": "[Johker] Détective Conan Kaï - 002 - École, gadgets, et assassinats - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
         "season_id": 39,
         "season_number": 1,
-        "episode_id": 355,
-        "episode_number": 1,
-        "filename": "[Johker] Détective Conan Kaï - 001 - Conan Edogawa, Détective - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "episode_id": 347,
+        "episode_number": 3,
+        "filename": "[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv",
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13606,7 +13943,7 @@
         "episode_id": 356,
         "episode_number": 4,
         "filename": "[Johker] Détective Conan Kaï - 004 - Attentat en première classe - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13615,7 +13952,7 @@
         "episode_id": 348,
         "episode_number": 5,
         "filename": "[Johker] Détective Conan Kaï - 005 - L'Homme aux bandelettes - 1080p.MULTI.x264 (1).mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13624,7 +13961,7 @@
         "episode_id": 354,
         "episode_number": 6,
         "filename": "[Johker] Détective Conan Kaï - 006 - Sous le masque - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13633,7 +13970,7 @@
         "episode_id": 353,
         "episode_number": 7,
         "filename": "[Johker] Détective Conan Kaï - 007 - Une réputation à construire - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13642,7 +13979,7 @@
         "episode_id": 352,
         "episode_number": 8,
         "filename": "[Johker] Détective Conan Kaï - 008 - Sonate pour crime au clair de lune - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13651,7 +13988,7 @@
         "episode_id": 350,
         "episode_number": 9,
         "filename": "[Johker] Détective Conan Kaï - 009 - Le Virus du Baron Noir - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13660,7 +13997,7 @@
         "episode_id": 349,
         "episode_number": 10,
         "filename": "[Johker] Détective Conan Kaï - 010 - Mariage et enlèvement - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13669,7 +14006,7 @@
         "episode_id": 344,
         "episode_number": 11,
         "filename": "[Johker] Détective Conan Kaï - 011 - Réunion de classe - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13678,7 +14015,7 @@
         "episode_id": 346,
         "episode_number": 12,
         "filename": "[Johker] Détective Conan Kaï - 012 - Mort en héritage - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       },
       {
         "serie_id": 21,
@@ -13687,7 +14024,7 @@
         "episode_id": 345,
         "episode_number": 13,
         "filename": "[Johker] Détective Conan Kaï - 013 - Rivalité de l'Ouest - 1080p.MULTI.x264.mkv",
-        "is_special": true
+        "is_special": false
       }
     ],
     "resolved_seasons": [
@@ -13699,28 +14036,7 @@
     "resolve_status": "ok",
     "torrent_files": [
       {
-        "filename": "[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Arc 1 - Conan",
-          "Conan - Partie 1",
-          "[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1575162606,
-        "season_number": 0,
-        "num": 1
-      },
-      {
-        "filename": "[Johker] Détective Conan Kaï - 002 - École, gadgets, et assassinats - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Arc 1 - Conan",
-          "Conan - Partie 1",
-          "[Johker] Détective Conan Kaï - 002 - École, gadgets, et assassinats - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1183340700,
-        "season_number": 0,
-        "num": 2
-      },
-      {
+        "num": 1,
         "filename": "[Johker] Détective Conan Kaï - 001 - Conan Edogawa, Détective - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13728,10 +14044,32 @@
           "[Johker] Détective Conan Kaï - 001 - Conan Edogawa, Détective - 1080p.MULTI.x264.mkv"
         ],
         "size": 784850485,
-        "season_number": 0,
-        "num": 3
+        "season_number": null
       },
       {
+        "num": 2,
+        "filename": "[Johker] Détective Conan Kaï - 002 - École, gadgets, et assassinats - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Arc 1 - Conan",
+          "Conan - Partie 1",
+          "[Johker] Détective Conan Kaï - 002 - École, gadgets, et assassinats - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1183340700,
+        "season_number": null
+      },
+      {
+        "num": 3,
+        "filename": "[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Arc 1 - Conan",
+          "Conan - Partie 1",
+          "[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1575162606,
+        "season_number": null
+      },
+      {
+        "num": 4,
         "filename": "[Johker] Détective Conan Kaï - 004 - Attentat en première classe - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13739,10 +14077,10 @@
           "[Johker] Détective Conan Kaï - 004 - Attentat en première classe - 1080p.MULTI.x264.mkv"
         ],
         "size": 884622003,
-        "season_number": 0,
-        "num": 4
+        "season_number": null
       },
       {
+        "num": 5,
         "filename": "[Johker] Détective Conan Kaï - 005 - L'Homme aux bandelettes - 1080p.MULTI.x264 (1).mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13750,10 +14088,10 @@
           "[Johker] Détective Conan Kaï - 005 - L'Homme aux bandelettes - 1080p.MULTI.x264 (1).mkv"
         ],
         "size": 1195238688,
-        "season_number": 0,
-        "num": 5
+        "season_number": null
       },
       {
+        "num": 6,
         "filename": "[Johker] Détective Conan Kaï - 006 - Sous le masque - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13761,10 +14099,10 @@
           "[Johker] Détective Conan Kaï - 006 - Sous le masque - 1080p.MULTI.x264.mkv"
         ],
         "size": 803124340,
-        "season_number": 0,
-        "num": 6
+        "season_number": null
       },
       {
+        "num": 7,
         "filename": "[Johker] Détective Conan Kaï - 007 - Une réputation à construire - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13772,10 +14110,10 @@
           "[Johker] Détective Conan Kaï - 007 - Une réputation à construire - 1080p.MULTI.x264.mkv"
         ],
         "size": 1237432254,
-        "season_number": 0,
-        "num": 7
+        "season_number": null
       },
       {
+        "num": 8,
         "filename": "[Johker] Détective Conan Kaï - 008 - Sonate pour crime au clair de lune - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13783,10 +14121,10 @@
           "[Johker] Détective Conan Kaï - 008 - Sonate pour crime au clair de lune - 1080p.MULTI.x264.mkv"
         ],
         "size": 877018749,
-        "season_number": 0,
-        "num": 8
+        "season_number": null
       },
       {
+        "num": 9,
         "filename": "[Johker] Détective Conan Kaï - 009 - Le Virus du Baron Noir - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13794,10 +14132,10 @@
           "[Johker] Détective Conan Kaï - 009 - Le Virus du Baron Noir - 1080p.MULTI.x264.mkv"
         ],
         "size": 1241068003,
-        "season_number": 0,
-        "num": 9
+        "season_number": null
       },
       {
+        "num": 10,
         "filename": "[Johker] Détective Conan Kaï - 010 - Mariage et enlèvement - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13805,10 +14143,10 @@
           "[Johker] Détective Conan Kaï - 010 - Mariage et enlèvement - 1080p.MULTI.x264.mkv"
         ],
         "size": 921826536,
-        "season_number": 0,
-        "num": 10
+        "season_number": null
       },
       {
+        "num": 11,
         "filename": "[Johker] Détective Conan Kaï - 011 - Réunion de classe - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13816,10 +14154,10 @@
           "[Johker] Détective Conan Kaï - 011 - Réunion de classe - 1080p.MULTI.x264.mkv"
         ],
         "size": 646811034,
-        "season_number": 0,
-        "num": 11
+        "season_number": null
       },
       {
+        "num": 12,
         "filename": "[Johker] Détective Conan Kaï - 012 - Mort en héritage - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13827,10 +14165,10 @@
           "[Johker] Détective Conan Kaï - 012 - Mort en héritage - 1080p.MULTI.x264.mkv"
         ],
         "size": 716575622,
-        "season_number": 0,
-        "num": 12
+        "season_number": null
       },
       {
+        "num": 13,
         "filename": "[Johker] Détective Conan Kaï - 013 - Rivalité de l'Ouest - 1080p.MULTI.x264.mkv",
         "path": [
           "Arc 1 - Conan",
@@ -13838,8 +14176,7 @@
           "[Johker] Détective Conan Kaï - 013 - Rivalité de l'Ouest - 1080p.MULTI.x264.mkv"
         ],
         "size": 887358044,
-        "season_number": 0,
-        "num": 13
+        "season_number": null
       }
     ],
     "torrent_folders": [
@@ -17048,14 +17385,89 @@
     "infohash": "1078afd85dc66cee136eec916b13b3ffd7f3b173",
     "serie_id": 64,
     "serie_title": "Jojo's Bizarre Adventure Henshū",
-    "season_id": 151,
-    "season_number": 3,
+    "season_id": 155,
+    "season_number": 1,
     "resolved_episodes": [
       {
+        "serie_id": 64,
+        "season_id": 155,
+        "season_number": 1,
+        "episode_id": 999,
+        "episode_number": 1,
+        "filename": "[Livaï] JoJo's Bizarre Adventure Phantom Blood Henshū 01 - Dio l'envahisseur - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 155,
+        "season_number": 1,
+        "episode_id": 998,
+        "episode_number": 2,
+        "filename": "[Livaï] JoJo's Bizarre Adventure Phantom Blood Henshū 02 - L'onde - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 153,
+        "season_number": 2,
+        "episode_id": 987,
+        "episode_number": 3,
+        "filename": "[Livaï] JoJo's Bizarre Adventure Battle Tendency Henshū 03 - Les progrès des rivaux - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 153,
+        "season_number": 2,
+        "episode_id": 990,
+        "episode_number": 4,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Diamond is Unbreakable Henshū 04 - Le Meurtrier - 1080p.VOSTFR.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
         "season_id": 151,
         "season_number": 3,
         "episode_id": 971,
-        "episode_number": 5
+        "episode_number": 5,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 05 - Iggy - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 151,
+        "season_number": 3,
+        "episode_id": 977,
+        "episode_number": 6,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 06 - En route pour Le Caire - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 151,
+        "season_number": 3,
+        "episode_id": 973,
+        "episode_number": 7,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 07 - Une aiguille dans une botte de foin - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 151,
+        "season_number": 3,
+        "episode_id": 976,
+        "episode_number": 8,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 08 - Le manoir de Dio - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 64,
+        "season_id": 151,
+        "season_number": 3,
+        "episode_id": 974,
+        "episode_number": 9,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 09 - The World - 1080p.MULTI.x264.mkv",
+        "is_special": false
       }
     ],
     "resolved_seasons": [],
@@ -17099,6 +17511,16 @@
           "[Livaï] Jojo’s Bizarre Adventure Diamond is Unbreakable Henshū 01 - Josuke Higashikata - 1080p.VOSTFR.x264.mkv"
         ],
         "size": 2619979507,
+        "season_number": null
+      },
+      {
+        "num": 1,
+        "filename": "[Livaï] Jojo’s Bizarre Adventure Golden Wind Henshū 01 - Giorno Giovanna - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Partie 5 - Golden Wind",
+          "[Livaï] Jojo’s Bizarre Adventure Golden Wind Henshū 01 - Giorno Giovanna - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1687459874,
         "season_number": null
       },
       {
@@ -17360,16 +17782,6 @@
         ],
         "size": 1092627080,
         "season_number": null
-      },
-      {
-        "filename": "[Livaï] Jojo’s Bizarre Adventure Golden Wind Henshū 01 - Giorno Giovanna - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Partie 5 - Golden Wind",
-          "[Livaï] Jojo’s Bizarre Adventure Golden Wind Henshū 01 - Giorno Giovanna - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1687459874,
-        "season_number": 0,
-        "num": 1
       }
     ],
     "torrent_folders": [
@@ -17387,6 +17799,7 @@
       1,
       1,
       1,
+      1,
       2,
       2,
       2,
@@ -17412,9 +17825,9 @@
       8,
       8,
       9,
-      9,
-      1
-    ]
+      9
+    ],
+    "unresolved_files": []
   },
   {
     "raw": "[Livaï] Eyeshield 21 Kaï (Fan-Kai) - Intégrale (13 films) - 640p.MULTI.x264",
@@ -17785,6 +18198,15 @@
         "serie_id": 16,
         "season_id": 29,
         "season_number": 2,
+        "episode_id": 279,
+        "episode_number": 9,
+        "filename": "[Livaï] Inazuma Eleven 09 (Fan-kai) - Les Extraterrestres débarquent - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 16,
+        "season_id": 29,
+        "season_number": 2,
         "episode_id": 288,
         "episode_number": 10,
         "filename": "[Livaï] Inazuma Eleven 10 (Fan-kai) - Le Prince des neiges - 1080p.MULTI.x264.mkv",
@@ -17956,6 +18378,16 @@
         "season_number": 1
       },
       {
+        "num": 9,
+        "filename": "[Livaï] Inazuma Eleven 09 (Fan-kai) - Les Extraterrestres débarquent - 1080p.MULTI.x264.mkv",
+        "path": [
+          "Saison 2",
+          "[Livaï] Inazuma Eleven 09 (Fan-kai) - Les Extraterrestres débarquent - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1576148483,
+        "season_number": 2
+      },
+      {
         "num": 10,
         "filename": "[Livaï] Inazuma Eleven 10 (Fan-kai) - Le Prince des neiges - 1080p.MULTI.x264.mkv",
         "path": [
@@ -18044,16 +18476,6 @@
         ],
         "size": 1140100620,
         "season_number": 2
-      },
-      {
-        "filename": "[Livaï] Inazuma Eleven 09 (Fan-kai) - Les Extraterrestres débarquent - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[Livaï] Inazuma Eleven 09 (Fan-kai) - Les Extraterrestres débarquent - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1576148483,
-        "season_number": 0,
-        "num": 1
       }
     ],
     "torrent_folders": [
@@ -18070,6 +18492,7 @@
       6,
       7,
       8,
+      9,
       10,
       11,
       12,
@@ -18078,8 +18501,7 @@
       15,
       16,
       17,
-      18,
-      1
+      18
     ],
     "unresolved_files": []
   },
@@ -19853,6 +20275,98 @@
       2,
       3,
       4
+    ],
+    "unresolved_files": []
+  },
+  {
+    "raw": "[Manny] Yu-Gi-Oh! Kaï Saison 2 (Partie 1) - 480p.MULTISUB.x264",
+    "show_title": "Yu-Gi-Oh! Kaï",
+    "groupe": "Manny",
+    "type": "pack_saison",
+    "episodes": [],
+    "saisons": [
+      2
+    ],
+    "torrent_url": "https://nyaa.si/download/2070687.torrent",
+    "magnet": "magnet:?xt=urn:btih:7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%20Saison%202%20%28Partie%201%29%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
+    "serie_id": 43,
+    "serie_title": "Yu-Gi-Oh! Kaï",
+    "season_id": 87,
+    "season_number": 2,
+    "resolved_episodes": [
+      {
+        "serie_id": 43,
+        "season_id": 87,
+        "season_number": 2,
+        "episode_id": 584,
+        "episode_number": 5,
+        "filename": "[Manny] Yu-Gi-Oh! Kaï 05 - Le royaume des duellistes - 480p.MULTISUB.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 43,
+        "season_id": 87,
+        "season_number": 2,
+        "episode_id": 585,
+        "episode_number": 6,
+        "filename": "[Manny] Yu-Gi-Oh! Kaï 06 - Les cicatrices de la défaite - 480p.MULTISUB.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 43,
+        "season_id": 87,
+        "season_number": 2,
+        "episode_id": 586,
+        "episode_number": 7,
+        "filename": "[Manny] Yu-Gi-Oh! Kaï 07 - Pris au piège - 480p.MULTISUB.x264.mkv",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [
+      {
+        "season_id": 87,
+        "season_number": 2
+      }
+    ],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 5,
+        "filename": "[Manny] Yu-Gi-Oh! Kaï 05 - Le royaume des duellistes - 480p.MULTISUB.x264.mkv",
+        "path": [
+          "[Manny] Yu-Gi-Oh! Kaï 05 - Le royaume des duellistes - 480p.MULTISUB.x264.mkv"
+        ],
+        "size": 1953787298,
+        "season_number": null
+      },
+      {
+        "num": 6,
+        "filename": "[Manny] Yu-Gi-Oh! Kaï 06 - Les cicatrices de la défaite - 480p.MULTISUB.x264.mkv",
+        "path": [
+          "[Manny] Yu-Gi-Oh! Kaï 06 - Les cicatrices de la défaite - 480p.MULTISUB.x264.mkv"
+        ],
+        "size": 1638334233,
+        "season_number": null
+      },
+      {
+        "num": 7,
+        "filename": "[Manny] Yu-Gi-Oh! Kaï 07 - Pris au piège - 480p.MULTISUB.x264.mkv",
+        "path": [
+          "[Manny] Yu-Gi-Oh! Kaï 07 - Pris au piège - 480p.MULTISUB.x264.mkv"
+        ],
+        "size": 1552621689,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [
+      "Pack métadonnées (Saison 2).zip"
+    ],
+    "file_ep_numbers": [
+      5,
+      6,
+      7
     ],
     "unresolved_files": []
   },
@@ -26743,19 +27257,19 @@
         "serie_id": 41,
         "season_id": 83,
         "season_number": 2,
-        "episode_id": 569,
-        "episode_number": 6,
-        "filename": "[Triggerforce] Record of Ragnarök Henshū 06 - La voie de la lumière.1080p.MULTI.x264.mkv",
+        "episode_id": 570,
+        "episode_number": 5,
+        "filename": "[Triggerforce] Record of Ragnarök Henshū 05 - Résonance.1080p.MULTI.x264.mkv",
         "is_special": false
       },
       {
         "serie_id": 41,
         "season_id": 83,
         "season_number": 2,
-        "episode_id": 570,
-        "episode_number": 5,
-        "filename": "[Triggerforce] Record of Ragnarök Henshū 05 - Résonance.1080p.MULTI.x264.mkv",
-        "is_special": true
+        "episode_id": 569,
+        "episode_number": 6,
+        "filename": "[Triggerforce] Record of Ragnarök Henshū 06 - La voie de la lumière.1080p.MULTI.x264.mkv",
+        "is_special": false
       }
     ],
     "resolved_seasons": [],
@@ -26798,6 +27312,15 @@
         "season_number": null
       },
       {
+        "num": 5,
+        "filename": "[Triggerforce] Record of Ragnarök Henshū 05 - Résonance.1080p.MULTI.x264.mkv",
+        "path": [
+          "[Triggerforce] Record of Ragnarök Henshū 05 - Résonance.1080p.MULTI.x264.mkv"
+        ],
+        "size": 3677841710,
+        "season_number": null
+      },
+      {
         "num": 6,
         "filename": "[Triggerforce] Record of Ragnarök Henshū 06 - La voie de la lumière.1080p.MULTI.x264.mkv",
         "path": [
@@ -26805,15 +27328,6 @@
         ],
         "size": 3381592978,
         "season_number": null
-      },
-      {
-        "filename": "[Triggerforce] Record of Ragnarök Henshū 05 - Résonance.1080p.MULTI.x264.mkv",
-        "path": [
-          "[Triggerforce] Record of Ragnarök Henshū 05 - Résonance.1080p.MULTI.x264.mkv"
-        ],
-        "size": 3677841710,
-        "season_number": 0,
-        "num": 1
       }
     ],
     "torrent_folders": [],
@@ -26823,8 +27337,8 @@
       2,
       3,
       4,
-      6,
-      1
+      5,
+      6
     ],
     "unresolved_files": []
   },

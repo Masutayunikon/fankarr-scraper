@@ -28,6 +28,7 @@ MANUAL_VIEW_IDS: list[str] = [
     "2045408",
     "1951707",
     "2013832",
+    "2070687"
 ]
 
 from pathlib import Path
