@@ -28,8 +28,10 @@ NYA_RAW_PATH  = "data/torrent_raw.json"
 
 # Fichiers .torrent locaux : { raw_name_exact: (chemin_fichier, serie_id, serie_title, type) }
 # Ces torrents seront injectés dans le pipeline s'ils sont absents de torrent_resolved.json
+_SCRIPT_DIR = Path(__file__).parent
+
 LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
-    "Reborn! Kaï (Fan-Kai)": ("reborn_kai.torrent", 60, "Reborn! Kaï", "pack_integrale"),
+    "Reborn! Kaï (Fan-Kai)": (str(_SCRIPT_DIR / "reborn_kai.torrent"), 60, "Reborn! Kaï", "pack_integrale"),
 }
 
 # Torrents manuels avec URL directe (pas de fichier local, pas sur Nyaa Fankai)
