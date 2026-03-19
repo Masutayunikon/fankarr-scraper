@@ -2592,7 +2592,7 @@
   },
   {
     "raw": "Fairy Tail Kai (Fan-Kai) - Saga 1/2/3/4/5/6 - 1080p.MULTI.VF/VOSTFR.x264 [Avalokitesvara & Livai]",
-    "show_title": null,
+    "show_title": "Fairy Tail Kai",
     "groupe": null,
     "type": "pack_integrale",
     "episodes": [],
@@ -17051,7 +17051,7 @@
   },
   {
     "raw": "[Livai] Black Clover Kai (Fan-Kai)  - Intégrale [1080p][x264][Multiple Subtitle] [ENG][FRE]",
-    "show_title": null,
+    "show_title": "Black Clover Kai",
     "groupe": "Livai",
     "type": "pack_integrale",
     "episodes": [],
@@ -24917,7 +24917,7 @@
   },
   {
     "raw": "[Roro]Initial D Kai - Films 1 à 5",
-    "show_title": null,
+    "show_title": "Initial D Kai",
     "groupe": "Roro",
     "type": "pack_episodes",
     "episodes": [
@@ -25418,7 +25418,7 @@
   },
   {
     "raw": "[Tenma] Food Wars Kai - Integral - 1080p.x264 [DUB][VO|VF|EN] [Multi Sub] [EN|FR|POR|DEU|ESP|ARA|ITA] (Shokugeki no Souma)",
-    "show_title": null,
+    "show_title": "Food Wars Kai",
     "groupe": "Tenma",
     "type": "pack_integrale",
     "episodes": [],
@@ -26009,7 +26009,7 @@
   },
   {
     "raw": "[Tenma] GTO Kai - 9 films [DUB][VO|VF|EN|ITA] [Multiple Subtitle] [EN|FR|ES|ES-LA|POR|DEU|ARA|POR-BRA]",
-    "show_title": null,
+    "show_title": "GTO Kai",
     "groupe": "Tenma",
     "type": "pack_integrale",
     "episodes": [],
@@ -28718,488 +28718,19 @@
     "episodes": [],
     "saisons": [],
     "torrent_url": null,
-    "magnet": "magnet:?xt=urn:btih:b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388&dn=Reborn%21%20Ka%C3%AF%20%28Fan-Kai%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+    "magnet": null,
+    "infohash": null,
     "serie_id": 60,
     "serie_title": "Reborn! Kaï",
-    "season_id": 143,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 60,
-        "season_id": 143,
-        "season_number": 1,
-        "episode_id": 935,
-        "episode_number": 1,
-        "filename": "[kadero_san] Reborn! Kaï 01 - Reborn débarque - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 143,
-        "season_number": 1,
-        "episode_id": 934,
-        "episode_number": 2,
-        "filename": "[kadero_san] Reborn! Kaï 02 - La famille déjantée s'agrandit - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 143,
-        "season_number": 1,
-        "episode_id": 933,
-        "episode_number": 3,
-        "filename": "[kadero_san] Reborn! Kaï 03 - Tsunaze pour toujours - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 141,
-        "season_number": 2,
-        "episode_id": 920,
-        "episode_number": 4,
-        "filename": "[kadero_san] Reborn! Kaï 04 - Le gang de Kokuyô - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 141,
-        "season_number": 2,
-        "episode_id": 919,
-        "episode_number": 5,
-        "filename": "[kadero_san] Reborn! Kaï 05 - Vacances d'été - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 140,
-        "season_number": 3,
-        "episode_id": 914,
-        "episode_number": 6,
-        "filename": "[kadero_san] Reborn! Kaï 06 - Les anneaux Vongola - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 140,
-        "season_number": 3,
-        "episode_id": 916,
-        "episode_number": 7,
-        "filename": "[kadero_san] Reborn! Kaï 07 - Le combat pour les anneaux - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 140,
-        "season_number": 3,
-        "episode_id": 917,
-        "episode_number": 8,
-        "filename": "[kadero_san] Reborn! Kaï 08 - La pluie & le brouillard - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 140,
-        "season_number": 3,
-        "episode_id": 915,
-        "episode_number": 9,
-        "filename": "[kadero_san] Reborn! Kaï 09 - Gola Mosca - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 140,
-        "season_number": 3,
-        "episode_id": 913,
-        "episode_number": 10,
-        "filename": "[kadero_san] Reborn! Kaï 10 - Le combat des cieux - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 140,
-        "season_number": 3,
-        "episode_id": 918,
-        "episode_number": 11,
-        "filename": "[kadero_san] Reborn! Kaï 11 - Daily Life, le retour - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 922,
-        "episode_number": 12,
-        "filename": "[kadero_san] Reborn! Kaï 12 - Dix ans après - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 931,
-        "episode_number": 13,
-        "filename": "[kadero_san] Reborn! Kaï 13 - Héritage - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 928,
-        "episode_number": 14,
-        "filename": "[kadero_san] Reborn! Kaï 14 - Traître infiltré - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 926,
-        "episode_number": 15,
-        "filename": "[kadero_san] Reborn! Kaï 15 - Préparatifs avant l'assaut - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 925,
-        "episode_number": 16,
-        "filename": "[kadero_san] Reborn! Kaï 16 - X-Burner - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 929,
-        "episode_number": 17,
-        "filename": "[kadero_san] Reborn! Kaï 17 - La famille Giglionero - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 932,
-        "episode_number": 18,
-        "filename": "[kadero_san] Reborn! Kaï 18 - Le plan de Shôichi Irie - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 921,
-        "episode_number": 19,
-        "filename": "[kadero_san] Reborn! Kaï 19 - Le front italien - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 927,
-        "episode_number": 20,
-        "filename": "[kadero_san] Reborn! Kaï 20 - L'éveil des boîtes - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 923,
-        "episode_number": 21,
-        "filename": "[kadero_san] Reborn! Kaï 21 - L'heure du Choice - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 924,
-        "episode_number": 22,
-        "filename": "[kadero_san] Reborn! Kaï 22 - Protéger Uni - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 60,
-        "season_id": 142,
-        "season_number": 4,
-        "episode_id": 930,
-        "episode_number": 23,
-        "filename": "[kadero_san] Reborn! Kaï 23 - La bataille décisive - 1080p.VOSTFR.x264.mkv",
-        "is_special": false
-      }
-    ],
+    "season_id": null,
+    "season_number": null,
+    "resolved_episodes": [],
     "resolved_seasons": [],
     "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[kadero_san] Reborn! Kaï 01 - Reborn débarque - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[kadero_san] Reborn! Kaï 01 - Reborn débarque - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1211113572,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[kadero_san] Reborn! Kaï 02 - La famille déjantée s'agrandit - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[kadero_san] Reborn! Kaï 02 - La famille déjantée s'agrandit - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1473874391,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[kadero_san] Reborn! Kaï 03 - Tsunaze pour toujours - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[kadero_san] Reborn! Kaï 03 - Tsunaze pour toujours - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1610912090,
-        "season_number": 1
-      },
-      {
-        "num": 4,
-        "filename": "[kadero_san] Reborn! Kaï 04 - Le gang de Kokuyô - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[kadero_san] Reborn! Kaï 04 - Le gang de Kokuyô - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 2026316893,
-        "season_number": 2
-      },
-      {
-        "num": 5,
-        "filename": "[kadero_san] Reborn! Kaï 05 - Vacances d'été - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[kadero_san] Reborn! Kaï 05 - Vacances d'été - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1745408840,
-        "season_number": 2
-      },
-      {
-        "num": 6,
-        "filename": "[kadero_san] Reborn! Kaï 06 - Les anneaux Vongola - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 3",
-          "[kadero_san] Reborn! Kaï 06 - Les anneaux Vongola - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1727690333,
-        "season_number": 3
-      },
-      {
-        "num": 7,
-        "filename": "[kadero_san] Reborn! Kaï 07 - Le combat pour les anneaux - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 3",
-          "[kadero_san] Reborn! Kaï 07 - Le combat pour les anneaux - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1778344227,
-        "season_number": 3
-      },
-      {
-        "num": 8,
-        "filename": "[kadero_san] Reborn! Kaï 08 - La pluie & le brouillard - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 3",
-          "[kadero_san] Reborn! Kaï 08 - La pluie & le brouillard - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1591615995,
-        "season_number": 3
-      },
-      {
-        "num": 9,
-        "filename": "[kadero_san] Reborn! Kaï 09 - Gola Mosca - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 3",
-          "[kadero_san] Reborn! Kaï 09 - Gola Mosca - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 758860072,
-        "season_number": 3
-      },
-      {
-        "num": 10,
-        "filename": "[kadero_san] Reborn! Kaï 10 - Le combat des cieux - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 3",
-          "[kadero_san] Reborn! Kaï 10 - Le combat des cieux - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1946675323,
-        "season_number": 3
-      },
-      {
-        "num": 11,
-        "filename": "[kadero_san] Reborn! Kaï 11 - Daily Life, le retour - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 3",
-          "[kadero_san] Reborn! Kaï 11 - Daily Life, le retour - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 914967428,
-        "season_number": 3
-      },
-      {
-        "num": 12,
-        "filename": "[kadero_san] Reborn! Kaï 12 - Dix ans après - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 12 - Dix ans après - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1142833437,
-        "season_number": 4
-      },
-      {
-        "num": 13,
-        "filename": "[kadero_san] Reborn! Kaï 13 - Héritage - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 13 - Héritage - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1891503005,
-        "season_number": 4
-      },
-      {
-        "num": 14,
-        "filename": "[kadero_san] Reborn! Kaï 14 - Traître infiltré - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 14 - Traître infiltré - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1291607911,
-        "season_number": 4
-      },
-      {
-        "num": 15,
-        "filename": "[kadero_san] Reborn! Kaï 15 - Préparatifs avant l'assaut - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 15 - Préparatifs avant l'assaut - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 919051092,
-        "season_number": 4
-      },
-      {
-        "num": 16,
-        "filename": "[kadero_san] Reborn! Kaï 16 - X-Burner - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 16 - X-Burner - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 2352389642,
-        "season_number": 4
-      },
-      {
-        "num": 17,
-        "filename": "[kadero_san] Reborn! Kaï 17 - La famille Giglionero - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 17 - La famille Giglionero - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 2531339282,
-        "season_number": 4
-      },
-      {
-        "num": 18,
-        "filename": "[kadero_san] Reborn! Kaï 18 - Le plan de Shôichi Irie - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 18 - Le plan de Shôichi Irie - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 2415565501,
-        "season_number": 4
-      },
-      {
-        "num": 19,
-        "filename": "[kadero_san] Reborn! Kaï 19 - Le front italien - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 19 - Le front italien - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1531220461,
-        "season_number": 4
-      },
-      {
-        "num": 20,
-        "filename": "[kadero_san] Reborn! Kaï 20 - L'éveil des boîtes - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 20 - L'éveil des boîtes - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 2276670862,
-        "season_number": 4
-      },
-      {
-        "num": 21,
-        "filename": "[kadero_san] Reborn! Kaï 21 - L'heure du Choice - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 21 - L'heure du Choice - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1640641138,
-        "season_number": 4
-      },
-      {
-        "num": 22,
-        "filename": "[kadero_san] Reborn! Kaï 22 - Protéger Uni - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 22 - Protéger Uni - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 713310698,
-        "season_number": 4
-      },
-      {
-        "num": 23,
-        "filename": "[kadero_san] Reborn! Kaï 23 - La bataille décisive - 1080p.VOSTFR.x264.mkv",
-        "path": [
-          "Saison 4",
-          "[kadero_san] Reborn! Kaï 23 - La bataille décisive - 1080p.VOSTFR.x264.mkv"
-        ],
-        "size": 1934411980,
-        "season_number": 4
-      }
-    ],
-    "torrent_folders": [
-      "Saison 1",
-      "Saison 2",
-      "Saison 3",
-      "Saison 4"
-    ],
+    "torrent_files": [],
+    "torrent_folders": [],
     "torrent_extras": [],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23
-    ],
-    "unresolved_files": []
+    "file_ep_numbers": []
   },
   {
     "raw": "My Hero Academia Henshū - Film 4 - You're Next",
