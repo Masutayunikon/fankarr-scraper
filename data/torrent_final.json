@@ -178,564 +178,6 @@
     "unresolved_files": []
   },
   {
-    "raw": "Bleach Kaï (Fan-Kai) - INTEGRALE (28 films) - 720p.MULTI.VF/VOSTFR.x264 [Mixouille]",
-    "show_title": "Bleach Kaï",
-    "groupe": null,
-    "type": "pack_integrale",
-    "episodes": [],
-    "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1227545.torrent",
-    "magnet": "magnet:?xt=urn:btih:16dad2b0afa93b4702cf85c3a6c5c98ef3af4ce6&dn=Bleach%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2828%20films%29%20-%20720p.MULTI.VF%2FVOSTFR.x264%20%5BMixouille%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "16dad2b0afa93b4702cf85c3a6c5c98ef3af4ce6",
-    "serie_id": 18,
-    "serie_title": "Bleach Kaï",
-    "season_id": 35,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 18,
-        "season_id": 35,
-        "season_number": 1,
-        "episode_id": 331,
-        "episode_number": 1,
-        "filename": "[Mixouille] Bleach Kai - 01 - Les gardiens de nos âmes - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 35,
-        "season_number": 1,
-        "episode_id": 333,
-        "episode_number": 2,
-        "filename": "[Mixouille] Bleach Kai - 02 - L'éveil des talents - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 35,
-        "season_number": 1,
-        "episode_id": 332,
-        "episode_number": 3,
-        "filename": "[Mixouille] Bleach Kai - 03 - Pour notre amie - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 33,
-        "season_number": 2,
-        "episode_id": 325,
-        "episode_number": 4,
-        "filename": "[Mixouille] Bleach Kai - 04 - Les âmes errantes - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 33,
-        "season_number": 2,
-        "episode_id": 322,
-        "episode_number": 5,
-        "filename": "[Mixouille] Bleach Kai - 05 - Troubles au Seireitei - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 33,
-        "season_number": 2,
-        "episode_id": 326,
-        "episode_number": 6,
-        "filename": "[Mixouille] Bleach Kai - 06 - Mon sabre et moi - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 33,
-        "season_number": 2,
-        "episode_id": 327,
-        "episode_number": 7,
-        "filename": "[Mixouille] Bleach Kai - 07 - Objectif Bankai - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 33,
-        "season_number": 2,
-        "episode_id": 323,
-        "episode_number": 8,
-        "filename": "[Mixouille] Bleach Kai - 08 - Shinigamis vs Shinigamis - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 33,
-        "season_number": 2,
-        "episode_id": 324,
-        "episode_number": 9,
-        "filename": "[Mixouille] Bleach Kai - 09 - La Perle de Destruction - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 315,
-        "episode_number": 10,
-        "filename": "[Mixouille] Bleach Kai - 10 - Bas les masques - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 309,
-        "episode_number": 11,
-        "filename": "[Mixouille] Bleach Kai - 11 - L'assaut des Arrancars - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 313,
-        "episode_number": 12,
-        "filename": "[Mixouille] Bleach Kai - 12 - La Clé du Roi - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 318,
-        "episode_number": 13,
-        "filename": "[Mixouille] Bleach Kai - 13 - Secrets adieux - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 319,
-        "episode_number": 14,
-        "filename": "[Mixouille] Bleach Kai - 14 - Bienvenue au Hueco Mundo - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 306,
-        "episode_number": 15,
-        "filename": "[Mixouille] Bleach Kai - 15 - Un coeur en héritage - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 307,
-        "episode_number": 16,
-        "filename": "[Mixouille] Bleach Kai - 16 - L'ambition d'un roi - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 321,
-        "episode_number": 17,
-        "filename": "[Mixouille] Bleach Kai - 17 - La mémoire retrouvée - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 312,
-        "episode_number": 18,
-        "filename": "[Mixouille] Bleach Kai - 18 - Diversion - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 308,
-        "episode_number": 19,
-        "filename": "[Mixouille] Bleach Kai - 19 - Turn Back the Pendulum - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 320,
-        "episode_number": 20,
-        "filename": "[Mixouille] Bleach Kai - 20 - La Bataille de Karakura - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 314,
-        "episode_number": 21,
-        "filename": "[Mixouille] Bleach Kai - 21 - La fureur du Hollow - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 310,
-        "episode_number": 22,
-        "filename": "[Mixouille] Bleach Kai - 22 - Le roi déchu - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 316,
-        "episode_number": 23,
-        "filename": "[Mixouille] Bleach Kai - 23 - Le maître entre en scène - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 311,
-        "episode_number": 24,
-        "filename": "[Mixouille] Bleach Kai - 24 - Insurpassable - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 32,
-        "season_number": 3,
-        "episode_id": 317,
-        "episode_number": 25,
-        "filename": "[Mixouille] Bleach Kai - 25 - Ultime attaque - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 34,
-        "season_number": 4,
-        "episode_id": 329,
-        "episode_number": 26,
-        "filename": "[Mixouille] Bleach Kai - 26 - Fullbring - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 34,
-        "season_number": 4,
-        "episode_id": 330,
-        "episode_number": 27,
-        "filename": "[Mixouille] Bleach Kai - 27 - Book of the End - 720p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 18,
-        "season_id": 34,
-        "season_number": 4,
-        "episode_id": 328,
-        "episode_number": 28,
-        "filename": "[Mixouille] Bleach Kai - 28 - Shinigami Suppléant - 720p.MULTI.x264.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Mixouille] Bleach Kai - 01 - Les gardiens de nos âmes - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 01 - Les gardiens de nos âmes - 720p.MULTI.x264.mkv"
-        ],
-        "size": 928991060,
-        "season_number": null
-      },
-      {
-        "num": 2,
-        "filename": "[Mixouille] Bleach Kai - 02 - L'éveil des talents - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 02 - L'éveil des talents - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1052097705,
-        "season_number": null
-      },
-      {
-        "num": 3,
-        "filename": "[Mixouille] Bleach Kai - 03 - Pour notre amie - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 03 - Pour notre amie - 720p.MULTI.x264.mkv"
-        ],
-        "size": 771416836,
-        "season_number": null
-      },
-      {
-        "num": 4,
-        "filename": "[Mixouille] Bleach Kai - 04 - Les âmes errantes - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 04 - Les âmes errantes - 720p.MULTI.x264.mkv"
-        ],
-        "size": 889801232,
-        "season_number": null
-      },
-      {
-        "num": 5,
-        "filename": "[Mixouille] Bleach Kai - 05 - Troubles au Seireitei - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 05 - Troubles au Seireitei - 720p.MULTI.x264.mkv"
-        ],
-        "size": 860871386,
-        "season_number": null
-      },
-      {
-        "num": 6,
-        "filename": "[Mixouille] Bleach Kai - 06 - Mon sabre et moi - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 06 - Mon sabre et moi - 720p.MULTI.x264.mkv"
-        ],
-        "size": 963853108,
-        "season_number": null
-      },
-      {
-        "num": 7,
-        "filename": "[Mixouille] Bleach Kai - 07 - Objectif Bankai - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 07 - Objectif Bankai - 720p.MULTI.x264.mkv"
-        ],
-        "size": 853591617,
-        "season_number": null
-      },
-      {
-        "num": 8,
-        "filename": "[Mixouille] Bleach Kai - 08 - Shinigamis vs Shinigamis - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 08 - Shinigamis vs Shinigamis - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1200739433,
-        "season_number": null
-      },
-      {
-        "num": 9,
-        "filename": "[Mixouille] Bleach Kai - 09 - La Perle de Destruction - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 09 - La Perle de Destruction - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1023361583,
-        "season_number": null
-      },
-      {
-        "num": 10,
-        "filename": "[Mixouille] Bleach Kai - 10 - Bas les masques - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 10 - Bas les masques - 720p.MULTI.x264.mkv"
-        ],
-        "size": 886233424,
-        "season_number": null
-      },
-      {
-        "num": 11,
-        "filename": "[Mixouille] Bleach Kai - 11 - L'assaut des Arrancars - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 11 - L'assaut des Arrancars - 720p.MULTI.x264.mkv"
-        ],
-        "size": 760697044,
-        "season_number": null
-      },
-      {
-        "num": 12,
-        "filename": "[Mixouille] Bleach Kai - 12 - La Clé du Roi - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 12 - La Clé du Roi - 720p.MULTI.x264.mkv"
-        ],
-        "size": 710735880,
-        "season_number": null
-      },
-      {
-        "num": 13,
-        "filename": "[Mixouille] Bleach Kai - 13 - Secrets adieux - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 13 - Secrets adieux - 720p.MULTI.x264.mkv"
-        ],
-        "size": 788723666,
-        "season_number": null
-      },
-      {
-        "num": 14,
-        "filename": "[Mixouille] Bleach Kai - 14 - Bienvenue au Hueco Mundo - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 14 - Bienvenue au Hueco Mundo - 720p.MULTI.x264.mkv"
-        ],
-        "size": 843355002,
-        "season_number": null
-      },
-      {
-        "num": 15,
-        "filename": "[Mixouille] Bleach Kai - 15 - Un coeur en héritage - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 15 - Un coeur en héritage - 720p.MULTI.x264.mkv"
-        ],
-        "size": 838744222,
-        "season_number": null
-      },
-      {
-        "num": 16,
-        "filename": "[Mixouille] Bleach Kai - 16 - L'ambition d'un roi - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 16 - L'ambition d'un roi - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1030864205,
-        "season_number": null
-      },
-      {
-        "num": 17,
-        "filename": "[Mixouille] Bleach Kai - 17 - La mémoire retrouvée - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 17 - La mémoire retrouvée - 720p.MULTI.x264.mkv"
-        ],
-        "size": 864747494,
-        "season_number": null
-      },
-      {
-        "num": 18,
-        "filename": "[Mixouille] Bleach Kai - 18 - Diversion - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 18 - Diversion - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1032079000,
-        "season_number": null
-      },
-      {
-        "num": 19,
-        "filename": "[Mixouille] Bleach Kai - 19 - Turn Back the Pendulum - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 19 - Turn Back the Pendulum - 720p.MULTI.x264.mkv"
-        ],
-        "size": 865759623,
-        "season_number": null
-      },
-      {
-        "num": 20,
-        "filename": "[Mixouille] Bleach Kai - 20 - La Bataille de Karakura - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 20 - La Bataille de Karakura - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1383706007,
-        "season_number": null
-      },
-      {
-        "num": 21,
-        "filename": "[Mixouille] Bleach Kai - 21 - La fureur du Hollow - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 21 - La fureur du Hollow - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1225670797,
-        "season_number": null
-      },
-      {
-        "num": 22,
-        "filename": "[Mixouille] Bleach Kai - 22 - Le roi déchu - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 22 - Le roi déchu - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1058394810,
-        "season_number": null
-      },
-      {
-        "num": 23,
-        "filename": "[Mixouille] Bleach Kai - 23 - Le maître entre en scène - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 23 - Le maître entre en scène - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1022939676,
-        "season_number": null
-      },
-      {
-        "num": 24,
-        "filename": "[Mixouille] Bleach Kai - 24 - Insurpassable - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 24 - Insurpassable - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1106374778,
-        "season_number": null
-      },
-      {
-        "num": 25,
-        "filename": "[Mixouille] Bleach Kai - 25 - Ultime attaque - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 25 - Ultime attaque - 720p.MULTI.x264.mkv"
-        ],
-        "size": 980618821,
-        "season_number": null
-      },
-      {
-        "num": 26,
-        "filename": "[Mixouille] Bleach Kai - 26 - Fullbring - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 26 - Fullbring - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1151540311,
-        "season_number": null
-      },
-      {
-        "num": 27,
-        "filename": "[Mixouille] Bleach Kai - 27 - Book of the End - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 27 - Book of the End - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1108260229,
-        "season_number": null
-      },
-      {
-        "num": 28,
-        "filename": "[Mixouille] Bleach Kai - 28 - Shinigami Suppléant - 720p.MULTI.x264.mkv",
-        "path": [
-          "[Mixouille] Bleach Kai - 28 - Shinigami Suppléant - 720p.MULTI.x264.mkv"
-        ],
-        "size": 1194156473,
-        "season_number": null
-      }
-    ],
-    "torrent_folders": [],
-    "torrent_extras": [],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27,
-      28
-    ],
-    "unresolved_files": []
-  },
-  {
     "raw": "Busô Renkin Kaï (Fan-Kai) - INTEGRALE (6 films) - 1080p.VOSTFR.x264 [Triggerforce]",
     "show_title": "Busô Renkin Kaï",
     "groupe": null,
@@ -872,6 +314,110 @@
       4,
       5,
       6
+    ],
+    "unresolved_files": []
+  },
+  {
+    "raw": "Call of the Night Henshū - 1080p.MULTI.x265 [Subs: FR|EN]",
+    "show_title": "Call of the Night Henshū",
+    "groupe": null,
+    "type": "pack_integrale",
+    "episodes": [],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/2088142.torrent",
+    "magnet": "magnet:?xt=urn:btih:a8be1aa27155d54541e2a1ba6decd9464db310dc&dn=Call%20of%20the%20Night%20Hensh%C5%AB%20-%201080p.MULTI.x265%20%5BSubs%3A%20FR%7CEN%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
+    "serie_id": 73,
+    "serie_title": "Call of the Night Henshū",
+    "season_id": 183,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 73,
+        "season_id": 183,
+        "season_number": 1,
+        "episode_id": 1173,
+        "episode_number": 1,
+        "filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 73,
+        "season_id": 183,
+        "season_number": 1,
+        "episode_id": 1171,
+        "episode_number": 2,
+        "filename": "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 73,
+        "season_id": 183,
+        "season_number": 1,
+        "episode_id": 1172,
+        "episode_number": 3,
+        "filename": "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 73,
+        "season_id": 183,
+        "season_number": 1,
+        "episode_id": 1170,
+        "episode_number": 4,
+        "filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 690100874,
+        "season_number": null
+      },
+      {
+        "num": 2,
+        "filename": "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 699625552,
+        "season_number": null
+      },
+      {
+        "num": 3,
+        "filename": "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 887683032,
+        "season_number": null
+      },
+      {
+        "num": 4,
+        "filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 655993386,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [
+      "Pack métadonnées.zip"
+    ],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4
     ],
     "unresolved_files": []
   },
@@ -4832,6 +4378,205 @@
     "unresolved_files": []
   },
   {
+    "raw": "Horimiya Kaï - 1080p.MULTI.x265 [Subs: FR|EN|SP|PT]",
+    "show_title": "Horimiya Kaï",
+    "groupe": null,
+    "type": "pack_integrale",
+    "episodes": [],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/2088144.torrent",
+    "magnet": "magnet:?xt=urn:btih:19b6658f9833ed7b49d12f36a4409a8c567d3316&dn=Horimiya%20Ka%C3%AF%20-%201080p.MULTI.x265%20%5BSubs%3A%20FR%7CEN%7CSP%7CPT%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
+    "serie_id": 11,
+    "serie_title": "Horimiya Kaï",
+    "season_id": 17,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 85,
+        "episode_number": 1,
+        "filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 84,
+        "episode_number": 2,
+        "filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 83,
+        "episode_number": 3,
+        "filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 86,
+        "episode_number": 4,
+        "filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 80,
+        "episode_number": 5,
+        "filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 82,
+        "episode_number": 6,
+        "filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 78,
+        "episode_number": 7,
+        "filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 81,
+        "episode_number": 8,
+        "filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 11,
+        "season_id": 17,
+        "season_number": 1,
+        "episode_id": 79,
+        "episode_number": 9,
+        "filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.mkv",
+        "is_special": false
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 1506917571,
+        "season_number": null
+      },
+      {
+        "num": 2,
+        "filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 1273834241,
+        "season_number": null
+      },
+      {
+        "num": 3,
+        "filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 759876139,
+        "season_number": null
+      },
+      {
+        "num": 4,
+        "filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 501813596,
+        "season_number": null
+      },
+      {
+        "num": 5,
+        "filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 492956549,
+        "season_number": null
+      },
+      {
+        "num": 6,
+        "filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 788518172,
+        "season_number": null
+      },
+      {
+        "num": 7,
+        "filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 496513185,
+        "season_number": null
+      },
+      {
+        "num": 8,
+        "filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 628766855,
+        "season_number": null
+      },
+      {
+        "num": 9,
+        "filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.mkv",
+        "path": [
+          "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.mkv"
+        ],
+        "size": 515587441,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [
+      "Pack métadonnées.zip"
+    ],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "unresolved_files": []
+  },
+  {
     "raw": "Hunter X Hunter Kaï (Fan-Kai) - INTEGRALE (21 films) - 1080p.MULTI.VF/VOSTFR.x264 [Avalokitesvara]",
     "show_title": null,
     "groupe": null,
@@ -5257,72 +5002,45 @@
     "unresolved_files": []
   },
   {
-    "raw": "Mirai Nikki Henshū (Fan-Kai) - INTEGRALE (6 films) - 1080p.MULTI.VF/VOSTFR.x264 [MECHAPOULPE]",
-    "show_title": "Mirai Nikki Henshū",
+    "raw": "Inuyashiki Last Hero Henshū - 1080p.MULTISUB.x265 [Subs: FR|EN]",
+    "show_title": "Inuyashiki Last Hero Henshū",
     "groupe": null,
     "type": "pack_integrale",
     "episodes": [],
     "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1389556.torrent",
-    "magnet": "magnet:?xt=urn:btih:3dffa1efbc83a4a459bfa6ff54391cdb2bf42ce2&dn=Mirai%20Nikki%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20INTEGRALE%20%286%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BMECHAPOULPE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "3dffa1efbc83a4a459bfa6ff54391cdb2bf42ce2",
-    "serie_id": 61,
-    "serie_title": "Mirai Nikki Henshū",
-    "season_id": 144,
+    "torrent_url": "https://nyaa.si/download/2088145.torrent",
+    "magnet": "magnet:?xt=urn:btih:4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d&dn=Inuyashiki%20Last%20Hero%20Hensh%C5%AB%20-%201080p.MULTISUB.x265%20%5BSubs%3A%20FR%7CEN%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
+    "serie_id": 47,
+    "serie_title": "Inuyashiki Last Hero Henshū",
+    "season_id": 97,
     "season_number": 1,
     "resolved_episodes": [
       {
-        "serie_id": 61,
-        "season_id": 144,
+        "serie_id": 47,
+        "season_id": 97,
         "season_number": 1,
-        "episode_id": 937,
+        "episode_id": 624,
         "episode_number": 1,
-        "filename": "[MECHAPOULPE] Mirai Nikki 01 - Yuno Gasaï.mkv",
+        "filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv",
         "is_special": false
       },
       {
-        "serie_id": 61,
-        "season_id": 144,
+        "serie_id": 47,
+        "season_id": 97,
         "season_number": 1,
-        "episode_id": 938,
+        "episode_id": 626,
         "episode_number": 2,
-        "filename": "[MECHAPOULPE] Mirai Nikki 02 - Doutes.mkv",
+        "filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv",
         "is_special": false
       },
       {
-        "serie_id": 61,
-        "season_id": 144,
+        "serie_id": 47,
+        "season_id": 97,
         "season_number": 1,
-        "episode_id": 939,
+        "episode_id": 625,
         "episode_number": 3,
-        "filename": "[MECHAPOULPE] Mirai Nikki 03 - Amour fou.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 61,
-        "season_id": 144,
-        "season_number": 1,
-        "episode_id": 936,
-        "episode_number": 4,
-        "filename": "[MECHAPOULPE] Mirai Nikki 04 - Passion.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 61,
-        "season_id": 144,
-        "season_number": 1,
-        "episode_id": 940,
-        "episode_number": 5,
-        "filename": "[MECHAPOULPE] Mirai Nikki 05 - Résolution.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 61,
-        "season_id": 144,
-        "season_number": 1,
-        "episode_id": 941,
-        "episode_number": 6,
-        "filename": "[MECHAPOULPE] Mirai Nikki 06 - Fin de partie.mkv",
+        "filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv",
         "is_special": false
       }
     ],
@@ -5331,68 +5049,40 @@
     "torrent_files": [
       {
         "num": 1,
-        "filename": "[MECHAPOULPE] Mirai Nikki 01 - Yuno Gasaï.mkv",
+        "filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv",
         "path": [
-          "[MECHAPOULPE] Mirai Nikki 01 - Yuno Gasaï.mkv"
+          "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv"
         ],
-        "size": 714578914,
+        "size": 571573743,
         "season_number": null
       },
       {
         "num": 2,
-        "filename": "[MECHAPOULPE] Mirai Nikki 02 - Doutes.mkv",
+        "filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv",
         "path": [
-          "[MECHAPOULPE] Mirai Nikki 02 - Doutes.mkv"
+          "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv"
         ],
-        "size": 1079891624,
+        "size": 726221672,
         "season_number": null
       },
       {
         "num": 3,
-        "filename": "[MECHAPOULPE] Mirai Nikki 03 - Amour fou.mkv",
+        "filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv",
         "path": [
-          "[MECHAPOULPE] Mirai Nikki 03 - Amour fou.mkv"
+          "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv"
         ],
-        "size": 610507953,
-        "season_number": null
-      },
-      {
-        "num": 4,
-        "filename": "[MECHAPOULPE] Mirai Nikki 04 - Passion.mkv",
-        "path": [
-          "[MECHAPOULPE] Mirai Nikki 04 - Passion.mkv"
-        ],
-        "size": 673455170,
-        "season_number": null
-      },
-      {
-        "num": 5,
-        "filename": "[MECHAPOULPE] Mirai Nikki 05 - Résolution.mkv",
-        "path": [
-          "[MECHAPOULPE] Mirai Nikki 05 - Résolution.mkv"
-        ],
-        "size": 1028000846,
-        "season_number": null
-      },
-      {
-        "num": 6,
-        "filename": "[MECHAPOULPE] Mirai Nikki 06 - Fin de partie.mkv",
-        "path": [
-          "[MECHAPOULPE] Mirai Nikki 06 - Fin de partie.mkv"
-        ],
-        "size": 1113755646,
+        "size": 850961007,
         "season_number": null
       }
     ],
     "torrent_folders": [],
-    "torrent_extras": [],
+    "torrent_extras": [
+      "Pack métadonnées.zip"
+    ],
     "file_ep_numbers": [
       1,
       2,
-      3,
-      4,
-      5,
-      6
+      3
     ],
     "unresolved_files": []
   },
@@ -6395,216 +6085,6 @@
       16,
       17,
       18
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "Neon Genesis Evangelion Fan-Cut (Fan-Kai) - INTEGRALE (7 films) - 1080p.MULTI.VF/VOSTFR.x264 [MECHAPOULPE]",
-    "show_title": "Neon Genesis Evangelion Fan-Cut",
-    "groupe": null,
-    "type": "pack_integrale",
-    "episodes": [],
-    "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1702732.torrent",
-    "magnet": "magnet:?xt=urn:btih:11aac3305aa543b2f1913ea21e4bd743c4d9be55&dn=Neon%20Genesis%20Evangelion%20Fan-Cut%20%28Fan-Kai%29%20-%20INTEGRALE%20%287%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BMECHAPOULPE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "11aac3305aa543b2f1913ea21e4bd743c4d9be55",
-    "serie_id": 30,
-    "serie_title": "Neon Genesis Evangelion Fan-Cut",
-    "season_id": 61,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 454,
-        "episode_number": 1,
-        "filename": "Neon Genesis Evangelion FANCUT - 01 - Prologue pt.1.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 456,
-        "episode_number": 2,
-        "filename": "Neon Genesis Evangelion FANCUT - 02 - Prologue pt.2.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 458,
-        "episode_number": 3,
-        "filename": "Neon Genesis Evangelion FANCUT - 03 - Action.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 452,
-        "episode_number": 4,
-        "filename": "Neon Genesis Evangelion FANCUT - 04 - Descente.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 453,
-        "episode_number": 5,
-        "filename": "Neon Genesis Evangelion FANCUT - 05 - Plan.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 457,
-        "episode_number": 6,
-        "filename": "Neon Genesis Evangelion FANCUT - 06 - Introspection.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 30,
-        "season_id": 61,
-        "season_number": 1,
-        "episode_id": 455,
-        "episode_number": 7,
-        "filename": "Neon Genesis Evangelion FANCUT - 07 - Désespoir.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "Neon Genesis Evangelion FANCUT - 01 - Prologue pt.1.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 01 - Prologue pt.1.mkv"
-        ],
-        "size": 3968280451,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "Neon Genesis Evangelion FANCUT - 02 - Prologue pt.2.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 02 - Prologue pt.2.mkv"
-        ],
-        "size": 2998707912,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "Neon Genesis Evangelion FANCUT - 03 - Action.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 03 - Action.mkv"
-        ],
-        "size": 5901310822,
-        "season_number": 1
-      },
-      {
-        "num": 4,
-        "filename": "Neon Genesis Evangelion FANCUT - 04 - Descente.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 04 - Descente.mkv"
-        ],
-        "size": 5890591663,
-        "season_number": 1
-      },
-      {
-        "num": 5,
-        "filename": "Neon Genesis Evangelion FANCUT - 05 - Plan.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 05 - Plan.mkv"
-        ],
-        "size": 5649971490,
-        "season_number": 1
-      },
-      {
-        "num": 6,
-        "filename": "Neon Genesis Evangelion FANCUT - 06 - Introspection.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 06 - Introspection.mkv"
-        ],
-        "size": 2036731366,
-        "season_number": 1
-      },
-      {
-        "num": 7,
-        "filename": "Neon Genesis Evangelion FANCUT - 07 - Désespoir.mkv",
-        "path": [
-          "Saison 1",
-          "Neon Genesis Evangelion FANCUT - 07 - Désespoir.mkv"
-        ],
-        "size": 2974376904,
-        "season_number": 1
-      }
-    ],
-    "torrent_folders": [
-      "Evangelion Finally - Various Artists 2020",
-      "OST",
-      "Saison 1"
-    ],
-    "torrent_extras": [
-      "fanart.jpg",
-      "logo.png",
-      "poster.png",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "Neon Genesis Evangelion - ED.mkv",
-      "Neon Genesis Evangelion - OP.mkv",
-      "01 The Cruel Angel's Thesis.flac",
-      "02 FLY ME TO THE MOON (YOKO TAKAHASHI Acid Bossa Version).flac",
-      "03 Soul's Refrain.flac",
-      "04 THANATOS -IF I CAN'T BE YOURS-.flac",
-      "05 Komm, süsser Tod (M-10 Director's Edit Version).flac",
-      "06 Kyou no Hi wa Sayounara.flac",
-      "07 Tsubasa wo Kudasai.flac",
-      "08 FLY ME TO THE MOON 2020.flac",
-      "09 Kokoro yo Genshi ni Modore 2020.flac",
-      "10 Mugen Houyou.flac",
-      "11 Shiawase wa Tsumi no Nioi.flac",
-      "12 Come sweet death, second impact.flac",
-      "13 Dilemmatic triangle opera.flac",
-      "14 The Image of black me.flac",
-      "15 Dilemmatic triangle opera AYANAMI Version.flac",
-      "Various Artists - Evangelion Finally.jpg",
-      "Neon Genesis Evangelion FANCUT - 01 - Prologue pt.1-thumb.png",
-      "Neon Genesis Evangelion FANCUT - 01 - Prologue pt.1.nfo",
-      "Neon Genesis Evangelion FANCUT - 02 - Prologue pt.2-thumb.png",
-      "Neon Genesis Evangelion FANCUT - 02 - Prologue pt.2.nfo",
-      "Neon Genesis Evangelion FANCUT - 03 - Action-thumb.png",
-      "banner.jpg",
-      "Neon Genesis Evangelion FANCUT - 03 - Action.nfo",
-      "Neon Genesis Evangelion FANCUT - 04 - Descente-thumb.png",
-      "Neon Genesis Evangelion FANCUT - 04 - Descente.nfo",
-      "Neon Genesis Evangelion FANCUT - 05 - Plan-thumb.png",
-      "Neon Genesis Evangelion FANCUT - 05 - Plan.nfo",
-      "Neon Genesis Evangelion FANCUT - 06 - Introspection-thumb.png",
-      "Neon Genesis Evangelion FANCUT - 06 - Introspection.nfo",
-      "Neon Genesis Evangelion FANCUT - 07 - Désespoir-thumb.png",
-      "Neon Genesis Evangelion FANCUT - 07 - Désespoir.nfo"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
     ],
     "unresolved_files": []
   },
@@ -13251,431 +12731,6 @@
     ]
   },
   {
-    "raw": "[Hikano] Call of the Night Henshū - 1080p.MULTI.x264 [Subs: FR|EN]",
-    "show_title": "Call of the Night Henshū",
-    "groupe": "Hikano",
-    "type": "pack_integrale",
-    "episodes": [],
-    "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1778593.torrent",
-    "magnet": "magnet:?xt=urn:btih:b390c034fd37ca6239f6b2fd8a1778ae4d37dbbb&dn=%5BHikano%5D%20Call%20of%20the%20Night%20Hensh%C5%AB%20-%201080p.MULTI.x264%20%5BSubs%3A%20FR%7CEN%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "b390c034fd37ca6239f6b2fd8a1778ae4d37dbbb",
-    "serie_id": 73,
-    "serie_title": "Call of the Night Henshū",
-    "season_id": 183,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 73,
-        "season_id": 183,
-        "season_number": 1,
-        "episode_id": 1173,
-        "episode_number": 1,
-        "filename": "[Hikano] Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 73,
-        "season_id": 183,
-        "season_number": 1,
-        "episode_id": 1171,
-        "episode_number": 2,
-        "filename": "[Hikano] Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.FR.ENG.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 73,
-        "season_id": 183,
-        "season_number": 1,
-        "episode_id": 1172,
-        "episode_number": 3,
-        "filename": "[Hikano] Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.FR.ENG.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 73,
-        "season_id": 183,
-        "season_number": 1,
-        "episode_id": 1170,
-        "episode_number": 4,
-        "filename": "[Hikano] Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Hikano] Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv"
-        ],
-        "size": 960733624,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[Hikano] Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.FR.ENG.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.FR.ENG.mkv"
-        ],
-        "size": 955459121,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[Hikano] Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.FR.ENG.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.FR.ENG.mkv"
-        ],
-        "size": 1243762051,
-        "season_number": 1
-      },
-      {
-        "num": 4,
-        "filename": "[Hikano] Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv"
-        ],
-        "size": 927090013,
-        "season_number": 1
-      }
-    ],
-    "torrent_folders": [
-      "Saison 1"
-    ],
-    "torrent_extras": [
-      "fanart.jpg",
-      "logo.png",
-      "poster.png",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "[Hikano] Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG-thumb.png",
-      "[Hikano] Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.nfo",
-      "[Hikano] Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.FR.ENG-thumb.png",
-      "[Hikano] Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.FR.ENG.nfo",
-      "[Hikano] Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.FR.ENG-thumb.png",
-      "banner.jpg",
-      "[Hikano] Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.FR.ENG.nfo",
-      "[Hikano] Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG-thumb.png",
-      "[Hikano] Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.nfo"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "[Hikano] Horimiya Kaï - 1080p.MULTI.x264 [Subs: FR|EN|SP|PT]",
-    "show_title": "Horimiya Kaï",
-    "groupe": "Hikano",
-    "type": "pack_integrale",
-    "episodes": [],
-    "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1901646.torrent",
-    "magnet": "magnet:?xt=urn:btih:89f5f92c0e20015c0fb4cf817aad58a02b7de484&dn=%5BHikano%5D%20Horimiya%20Ka%C3%AF%20-%201080p.MULTI.x264%20%5BSubs%3A%20FR%7CEN%7CSP%7CPT%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "89f5f92c0e20015c0fb4cf817aad58a02b7de484",
-    "serie_id": 11,
-    "serie_title": "Horimiya Kaï",
-    "season_id": 17,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 85,
-        "episode_number": 1,
-        "filename": "[Hikano] Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 84,
-        "episode_number": 2,
-        "filename": "[Hikano] Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 83,
-        "episode_number": 3,
-        "filename": "[Hikano] Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 86,
-        "episode_number": 4,
-        "filename": "[Hikano] Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 80,
-        "episode_number": 5,
-        "filename": "[Hikano] Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 82,
-        "episode_number": 6,
-        "filename": "[Hikano] Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 78,
-        "episode_number": 7,
-        "filename": "[Hikano] Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 81,
-        "episode_number": 8,
-        "filename": "[Hikano] Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 11,
-        "season_id": 17,
-        "season_number": 1,
-        "episode_id": 79,
-        "episode_number": 9,
-        "filename": "[Hikano] Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Hikano] Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2287935460,
-        "season_number": null
-      },
-      {
-        "num": 2,
-        "filename": "[Hikano] Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1938751156,
-        "season_number": null
-      },
-      {
-        "num": 3,
-        "filename": "[Hikano] Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1163143846,
-        "season_number": null
-      },
-      {
-        "num": 4,
-        "filename": "[Hikano] Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 773343384,
-        "season_number": null
-      },
-      {
-        "num": 5,
-        "filename": "[Hikano] Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 743492227,
-        "season_number": null
-      },
-      {
-        "num": 6,
-        "filename": "[Hikano] Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1180487479,
-        "season_number": null
-      },
-      {
-        "num": 7,
-        "filename": "[Hikano] Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 747130079,
-        "season_number": null
-      },
-      {
-        "num": 8,
-        "filename": "[Hikano] Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 957571734,
-        "season_number": null
-      },
-      {
-        "num": 9,
-        "filename": "[Hikano] Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv",
-        "path": [
-          "[Hikano] Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 830057094,
-        "season_number": null
-      }
-    ],
-    "torrent_folders": [],
-    "torrent_extras": [
-      "Pack métadonnées.zip"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "[Hikano] Inuyashiki Last Hero Henshū - 1080p.MULTISUB.x264 [Subs: FR|EN]",
-    "show_title": "Inuyashiki Last Hero Henshū",
-    "groupe": "Hikano",
-    "type": "pack_integrale",
-    "episodes": [],
-    "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1771110.torrent",
-    "magnet": "magnet:?xt=urn:btih:eb5253aec3c107efdfa3dd1ccc55f3bcee700b75&dn=%5BHikano%5D%20Inuyashiki%20Last%20Hero%20Hensh%C5%AB%20-%201080p.MULTISUB.x264%20%5BSubs%3A%20FR%7CEN%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "eb5253aec3c107efdfa3dd1ccc55f3bcee700b75",
-    "serie_id": 47,
-    "serie_title": "Inuyashiki Last Hero Henshū",
-    "season_id": 97,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 47,
-        "season_id": 97,
-        "season_number": 1,
-        "episode_id": 624,
-        "episode_number": 1,
-        "filename": "[Hikano] Inuyashiki Last Hero Henshū 01 - Deux opposés.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 47,
-        "season_id": 97,
-        "season_number": 1,
-        "episode_id": 626,
-        "episode_number": 2,
-        "filename": "[Hikano] Inuyashiki Last Hero Henshū 02 - Rancunes.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 47,
-        "season_id": 97,
-        "season_number": 1,
-        "episode_id": 625,
-        "episode_number": 3,
-        "filename": "[Hikano] Inuyashiki Last Hero Henshū 03 - Devenir un héros.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[Hikano] Inuyashiki Last Hero Henshū 01 - Deux opposés.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Inuyashiki Last Hero Henshū 01 - Deux opposés.mkv"
-        ],
-        "size": 819395398,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[Hikano] Inuyashiki Last Hero Henshū 02 - Rancunes.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Inuyashiki Last Hero Henshū 02 - Rancunes.mkv"
-        ],
-        "size": 1007879342,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[Hikano] Inuyashiki Last Hero Henshū 03 - Devenir un héros.mkv",
-        "path": [
-          "Saison 1",
-          "[Hikano] Inuyashiki Last Hero Henshū 03 - Devenir un héros.mkv"
-        ],
-        "size": 1198012448,
-        "season_number": 1
-      }
-    ],
-    "torrent_folders": [
-      "Saison 1"
-    ],
-    "torrent_extras": [
-      "fanart.jpg",
-      "logo.png",
-      "poster.png",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "[Hikano] Inuyashiki Last Hero Henshū 01 - Deux opposés-thumb.png",
-      "[Hikano] Inuyashiki Last Hero Henshū 01 - Deux opposés.nfo",
-      "[Hikano] Inuyashiki Last Hero Henshū 02 - Rancunes-thumb.png",
-      "[Hikano] Inuyashiki Last Hero Henshū 02 - Rancunes.nfo",
-      "[Hikano] Inuyashiki Last Hero Henshū 03 - Devenir un héros-thumb.png",
-      "banner.jpg",
-      "[Hikano] Inuyashiki Last Hero Henshū 03 - Devenir un héros.nfo"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3
-    ],
-    "unresolved_files": []
-  },
-  {
     "raw": "[Hokage] Seven Deadly Sins Henshū 01 - Les 7 péchés capitaux - 1080p.MULTI.x264",
     "show_title": "Seven Deadly Sins Henshū",
     "groupe": "Hokage",
@@ -16494,16 +15549,16 @@
     ]
   },
   {
-    "raw": "[Khyinn.Roro.MECHAPOULPE] Dr.Stone Henshu - Films 1 à 13 - Saison 1 - 3",
+    "raw": "[Khyinn.Roro] Dr.Stone Henshu - Films 1 à 13 - Saison 1 - 3",
     "show_title": null,
-    "groupe": "Khyinn.Roro.MECHAPOULPE",
+    "groupe": "Khyinn.Roro",
     "type": "pack_saison",
     "episodes": [],
     "saisons": [
       1
     ],
     "torrent_url": "https://nyaa.si/download/1850293.torrent",
-    "magnet": "magnet:?xt=urn:btih:fa687d0ff1687a374271dcda24b728db8e874a81&dn=%5BKhyinn.Roro.MECHAPOULPE%5D%20Dr.Stone%20Henshu%20-%20Films%201%20%C3%A0%2013%20-%20Saison%201%20-%203&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "magnet": "magnet:?xt=urn:btih:fa687d0ff1687a374271dcda24b728db8e874a81&dn=%5BKhyinn.Roro%5D%20Dr.Stone%20Henshu%20-%20Films%201%20%C3%A0%2013%20-%20Saison%201%20-%203&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
     "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
     "serie_id": 54,
     "serie_title": "Dr.Stone Henshū",
@@ -20247,874 +19302,6 @@
     ],
     "torrent_folders": [],
     "torrent_extras": [],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "[MECHAPOULPE] Blue Lock Henshū - Season 01 - 1080p.MULTI.VF/VO [Multi Subs] (EN|DE|ES|FR|IT|PT).x264",
-    "show_title": "Blue Lock Henshū",
-    "groupe": "MECHAPOULPE",
-    "type": "pack_saison",
-    "episodes": [],
-    "saisons": [
-      1
-    ],
-    "torrent_url": "https://nyaa.si/download/1693529.torrent",
-    "magnet": "magnet:?xt=urn:btih:b8c58839bb22b19ce7abf0d99d998f7bdecf7891&dn=%5BMECHAPOULPE%5D%20Blue%20Lock%20Hensh%C5%AB%20-%20Season%2001%20-%201080p.MULTI.VF%2FVO%20%5BMulti%20Subs%5D%20%28EN%7CDE%7CES%7CFR%7CIT%7CPT%29.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "b8c58839bb22b19ce7abf0d99d998f7bdecf7891",
-    "serie_id": 9,
-    "serie_title": "Blue Lock Henshū",
-    "season_id": 15,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 9,
-        "season_id": 15,
-        "season_number": 1,
-        "episode_id": 70,
-        "episode_number": 1,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 9,
-        "season_id": 15,
-        "season_number": 1,
-        "episode_id": 68,
-        "episode_number": 2,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 9,
-        "season_id": 15,
-        "season_number": 1,
-        "episode_id": 67,
-        "episode_number": 3,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 9,
-        "season_id": 15,
-        "season_number": 1,
-        "episode_id": 66,
-        "episode_number": 4,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 9,
-        "season_id": 15,
-        "season_number": 1,
-        "episode_id": 69,
-        "episode_number": 5,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [
-      {
-        "season_id": 15,
-        "season_number": 1
-      }
-    ],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.mkv"
-        ],
-        "size": 4995000694,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.mkv"
-        ],
-        "size": 5896082852,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.mkv"
-        ],
-        "size": 3905048747,
-        "season_number": 1
-      },
-      {
-        "num": 4,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.mkv"
-        ],
-        "size": 4084501003,
-        "season_number": 1
-      },
-      {
-        "num": 5,
-        "filename": "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.mkv"
-        ],
-        "size": 2629810790,
-        "season_number": 1
-      }
-    ],
-    "torrent_folders": [
-      "Blue Lock Henshū (ENG)",
-      "Blue Lock Henshū (ESP)",
-      "Blue Lock Henshū (FR - Already Included)",
-      "Blue Lock Henshū (GER)",
-      "Blue Lock Henshū (ITA)",
-      "Blue Lock Henshū (POR-BR)",
-      "OST",
-      "Pack Plex",
-      "Saison 1",
-      "Season 1"
-    ],
-    "torrent_extras": [
-      "fanart.jpg",
-      "poster.png",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "README.txt",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock-thumb.png",
-      "[MECHAPOULPE] Blue Lock Henshū - 01 - Welcome to Blue Lock.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One-thumb.png",
-      "banner.jpg",
-      "[MECHAPOULPE] Blue Lock Henshū - 02 - Level One.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat-thumb.png",
-      "[MECHAPOULPE] Blue Lock Henshū - 03 - The price of defeat.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening-thumb.png",
-      "[MECHAPOULPE] Blue Lock Henshū - 04 - King's awakening.nfo",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters-thumb.png",
-      "[MECHAPOULPE] Blue Lock Henshū - 05 - Monsters.nfo",
-      "01. BLUELOCK.mp3",
-      "02. BACHIRA.mp3",
-      "03. CHIGIRI.mp3",
-      "04. Formidable Enemy.mp3",
-      "05. Back and Forth.mp3",
-      "06. Push Forward.mp3",
-      "07. Helter Skelter.mp3",
-      "08. Struggle.mp3",
-      "09. Bewildering Emotions.mp3",
-      "10. Overwhelming.mp3",
-      "11. Regret.mp3",
-      "12. Difficult Problem.mp3",
-      "13. Inspiration.mp3",
-      "14. Start Line.mp3",
-      "15. Turnaround.mp3",
-      "16. Puzzle.mp3",
-      "17. Impatience.mp3",
-      "18. Breaking Down.mp3",
-      "19. Bravery.mp3",
-      "20. Take Back.mp3",
-      "21. Unity Roots.mp3",
-      "22. Distorted Pleasure.mp3",
-      "23. Bedroom.mp3",
-      "24. Reconciliation.mp3",
-      "25. Fleeting.mp3",
-      "26. Living Room.mp3",
-      "27. Failure and Frustration.mp3",
-      "28. Despair.mp3",
-      "29. Unfinished.mp3",
-      "30. Hesitation.mp3",
-      "31. MEGURU.mp3",
-      "32. Farewell to KAIBUTSU.mp3",
-      "33. Cacophony.mp3",
-      "34. Ambivalence.mp3",
-      "35. Setback.mp3",
-      "36. Comical.mp3",
-      "37. Additional Time.mp3",
-      "38. Match Start.mp3",
-      "39. Bout.mp3",
-      "40. Unpredictable.mp3",
-      "41. Aggressive.mp3",
-      "42. Extension.mp3",
-      "43. Kick Off.mp3",
-      "44. Confusion.mp3",
-      "45. Emergency.mp3",
-      "46. Logic.mp3",
-      "47. Disagreement.mp3",
-      "48. Unrest.mp3",
-      "49. Aggression.mp3",
-      "50. Nervousness.mp3",
-      "51. Skepticism.mp3",
-      "51. Skepticism.mp3.sfk",
-      "52. Betrayal.mp3",
-      "53. Hopeless.mp3",
-      "54. Lonsdaleite.mp3",
-      "55. Malevolence.mp3",
-      "56. EGO.mp3",
-      "57. Reviler.mp3",
-      "58. Piece of Strategy.mp3",
-      "59. Intellect.mp3",
-      "60. Sarcasm.mp3",
-      "61. Calmly.mp3",
-      "62. Objective.mp3",
-      "63. Chaos.mp3",
-      "64. Protrusion.mp3",
-      "65. Last Chance.mp3",
-      "66. Spatial Awareness.mp3",
-      "67. EGOISTIC.mp3",
-      "68. Awakening of BAROU.mp3",
-      "69. RIN.mp3",
-      "70. Comrade.mp3",
-      "71. WINNER -HeartBeat-.mp3",
-      "72. Judgement (TV Size).mp3",
-      "cover.jpg"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "[MECHAPOULPE] Chainsaw Man Henshū - Season 01 - 1080p.MULTI.VF/VO [Multi Subs] (EN|DE|ES|FR|IT|PT).x264",
-    "show_title": "Chainsaw Man Henshū",
-    "groupe": "MECHAPOULPE",
-    "type": "pack_saison",
-    "episodes": [],
-    "saisons": [
-      1
-    ],
-    "torrent_url": "https://nyaa.si/download/1634893.torrent",
-    "magnet": "magnet:?xt=urn:btih:e4f60b66c9187bf68dc1bdab1c666b66d0313047&dn=%5BMECHAPOULPE%5D%20Chainsaw%20Man%20Hensh%C5%AB%20-%20Season%2001%20-%201080p.MULTI.VF%2FVO%20%5BMulti%20Subs%5D%20%28EN%7CDE%7CES%7CFR%7CIT%7CPT%29.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "e4f60b66c9187bf68dc1bdab1c666b66d0313047",
-    "serie_id": 3,
-    "serie_title": "Chainsaw Man Henshū",
-    "season_id": 5,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 3,
-        "season_id": 5,
-        "season_number": 1,
-        "episode_id": 13,
-        "episode_number": 1,
-        "filename": "[MECHAPOULPE] Chainsaw Man 01 - Objectif Nibards.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 3,
-        "season_id": 5,
-        "season_number": 1,
-        "episode_id": 14,
-        "episode_number": 2,
-        "filename": "[MECHAPOULPE] Chainsaw Man 02 - Le goût du baiser.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 3,
-        "season_id": 5,
-        "season_number": 1,
-        "episode_id": 12,
-        "episode_number": 3,
-        "filename": "[MECHAPOULPE] Chainsaw Man 03 - Une dernière cigarette.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [
-      {
-        "season_id": 5,
-        "season_number": 1
-      }
-    ],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[MECHAPOULPE] Chainsaw Man 01 - Objectif Nibards.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Chainsaw Man 01 - Objectif Nibards.mkv"
-        ],
-        "size": 4044875186,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[MECHAPOULPE] Chainsaw Man 02 - Le goût du baiser.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Chainsaw Man 02 - Le goût du baiser.mkv"
-        ],
-        "size": 3826268781,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[MECHAPOULPE] Chainsaw Man 03 - Une dernière cigarette.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Chainsaw Man 03 - Une dernière cigarette.mkv"
-        ],
-        "size": 3779671268,
-        "season_number": 1
-      }
-    ],
-    "torrent_folders": [
-      "ARTWORKS",
-      "Chainsaw Man Original Soundtrack Complete Edition - Chainsaw Edge Fragments",
-      "ENDINGS",
-      "OPENING",
-      "OST",
-      "Saison 1"
-    ],
-    "torrent_extras": [
-      "logo.png",
-      "poster.png",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "fanart.jpg",
-      "[MECHAPOULPE] Chainsaw Man 01 - Objectif Nibards.nfo",
-      "[MECHAPOULPE] Chainsaw Man 01 - Objectif Nibards.png",
-      "[MECHAPOULPE] Chainsaw Man 02 - Le goût du baiser.nfo",
-      "[MECHAPOULPE] Chainsaw Man 02 - Le goût du baiser.png",
-      "[MECHAPOULPE] Chainsaw Man 03 - Une dernière cigarette.nfo",
-      "[MECHAPOULPE] Chainsaw Man 03 - Une dernière cigarette.png",
-      "01.png",
-      "02.png",
-      "03.png",
-      "05.png",
-      "06.png",
-      "bac2.png",
-      "back01.png",
-      "Chainsaw-Man-KV-1-scaled.jpg",
-      "chainsaw-trash4.jpg",
-      "CHAINSAWM_202207-0.png",
-      "CSM_logofra.png",
-      "deamon.png",
-      "denj.png",
-      "DENJI10.png",
-      "denji_w_pochita.png",
-      "hayakawa.png",
-      "KV-scaled.jpg",
-      "LOGO_HEADERVER.png",
-      "main.jpg",
-      "main_CSM本PV.jpg",
-      "MAKIMAA.png",
-      "POCHITA2.png",
-      "popup告知用KV.jpg",
-      "POWER.png",
-      "sub.jpg",
-      "sub1_CSM本PV.jpg",
-      "sub2.jpg",
-      "sub2_CSM本PV.jpg",
-      "sub3.jpg",
-      "sub3_CSM本PV.jpg",
-      "sub4.jpg",
-      "svgtopngChainsaw-Man_manga_VIZLOGO.png",
-      "ENDING 01 - Chainsaw Blood - Vaundy.mp4",
-      "ENDING 02 - Time Left - Zutomayo.mp4",
-      "ENDING 03 - Hawatari Niku Centi - Maximum the Hormone.mp4",
-      "ENDING 04 - Tablet - TOOBOE.mp4",
-      "ENDING 05 - In the Backroom - Syudou.mp4",
-      "ENDING 06 - Rendezvous - Kanaria.mp4",
-      "ENDING 07 - Chu, Tayousei - Ano.mp4",
-      "ENDING 08 - First Death - TK from Ling Tosite Sigure.mp4",
-      "ENDING 09 - Deep Down - Aimer.mp4",
-      "ENDING 10 - Dogland - People 1.mp4",
-      "ENDING 11 - Violence - Queen Bee.mp4",
-      "ENDING 12 - Fight Song - Eve.mp4",
-      "Opening - Creditless.mkv",
-      "CHAINSAW MAN - ENDING 01 -  Vaundy - CHAINSAW BLOOD.flac",
-      "CHAINSAW MAN - ENDING 02 -  Zutomayo - Time Left.flac",
-      "CHAINSAW MAN - ENDING 03 -  Maximum the Hormone - Hawatari Niku Centi.flac",
-      "CHAINSAW MAN - ENDING 04 -  TOOBOE - Tablet.flac",
-      "CHAINSAW MAN - ENDING 05 -  Syudou - In the Backroom.flac",
-      "CHAINSAW MAN - ENDING 06 -  Kanaria - Rendezvous.flac",
-      "CHAINSAW MAN - ENDING 07 -  Ano - Chu, Tayousei.flac",
-      "CHAINSAW MAN - ENDING 08 -  TK from Ling Tosite Sigure - First Death.flac",
-      "CHAINSAW MAN - ENDING 09 -  Aimer - Deep Down.flac",
-      "CHAINSAW MAN - ENDING 10 -  People 1 - Dogland.flac",
-      "CHAINSAW MAN - ENDING 11 -  Queen Bee - Violence.flac",
-      "CHAINSAW MAN - ENDING 12 -  Eve - Fight Song.flac",
-      "CHAINSAW MAN - Opening FULL - Kenshi Yonezu - KICK BACK TVアニメ「チェンソーマン」.m4a",
-      "01.edge of chainsaw.mp3",
-      "02.the door.mp3",
-      "03.imagine devils.mp3",
-      "04.the devil hunter.mp3",
-      "05.rain.mp3",
-      "06.nail-biter.mp3",
-      "07.black despair.mp3",
-      "08.that's a dream come true.mp3",
-      "09.special division 4.mp3",
-      "10.looking for something.mp3",
-      "11.livingroom.mp3",
-      "12.chainsaw attacks!.mp3",
-      "13.the devil appears.mp3",
-      "14.destroy them all.mp3",
-      "15.good night,boy.mp3",
-      "16.sweet dreams.mp3",
-      "17.eat.sleep.play.mp3",
-      "18.100% sales tax.mp3",
-      "19.kick ass!.mp3",
-      "20.the golden bowlers.mp3",
-      "21.search and destroy.mp3",
-      "22.death cluster.mp3",
-      "23.run.mp3",
-      "24.confront.mp3",
-      "25.humans are fools.mp3",
-      "26.buddy.mp3",
-      "27.song for unbirthday.mp3",
-      "28.verge of death.mp3",
-      "29.nmgeai.mp3",
-      "30.dream... come true.mp3",
-      "31.you were here.mp3",
-      "32.ave xxxxxx.mp3",
-      "33.sepia.mp3",
-      "34.in the bullet train.mp3",
-      "35.brutal life.mp3",
-      "36.he's on the back foot.mp3",
-      "37.arg..mp3",
-      "38.pain in the ass.mp3",
-      "39.stranger in paranoid.mp3",
-      "40.pong pong pong.mp3",
-      "41.stay in the darkness.mp3",
-      "42.crawler.mp3",
-      "43.brotherhood.mp3",
-      "44.gun,knife.mp3",
-      "45.a tombstone.mp3",
-      "46.tear off.mp3",
-      "47.metal riser.mp3",
-      "48.sword of hunter.mp3",
-      "49.the end of childhood.mp3",
-      "COVER.jpg"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "[MECHAPOULPE] Oshi no Ko Henshu - 2160p&1080p.MULTI.x264",
-    "show_title": null,
-    "groupe": "MECHAPOULPE",
-    "type": "pack_integrale",
-    "episodes": [],
-    "saisons": [],
-    "torrent_url": "https://nyaa.si/download/1974946.torrent",
-    "magnet": "magnet:?xt=urn:btih:f5c6d2b10d3d85ccbd6fbab776a983d653504759&dn=%5BMECHAPOULPE%5D%20Oshi%20no%20Ko%20Henshu%20-%202160p%261080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "f5c6d2b10d3d85ccbd6fbab776a983d653504759",
-    "serie_id": 71,
-    "serie_title": "Oshi no Ko Henshū",
-    "season_id": 180,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 71,
-        "season_id": 180,
-        "season_number": 1,
-        "episode_id": 1161,
-        "episode_number": 1,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 01 - Mensonges.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 71,
-        "season_id": 180,
-        "season_number": 1,
-        "episode_id": 1158,
-        "episode_number": 2,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 02 - Début de carrière.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 71,
-        "season_id": 180,
-        "season_number": 1,
-        "episode_id": 1160,
-        "episode_number": 3,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 03 - L'envers du décor.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 71,
-        "season_id": 180,
-        "season_number": 1,
-        "episode_id": 1159,
-        "episode_number": 4,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 04 - Héritage.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 71,
-        "season_id": 179,
-        "season_number": 2,
-        "episode_id": 1156,
-        "episode_number": 5,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu 05 - Dramaturgie - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 71,
-        "season_id": 179,
-        "season_number": 2,
-        "episode_id": 1157,
-        "episode_number": 6,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu 06 - Tokyo Blade - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 71,
-        "season_id": 179,
-        "season_number": 2,
-        "episode_id": 1155,
-        "episode_number": 7,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu 07 - Reflets cendrés - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 01 - Mensonges.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Oshi no Ko Henshu - 01 - Mensonges.mkv"
-        ],
-        "size": 3936321612,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 02 - Début de carrière.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Oshi no Ko Henshu - 02 - Début de carrière.mkv"
-        ],
-        "size": 2894282390,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 03 - L'envers du décor.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Oshi no Ko Henshu - 03 - L'envers du décor.mkv"
-        ],
-        "size": 2816589317,
-        "season_number": 1
-      },
-      {
-        "num": 4,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu - 04 - Héritage.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Oshi no Ko Henshu - 04 - Héritage.mkv"
-        ],
-        "size": 2974605154,
-        "season_number": 1
-      },
-      {
-        "num": 5,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu 05 - Dramaturgie - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[MECHAPOULPE] Oshi no Ko Henshu 05 - Dramaturgie - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1730280880,
-        "season_number": 2
-      },
-      {
-        "num": 6,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu 06 - Tokyo Blade - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[MECHAPOULPE] Oshi no Ko Henshu 06 - Tokyo Blade - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1967724239,
-        "season_number": 2
-      },
-      {
-        "num": 7,
-        "filename": "[MECHAPOULPE] Oshi no Ko Henshu 07 - Reflets cendrés - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[MECHAPOULPE] Oshi no Ko Henshu 07 - Reflets cendrés - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1460268511,
-        "season_number": 2
-      }
-    ],
-    "torrent_folders": [
-      "Saison 1",
-      "Saison 2"
-    ],
-    "torrent_extras": [
-      "fanart.jpg",
-      "logo.png",
-      "poster.png",
-      "season01-fanart.jpg",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "banner.jpg",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 01 - Mensonges.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 01 - Mensonges-thumb.png",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 02 - Début de carrière.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 02 - Début de carrière-thumb.png",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 03 - L'envers du décor.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 03 - L'envers du décor-thumb.png",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 04 - Héritage.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu - 04 - Héritage-thumb.png",
-      "[MECHAPOULPE] Oshi no Ko Henshu 05 - Dramaturgie - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu 05 - Dramaturgie - 1080p.MULTI.x264-thumb.png",
-      "[MECHAPOULPE] Oshi no Ko Henshu 06 - Tokyo Blade - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu 06 - Tokyo Blade - 1080p.MULTI.x264-thumb.png",
-      "[MECHAPOULPE] Oshi no Ko Henshu 07 - Reflets cendrés - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Oshi no Ko Henshu 07 - Reflets cendrés - 1080p.MULTI.x264-thumb.png"
-    ],
-    "file_ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
-    ],
-    "unresolved_files": []
-  },
-  {
-    "raw": "[MECHAPOULPE] Solo Leveling Henshū saison 1 & 2",
-    "show_title": "Solo Leveling Henshū",
-    "groupe": "MECHAPOULPE",
-    "type": "pack_saison",
-    "episodes": [],
-    "saisons": [
-      1,
-      2
-    ],
-    "torrent_url": "https://nyaa.si/download/2037852.torrent",
-    "magnet": "magnet:?xt=urn:btih:2fb0e9f9cbdeafce2cf6df7f08e4f68d09c37c41&dn=%5BMECHAPOULPE%5D%20Solo%20Leveling%20Hensh%C5%AB%20saison%201%20%26%202&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-    "infohash": "2fb0e9f9cbdeafce2cf6df7f08e4f68d09c37c41",
-    "serie_id": 37,
-    "serie_title": "Solo Leveling Henshū",
-    "season_id": 76,
-    "season_number": 1,
-    "resolved_episodes": [
-      {
-        "serie_id": 37,
-        "season_id": 76,
-        "season_number": 1,
-        "episode_id": 521,
-        "episode_number": 1,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 37,
-        "season_id": 76,
-        "season_number": 1,
-        "episode_id": 522,
-        "episode_number": 2,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 37,
-        "season_id": 76,
-        "season_number": 1,
-        "episode_id": 520,
-        "episode_number": 3,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 37,
-        "season_id": 75,
-        "season_number": 2,
-        "episode_id": 518,
-        "episode_number": 4,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 04 - In the shadows - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 37,
-        "season_id": 75,
-        "season_number": 2,
-        "episode_id": 517,
-        "episode_number": 5,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      },
-      {
-        "serie_id": 37,
-        "season_id": 75,
-        "season_number": 2,
-        "episode_id": 519,
-        "episode_number": 6,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264.mkv",
-        "is_special": false
-      }
-    ],
-    "resolved_seasons": [
-      {
-        "season_id": 76,
-        "season_number": 1
-      },
-      {
-        "season_id": 75,
-        "season_number": 2
-      }
-    ],
-    "resolve_status": "ok",
-    "torrent_files": [
-      {
-        "num": 1,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2196753844,
-        "season_number": 1
-      },
-      {
-        "num": 2,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1787744528,
-        "season_number": 1
-      },
-      {
-        "num": 3,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 1",
-          "[MECHAPOULPE] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1990204667,
-        "season_number": 1
-      },
-      {
-        "num": 4,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 04 - In the shadows - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[MECHAPOULPE] Solo Leveling Henshū 04 - In the shadows - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 3107151959,
-        "season_number": 2
-      },
-      {
-        "num": 5,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[MECHAPOULPE] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 1429657484,
-        "season_number": 2
-      },
-      {
-        "num": 6,
-        "filename": "[MECHAPOULPE] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264.mkv",
-        "path": [
-          "Saison 2",
-          "[MECHAPOULPE] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264.mkv"
-        ],
-        "size": 2771098366,
-        "season_number": 2
-      }
-    ],
-    "torrent_folders": [
-      "Saison 1",
-      "Saison 2"
-    ],
-    "torrent_extras": [
-      "fanart.jpg",
-      "logo.png",
-      "poster.png",
-      "season01-poster.jpg",
-      "theme.mp3",
-      "tvshow.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264-thumb.png",
-      "[MECHAPOULPE] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264-thumb.png",
-      "[MECHAPOULPE] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264-thumb.png",
-      "season.nfo",
-      "banner.jpg",
-      "[MECHAPOULPE] Solo Leveling Henshū 04 - In the Shadows - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 04 - In the Shadows - 1080p.MULTI.x264-thumb.png",
-      "[MECHAPOULPE] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264-thumb.png",
-      "[MECHAPOULPE] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264.nfo",
-      "[MECHAPOULPE] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264-thumb.png",
-      "season.nfo"
-    ],
     "file_ep_numbers": [
       1,
       2,
@@ -28310,6 +26497,49 @@
     "unresolved_files": []
   },
   {
+    "raw": "[Triggerforce] Tokyo Revengers Henshu 03 - Revanche",
+    "show_title": null,
+    "groupe": "Triggerforce",
+    "type": "episode",
+    "episodes": [
+      3
+    ],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1647381.torrent",
+    "magnet": "magnet:?xt=urn:btih:050913b346aa0bc5b93d4c8f2506e37d4ae08bb4&dn=%5BTriggerforce%5D%20Tokyo%20Revengers%20Henshu%2003%20-%20Revanche&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "050913b346aa0bc5b93d4c8f2506e37d4ae08bb4",
+    "serie_id": 91,
+    "serie_title": "Tokyo Revengers Henshū",
+    "season_id": 269,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "season_id": 269,
+        "season_number": 1,
+        "episode_id": 1783,
+        "episode_number": 3
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 3,
+        "filename": "[Triggerforce]Tokyo Revengers Henshu 03 - Revanche.mkv",
+        "path": [
+          "[Triggerforce]Tokyo Revengers Henshu 03 - Revanche.mkv"
+        ],
+        "size": 2203336923,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      3
+    ]
+  },
+  {
     "raw": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264",
     "show_title": "Tokyo Revengers Henshū",
     "groupe": "Triggerforce",
@@ -28708,6 +26938,178 @@
     "torrent_extras": [],
     "file_ep_numbers": [
       36
+    ]
+  },
+  {
+    "raw": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation",
+    "show_title": null,
+    "groupe": "Triggerforce",
+    "type": "episode",
+    "episodes": [
+      1
+    ],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1646151.torrent",
+    "magnet": "magnet:?xt=urn:btih:29907c00eeebbcc10d81d3b0e7f14bdde15488b1&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2001%20-%20R%C3%A9incarnation&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
+    "serie_id": 91,
+    "serie_title": "Tokyo Revengers Henshū",
+    "season_id": 269,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "season_id": 269,
+        "season_number": 1,
+        "episode_id": 1780,
+        "episode_number": 1
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv",
+        "path": [
+          "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv"
+        ],
+        "size": 1649790624,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      1
+    ]
+  },
+  {
+    "raw": "[Triggerforce]Tokyo Revengers Henshu 02 - Révolte",
+    "show_title": null,
+    "groupe": "Triggerforce",
+    "type": "episode",
+    "episodes": [
+      2
+    ],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1646713.torrent",
+    "magnet": "magnet:?xt=urn:btih:9c331362cc90a6e1e5d5b15b0b73a340d813a112&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2002%20-%20R%C3%A9volte&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "9c331362cc90a6e1e5d5b15b0b73a340d813a112",
+    "serie_id": 91,
+    "serie_title": "Tokyo Revengers Henshū",
+    "season_id": 269,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "season_id": 269,
+        "season_number": 1,
+        "episode_id": 1784,
+        "episode_number": 2
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 2,
+        "filename": "[Triggerforce]Tokyo Revengers Henshu 02 - Révolte.mkv",
+        "path": [
+          "[Triggerforce]Tokyo Revengers Henshu 02 - Révolte.mkv"
+        ],
+        "size": 2670697381,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      2
+    ]
+  },
+  {
+    "raw": "[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain",
+    "show_title": null,
+    "groupe": "Triggerforce",
+    "type": "episode",
+    "episodes": [
+      4
+    ],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1655290.torrent",
+    "magnet": "magnet:?xt=urn:btih:31dcb859dc9bcd287664cbbb11c7ef818dd77423&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2004%20-%20No%20pain%2C%20no%20gain&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "31dcb859dc9bcd287664cbbb11c7ef818dd77423",
+    "serie_id": 91,
+    "serie_title": "Tokyo Revengers Henshū",
+    "season_id": 269,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "season_id": 269,
+        "season_number": 1,
+        "episode_id": 1781,
+        "episode_number": 4
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 4,
+        "filename": "[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain.mkv",
+        "path": [
+          "[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain.mkv"
+        ],
+        "size": 1717113429,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      4
+    ]
+  },
+  {
+    "raw": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits",
+    "show_title": null,
+    "groupe": "Triggerforce",
+    "type": "episode",
+    "episodes": [
+      5
+    ],
+    "saisons": [],
+    "torrent_url": "https://nyaa.si/download/1667031.torrent",
+    "magnet": "magnet:?xt=urn:btih:07a04de62868cfe8f7330bf7718ee793b15f7812&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2005%20-%20Derniers%20souhaits&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
+    "serie_id": 91,
+    "serie_title": "Tokyo Revengers Henshū",
+    "season_id": 269,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "season_id": 269,
+        "season_number": 1,
+        "episode_id": 1782,
+        "episode_number": 5
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 5,
+        "filename": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.mkv",
+        "path": [
+          "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.mkv"
+        ],
+        "size": 2969183018,
+        "season_number": null
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      5
     ]
   },
   {

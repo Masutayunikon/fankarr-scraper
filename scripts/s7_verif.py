@@ -165,11 +165,30 @@ def main():
 
     # Récupérer toutes les séries API
     print("[API] Récupération de toutes les séries...")
-    all_series = client.get_all_series()
-    if not all_series:
+    all_series_raw = client.get_all_series()
+    if not all_series_raw:
         print("[ERR] Aucune série récupérée depuis l'API")
         return
-    print(f"[API] {len(all_series)} séries trouvées\n")
+
+    # Dédupliquer les séries dont le titre normalisé est identique (ex: Kaï vs Kai)
+    # On garde la série avec l'ID le plus bas (la plus ancienne = référence)
+    import unicodedata as _ud
+    def _norm_title(t):
+        s = "".join(c for c in _ud.normalize("NFD", (t or "").lower()) if _ud.category(c) != "Mn")
+        return s.strip()
+
+    seen_titles : dict[str, dict] = {}
+    for serie in sorted(all_series_raw, key=lambda s: s.get("id", 9999)):
+        key = _norm_title(serie.get("title", ""))
+        if key not in seen_titles:
+            seen_titles[key] = serie
+        else:
+            # Fusionner : on garde la série déjà vue mais on note l'ID doublon
+            seen_titles[key].setdefault("_duplicate_ids", []).append(serie["id"])
+
+    all_series = list(seen_titles.values())
+    dupes = sum(1 for s in all_series if s.get("_duplicate_ids"))
+    print(f"[API] {len(all_series_raw)} séries trouvées ({dupes} doublons Kaï/Kai fusionnés)\n")
 
     # Collecter les épisodes couverts dans torrent_final.json
     covered = collect_covered_episodes(torrents)
@@ -201,7 +220,10 @@ def main():
 
         api_ep_ids     = {ep["episode_id"] for ep in api_episodes}
         api_sp_ids     = {ep["episode_id"] for ep in api_specials}
-        covered_ids    = covered.get(serie_id, set())
+        # Fusionner les épisodes couverts de tous les IDs doublons (Kaï/Kai)
+        covered_ids    = covered.get(serie_id, set()).copy()
+        for dup_id in serie.get("_duplicate_ids", []):
+            covered_ids |= covered.get(dup_id, set())
         missing_ids    = api_ep_ids - covered_ids
 
         api_count      = len(api_ep_ids)
