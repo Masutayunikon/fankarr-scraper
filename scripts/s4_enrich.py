@@ -105,20 +105,22 @@ def _magnet_from_data(data: dict, raw_name: str) -> str:
 
 # ─── Récupération + parsing du .torrent ──────────────────────────────────────
 
-def fetch_torrent_files_from_local(filepath: str) -> tuple[list[dict], str]:
+def fetch_torrent_files_from_local(filepath: str) -> tuple[list[dict], str, str]:
+    """Retourne (fichiers, infohash, nom_torrent)."""
     path = Path(filepath)
     if not path.exists():
         print(f"  [!] Fichier local introuvable : {filepath}")
-        return [], ""
+        return [], "", ""
     try:
         data = bencode.decode(path.read_bytes())
         infohash = _infohash_from_data(data)
         files = _parse_bencode_files(data)
-        print(f"  [✓] Fichier local OK: {filepath} (infohash={infohash})")
-        return files, infohash
+        name = _bstr(_bget(_bget(data, "info") or {}, "name") or "")
+        print(f"  [✓] Fichier local OK: {filepath} (infohash={infohash}, name={name})")
+        return files, infohash, name
     except Exception as e:
         print(f"  [!] Erreur lecture fichier local {filepath}: {e}")
-        return [], ""
+        return [], "", ""
 
 
 def fetch_torrent_files(infohash: str) -> list[dict]:
@@ -420,7 +422,7 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
         local_path  = local_entry[0] if local_entry else None
         if local_path:
             print(f"  → Parsing torrent local: {raw_name[:60]}")
-            files, infohash = fetch_torrent_files_from_local(local_path)
+            files, infohash, torrent_name = fetch_torrent_files_from_local(local_path)
             if files:
                 if infohash and not torrent.get("infohash"):
                     torrent["infohash"] = infohash
@@ -430,9 +432,9 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
                         torrent["magnet"] = _magnet_from_data(raw_data, raw_name)
                     except Exception:
                         pass
-                # Propager le label depuis LOCAL_TORRENTS si pas déjà présent
-                if not torrent.get("label"):
-                    torrent["label"] = local_entry[4]
+                # Utiliser le nom extrait du .torrent comme label
+                if torrent_name:
+                    torrent["label"] = torrent_name
                 structure = parse_torrent_structure(files)
                 torrent["torrent_files"]   = structure["episodes"]
                 torrent["torrent_folders"] = structure["folders"]
@@ -494,8 +496,9 @@ if __name__ == "__main__":
         arg = sys.argv[1]
         if arg == "--local" and len(sys.argv) > 2:
             local_file = sys.argv[2]
-            files, infohash = fetch_torrent_files_from_local(local_file)
+            files, infohash, torrent_name = fetch_torrent_files_from_local(local_file)
             print(f"  infohash: {infohash}")
+            print(f"  name: {torrent_name}")
         else:
             files = fetch_torrent_files(arg)
 
