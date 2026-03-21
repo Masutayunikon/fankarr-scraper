@@ -90,11 +90,11 @@ class Resolver:
             for ep in self._episodes(season["id"]):
                 if ep.get("episode_number") == ep_number:
                     return {
-                        "serie_id"        : serie_id,
-                        "season_id"       : season["id"],
-                        "season_number"   : season.get("season_number"),
-                        "episode_id"      : ep["id"],
-                        "episode_number"  : ep_number,
+                        "serie_id"         : serie_id,
+                        "season_id"        : season["id"],
+                        "season_number"    : season.get("season_number"),
+                        "episode_id"       : ep["id"],
+                        "episode_number"   : ep_number,
                         "original_filename": ep.get("original_filename"),
                     }
         return None
@@ -272,6 +272,35 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
 
     return torrent
 
+def fix_manual_torrent_files(torrent: dict) -> bool:
+    if torrent.get("torrent_files"):
+        return False
+    extras = torrent.get("torrent_extras", [])
+    if not extras:
+        return False
+    mkv_extras = [e for e in extras if e.lower().endswith((".mkv", ".mp4", ".avi"))]
+    if not mkv_extras:
+        return False
+    # Utiliser episodes[] pour connaître le numéro d'épisode et season_number du torrent
+    ep_numbers = torrent.get("episodes", [])
+    season_number = torrent.get("season_number", 0)
+    if not ep_numbers:
+        return False
+    new_files = []
+    for i, mkv in enumerate(mkv_extras):
+        ep_num = ep_numbers[i] if i < len(ep_numbers) else ep_numbers[-1]
+        new_files.append({
+            "num"          : ep_num,
+            "filename"     : mkv,
+            "path"         : [mkv],
+            "size"         : 0,
+            "season_number": season_number,
+        })
+    torrent["torrent_files"]   = new_files
+    torrent["torrent_extras"]  = [e for e in extras if e not in mkv_extras]
+    torrent["file_ep_numbers"] = [f["num"] for f in new_files]
+    return True
+
 def main():
     with open(INPUT_FILE, encoding="utf-8") as f:
         torrents = json.load(f)
@@ -285,7 +314,17 @@ def main():
     print(f"[Step5] {enriched_count} torrents avec fichiers à résoudre\n")
 
     for i, torrent in enumerate(torrents, 1):
-        # ── Cas torrent manuel : season_number=0 et episodes connus, pas de torrent_files
+        raw_name = torrent.get("raw", "")
+
+        # Fix en premier — avant tout le reste
+        if fix_manual_torrent_files(torrent):
+            print(f"[{i:3d}] {raw_name[:65]}")
+            print(f"       → Fix torrent_files: {torrent['file_ep_numbers']}")
+
+
+        # ── Cas torrent manuel ...
+
+        # ── Cas torrent manuel : season_number=0 et episodes connus, pas de torrent_files ──
         if (torrent.get("season_number") == 0
                 and torrent.get("episodes")
                 and not torrent.get("resolved_episodes")
@@ -300,7 +339,7 @@ def main():
                     torrent.setdefault("resolved_episodes", []).append(result)
             if torrent.get("resolved_episodes"):
                 torrent["resolve_status"] = "ok"
-                print(f"[{i:3d}] {torrent.get('raw','')[:65]}")
+                print(f"[{i:3d}] {raw_name[:65]}")
                 print(f"       → Manuel S00: {[e['episode_id'] for e in torrent['resolved_episodes']]}")
             continue
 
@@ -312,8 +351,7 @@ def main():
         if torrent.get("resolve_status") == "ok" and resolved_count > 0 and resolved_count >= files_count:
             continue
 
-        raw = torrent.get("raw", "")
-        print(f"[{i:3d}] {raw[:65]}")
+        print(f"[{i:3d}] {raw_name[:65]}")
         print(f"       serie={torrent.get('serie_id')} type={torrent.get('type')}")
 
         resolve_torrent_episodes(torrent, resolver)

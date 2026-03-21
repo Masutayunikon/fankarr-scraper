@@ -27,7 +27,6 @@ OUTPUT_FILE   = "data/torrent_enriched.json"
 NYA_RAW_PATH  = "data/torrent_raw.json"
 
 # Fichiers .torrent locaux : { raw_name_exact: (chemin_fichier, serie_id, serie_title, type) }
-# Ces torrents seront injectés dans le pipeline s'ils sont absents de torrent_resolved.json
 _SCRIPT_DIR = Path(__file__).parent
 
 LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
@@ -35,7 +34,6 @@ LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
 }
 
 # Torrents manuels avec URL directe (pas de fichier local, pas sur Nyaa Fankai)
-# Format : { raw_name: (torrent_url, serie_id, serie_title, season_number, episode_number) }
 MANUAL_TORRENTS: dict[str, tuple[str, int, str, int, int]] = {
     "My Hero Academia Henshū - Film 4 - You're Next": (
         "https://nyaa.si/download/1964024.torrent",
@@ -43,7 +41,6 @@ MANUAL_TORRENTS: dict[str, tuple[str, int, str, int, int]] = {
     ),
 }
 
-# Sources de téléchargement de .torrent par infohash (fallback dans l'ordre)
 TORRENT_SOURCES = [
     "https://itorrents.org/torrent/{HASH}.torrent",
     "https://torrage.info/torrent.php?h={HASH}",
@@ -54,11 +51,9 @@ TORRENT_SOURCES = [
 # ─── Helpers bencode ──────────────────────────────────────────────────────────
 
 def _bget(d: dict, key: str):
-    """Récupère une valeur depuis un dict bencode — clé str ou bytes."""
     return d.get(key) or d.get(key.encode()) or d.get(key.encode("utf-8"))
 
 def _bstr(v) -> str:
-    """Convertit bytes → str si nécessaire."""
     if isinstance(v, bytes):
         return v.decode("utf-8", errors="replace")
     return str(v) if v is not None else ""
@@ -67,10 +62,8 @@ def _bstr(v) -> str:
 # ─── Parsing bencode ──────────────────────────────────────────────────────────
 
 def _parse_bencode_files(data: dict) -> list[dict]:
-    """Extrait la liste de fichiers depuis un dict bencode décodé."""
     info = _bget(data, "info") or {}
     files = []
-
     file_list = _bget(info, "files")
     if file_list:
         for f in file_list:
@@ -83,21 +76,34 @@ def _parse_bencode_files(data: dict) -> list[dict]:
         if name:
             size = _bget(info, "length") or 0
             files.append({"path": [_bstr(name)], "size": size})
-
     return files
 
 def _infohash_from_data(data: dict) -> str:
-    """Calcule l'infohash SHA1 depuis un dict bencode décodé."""
     info = _bget(data, "info") or {}
     return hashlib.sha1(bencode.encode(info)).hexdigest()
+
+def _magnet_from_data(data: dict, raw_name: str) -> str:
+    import urllib.parse
+    infohash = _infohash_from_data(data)
+    magnet = f"magnet:?xt=urn:btih:{infohash}&dn={urllib.parse.quote(raw_name)}"
+    try:
+        announce = _bget(data, "announce")
+        if announce:
+            magnet += f"&tr={urllib.parse.quote(_bstr(announce), safe='')}"
+        announce_list = _bget(data, "announce-list") or []
+        for tier in announce_list:
+            for tracker in (tier if isinstance(tier, list) else [tier]):
+                t_url = _bstr(tracker)
+                if t_url and f"tr={urllib.parse.quote(t_url, safe='')}" not in magnet:
+                    magnet += f"&tr={urllib.parse.quote(t_url, safe='')}"
+    except Exception:
+        pass
+    return magnet
 
 
 # ─── Récupération + parsing du .torrent ──────────────────────────────────────
 
 def fetch_torrent_files_from_local(filepath: str) -> tuple[list[dict], str]:
-    """
-    Lit un fichier .torrent local et retourne (fichiers, infohash).
-    """
     path = Path(filepath)
     if not path.exists():
         print(f"  [!] Fichier local introuvable : {filepath}")
@@ -114,11 +120,7 @@ def fetch_torrent_files_from_local(filepath: str) -> tuple[list[dict], str]:
 
 
 def fetch_torrent_files(infohash: str) -> list[dict]:
-    """
-    Télécharge le .torrent depuis plusieurs sources et retourne la liste des fichiers.
-    """
     h = infohash.upper()
-
     for source_tpl in TORRENT_SOURCES:
         url = source_tpl.replace("{HASH}", h)
         try:
@@ -132,21 +134,25 @@ def fetch_torrent_files(infohash: str) -> list[dict]:
         except Exception as e:
             print(f"  [!] Source KO ({url}): {e}")
             continue
-
     print(f"  [!] Toutes les sources ont échoué pour {infohash}")
     return []
 
 
-def fetch_torrent_files_from_url(url: str) -> list[dict]:
-    """Télécharge un .torrent depuis une URL directe et retourne les fichiers."""
+def fetch_torrent_files_from_url(url: str, raw_name: str = "") -> tuple[list[dict], str, str]:
+    """
+    Télécharge un .torrent depuis une URL directe.
+    Retourne (fichiers, infohash, magnet).
+    """
     try:
         r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
         r.raise_for_status()
         data = bencode.decode(r.content)
-        return _parse_bencode_files(data)
+        infohash = _infohash_from_data(data)
+        magnet   = _magnet_from_data(data, raw_name) if raw_name else ""
+        return _parse_bencode_files(data), infohash, magnet
     except Exception as e:
         print(f"  [!] Erreur URL {url}: {e}")
-        return []
+        return [], "", ""
 
 
 # ─── Extraction des épisodes depuis les noms de fichiers ─────────────────────
@@ -156,16 +162,14 @@ _EP_PATTERNS = [
     re.compile(r"Henshū\s+(\d{1,3})\b",              re.IGNORECASE),
     re.compile(r"Ka[iï]\s+(\d{1,3})\b",              re.IGNORECASE),
     re.compile(r"Yaba[iï]\s+(\d{1,3})\b",            re.IGNORECASE),
-    re.compile(r"\bS\d+E(\d+)\b",                    re.IGNORECASE),  # S01E10
-    re.compile(r"\b\d{1,2}x(\d{2,3})\b",             re.IGNORECASE),  # 01x10
+    re.compile(r"\bS\d+E(\d+)\b",                    re.IGNORECASE),
+    re.compile(r"\b\d{1,2}x(\d{2,3})\b",             re.IGNORECASE),
     re.compile(r"\b(\d{1,3})\s*[-–]\s+\w",           re.IGNORECASE),
     re.compile(r"[-–\s](\d{2,3})[-–\s]",             re.IGNORECASE),
 ]
 
-# Patterns pour détecter les numéros flottants type 8.5, 2.5...
 _EP_FLOAT_PATTERN = re.compile(r"\b(\d{1,3})[.,](\d)\b")
 
-# Mots-clés bonus/extra — utilise \b pour éviter les faux positifs
 _BONUS_KW_RE = re.compile(
     r"\b(?:bonus|extra|special|ova|ona|ncop|nced|opening|ending|film\s+bonus)\b",
     re.IGNORECASE
@@ -229,9 +233,7 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
         if filename.lower().endswith((".mkv", ".mp4", ".avi")):
             if _is_in_excluded_folder(path):
-                # Exception 1 : fichiers flottants (ex: 7,5 / 19,5) dans dossier bonus → saison 0
                 float_m2 = _EP_FLOAT_PATTERN.search(filename)
-                # Exception 2 : fichiers S00Exx dans dossier specials → saison 0
                 s00_m = re.search(r"S00E(\d+)", filename, re.IGNORECASE)
                 if float_m2:
                     specials.append({
@@ -262,16 +264,14 @@ def parse_torrent_structure(files: list[dict]) -> dict:
                     "size"         : size,
                     "season_number": season_from_path if season_from_path == 0 else 0,
                 }
-                # Extraire le numéro entier depuis le flottant (ex: 8.5 → 8)
                 if float_m:
-                    sp["num"] = int(float_m.group(1))  # partie entière seulement
+                    sp["num"] = int(float_m.group(1))
                 specials.append(sp)
                 continue
 
             ep_num = extract_episode_number(filename)
             if ep_num is not None:
                 season_num = extract_season_from_path(path) or extract_season_from_filename(filename)
-
                 if season_num == 0:
                     specials.append({
                         "num"          : max(ep_num, 1),
@@ -295,7 +295,6 @@ def parse_torrent_structure(files: list[dict]) -> dict:
 
     episodes.sort(key=lambda e: e["num"])
 
-    # Numéroter les specials séquentiellement (sauf ceux qui ont déjà un num depuis le flottant)
     seq = 1
     for sp in specials:
         if "num" not in sp:
@@ -326,72 +325,89 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
         if title:
             raw_by_title[title] = t
 
-    # Injecter les torrents locaux manquants dans le pipeline
+    # Injecter les torrents locaux manquants
     existing_raws = {t.get("raw", "") for t in resolved}
     for raw_name, (local_path, serie_id, serie_title, t_type) in LOCAL_TORRENTS.items():
         if raw_name not in existing_raws:
             print(f"  [LOCAL] Injection de '{raw_name}' dans le pipeline")
             resolved.append({
-                "raw"              : raw_name,
-                "show_title"       : serie_title,
-                "groupe"           : None,
-                "type"             : t_type,
-                "episodes"         : [],
-                "saisons"          : [],
-                "torrent_url"      : None,
-                "magnet"           : None,
-                "infohash"         : None,
-                "serie_id"         : serie_id,
-                "serie_title"      : serie_title,
-                "season_id"        : None,
-                "season_number"    : None,
-                "resolved_episodes": [],
-                "resolved_seasons" : [],
-                "resolve_status"   : "ok",
-                "torrent_files"    : [],
-                "torrent_folders"  : [],
-                "torrent_extras"   : [],
-                "file_ep_numbers"  : [],
+                "raw": raw_name, "show_title": serie_title, "groupe": None,
+                "type": t_type, "episodes": [], "saisons": [],
+                "torrent_url": None, "magnet": None, "infohash": None,
+                "serie_id": serie_id, "serie_title": serie_title,
+                "season_id": None, "season_number": None,
+                "resolved_episodes": [], "resolved_seasons": [],
+                "resolve_status": "ok", "torrent_files": [],
+                "torrent_folders": [], "torrent_extras": [], "file_ep_numbers": [],
             })
 
-    # Injecter les torrents manuels (URL directe, épisode connu)
+    # Injecter les torrents manuels — télécharge le .torrent tout de suite
     for raw_name, (torrent_url, serie_id, serie_title, season_number, episode_number) in MANUAL_TORRENTS.items():
         if raw_name not in existing_raws:
             print(f"  [MANUAL] Injection de '{raw_name}' dans le pipeline")
+            files, computed_hash, computed_magnet = fetch_torrent_files_from_url(torrent_url, raw_name)
+            structure = parse_torrent_structure(files) if files else {"episodes": [], "folders": [], "extras": []}
+
+            # Si torrent_files vide mais un mkv dans extras → le forcer avec les bonnes métadonnées
+            if not structure["episodes"] and structure["extras"]:
+                for extra in list(structure["extras"]):
+                    if extra.lower().endswith((".mkv", ".mp4", ".avi")):
+                        structure["episodes"].append({
+                            "num"          : episode_number,
+                            "filename"     : extra,
+                            "path"         : [extra],
+                            "size"         : 0,
+                            "season_number": season_number,
+                        })
+                        structure["extras"].remove(extra)
+                        break
+
             resolved.append({
-                "raw"              : raw_name,
-                "show_title"       : serie_title,
-                "groupe"           : None,
-                "type"             : "episode",
-                "episodes"         : [episode_number],
-                "saisons"          : [],
-                "torrent_url"      : torrent_url,
-                "magnet"           : None,
-                "infohash"         : None,
-                "serie_id"         : serie_id,
-                "serie_title"      : serie_title,
-                "season_id"        : None,
-                "season_number"    : season_number,
-                "resolved_episodes": [],
-                "resolved_seasons" : [],
+                "raw": raw_name, "show_title": serie_title, "groupe": None,
+                "type": "episode", "episodes": [episode_number], "saisons": [],
+                "torrent_url"  : torrent_url,
+                "magnet"       : computed_magnet or None,
+                "infohash"     : computed_hash or None,
+                "serie_id": serie_id, "serie_title": serie_title,
+                "season_id": None, "season_number": season_number,
+                "resolved_episodes": [], "resolved_seasons": [],
                 "resolve_status"   : None,
-                "torrent_files"    : [],
-                "torrent_folders"  : [],
-                "torrent_extras"   : [],
-                "file_ep_numbers"  : [],
+                "torrent_files"    : structure["episodes"],
+                "torrent_folders"  : structure["folders"],
+                "torrent_extras"   : structure["extras"],
+                "file_ep_numbers"  : [e["num"] for e in structure["episodes"]],
             })
+            existing_raws.add(raw_name)
+            print(f"     infohash={computed_hash} fichiers={len(structure['episodes'])}")
 
     enriched = 0
     for torrent in resolved:
-        t_type = torrent.get("type")
-        status = torrent.get("resolve_status")
+        t_type   = torrent.get("type")
+        status   = torrent.get("resolve_status")
+        raw_name = torrent.get("raw", "")
+
+        # Cas MANUAL_TORRENT déjà injecté mais torrent_files vide → forcer le mkv
+        if raw_name in MANUAL_TORRENTS and not torrent.get("torrent_files") and torrent.get("torrent_extras"):
+            _, serie_id_m, serie_title_m, season_number_m, episode_number_m = MANUAL_TORRENTS[raw_name]
+            for extra in list(torrent["torrent_extras"]):
+                if extra.lower().endswith((".mkv", ".mp4", ".avi")):
+                    torrent["torrent_files"] = [{
+                        "num"          : episode_number_m,
+                        "filename"     : extra,
+                        "path"         : [extra],
+                        "size"         : 0,
+                        "season_number": season_number_m,
+                    }]
+                    torrent["torrent_extras"].remove(extra)
+                    torrent["file_ep_numbers"] = [episode_number_m]
+                    print(f"  [MANUAL] Fix torrent_files pour '{raw_name[:50]}'")
+                    break
+            continue
 
         if t_type not in ("pack_integrale", "pack_saison", "episode", "pack_episodes"):
             continue
         if status not in ("ok", "partial", None):
             continue
-
-        raw_name = torrent.get("raw", "")
         raw      = raw_by_title.get(raw_name)
 
         # ── Priorité 1 : fichier .torrent local ──────────────────────────────
@@ -401,28 +417,14 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
             print(f"  → Parsing torrent local: {raw_name[:60]}")
             files, infohash = fetch_torrent_files_from_local(local_path)
             if files:
-                # Propager l'infohash si absent
                 if infohash and not torrent.get("infohash"):
                     torrent["infohash"] = infohash
                 if infohash and not torrent.get("magnet"):
-                    import urllib.parse
-                    name = torrent.get("raw", "")
-                    magnet = f"magnet:?xt=urn:btih:{infohash}&dn={urllib.parse.quote(name)}"
-                    # Ajouter les trackers depuis le fichier .torrent si présents
                     try:
                         raw_data = bencode.decode(Path(local_path).read_bytes())
-                        announce = _bget(raw_data, "announce")
-                        if announce:
-                            magnet += f"&tr={urllib.parse.quote(_bstr(announce), safe='')}"
-                        announce_list = _bget(raw_data, "announce-list") or []
-                        for tier in announce_list:
-                            for tracker in (tier if isinstance(tier, list) else [tier]):
-                                t_url = _bstr(tracker)
-                                if t_url and f"tr={urllib.parse.quote(t_url, safe='')}" not in magnet:
-                                    magnet += f"&tr={urllib.parse.quote(t_url, safe='')}"
+                        torrent["magnet"] = _magnet_from_data(raw_data, raw_name)
                     except Exception:
                         pass
-                    torrent["magnet"] = magnet
                 structure = parse_torrent_structure(files)
                 torrent["torrent_files"]   = structure["episodes"]
                 torrent["torrent_folders"] = structure["folders"]
@@ -451,9 +453,16 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
             continue
 
         print(f"  → Parsing torrent: {raw_name[:60]}")
-        files     = fetch_torrent_files_from_url(torrent_url) if torrent_url else fetch_torrent_files(infohash)
-        structure = parse_torrent_structure(files)
+        if torrent_url:
+            files, computed_hash, computed_magnet = fetch_torrent_files_from_url(torrent_url, raw_name)
+            if computed_hash and not torrent.get("infohash"):
+                torrent["infohash"] = computed_hash
+            if computed_magnet and not torrent.get("magnet"):
+                torrent["magnet"] = computed_magnet
+        else:
+            files = fetch_torrent_files(infohash)
 
+        structure = parse_torrent_structure(files)
         torrent["torrent_files"]   = structure["episodes"]
         torrent["torrent_folders"] = structure["folders"]
         torrent["torrent_extras"]  = structure["extras"]
@@ -475,13 +484,11 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         arg = sys.argv[1]
-        # Mode test fichier local : python s4_enrich.py --local reborn_kai.torrent
         if arg == "--local" and len(sys.argv) > 2:
             local_file = sys.argv[2]
             files, infohash = fetch_torrent_files_from_local(local_file)
             print(f"  infohash: {infohash}")
         else:
-            # Mode test infohash : python s4_enrich.py <infohash>
             files = fetch_torrent_files(arg)
 
         structure = parse_torrent_structure(files)

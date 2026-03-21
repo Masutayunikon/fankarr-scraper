@@ -28453,11 +28453,11 @@
     ],
     "saisons": [],
     "torrent_url": "https://nyaa.si/download/1964024.torrent",
-    "magnet": null,
-    "infohash": null,
+    "magnet": "magnet:?xt=urn:btih:eea5a605ecc47799adde9ecc034d03ff8af5cb14&dn=My%20Hero%20Academia%20Hensh%C5%AB%20-%20Film%204%20-%20You%27re%20Next&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "infohash": "eea5a605ecc47799adde9ecc034d03ff8af5cb14",
     "serie_id": 6,
     "serie_title": "My Hero Academia Henshū",
-    "season_id": null,
+    "season_id": 9,
     "season_number": 0,
     "resolved_episodes": [
       {
@@ -28467,17 +28467,28 @@
         "episode_id": 28,
         "episode_number": 4,
         "original_filename": "[Johker] My Hero Academia Henshū - S00E04 - You're Next.mkv",
-        "filename": "My Hero Academia Henshū - Film 4 - You're Next",
+        "filename": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
         "is_special": true
       }
     ],
     "resolved_seasons": [],
     "resolve_status": "ok",
-    "torrent_files": [],
-    "torrent_folders": [],
-    "torrent_extras": [
-      "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
+    "torrent_files": [
+      {
+        "num": 4,
+        "filename": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+        "path": [
+          "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
+        ],
+        "size": 0,
+        "season_number": 0
+      }
     ],
-    "file_ep_numbers": []
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      4
+    ],
+    "unresolved_files": []
   }
 ]
