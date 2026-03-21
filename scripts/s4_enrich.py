@@ -26,19 +26,20 @@ INPUT_FILE    = "data/torrent_resolved.json"
 OUTPUT_FILE   = "data/torrent_enriched.json"
 NYA_RAW_PATH  = "data/torrent_raw.json"
 
-# Fichiers .torrent locaux : { raw_name_exact: (chemin_fichier, serie_id, serie_title, type) }
+# Fichiers .torrent locaux : { raw_name_exact: (chemin_fichier, serie_id, serie_title, type, label) }
 _SCRIPT_DIR = Path(__file__).parent
 
-LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
-    "Reborn! Kaï (Fan-Kai)": (str(_SCRIPT_DIR / "reborn_kai.torrent"), 60, "Reborn! Kaï", "pack_integrale"),
-    "GTO Kai": (str(_SCRIPT_DIR / "GTO_Kai_upscale.torrent"), 112, "GTO Kai", "pack_integrale"),
+LOCAL_TORRENTS: dict[str, tuple[str, int, str, str, str]] = {
+    "Reborn! Kaï (Fan-Kai)": (str(_SCRIPT_DIR / "reborn_kai.torrent"), 60, "Reborn! Kaï", "pack_integrale", "Intégrale (upscale)"),
+    "GTO Kai": (str(_SCRIPT_DIR / "GTO_Kai_upscale.torrent"), 112, "GTO Kai", "pack_integrale", "Intégrale (upscale)"),
 }
 
 # Torrents manuels avec URL directe (pas de fichier local, pas sur Nyaa Fankai)
-MANUAL_TORRENTS: dict[str, tuple[str, int, str, int, int]] = {
+# { raw_name: (torrent_url, serie_id, serie_title, season_number, episode_number, label) }
+MANUAL_TORRENTS: dict[str, tuple[str, int, str, int, int, str]] = {
     "My Hero Academia Henshū - Film 4 - You're Next": (
         "https://nyaa.si/download/1964024.torrent",
-        6, "My Hero Academia Henshū", 0, 4
+        6, "My Hero Academia Henshū", 0, 4, "Film 4 - You're Next"
     ),
 }
 
@@ -328,7 +329,7 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
 
     # Injecter les torrents locaux manquants
     existing_raws = {t.get("raw", "") for t in resolved}
-    for raw_name, (local_path, serie_id, serie_title, t_type) in LOCAL_TORRENTS.items():
+    for raw_name, (local_path, serie_id, serie_title, t_type, label) in LOCAL_TORRENTS.items():
         if raw_name not in existing_raws:
             print(f"  [LOCAL] Injection de '{raw_name}' dans le pipeline")
             resolved.append({
@@ -340,10 +341,11 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
                 "resolved_episodes": [], "resolved_seasons": [],
                 "resolve_status": "ok", "torrent_files": [],
                 "torrent_folders": [], "torrent_extras": [], "file_ep_numbers": [],
+                "label": label,
             })
 
     # Injecter les torrents manuels — télécharge le .torrent tout de suite
-    for raw_name, (torrent_url, serie_id, serie_title, season_number, episode_number) in MANUAL_TORRENTS.items():
+    for raw_name, (torrent_url, serie_id, serie_title, season_number, episode_number, label) in MANUAL_TORRENTS.items():
         if raw_name not in existing_raws:
             print(f"  [MANUAL] Injection de '{raw_name}' dans le pipeline")
             files, computed_hash, computed_magnet = fetch_torrent_files_from_url(torrent_url, raw_name)
@@ -378,6 +380,7 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
                 "torrent_extras"   : structure["extras"],
                 "file_ep_numbers"  : [e["num"] for e in structure["episodes"]],
                 "manual": True,
+                "label": label,
             })
             existing_raws.add(raw_name)
             print(f"     infohash={computed_hash} fichiers={len(structure['episodes'])}")
@@ -390,7 +393,7 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
 
         # Cas MANUAL_TORRENT déjà injecté mais torrent_files vide → forcer le mkv
         if raw_name in MANUAL_TORRENTS and not torrent.get("torrent_files") and torrent.get("torrent_extras"):
-            _, serie_id_m, serie_title_m, season_number_m, episode_number_m = MANUAL_TORRENTS[raw_name]
+            _, serie_id_m, serie_title_m, season_number_m, episode_number_m, label_m = MANUAL_TORRENTS[raw_name]
             for extra in list(torrent["torrent_extras"]):
                 if extra.lower().endswith((".mkv", ".mp4", ".avi")):
                     torrent["torrent_files"] = [{
@@ -427,6 +430,9 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
                         torrent["magnet"] = _magnet_from_data(raw_data, raw_name)
                     except Exception:
                         pass
+                # Propager le label depuis LOCAL_TORRENTS si pas déjà présent
+                if not torrent.get("label"):
+                    torrent["label"] = local_entry[4]
                 structure = parse_torrent_structure(files)
                 torrent["torrent_files"]   = structure["episodes"]
                 torrent["torrent_folders"] = structure["folders"]
