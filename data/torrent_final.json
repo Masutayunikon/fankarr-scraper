@@ -28444,6 +28444,252 @@
     "unresolved_files": []
   },
   {
+    "raw": "GTO Kai",
+    "show_title": "GTO Kai",
+    "groupe": null,
+    "type": "pack_integrale",
+    "episodes": [],
+    "saisons": [],
+    "torrent_url": null,
+    "magnet": "magnet:?xt=urn:btih:b7bbf5294413d982ab2d7e4daacdd7527ae1982f&dn=GTO%20Kai&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker2.ctix.cn%3A443%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fsanincode.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.free-tracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fisk.richardsw.club%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce",
+    "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+    "serie_id": 112,
+    "serie_title": "GTO Kai",
+    "season_id": 347,
+    "season_number": 1,
+    "resolved_episodes": [
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2346,
+        "episode_number": 1,
+        "original_filename": "[Tenma] GTO Kai - 01 - Eikichi Onizuka - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2353,
+        "episode_number": 2,
+        "original_filename": "[Tenma] GTO Kai - 02 - La Troisième 4 - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2351,
+        "episode_number": 3,
+        "original_filename": "[Tenma] GTO Kai - 03 - La Naissance d'une Star - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2349,
+        "episode_number": 4,
+        "original_filename": "[Tenma] GTO Kai - 04 - L'examen d'Onizuka - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2345,
+        "episode_number": 5,
+        "original_filename": "GTO Kai - 05 - L'ennemi juré d'Onizuka - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2347,
+        "episode_number": 6,
+        "original_filename": "[Tenma] GTO Kai - 06 - L'obsession de Murai - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2352,
+        "episode_number": 7,
+        "original_filename": "[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2348,
+        "episode_number": 8,
+        "original_filename": "[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 347,
+        "season_number": 1,
+        "episode_id": 2350,
+        "episode_number": 9,
+        "original_filename": "[Tenma] GTO Kai - 09 - Survie à Okinawa - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv",
+        "is_special": false
+      },
+      {
+        "serie_id": 112,
+        "season_id": 346,
+        "season_number": 0,
+        "episode_id": 2343,
+        "episode_number": 10,
+        "original_filename": "[Tenma] GTO Kai - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      },
+      {
+        "serie_id": 112,
+        "season_id": 346,
+        "season_number": 0,
+        "episode_id": 2344,
+        "episode_number": 8,
+        "original_filename": "[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - DVD.MULTI.x264.mkv",
+        "filename": "[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv",
+        "is_special": true
+      }
+    ],
+    "resolved_seasons": [],
+    "resolve_status": "ok",
+    "torrent_files": [
+      {
+        "num": 1,
+        "filename": "[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1431010726,
+        "season_number": null
+      },
+      {
+        "num": 2,
+        "filename": "[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2693992132,
+        "season_number": null
+      },
+      {
+        "num": 3,
+        "filename": "[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1803656535,
+        "season_number": null
+      },
+      {
+        "num": 4,
+        "filename": "[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2312192188,
+        "season_number": null
+      },
+      {
+        "num": 5,
+        "filename": "[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2662227367,
+        "season_number": null
+      },
+      {
+        "num": 6,
+        "filename": "[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1030577266,
+        "season_number": null
+      },
+      {
+        "num": 7,
+        "filename": "[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 933479081,
+        "season_number": null
+      },
+      {
+        "num": 8,
+        "filename": "[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2285081977,
+        "season_number": null
+      },
+      {
+        "num": 9,
+        "filename": "[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 2954027016,
+        "season_number": null
+      },
+      {
+        "filename": "[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1053420831,
+        "season_number": 0,
+        "num": 1
+      },
+      {
+        "filename": "[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv",
+        "path": [
+          "[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv"
+        ],
+        "size": 1835935208,
+        "season_number": 0,
+        "num": 8
+      }
+    ],
+    "torrent_folders": [],
+    "torrent_extras": [],
+    "file_ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      1,
+      8
+    ],
+    "unresolved_files": []
+  },
+  {
     "raw": "My Hero Academia Henshū - Film 4 - You're Next",
     "show_title": "My Hero Academia Henshū",
     "groupe": null,

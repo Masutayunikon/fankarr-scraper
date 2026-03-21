@@ -31,6 +31,7 @@ _SCRIPT_DIR = Path(__file__).parent
 
 LOCAL_TORRENTS: dict[str, tuple[str, int, str, str]] = {
     "Reborn! Kaï (Fan-Kai)": (str(_SCRIPT_DIR / "reborn_kai.torrent"), 60, "Reborn! Kaï", "pack_integrale"),
+    "GTO Kai": (str(_SCRIPT_DIR / "GTO_Kai_upscale.torrent"), 112, "GTO Kai", "pack_integrale"),
 }
 
 # Torrents manuels avec URL directe (pas de fichier local, pas sur Nyaa Fankai)
