@@ -90,11 +90,12 @@ class Resolver:
             for ep in self._episodes(season["id"]):
                 if ep.get("episode_number") == ep_number:
                     return {
-                        "serie_id"      : serie_id,
-                        "season_id"     : season["id"],
-                        "season_number" : season.get("season_number"),
-                        "episode_id"    : ep["id"],
-                        "episode_number": ep_number,
+                        "serie_id"        : serie_id,
+                        "season_id"       : season["id"],
+                        "season_number"   : season.get("season_number"),
+                        "episode_id"      : ep["id"],
+                        "episode_number"  : ep_number,
+                        "original_filename": ep.get("original_filename"),
                     }
         return None
 
@@ -177,13 +178,14 @@ def resolve_season_episodes(torrent: dict, resolver: Resolver) -> dict:
         season_number = s["season_number"]
         for ep in resolver._episodes(season_id):
             resolved.append({
-                "serie_id"      : serie_id,
-                "season_id"     : season_id,
-                "season_number" : season_number,
-                "episode_id"    : ep["id"],
-                "episode_number": ep.get("episode_number"),
-                "filename"      : None,
-                "is_special"    : False,
+                "serie_id"         : serie_id,
+                "season_id"        : season_id,
+                "season_number"    : season_number,
+                "episode_id"       : ep["id"],
+                "episode_number"   : ep.get("episode_number"),
+                "original_filename": ep.get("original_filename"),
+                "filename"         : None,
+                "is_special"       : False,
             })
     if resolved: torrent["resolved_episodes"] = resolved
     return torrent
