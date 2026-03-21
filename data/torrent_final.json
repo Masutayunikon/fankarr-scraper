@@ -27930,7 +27930,7 @@
     ]
   },
   {
-    "raw": "Reborn! Kaï (Fan-Kai)",
+    "raw": "Reborn! Kaï",
     "show_title": "Reborn! Kaï",
     "groupe": null,
     "type": "pack_integrale",
@@ -28441,11 +28441,10 @@
       22,
       23
     ],
-    "label": "Reborn! Kaï",
     "unresolved_files": []
   },
   {
-    "raw": "GTO Kai",
+    "raw": "GTO Kai [Tenma] (1080p Upscale)",
     "show_title": "GTO Kai",
     "groupe": null,
     "type": "pack_integrale",
@@ -28688,7 +28687,6 @@
       1,
       8
     ],
-    "label": "GTO Kai [Tenma] (1080p Upscale)",
     "unresolved_files": []
   },
   {
@@ -28738,7 +28736,6 @@
       4
     ],
     "manual": true,
-    "label": "Film 4 - You're Next",
     "unresolved_files": []
   }
 ]
