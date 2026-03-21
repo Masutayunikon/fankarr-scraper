@@ -273,6 +273,8 @@ def resolve_torrent_episodes(torrent: dict, resolver: Resolver) -> dict:
     return torrent
 
 def fix_manual_torrent_files(torrent: dict) -> bool:
+    if not torrent.get("manual"):
+        return False
     if torrent.get("torrent_files"):
         return False
     extras = torrent.get("torrent_extras", [])

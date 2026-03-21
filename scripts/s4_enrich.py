@@ -376,6 +376,7 @@ def enrich_with_file_structure(resolved_path: str, nyaa_raw_path: str, output_pa
                 "torrent_folders"  : structure["folders"],
                 "torrent_extras"   : structure["extras"],
                 "file_ep_numbers"  : [e["num"] for e in structure["episodes"]],
+                "manual": True,
             })
             existing_raws.add(raw_name)
             print(f"     infohash={computed_hash} fichiers={len(structure['episodes'])}")
