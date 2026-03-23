@@ -12,7 +12,7 @@
       "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
       "size": "54.8 GiB",
       "pub_date": "2023-10-02 20:43",
-      "seeders": 33
+      "seeders": 32
     }
   ],
   "seasons": [
@@ -29,7 +29,10 @@
           "aired": "2021-06-21",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 01 - L'épreuve de survie.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 01 - L'épreuve de survie.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2021-09-05",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 02 - Un vrai ninja.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 02 - Un vrai ninja.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2021-09-23",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 03 - Se battre pour ses rêves.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 03 - Se battre pour ses rêves.mkv"
+            }
           ]
         }
       ]
@@ -67,7 +76,10 @@
           "aired": "2021-10-13",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 04 - Mise à l'épreuve.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 04 - Mise à l'épreuve.mkv"
+            }
           ]
         },
         {
@@ -77,7 +89,10 @@
           "aired": "2022-01-27",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 05 - Le Prédateur.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 05 - Le Prédateur.mkv"
+            }
           ]
         },
         {
@@ -87,7 +102,10 @@
           "aired": "2022-02-05",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 06 - De nouveaux pouvoirs.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 06 - De nouveaux pouvoirs.mkv"
+            }
           ]
         },
         {
@@ -97,7 +115,10 @@
           "aired": "2022-02-08",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 07 - Retournements de situation.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 07 - Retournements de situation.mkv"
+            }
           ]
         },
         {
@@ -107,7 +128,10 @@
           "aired": "2022-03-15",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 08 - Un génie de l'effort.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 08 - Un génie de l'effort.mkv"
+            }
           ]
         },
         {
@@ -117,7 +141,10 @@
           "aired": "2022-04-19",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 09 - Mon Nouveau Prof.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 09 - Mon Nouveau Prof.mkv"
+            }
           ]
         },
         {
@@ -127,7 +154,10 @@
           "aired": "2022-04-20",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 10 - La Force de changer.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 10 - La Force de changer.mkv"
+            }
           ]
         },
         {
@@ -137,7 +167,10 @@
           "aired": "2022-06-18",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 11 - La Chute de Konoha.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 11 - La Chute de Konoha.mkv"
+            }
           ]
         },
         {
@@ -147,7 +180,10 @@
           "aired": "2022-07-14",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 12 - Un choc de titans.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 12 - Un choc de titans.mkv"
+            }
           ]
         }
       ]
@@ -165,7 +201,10 @@
           "aired": "2022-08-20",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 13 - Le légendaire.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 13 - Le légendaire.mkv"
+            }
           ]
         },
         {
@@ -175,7 +214,10 @@
           "aired": "2022-09-13",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 14 - La démesure de la légende.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 14 - La démesure de la légende.mkv"
+            }
           ]
         }
       ]
@@ -193,7 +235,10 @@
           "aired": "2022-09-14",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 15 - Rivalité.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 15 - Rivalité.mkv"
+            }
           ]
         },
         {
@@ -203,7 +248,10 @@
           "aired": "2022-09-16",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 16 - La force en laquelle je crois.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 16 - La force en laquelle je crois.mkv"
+            }
           ]
         },
         {
@@ -213,7 +261,10 @@
           "aired": "2022-09-25",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 17 - Tournant décisif.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 17 - Tournant décisif.mkv"
+            }
           ]
         },
         {
@@ -223,7 +274,10 @@
           "aired": "2022-10-03",
           "torrents": [],
           "paths": [
-            "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 18 - La Vallée de la fin.mkv"
+            {
+              "infohash": "3bb2afd33f6cf8ba94cfb2bb17e3960531756562",
+              "path": "Naruto Yabaï.1080p.MULTI-Audio et Sub.x264/[Triggerforce]Naruto Yabaï 18 - La Vallée de la fin.mkv"
+            }
           ]
         }
       ]

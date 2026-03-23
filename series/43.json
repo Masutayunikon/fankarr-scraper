@@ -51,7 +51,10 @@
           "aired": "2021-05-22",
           "torrents": [],
           "paths": [
-            "Tower of god 01 - La Tour.mkv"
+            {
+              "infohash": "73b36340cc0e19f87ee6e27072f2c0b0c9446221",
+              "path": "Tower of god 01 - La Tour.mkv"
+            }
           ]
         },
         {
@@ -61,7 +64,10 @@
           "aired": "2021-06-02",
           "torrents": [],
           "paths": [
-            "Tower of god 02 - Positionnement.mkv"
+            {
+              "infohash": "bbb4dcc1d38769d1dece84324bb35e7e7f93982e",
+              "path": "Tower of god 02 - Positionnement.mkv"
+            }
           ]
         },
         {
@@ -71,7 +77,10 @@
           "aired": "2021-06-04",
           "torrents": [],
           "paths": [
-            "Tower of god 03 - Le test de l'Administrateur.mkv"
+            {
+              "infohash": "bf7f02b80af121368b0e769c25640c87cf4a893f",
+              "path": "Tower of god 03 - Le test de l'Administrateur.mkv"
+            }
           ]
         }
       ]

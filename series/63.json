@@ -29,7 +29,10 @@
           "aired": "2018-12-28",
           "torrents": [],
           "paths": [
-            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
+              "path": "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2019-10-12",
           "torrents": [],
           "paths": [
-            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
+              "path": "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2019-10-28",
           "torrents": [],
           "paths": [
-            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
+              "path": "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2019-10-28",
           "torrents": [],
           "paths": [
-            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
+              "path": "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -69,7 +81,10 @@
           "aired": "2020-02-16",
           "torrents": [],
           "paths": [
-            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
+              "path": "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]

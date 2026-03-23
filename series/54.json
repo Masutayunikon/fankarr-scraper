@@ -29,7 +29,10 @@
           "aired": "2023-04-30",
           "torrents": [],
           "paths": [
-            "Radiant Kaï S1 [Esdra]/Radiant Kai 01 - Seth, Apprenti Sorcier - 1080p.MULTI.x264 [Esdra].mkv"
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 01 - Seth, Apprenti Sorcier - 1080p.MULTI.x264 [Esdra].mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2024-07-15",
           "torrents": [],
           "paths": [
-            "Radiant Kaï S1 [Esdra]/Radiant Kai 02 - Rumble Town - 1080p.MULTI.x264 [Esdra].mkv"
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 02 - Rumble Town - 1080p.MULTI.x264 [Esdra].mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2024-07-15",
           "torrents": [],
           "paths": [
-            "Radiant Kaï S1 [Esdra]/Radiant Kai 03 - Hameline - 1080p.MULTI.x264 [Esdra].mkv"
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 03 - Hameline - 1080p.MULTI.x264 [Esdra].mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2024-07-15",
           "torrents": [],
           "paths": [
-            "Radiant Kaï S1 [Esdra]/Radiant Kai 04 - Les Faiseurs de Miracles - 1080p.MULTI.x264 [Esdra].mkv"
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 04 - Les Faiseurs de Miracles - 1080p.MULTI.x264 [Esdra].mkv"
+            }
           ]
         }
       ]

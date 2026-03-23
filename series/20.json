@@ -29,7 +29,10 @@
           "aired": "2022-11-19",
           "torrents": [],
           "paths": [
-            "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 01 - Le fantôme d'Akina.mkv"
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 01 - Le fantôme d'Akina.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2022-11-26",
           "torrents": [],
           "paths": [
-            "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 02 - Battle de l'extrême.mkv"
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 02 - Battle de l'extrême.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2023-01-20",
           "torrents": [],
           "paths": [
-            "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 03 - Duel à mort.mkv"
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 03 - Duel à mort.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2023-01-26",
           "torrents": [],
           "paths": [
-            "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 04 - La comète blanche d'Akagi.mkv"
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 04 - La comète blanche d'Akagi.mkv"
+            }
           ]
         },
         {
@@ -69,7 +81,10 @@
           "aired": "2023-04-15",
           "torrents": [],
           "paths": [
-            "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 05 - De nouveaux défis pour la 86.mkv"
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 05 - De nouveaux défis pour la 86.mkv"
+            }
           ]
         }
       ]

@@ -29,7 +29,10 @@
           "aired": "2020-03-26",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 1 - Un voyou au grand coeur - VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 1 - Un voyou au grand coeur - VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2020-04-14",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 2 - L'arme secrète - VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 2 - L'arme secrète - VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2020-04-21",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 3 - Règlement de comptes - VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 3 - Règlement de comptes - VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2020-07-27",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 4 - Pas ma faute - VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 4 - Pas ma faute - VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -69,7 +81,10 @@
           "aired": "2020-09-14",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam Dunk Kaï Film 5 - Le roi des rebonds VOSTFR.X264.1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam Dunk Kaï Film 5 - Le roi des rebonds VOSTFR.X264.1080p.mkv"
+            }
           ]
         },
         {
@@ -79,7 +94,10 @@
           "aired": "2020-10-03",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 6 - Les rois de Kainan -  VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 6 - Les rois de Kainan -  VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -89,7 +107,10 @@
           "aired": "2020-12-09",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 7 - Duel de meneurs -  VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 7 - Duel de meneurs -  VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -99,7 +120,10 @@
           "aired": "2020-12-09",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 8 - Les débuts du bonze roux -  VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 8 - Les débuts du bonze roux -  VOSTFR X264 1080p.mkv"
+            }
           ]
         },
         {
@@ -109,7 +133,10 @@
           "aired": "2021-12-05",
           "torrents": [],
           "paths": [
-            "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 9 - Aux portes du tournoi national -  VOSTFR X264 1080p.mkv"
+            {
+              "infohash": "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d",
+              "path": "[Titou] Slam Dunk Kaï (Fan-Kaï)/[Titou] Slam dunk Kaï Film 9 - Aux portes du tournoi national -  VOSTFR X264 1080p.mkv"
+            }
           ]
         }
       ]

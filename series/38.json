@@ -51,7 +51,10 @@
           "aired": "2020-01-24",
           "torrents": [],
           "paths": [
-            "[ElFenomomo] Assassination Classroom - Film 1 - Koro-sensei - 1080p.MULTI.x264.BDRip.mkv"
+            {
+              "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
+              "path": "[ElFenomomo] Assassination Classroom - Film 1 - Koro-sensei - 1080p.MULTI.x264.BDRip.mkv"
+            }
           ]
         },
         {
@@ -61,7 +64,10 @@
           "aired": "2020-05-06",
           "torrents": [],
           "paths": [
-            "[ElFenomomo] Assassination Classroom - Film 2 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.mkv"
+            {
+              "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
+              "path": "[ElFenomomo] Assassination Classroom - Film 2 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.mkv"
+            }
           ]
         },
         {
@@ -71,7 +77,10 @@
           "aired": "2020-06-13",
           "torrents": [],
           "paths": [
-            "[ElFenomomo] Assassination Classroom - Film 3 - Les Nouveaux Élèves - 1080p.MULTI.x264.BDRip.mkv"
+            {
+              "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
+              "path": "[ElFenomomo] Assassination Classroom - Film 3 - Les Nouveaux Élèves - 1080p.MULTI.x264.BDRip.mkv"
+            }
           ]
         }
       ]

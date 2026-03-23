@@ -12,7 +12,7 @@
       "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
       "size": "22.7 GiB",
       "pub_date": "2021-04-16 19:14",
-      "seeders": 9
+      "seeders": 8
     }
   ],
   "seasons": [
@@ -29,7 +29,10 @@
           "aired": "2019-01-01",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 1 - Sacrifice et résurrection.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 1 - Sacrifice et résurrection.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2019-01-15",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 2 - Maître Genkai.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 2 - Maître Genkai.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2019-02-01",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 3 - La flûte diabolique.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 3 - La flûte diabolique.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2019-02-06",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 4 - Les frères Toguro.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 4 - Les frères Toguro.mkv"
+            }
           ]
         }
       ]
@@ -77,7 +89,10 @@
           "aired": "2019-02-14",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 5 - Des invités prometteurs.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 5 - Des invités prometteurs.mkv"
+            }
           ]
         },
         {
@@ -87,7 +102,10 @@
           "aired": "2019-03-04",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 6 - Un règlement scandaleux.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 6 - Un règlement scandaleux.mkv"
+            }
           ]
         },
         {
@@ -97,7 +115,10 @@
           "aired": "2019-05-01",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 7 - Les ravages du temps.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 7 - Les ravages du temps.mkv"
+            }
           ]
         },
         {
@@ -107,7 +128,10 @@
           "aired": "2019-05-01",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 8 - Un pari risqué.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 8 - Un pari risqué.mkv"
+            }
           ]
         }
       ]
@@ -125,7 +149,10 @@
           "aired": "2019-05-23",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
+            }
           ]
         },
         {
@@ -135,7 +162,10 @@
           "aired": "2019-08-14",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
+            }
           ]
         },
         {
@@ -145,7 +175,10 @@
           "aired": "2019-08-14",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
+            }
           ]
         }
       ]
@@ -163,7 +196,10 @@
           "aired": "2020-02-15",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 12 - Destins croisés.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 12 - Destins croisés.mkv"
+            }
           ]
         },
         {
@@ -173,7 +209,10 @@
           "aired": "2020-02-15",
           "torrents": [],
           "paths": [
-            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv"
+            {
+              "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv"
+            }
           ]
         }
       ]

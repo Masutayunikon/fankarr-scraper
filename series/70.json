@@ -29,7 +29,10 @@
           "aired": "2023-11-14",
           "torrents": [],
           "paths": [
-            "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv"
+            {
+              "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2023-12-04",
           "torrents": [],
           "paths": [
-            "Call of the Night Henshū/Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.mkv"
+            {
+              "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2023-12-15",
           "torrents": [],
           "paths": [
-            "Call of the Night Henshū/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv"
+            {
+              "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2023-12-19",
           "torrents": [],
           "paths": [
-            "Call of the Night Henshū/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv"
+            {
+              "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv"
+            }
           ]
         }
       ]

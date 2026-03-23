@@ -29,7 +29,10 @@
           "aired": "2025-03-07",
           "torrents": [],
           "paths": [
-            "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 01 - Turbo Granny - 1080p.MULTISUB.x264.mkv"
+            {
+              "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 01 - Turbo Granny - 1080p.MULTISUB.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2025-03-07",
           "torrents": [],
           "paths": [
-            "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2025-03-07",
           "torrents": [],
           "paths": [
-            "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
