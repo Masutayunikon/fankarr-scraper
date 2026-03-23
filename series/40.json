@@ -12,7 +12,7 @@
       "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
       "size": "12.0 GiB",
       "pub_date": "2023-11-11 13:37",
-      "seeders": 7
+      "seeders": 8
     }
   ],
   "seasons": [
@@ -29,7 +29,10 @@
           "aired": "2022-02-05",
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2023-06-22",
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2023-06-25",
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": null,
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -69,7 +81,10 @@
           "aired": "2023-08-15",
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 05 - Perdus dans l'Obscurité - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 05 - Perdus dans l'Obscurité - 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]
@@ -87,7 +102,10 @@
           "aired": null,
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -97,7 +115,10 @@
           "aired": null,
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -107,7 +128,10 @@
           "aired": null,
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -117,7 +141,10 @@
           "aired": null,
           "torrents": [],
           "paths": [
-            "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
+              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]

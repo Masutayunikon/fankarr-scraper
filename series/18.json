@@ -29,7 +29,10 @@
           "aired": "2022-01-17",
           "torrents": [],
           "paths": [
-            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 1 - L'Institut Tôdô - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+              "path": "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 1 - L'Institut Tôdô - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2022-01-18",
           "torrents": [],
           "paths": [
-            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 2 - L'unité des Exécuteurs - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+              "path": "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 2 - L'unité des Exécuteurs - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2022-01-19",
           "torrents": [],
           "paths": [
-            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 3 - La sanction - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+              "path": "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 3 - La sanction - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2022-01-20",
           "torrents": [],
           "paths": [
-            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 4 - Shin Natsume - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+              "path": "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 4 - Shin Natsume - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -69,7 +81,10 @@
           "aired": "2022-01-21",
           "torrents": [],
           "paths": [
-            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 5 - Le Guerrier Ultime - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+              "path": "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 5 - Le Guerrier Ultime - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -79,7 +94,10 @@
           "aired": "2022-01-22",
           "torrents": [],
           "paths": [
-            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 6 - Le Poing du Dragon - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+              "path": "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 6 - Le Poing du Dragon - 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]

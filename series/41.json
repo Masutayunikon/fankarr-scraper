@@ -12,7 +12,7 @@
       "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
       "size": "7.2 GiB",
       "pub_date": "2025-12-31 11:35",
-      "seeders": 9
+      "seeders": 10
     }
   ],
   "seasons": [
@@ -29,7 +29,10 @@
           "aired": "2025-12-31",
           "torrents": [],
           "paths": [
-            "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 01 - Le Jeu des Ténèbres - 480p.MULTISUB.x264.mkv"
+            {
+              "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
+              "path": "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 01 - Le Jeu des Ténèbres - 480p.MULTISUB.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2025-12-31",
           "torrents": [],
           "paths": [
-            "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 02 - On se reverra, Yûgi - 480p.MULTISUB.x264.mkv"
+            {
+              "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
+              "path": "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 02 - On se reverra, Yûgi - 480p.MULTISUB.x264.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2025-12-31",
           "torrents": [],
           "paths": [
-            "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 03 - Death-T - 480p.MULTISUB.x264.mkv"
+            {
+              "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
+              "path": "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 03 - Death-T - 480p.MULTISUB.x264.mkv"
+            }
           ]
         },
         {
@@ -59,7 +68,10 @@
           "aired": "2025-12-31",
           "torrents": [],
           "paths": [
-            "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 04 - Un nouvel élève - 480p.MULTISUB.x264.mkv"
+            {
+              "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
+              "path": "[Manny] Yu-Gi-Oh! Kaï Saison 1 (Yami No Game) - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 04 - Un nouvel élève - 480p.MULTISUB.x264.mkv"
+            }
           ]
         }
       ]
@@ -89,7 +101,10 @@
             }
           ],
           "paths": [
-            "Yu-Gi-Oh! Kaï Saison 2.mkv"
+            {
+              "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
+              "path": "Yu-Gi-Oh! Kaï Saison 2.mkv"
+            }
           ]
         },
         {
@@ -111,7 +126,10 @@
             }
           ],
           "paths": [
-            "Yu-Gi-Oh! Kaï Saison 2.mkv"
+            {
+              "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
+              "path": "Yu-Gi-Oh! Kaï Saison 2.mkv"
+            }
           ]
         },
         {
@@ -133,7 +151,10 @@
             }
           ],
           "paths": [
-            "Yu-Gi-Oh! Kaï Saison 2.mkv"
+            {
+              "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
+              "path": "Yu-Gi-Oh! Kaï Saison 2.mkv"
+            }
           ]
         }
       ]

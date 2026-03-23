@@ -12,7 +12,7 @@
       "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
       "size": "28.3 GiB",
       "pub_date": "2022-02-02 15:17",
-      "seeders": 11
+      "seeders": 10
     }
   ],
   "seasons": [
@@ -29,7 +29,10 @@
           "aired": "2020-03-19",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 1 - Introduction/[Johker] D.Gray-man Kaï 01 - Le vieil homme et l'aria d'un soir de solitude - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 1 - Introduction/[Johker] D.Gray-man Kaï 01 - Le vieil homme et l'aria d'un soir de solitude - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2020-03-19",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 1 - Introduction/[Johker] D.Gray-man Kaï 02 - Le Garçon qui criait à l'Akuma - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 1 - Introduction/[Johker] D.Gray-man Kaï 02 - Le Garçon qui criait à l'Akuma - 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]
@@ -57,7 +63,10 @@
           "aired": "2020-03-25",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 03 - Rewind City - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 03 - Rewind City - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -67,7 +76,10 @@
           "aired": "2020-05-15",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 04 - Prélude au Danger - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 04 - Prélude au Danger - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -77,7 +89,10 @@
           "aired": "2020-05-15",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 05 - Le Vampire du château isolé - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 05 - Le Vampire du château isolé - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -87,7 +102,10 @@
           "aired": "2020-05-15",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 06 - Guerre sainte - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 06 - Guerre sainte - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -97,7 +115,10 @@
           "aired": "2020-09-15",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 07 - Suman Dark - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 2 - Maréchaux en Danger/[Johker] D.Gray-man Kaï 07 - Suman Dark - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         }
       ]
@@ -115,7 +136,10 @@
           "aired": "2021-10-05",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 08 - La Branche Asiatique - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 08 - La Branche Asiatique - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -125,7 +149,10 @@
           "aired": "2021-10-13",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 09 - Titre ''Niveau 3'' - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 09 - Titre ''Niveau 3'' - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -135,7 +162,10 @@
           "aired": "2021-10-20",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 10 - Le Clown couronné de Dieu - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 10 - Le Clown couronné de Dieu - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -145,7 +175,10 @@
           "aired": "2021-10-28",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 11 - La Bataille d'Edo - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 3 - Edo/[Johker] D.Gray-man Kaï 11 - La Bataille d'Edo - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         }
       ]
@@ -163,7 +196,10 @@
           "aired": "2021-11-14",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 4 - L'Arche de Noé/[Johker] D.Gray-man Kaï 12 - Apôtre de la Colère - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 4 - L'Arche de Noé/[Johker] D.Gray-man Kaï 12 - Apôtre de la Colère - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -173,7 +209,10 @@
           "aired": "2021-11-24",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 4 - L'Arche de Noé/[Johker] D.Gray-man Kaï 13 - Apôtres du Lien - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 4 - L'Arche de Noé/[Johker] D.Gray-man Kaï 13 - Apôtres du Lien - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -183,7 +222,10 @@
           "aired": "2021-11-28",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 4 - L'Arche de Noé/[Johker] D.Gray-man Kaï 14 - La Mélodie du Quatorzième - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 4 - L'Arche de Noé/[Johker] D.Gray-man Kaï 14 - La Mélodie du Quatorzième - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         }
       ]
@@ -201,7 +243,10 @@
           "aired": "2021-12-21",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 5 - Invasion/[Johker] D.Gray-man Kaï 15 - Réunion au Sommet - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 5 - Invasion/[Johker] D.Gray-man Kaï 15 - Réunion au Sommet - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -211,7 +256,10 @@
           "aired": "2021-12-29",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 5 - Invasion/[Johker] D.Gray-man Kaï 16 - Invasion - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 5 - Invasion/[Johker] D.Gray-man Kaï 16 - Invasion - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         }
       ]
@@ -229,7 +277,10 @@
           "aired": "2022-01-03",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 17 - G, le Voleur Fantôme - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 17 - G, le Voleur Fantôme - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -239,7 +290,10 @@
           "aired": "2022-01-23",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 18 - Alma Karma, la Matrice - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 18 - Alma Karma, la Matrice - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -249,7 +303,10 @@
           "aired": "2022-02-02",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 19 - Apocryphos, l'Être caché - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 19 - Apocryphos, l'Être caché - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         },
         {
@@ -259,7 +316,10 @@
           "aired": "2022-02-02",
           "torrents": [],
           "paths": [
-            "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 20 - Allen Walker, le Marcheur (Épilogue) - 1080p.VOSTFR.x264.mkv"
+            {
+              "infohash": "7c3162d2b0288aa6cab1189409a403c001816c1b",
+              "path": "[Johker] D.Gray-man Kaï (Fan-Kaï)/Arc 6 - Le Quatorzième/[Johker] D.Gray-man Kaï 20 - Allen Walker, le Marcheur (Épilogue) - 1080p.VOSTFR.x264.mkv"
+            }
           ]
         }
       ]

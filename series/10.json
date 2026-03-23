@@ -29,7 +29,10 @@
             }
           ],
           "paths": [
-            "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv"
+            {
+              "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
+              "path": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv"
+            }
           ]
         },
         {
@@ -51,7 +54,10 @@
             }
           ],
           "paths": [
-            "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv"
+            {
+              "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
+              "path": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv"
+            }
           ]
         },
         {
@@ -73,7 +79,10 @@
             }
           ],
           "paths": [
-            "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole.mkv"
+            {
+              "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
+              "path": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole.mkv"
+            }
           ]
         },
         {
@@ -95,7 +104,10 @@
             }
           ],
           "paths": [
-            "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv"
+            {
+              "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
+              "path": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv"
+            }
           ]
         },
         {

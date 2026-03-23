@@ -12,7 +12,7 @@
       "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
       "size": "22.2 GiB",
       "pub_date": "2021-03-13 15:11",
-      "seeders": 16
+      "seeders": 15
     }
   ],
   "seasons": [
@@ -29,7 +29,10 @@
           "aired": "2019-09-28",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 1 - Noir (Saturne) [Johker]/Fullmetal Alchemist Kaï 1 - L'Alchimiste Fullmetal 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 1 - Noir (Saturne) [Johker]/Fullmetal Alchemist Kaï 1 - L'Alchimiste Fullmetal 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2019-09-28",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 1 - Noir (Saturne) [Johker]/Fullmetal Alchemist Kaï 2 - Le Cinquième Laboratoire 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 1 - Noir (Saturne) [Johker]/Fullmetal Alchemist Kaï 2 - Le Cinquième Laboratoire 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2019-09-28",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 1 - Noir (Saturne) [Johker]/Fullmetal Alchemist Kaï 3 - Jour de pluie 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 1 - Noir (Saturne) [Johker]/Fullmetal Alchemist Kaï 3 - Jour de pluie 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]
@@ -67,7 +76,10 @@
           "aired": "2019-12-30",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 2 - Blanc (Lune) [Johker]/Fullmetal Alchemist Kaï 4 - Trahison à Central 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 2 - Blanc (Lune) [Johker]/Fullmetal Alchemist Kaï 4 - Trahison à Central 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -77,7 +89,10 @@
           "aired": "2019-12-30",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 2 - Blanc (Lune) [Johker]/Fullmetal Alchemist Kaï 5 - Le Ventre du mal 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 2 - Blanc (Lune) [Johker]/Fullmetal Alchemist Kaï 5 - Le Ventre du mal 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -87,7 +102,10 @@
           "aired": "2019-12-30",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 2 - Blanc (Lune) [Johker]/Fullmetal Alchemist Kaï 6 - Fantômes d'Ishval 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 2 - Blanc (Lune) [Johker]/Fullmetal Alchemist Kaï 6 - Fantômes d'Ishval 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]
@@ -105,7 +123,10 @@
           "aired": "2019-12-30",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 3 - Jaune (Venus) [Johker]/Fullmetal Alchemist Kaï 7 - La Reine des glaces 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 3 - Jaune (Venus) [Johker]/Fullmetal Alchemist Kaï 7 - La Reine des glaces 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -115,7 +136,10 @@
           "aired": "2019-12-30",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 3 - Jaune (Venus) [Johker]/Fullmetal Alchemist Kaï 8 - Le petit être dans la fiole 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 3 - Jaune (Venus) [Johker]/Fullmetal Alchemist Kaï 8 - Le petit être dans la fiole 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -125,7 +149,10 @@
           "aired": "2019-12-30",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 3 - Jaune (Venus) [Johker]/Fullmetal Alchemist Kaï 9 - Nord et Est 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 3 - Jaune (Venus) [Johker]/Fullmetal Alchemist Kaï 9 - Nord et Est 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]
@@ -143,7 +170,10 @@
           "aired": "2020-01-09",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 4 - Rouge (Soleil) [Johker]/Fullmetal Alchemist Kaï 10 - L'ombre qui approche 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 4 - Rouge (Soleil) [Johker]/Fullmetal Alchemist Kaï 10 - L'ombre qui approche 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -153,7 +183,10 @@
           "aired": "2020-01-09",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 4 - Rouge (Soleil) [Johker]/Fullmetal Alchemist Kaï 11 - Le Jour promis 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 4 - Rouge (Soleil) [Johker]/Fullmetal Alchemist Kaï 11 - Le Jour promis 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -163,7 +196,10 @@
           "aired": "2020-01-09",
           "torrents": [],
           "paths": [
-            "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 4 - Rouge (Soleil) [Johker]/Fullmetal Alchemist Kaï 12 - L'Échange équivalent 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
+              "path": "Fullmetal Alchemist Kaï [Johker]/Fullmetal Alchemist Kaï - Phase 4 - Rouge (Soleil) [Johker]/Fullmetal Alchemist Kaï 12 - L'Échange équivalent 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]

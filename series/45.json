@@ -29,7 +29,10 @@
           "aired": "2024-01-11",
           "torrents": [],
           "paths": [
-            "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv"
+            {
+              "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
+              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv"
+            }
           ]
         },
         {
@@ -39,7 +42,10 @@
           "aired": "2024-01-19",
           "torrents": [],
           "paths": [
-            "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv"
+            {
+              "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
+              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv"
+            }
           ]
         },
         {
@@ -49,7 +55,10 @@
           "aired": "2024-01-26",
           "torrents": [],
           "paths": [
-            "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv"
+            {
+              "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
+              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv"
+            }
           ]
         }
       ]

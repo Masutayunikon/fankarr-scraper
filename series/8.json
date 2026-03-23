@@ -29,7 +29,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "4edc091916b76268d1d46cb71fe61d86448af0e4",
+              "path": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -51,7 +54,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "574bee404f7de8ec4777e23e11f176f037e910bb",
+              "path": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -73,7 +79,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "dd229eca10f819457c95985df91f4df1afbde37f",
+              "path": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -95,7 +104,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "bae666a8859d9c93eebb4100b5b66a6d4263c8cf",
+              "path": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -113,11 +125,14 @@
               "infohash": "fef6fbfd6038e80d148b2e050e85cd6f9ebe4363",
               "size": "1.3 GiB",
               "pub_date": "2025-04-23 17:41",
-              "seeders": 30
+              "seeders": 29
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "fef6fbfd6038e80d148b2e050e85cd6f9ebe4363",
+              "path": "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -139,7 +154,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "b4e9180c4b612d7e7512d581c661e19970b3dfcd",
+              "path": "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -161,7 +179,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "4282ed04c67efc02164f495b1353519d5503b645",
+              "path": "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.mkv"
+            }
           ]
         },
         {
@@ -183,7 +204,10 @@
             }
           ],
           "paths": [
-            "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.mkv"
+            {
+              "infohash": "c41a128014f6bd3ebaf995956b4fb0e685a1e4f0",
+              "path": "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.mkv"
+            }
           ]
         }
       ]
