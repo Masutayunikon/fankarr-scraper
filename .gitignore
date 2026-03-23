@@ -3,3 +3,9 @@ data/torrent_enriched.json
 data/torrent_raw.json
 data/torrent_resolved.json
 data/torrent_names.txt
+data/api_cache
+data/torrent_cache
+data/series
+data/matched
+data/torrent_final.json
+data/unmatched_torrents.json
