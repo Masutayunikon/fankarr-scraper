@@ -38,6 +38,9 @@ jobs:
       - name: s3 — Match torrents to series/episodes
         run: python scripts/s3_parse.py
 
+      - name: s5 — Generate available.json
+        run: python scripts/s5_available.py
+
       # ── 4. Cleanup cache (ne pas committer) ───────────────────────────────────
       - name: Cleanup cache files
         if: always()
@@ -50,7 +53,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add series/
+          git add series/ available.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "chore: update series — $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
