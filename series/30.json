@@ -1,0 +1,58 @@
+{
+  "id": 30,
+  "title": "To Your Eternity Henshū",
+  "show_title": "To Your Eternity Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1479717,
+      "nyaa_url": "https://nyaa.si/view/1479717",
+      "title": "[Khyinn] To Your Eternity Henshū (Fan-Kai) - Saison 01 - 1080p.MULTI.x264",
+      "torrent_url": "https://nyaa.si/download/1479717.torrent",
+      "magnet": "magnet:?xt=urn:btih:3eba9c3338cf53991ffcbcaea5deb255f5623c5e&dn=%5BKhyinn%5D%20To%20Your%20Eternity%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20Saison%2001%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "3eba9c3338cf53991ffcbcaea5deb255f5623c5e",
+      "size": "13.0 GiB",
+      "pub_date": "2022-01-19 10:30",
+      "seeders": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": 60,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 441,
+          "episode_number": 1,
+          "title": "Le loup, le garçon et la jeune fille",
+          "aired": "2021-12-22",
+          "torrents": [],
+          "paths": [
+            "To Your Eternity Henshū/To Your Eternity Henshū - S01E01 - Le loup, le garçon et la jeune fille [Khyinn].mkv"
+          ]
+        },
+        {
+          "id": 442,
+          "episode_number": 2,
+          "title": "Googoo",
+          "aired": "2021-12-23",
+          "torrents": [],
+          "paths": [
+            "To Your Eternity Henshū/To Your Eternity Henshū - S01E02 - Googoo [Khyinn].mkv"
+          ]
+        },
+        {
+          "id": 440,
+          "episode_number": 3,
+          "title": "Jananda",
+          "aired": "2021-12-24",
+          "torrents": [],
+          "paths": [
+            "To Your Eternity Henshū/To Your Eternity Henshū - S01E03 - Jananda [Khyinn].mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

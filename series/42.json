@@ -1,0 +1,238 @@
+{
+  "id": 42,
+  "title": "Sword Art Online Kaï",
+  "show_title": "Sword Art Online Kaï",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 83,
+      "season_number": 1,
+      "title": "Sword Art Online",
+      "torrents": [
+        {
+          "nyaa_id": 1639979,
+          "nyaa_url": "https://nyaa.si/view/1639979",
+          "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
+          "torrent_url": "https://nyaa.si/download/1639979.torrent",
+          "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
+          "size": "15.3 GiB",
+          "pub_date": "2023-02-20 14:09",
+          "seeders": 9
+        }
+      ],
+      "episodes": [
+        {
+          "id": 539,
+          "episode_number": 1,
+          "title": "Aincrad",
+          "aired": "2021-11-28",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kai 01 - Aincrad - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 540,
+          "episode_number": 2,
+          "title": "Reconnexion",
+          "aired": "2021-12-12",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 02 - Reconnexion - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 541,
+          "episode_number": 3,
+          "title": "L'Arbre Monde",
+          "aired": "2021-12-26",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 03 - L'arbre Monde - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 538,
+          "episode_number": 4,
+          "title": "La grande quête",
+          "aired": "2022-01-09",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 04 - La grande quête - MULTI 1080p x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "season_number": 2,
+      "title": "Gun Gale Online",
+      "torrents": [
+        {
+          "nyaa_id": 1639979,
+          "nyaa_url": "https://nyaa.si/view/1639979",
+          "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
+          "torrent_url": "https://nyaa.si/download/1639979.torrent",
+          "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
+          "size": "15.3 GiB",
+          "pub_date": "2023-02-20 14:09",
+          "seeders": 9
+        }
+      ],
+      "episodes": [
+        {
+          "id": 531,
+          "episode_number": 5,
+          "title": "Gun Gale Online",
+          "aired": "2022-01-26",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 05 - Gun Gale Online - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 532,
+          "episode_number": 6,
+          "title": "Death Gun",
+          "aired": "2022-02-14",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 06 - Death Gun - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 530,
+          "episode_number": 7,
+          "title": "BoB 3",
+          "aired": "2022-02-14",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 07 - BoB 3 - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 529,
+          "episode_number": 8,
+          "title": "Vivre",
+          "aired": "2022-02-14",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 08 - Vivre - MULTI 1080p x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "season_number": 3,
+      "title": "Aincrad - Caliber",
+      "torrents": [
+        {
+          "nyaa_id": 1639979,
+          "nyaa_url": "https://nyaa.si/view/1639979",
+          "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
+          "torrent_url": "https://nyaa.si/download/1639979.torrent",
+          "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
+          "size": "15.3 GiB",
+          "pub_date": "2023-02-20 14:09",
+          "seeders": 9
+        }
+      ],
+      "episodes": [
+        {
+          "id": 527,
+          "episode_number": 9,
+          "title": "Une affaire de meurtre",
+          "aired": "2022-02-17",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 09 - Une affaire de meurtre - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 528,
+          "episode_number": 10,
+          "title": "Excalibur",
+          "aired": "2022-02-17",
+          "torrents": [],
+          "paths": [
+            "SAO Kai - Films 1-10/[Roro] Sword Art Online Kaï 10 - Excalibur - MULTI 1080p x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "season_number": 4,
+      "title": "Alicization",
+      "torrents": [
+        {
+          "nyaa_id": 1639946,
+          "nyaa_url": "https://nyaa.si/view/1639946",
+          "title": "Sword Art Online Kaï Films 11 à 15 - MULTI - Roro",
+          "torrent_url": "https://nyaa.si/download/1639946.torrent",
+          "magnet": "magnet:?xt=urn:btih:664451466c0b38b513b3b86dda2d3c9f0d61bd2a&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2011%20%C3%A0%2015%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "664451466c0b38b513b3b86dda2d3c9f0d61bd2a",
+          "size": "9.0 GiB",
+          "pub_date": "2023-02-20 12:21",
+          "seeders": 11
+        }
+      ],
+      "episodes": [
+        {
+          "id": 533,
+          "episode_number": 11,
+          "title": "Underworld",
+          "aired": "2022-07-17",
+          "torrents": [],
+          "paths": [
+            "[Roro] Sword Art Online Kai Films 11 à 15/[Roro] Sword Art Online Kai 11 - Underworld - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 537,
+          "episode_number": 12,
+          "title": "Projet Alicization",
+          "aired": "2022-11-16",
+          "torrents": [],
+          "paths": [
+            "[Roro] Sword Art Online Kai Films 11 à 15/[Roro] Sword Art Online Kai 12 - Projet Alicization - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 534,
+          "episode_number": 13,
+          "title": "La table des interdits",
+          "aired": "2022-12-31",
+          "torrents": [],
+          "paths": [
+            "[Roro] Sword Art Online Kai Films 11 à 15/[Roro] Sword Art Online Kai 13 - La table des interdits - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 536,
+          "episode_number": 14,
+          "title": "La cathédrale centrale",
+          "aired": "2023-02-04",
+          "torrents": [],
+          "paths": [
+            "[Roro] Sword Art Online Kai Films 11 à 15/[Roro] Sword Art Online Kai 14 - La cathédrale centrale - MULTI 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 535,
+          "episode_number": 15,
+          "title": "Fin de partie",
+          "aired": "2023-02-04",
+          "torrents": [],
+          "paths": [
+            "[Roro] Sword Art Online Kai Films 11 à 15/[Roro] Sword Art Online Kai 15 - Fin de partie - MULTI 1080p x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

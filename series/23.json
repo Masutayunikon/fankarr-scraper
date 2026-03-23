@@ -1,0 +1,38 @@
+{
+  "id": 23,
+  "title": "Overlord Henshū",
+  "show_title": "Overlord Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1680987,
+      "nyaa_url": "https://nyaa.si/view/1680987",
+      "title": "[Crew] Overlord Henshū 01 - Ainz Ooal Gown - 1080p.multi.x264",
+      "torrent_url": "https://nyaa.si/download/1680987.torrent",
+      "magnet": "magnet:?xt=urn:btih:98ea9a977b9256b9e4be1f13bad1b1b0e8ff28a2&dn=%5BCrew%5D%20Overlord%20Hensh%C5%AB%2001%20-%20Ainz%20Ooal%20Gown%20-%201080p.multi.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "98ea9a977b9256b9e4be1f13bad1b1b0e8ff28a2",
+      "size": "1.4 GiB",
+      "pub_date": "2023-06-10 13:35",
+      "seeders": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": 42,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 347,
+          "episode_number": 1,
+          "title": "Ainz Ooal Gown",
+          "aired": "2023-06-10",
+          "torrents": [],
+          "paths": [
+            "[Crew] Overlord Henshū 01 - Ainz Ooal Gown - 1080p.multi.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

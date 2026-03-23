@@ -1,0 +1,72 @@
+{
+  "id": 28,
+  "title": "Neon Genesis Evangelion Fan-Cut",
+  "show_title": "Neon Genesis Evangelion Fan-Cut",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 55,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 413,
+          "episode_number": 1,
+          "title": "Prologue pt.1",
+          "aired": "2022-07-11",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 415,
+          "episode_number": 2,
+          "title": "Prologue pt.2",
+          "aired": "2022-11-07",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 417,
+          "episode_number": 3,
+          "title": "Action",
+          "aired": "2023-07-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 411,
+          "episode_number": 4,
+          "title": "Descente",
+          "aired": "2023-07-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 412,
+          "episode_number": 5,
+          "title": "Plan",
+          "aired": "2023-07-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 416,
+          "episode_number": 6,
+          "title": "Introspection",
+          "aired": "2023-07-30",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 414,
+          "episode_number": 7,
+          "title": "Désespoir",
+          "aired": "2023-07-30",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

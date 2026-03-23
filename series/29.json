@@ -1,0 +1,272 @@
+{
+  "id": 29,
+  "title": "Dragon Ball Z Yabai",
+  "show_title": "Dragon Ball Z Yabai",
+  "torrents": [
+    {
+      "nyaa_id": 1373053,
+      "nyaa_url": "https://nyaa.si/view/1373053",
+      "title": "Dragon Ball Z Yabaï (Fan-Kai) - INTEGRALE (22 films) - 1080p.MULTI.VF/VOSTFR.x264 [Mixouille]",
+      "torrent_url": "https://nyaa.si/download/1373053.torrent",
+      "magnet": "magnet:?xt=urn:btih:ccd2f08caff81bde8176ef33bc514c53a4f1941b&dn=Dragon%20Ball%20Z%20Yaba%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BMixouille%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
+      "size": "40.3 GiB",
+      "pub_date": "2021-04-16 19:30",
+      "seeders": 16
+    }
+  ],
+  "seasons": [
+    {
+      "id": 59,
+      "season_number": 1,
+      "title": "Saiyens",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 437,
+          "episode_number": 1,
+          "title": "La menace Saiyenne",
+          "aired": "2018-04-07",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 1 - Les Saiyens (01-03) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 01 - La Menace Saiyenne - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 438,
+          "episode_number": 2,
+          "title": "L'Autre Monde",
+          "aired": "2018-04-07",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 1 - Les Saiyens (01-03) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 02 - L'Autre Monde - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 439,
+          "episode_number": 3,
+          "title": "Vegeta",
+          "aired": "2018-04-11",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 1 - Les Saiyens (01-03) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 03 - Vegeta - 720p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "season_number": 2,
+      "title": "Freezer",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 427,
+          "episode_number": 4,
+          "title": "La Planète Namek",
+          "aired": "2018-05-20",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 2 - Namek (04-08) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 04 - La Planète Namek - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 425,
+          "episode_number": 5,
+          "title": "Le Commando Ginyu",
+          "aired": "2018-05-20",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 2 - Namek (04-08) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 05 - Le Commando Ginyu - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 426,
+          "episode_number": 6,
+          "title": "L'apparition de Polunga",
+          "aired": "2018-05-25",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 2 - Namek (04-08) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 06 - L'Apparition de Polunga - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 428,
+          "episode_number": 7,
+          "title": "Freezer",
+          "aired": "2018-06-09",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 2 - Namek (04-08) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 07 - Freezer - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 424,
+          "episode_number": 8,
+          "title": "Le Choc des Titans",
+          "aired": "2018-06-16",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 2 - Namek (04-08) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 08 - Le Choc des Titans - 720p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "season_number": 3,
+      "title": "Cell",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 421,
+          "episode_number": 9,
+          "title": "Le Visiteur du Futur",
+          "aired": "2018-06-19",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 09 - Le Visiteur du Futur - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 418,
+          "episode_number": 10,
+          "title": "Les Guerriers de Métal",
+          "aired": "2018-07-08",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 10 - Les Guerriers de Métal - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 423,
+          "episode_number": 11,
+          "title": "En quête de perfection",
+          "aired": "2018-07-30",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 11 - En quête de perfection - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 420,
+          "episode_number": 12,
+          "title": "Super Vegeta",
+          "aired": "2018-08-17",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 12 - Super Vegeta - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 422,
+          "episode_number": 13,
+          "title": "Cell Game",
+          "aired": "2018-08-17",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 13 - Cell Game - 720p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 419,
+          "episode_number": 14,
+          "title": "La Relève",
+          "aired": "2018-08-17",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 14 - La Relève - 720p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "season_number": 4,
+      "title": "Boo",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 434,
+          "episode_number": 15,
+          "title": "Great Saiyaman",
+          "aired": "2018-09-12",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 15 - Great Saiyaman - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 436,
+          "episode_number": 16,
+          "title": "Le 25e Tenkaichi Budokai",
+          "aired": "2018-09-18",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 16 - Le 25e Tenkaichi Budokai - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 435,
+          "episode_number": 17,
+          "title": "Bibidi Babidi Boo",
+          "aired": "2018-10-09",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 17 - Bibidi Babidi Boo ! - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 432,
+          "episode_number": 18,
+          "title": "Délices et Sacrifice",
+          "aired": "2021-10-13",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 18 - Délices et Sacrifice - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 429,
+          "episode_number": 19,
+          "title": "Résistances",
+          "aired": "2018-11-07",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 19 - Résistances - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 430,
+          "episode_number": 20,
+          "title": "Jeux d'enfants",
+          "aired": "2018-11-25",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 20 - Jeux d'enfants - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 431,
+          "episode_number": 21,
+          "title": "Fusion et Absorption",
+          "aired": "2018-11-27",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 21 - Fusion et Absorption - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 433,
+          "episode_number": 22,
+          "title": "Dernier round",
+          "aired": "2018-11-29",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 22 - Dernier round - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

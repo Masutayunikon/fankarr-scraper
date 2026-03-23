@@ -1,0 +1,80 @@
+{
+  "id": 50,
+  "title": "World Trigger Kaï",
+  "show_title": "World Trigger Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1688961,
+      "nyaa_url": "https://nyaa.si/view/1688961",
+      "title": "[Hellinouille] World Trigger Kaï 01 - Les visiteurs venus d'un autre monde",
+      "torrent_url": "https://nyaa.si/download/1688961.torrent",
+      "magnet": "magnet:?xt=urn:btih:c51cd3d3d7a802154c3493593aee7ce7496362d1&dn=%5BHellinouille%5D%20World%20Trigger%20Ka%C3%AF%2001%20-%20Les%20visiteurs%20venus%20d%27un%20autre%20monde&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "c51cd3d3d7a802154c3493593aee7ce7496362d1",
+      "size": "2.9 GiB",
+      "pub_date": "2023-07-02 19:33",
+      "seeders": 6
+    },
+    {
+      "nyaa_id": 1689097,
+      "nyaa_url": "https://nyaa.si/view/1689097",
+      "title": "[Hellinouille] World Trigger Kaï 02 - Le Black Trigger",
+      "torrent_url": "https://nyaa.si/download/1689097.torrent",
+      "magnet": "magnet:?xt=urn:btih:9eb05f38dd860ce263925b5d6efa0b1ce93c6432&dn=%5BHellinouille%5D%20World%20Trigger%20Ka%C3%AF%2002%20-%20Le%20Black%20Trigger&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "9eb05f38dd860ce263925b5d6efa0b1ce93c6432",
+      "size": "2.8 GiB",
+      "pub_date": "2023-07-03 12:20",
+      "seeders": 5
+    },
+    {
+      "nyaa_id": 1797098,
+      "nyaa_url": "https://nyaa.si/view/1797098",
+      "title": "[Hellinouille] World Trigger Kaï 03 - Les troupes d'élite du Border",
+      "torrent_url": "https://nyaa.si/download/1797098.torrent",
+      "magnet": "magnet:?xt=urn:btih:00d75268a9c23f6eeac3aaea57c21224ffb09595&dn=%5BHellinouille%5D%20World%20Trigger%20Ka%C3%AF%2003%20-%20Les%20troupes%20d%27%C3%A9lite%20du%20Border&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "00d75268a9c23f6eeac3aaea57c21224ffb09595",
+      "size": "2.0 GiB",
+      "pub_date": "2024-03-31 13:57",
+      "seeders": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": 97,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 615,
+          "episode_number": 1,
+          "title": "Les visiteurs venus d'un autre monde",
+          "aired": "2023-04-29",
+          "torrents": [],
+          "paths": [
+            "[Hellinouille] World Trigger Kaï 01 - Les visiteurs venus d’un autre monde - VOSTFR.1080p.x264.mkv"
+          ]
+        },
+        {
+          "id": 614,
+          "episode_number": 2,
+          "title": "Le Black Trigger",
+          "aired": "2023-07-03",
+          "torrents": [],
+          "paths": [
+            "[Hellinouille] World Trigger Kaï 02 - Le Black Trigger - VOSTFR.1080p.x264.mkv"
+          ]
+        },
+        {
+          "id": 613,
+          "episode_number": 3,
+          "title": "Les troupes d'élite du Border",
+          "aired": "2024-03-31",
+          "torrents": [],
+          "paths": [
+            "[Hellinouille] World Trigger Kaï 03 - Les troupes d'élite du Border - VOSTFR.1080p.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1484 @@
+{
+  "id": 53,
+  "title": "One Piece Kaï",
+  "show_title": "One Piece Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 2084491,
+      "nyaa_url": "https://nyaa.si/view/2084491",
+      "title": "One Piece Kaï ULTIMATE PACK (Yabai/Kai 1-133) (Fan-Kai).MULTI.VF/VOSTFR",
+      "torrent_url": "https://nyaa.si/download/2084491.torrent",
+      "magnet": "magnet:?xt=urn:btih:89f8ee4c67ef236a88d4a7f0c419807a7a0b6496&dn=One%20Piece%20Ka%C3%AF%20ULTIMATE%20PACK%20%28Yabai%2FKai%201-133%29%20%28Fan-Kai%29.MULTI.VF%2FVOSTFR&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
+      "size": "278.1 GiB",
+      "pub_date": "2026-03-09 18:30",
+      "seeders": 39
+    }
+  ],
+  "seasons": [
+    {
+      "id": 110,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 714,
+          "episode_number": 1,
+          "title": "Strong World",
+          "aired": "2009-12-12",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 715,
+          "episode_number": 2,
+          "title": "Z",
+          "aired": "2012-12-15",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 713,
+          "episode_number": 3,
+          "title": "Gold",
+          "aired": "2016-07-23",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 716,
+          "episode_number": 4,
+          "title": "Stampede",
+          "aired": "2019-10-09",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 717,
+          "episode_number": 5,
+          "title": "Red",
+          "aired": "2022-08-06",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "season_number": 1,
+      "title": "East Blue",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 801,
+          "episode_number": 1,
+          "title": "Chapeau de Paille",
+          "aired": "2018-12-26",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 001 - Chapeau de Paille - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 799,
+          "episode_number": 2,
+          "title": "Le Garçon qui criait au Loup",
+          "aired": "2019-01-04",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 002 - Le Garçon qui criait au loup - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 797,
+          "episode_number": 3,
+          "title": "Cuisine et Déliquance",
+          "aired": "2019-01-09",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 003 - Cuisine et Délinquance - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 798,
+          "episode_number": 4,
+          "title": "Seigneur de Guerre",
+          "aired": "2019-01-16",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 004 - Seigneur de Guerre - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 800,
+          "episode_number": 5,
+          "title": "Le Gang du Requin",
+          "aired": "2019-01-24",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 005 - Le Gang du Requin - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 802,
+          "episode_number": 6,
+          "title": "Ma Partenaire",
+          "aired": "2019-01-31",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 006 - Ma Partenaire - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 796,
+          "episode_number": 7,
+          "title": "Tout se termine... et tout commence !",
+          "aired": "2019-02-07",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 007 - Tout se termine... et tout commence ! - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "season_number": 2,
+      "title": "Baroque Works",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 726,
+          "episode_number": 8,
+          "title": "La Route de tous les Périls",
+          "aired": "2019-02-14",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 008 - La Route de tous les Périls - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 728,
+          "episode_number": 9,
+          "title": "Le Monde Perdu",
+          "aired": "2019-02-28",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 009 - Le Monde Perdu - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 725,
+          "episode_number": 10,
+          "title": "Le Retour du Roi",
+          "aired": "2019-03-06",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 010 - Le Retour du Roi - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 729,
+          "episode_number": 11,
+          "title": "Le Temps des Cerisiers",
+          "aired": "2019-03-12",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 011 - Le Temps des Cerisiers - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 724,
+          "episode_number": 12,
+          "title": "La Traversée du Désert",
+          "aired": "2019-03-22",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 012 - La Traversée du Désert - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 731,
+          "episode_number": 13,
+          "title": "Le Ventre du Crocodile",
+          "aired": "2019-04-24",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 013 - Le Ventre du Crocodile - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 730,
+          "episode_number": 14,
+          "title": "Insurrection",
+          "aired": "2019-04-29",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 014 - Insurrection - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 727,
+          "episode_number": 15,
+          "title": "Contre la Montre",
+          "aired": "2019-05-03",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 015 - Contre la montre - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 732,
+          "episode_number": 16,
+          "title": "Jour de Pluie",
+          "aired": "2019-05-09",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 016 - Jour de Pluie - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "season_number": 3,
+      "title": "Île Céleste",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 668,
+          "episode_number": 17,
+          "title": "Les Yeux dans les Cieux",
+          "aired": "2019-05-22",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 017 - Les Yeux dans les Cieux - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 666,
+          "episode_number": 18,
+          "title": "Le Jugement Divin",
+          "aired": "2019-05-30",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 018 - Le Jugement Divin - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 670,
+          "episode_number": 19,
+          "title": "Jeu de Survie",
+          "aired": "2019-06-14",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 019 - Jeu de Survie - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 669,
+          "episode_number": 20,
+          "title": "L'Arche Divine",
+          "aired": "2019-08-01",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 020 - L'Arche Divine - 1080p.MULTI.x264 [Mixouille].mkv"
+          ]
+        },
+        {
+          "id": 671,
+          "episode_number": 21,
+          "title": "Montblanc Norland",
+          "aired": "2020-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 021 - Montblanc Norland - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 667,
+          "episode_number": 22,
+          "title": "Ranimer la flamme de Shandora",
+          "aired": "2021-03-31",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 022 - Ranimer la flamme de Shandora - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "season_number": 4,
+      "title": "Water 7",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 770,
+          "episode_number": 23,
+          "title": "Davy Back Fight",
+          "aired": "2021-06-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 023 - Davy Back Fight - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 764,
+          "episode_number": 24,
+          "title": "Le Faisan Bleu",
+          "aired": "2021-07-02",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 024 - Le Faisan Bleu - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 759,
+          "episode_number": 25,
+          "title": "Le Métropole aquatique",
+          "aired": "2021-07-05",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 025 - La Métropole aquatique - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 765,
+          "episode_number": 26,
+          "title": "L'avenir du Vogue Merry",
+          "aired": "2021-07-06",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 026 - L'Avenir du Vogue Merry - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 762,
+          "episode_number": 27,
+          "title": "Le Cyborg",
+          "aired": "2021-07-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 027 - Le Cyborg - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 763,
+          "episode_number": 28,
+          "title": "La Part d'Ombre",
+          "aired": "2021-07-20",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 028 - La Part d'Ombre - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 766,
+          "episode_number": 29,
+          "title": "Les Artisans de Tom",
+          "aired": "2021-07-27",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 029 - Les Artisans de Tom - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 760,
+          "episode_number": 30,
+          "title": "Sacrifice en eaux troubles",
+          "aired": "2021-08-03",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 030 - Sacrifice en eaux troubles - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 767,
+          "episode_number": 31,
+          "title": "Un long, long voyage",
+          "aired": "2021-08-10",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 031 - Un long, long voyage - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 756,
+          "episode_number": 32,
+          "title": "Jour de Jugement",
+          "aired": "2021-08-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 032 - Jour de Jugement - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 769,
+          "episode_number": 33,
+          "title": "Le Dernier Démon d'Ohara",
+          "aired": "2021-09-07",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 033 - Le Dernier Démon d'Ohara - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 761,
+          "episode_number": 34,
+          "title": "La Clé de la Liberté",
+          "aired": "2021-09-16",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 758,
+          "episode_number": 35,
+          "title": "Chasseurs vs Chasseurs",
+          "aired": "2021-09-22",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 035 - Chasseurs v. Chasseurs - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 768,
+          "episode_number": 36,
+          "title": "Justice Absolue",
+          "aired": "2021-09-28",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 036 - Justice Absolue - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 757,
+          "episode_number": 37,
+          "title": "Casus Belli",
+          "aired": "2021-10-04",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 037 - Casus Belli - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "season_number": 5,
+      "title": "Thriller Bark",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 675,
+          "episode_number": 38,
+          "title": "Thriller Bark",
+          "aired": "2022-01-30",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 038 - Thriller Bark - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 672,
+          "episode_number": 39,
+          "title": "La Chasse Nocturne",
+          "aired": "2022-02-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 039 - La Chasse Nocturne - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 674,
+          "episode_number": 40,
+          "title": "Les Trois Mystérieux",
+          "aired": "2022-02-20",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 040 - Les Trois Mystérieux - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 676,
+          "episode_number": 41,
+          "title": "Oz, le démon",
+          "aired": "2022-02-27",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 041 - Oz, le démon - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 673,
+          "episode_number": 42,
+          "title": "Le bon rhum de Binks",
+          "aired": "2022-03-06",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 042 - Le bon rhum de Binks - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "season_number": 6,
+      "title": "Guerre au Sommet",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 679,
+          "episode_number": 43,
+          "title": "Duval au masque de fer",
+          "aired": "2022-03-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 043 - Duval au masque de fer - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 688,
+          "episode_number": 44,
+          "title": "Les Dragons Célestes",
+          "aired": "2022-07-02",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 044 - Les Dragons Célestes - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 687,
+          "episode_number": 45,
+          "title": "Le Singe Jaune",
+          "aired": "2022-07-03",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 045 - Le Singe Jaune - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 678,
+          "episode_number": 46,
+          "title": "L'Île des femmes",
+          "aired": "2022-07-04",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 046 - L'Île des femmes - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 683,
+          "episode_number": 47,
+          "title": "La Prison Sous marine",
+          "aired": "2022-07-06",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 047 - La Prison Sous-marine - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 685,
+          "episode_number": 48,
+          "title": "La Résistance fluide",
+          "aired": "2022-07-10",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 048 - La Résistance fluide - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 684,
+          "episode_number": 49,
+          "title": "Par la grande porte",
+          "aired": "2022-07-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 049 - Par la grande porte - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 682,
+          "episode_number": 50,
+          "title": "Guerre totale",
+          "aired": "2023-02-27",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 050 - Guerre totale - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 681,
+          "episode_number": 51,
+          "title": "Le pouvoir le plus redoutable",
+          "aired": "2023-02-28",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 051 - Le pouvoir le plus redoutable - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 680,
+          "episode_number": 52,
+          "title": "Le sauvetage d'Ace",
+          "aired": "2023-03-05",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 052 - Le sauvetage d'Ace - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 686,
+          "episode_number": 53,
+          "title": "Fuir ou mourir",
+          "aired": "2023-03-06",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 053 - Fuir ou mourir - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 677,
+          "episode_number": 54,
+          "title": "Frères",
+          "aired": "2023-04-04",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 054 - Frères - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 689,
+          "episode_number": 55,
+          "title": "Nouvelle ère",
+          "aired": "2023-10-20",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 055 - Nouvelle ère - 1080p.MULTI.x264 [Livaï].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "season_number": 7,
+      "title": "Île des Hommes-Poissons",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 754,
+          "episode_number": 56,
+          "title": "Nouveau Départ",
+          "aired": "2024-09-12",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 056 - Nouveau Départ - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 751,
+          "episode_number": 57,
+          "title": "Le Royaume des abysses",
+          "aired": "2024-11-10",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 057 - Le Royaume des abysses - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 750,
+          "episode_number": 58,
+          "title": "Le Pacte des maudits",
+          "aired": "2024-11-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 058 - Le Pacte des maudits - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 752,
+          "episode_number": 59,
+          "title": "Deux visions un combat",
+          "aired": "2024-11-24",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 059 - Deux visions, un combat - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 749,
+          "episode_number": 60,
+          "title": "Cent Mille VS Dix",
+          "aired": "2024-12-22",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 060 - Cent Mille VS Dix - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 755,
+          "episode_number": 61,
+          "title": "L'Héritage de la haine",
+          "aired": "2024-12-29",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 061 - L'Héritage de la haine - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 753,
+          "episode_number": 62,
+          "title": "Vers le Soleil",
+          "aired": "2024-12-30",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 062 - Vers le Soleil - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "season_number": 8,
+      "title": "Punk Hazard",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 722,
+          "episode_number": 63,
+          "title": "L'île bipolaire",
+          "aired": "2026-02-16",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 063 - L'île bipolaire - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 719,
+          "episode_number": 64,
+          "title": "Alliance pirate",
+          "aired": "2026-02-18",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 064 - Alliance pirate - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 718,
+          "episode_number": 65,
+          "title": "L'Ange de la mort",
+          "aired": "2026-02-22",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 065 - L'Ange de la mort - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 720,
+          "episode_number": 66,
+          "title": "Rats de laboratoires",
+          "aired": "2026-02-24",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 066 - Rats de laboratoires - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 721,
+          "episode_number": 67,
+          "title": "À Tristesse tranchée",
+          "aired": "2026-02-26",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 067 - À Tristesse tranchée - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 723,
+          "episode_number": 68,
+          "title": "Derrière le sourire",
+          "aired": "2026-03-01",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 068 - Derrière le sourire - 1080p.MULTI.x264 [Johker].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "season_number": 9,
+      "title": "Dressrosa",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 791,
+          "episode_number": 69,
+          "title": "Dressrosa, le pays de l'amour, de la passion...",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 069 - Dressrosa, le pays de l'amour, de la passion... - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 784,
+          "episode_number": 70,
+          "title": "Colosseum - Bloc B",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 070 - Colosseum - Bloc B - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 778,
+          "episode_number": 71,
+          "title": "Le piège",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 071 - Le piège - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 780,
+          "episode_number": 72,
+          "title": "Colosseum - Bloc C",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 072 - Colosseum - Bloc C - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 787,
+          "episode_number": 73,
+          "title": "Les Oubliés de Dressrosa",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 073 - Les Oubliés de Dressrosa - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 776,
+          "episode_number": 74,
+          "title": "La Paria du Bloc D",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 074 - La Paria du Bloc D - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 790,
+          "episode_number": 75,
+          "title": "La nuit où tout a basculé",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 075 - La nuit où tout a basculé - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 792,
+          "episode_number": 76,
+          "title": "Le Revenant",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 076 - Le Revenant - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 786,
+          "episode_number": 77,
+          "title": "Opération S.O.P.",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 077 - Opération S.O.P. - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 788,
+          "episode_number": 78,
+          "title": "Le Gladiateur Légendaire",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 078 - Le Gladiateur Légendaire - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 781,
+          "episode_number": 79,
+          "title": "Dressrosa tremble",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 079 - Dressrosa tremble - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 783,
+          "episode_number": 80,
+          "title": "Inglorious Basterds",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 080 - Inglourious Basterds - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 795,
+          "episode_number": 81,
+          "title": "Miser sur le bon pirate",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 081 - Miser sur le bon pirate - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 793,
+          "episode_number": 82,
+          "title": "À risque ou à péril",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 082 - A risque ou à péril - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 777,
+          "episode_number": 83,
+          "title": "Le Saturnisme Blanc",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 083 - Le Saturnisme Blanc - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 782,
+          "episode_number": 84,
+          "title": "Sur trois fronts",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 084 - Sur trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 785,
+          "episode_number": 85,
+          "title": "Toujours sur les trois fronts",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 085 - Toujours sur les trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 779,
+          "episode_number": 86,
+          "title": "Le Démon Céleste",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 086 - Le Démon Céleste - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 789,
+          "episode_number": 87,
+          "title": "Dans dix minutes... et quelque",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 087 - Dans dix minutes... et quelque - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 775,
+          "episode_number": 88,
+          "title": "La naissance d'un Révolutionnaire",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 088 - La naissance d’un Révolutionnaire - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 794,
+          "episode_number": 89,
+          "title": "Le Bon, la Buse et les Cinglés",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 089 - Le Bon, la Buse, et les Cinglés - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "season_number": 10,
+      "title": "Whole Cake Island",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 737,
+          "episode_number": 90,
+          "title": "Vers Zo",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 090 - Vers Zo - 720p.VOSTFR.x264 [Knuckalex].mp4"
+          ]
+        },
+        {
+          "id": 739,
+          "episode_number": 91,
+          "title": "Le rideau se lève sur une nouvelle aventure",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 091 - Le rideau se lève sur une nouvelle aventure - 720p.VOSTFR.x264 [Zdk].mkv"
+          ]
+        },
+        {
+          "id": 740,
+          "episode_number": 92,
+          "title": "Une menace s'abat",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 092 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv"
+          ]
+        },
+        {
+          "id": 744,
+          "episode_number": 94,
+          "title": "Le troisième homme",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 094 - Le troisième homme - 720p.VOSTFR.x264 [Zdk].mkv"
+          ]
+        },
+        {
+          "id": 741,
+          "episode_number": 95,
+          "title": "Un serment entre hommes",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 095 - Un serment entre hommes - 720p.VOSTFR.x264 [Zdk].mp4"
+          ]
+        },
+        {
+          "id": 746,
+          "episode_number": 96,
+          "title": "Totto Land",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 096 - Totto Land - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 736,
+          "episode_number": 97,
+          "title": "Aventure dans la forêt enchantée",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 097 - Aventure dans la  forêt enchantée - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 745,
+          "episode_number": 98,
+          "title": "Le commandant sucré Cracker",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 098 - Le commandant sucré Cracker - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 743,
+          "episode_number": 99,
+          "title": "Mégot",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 099 - Mégot - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 748,
+          "episode_number": 100,
+          "title": "Le plan d'assassinat de l'Empereur",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 100 - Le plan d'assassinat de l'Empereur - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 733,
+          "episode_number": 101,
+          "title": "Tea Party",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 101 - Tea Party - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 738,
+          "episode_number": 102,
+          "title": "Impitoyable",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 102 - Impitoyable - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 735,
+          "episode_number": 103,
+          "title": "Merienda",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 103 - Merienda - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 734,
+          "episode_number": 104,
+          "title": "Sulong",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 104 - Sulong - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 742,
+          "episode_number": 105,
+          "title": "End Roll",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 105 - End roll - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 747,
+          "episode_number": 106,
+          "title": "Rêverie",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 106 - Rêverie - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "season_number": 11,
+      "title": "Wano",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 712,
+          "episode_number": 107,
+          "title": "Koinobori",
+          "aired": "2019-11-01",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 107 - Koinobori - 1080p.VOSTFR.x264 [Sacha].mp4"
+          ]
+        },
+        {
+          "id": 692,
+          "episode_number": 108,
+          "title": "Sumo à Wano",
+          "aired": "2020-03-20",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 108 - Sumo à Wano - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 705,
+          "episode_number": 109,
+          "title": "Les ruines du château d'Oden",
+          "aired": "2020-04-03",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 109 - Les ruines du château d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 698,
+          "episode_number": 110,
+          "title": "La suprême courtisane Komurasaki",
+          "aired": "2020-05-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 110 - La suprême courtisane Komurasaki - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 697,
+          "episode_number": 111,
+          "title": "Passé oublié",
+          "aired": "2020-09-16",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 111 - Passé oublié - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 707,
+          "episode_number": 112,
+          "title": "Shimotsuki Yasuie",
+          "aired": "2020-12-06",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 112 - Shimotsuki Yasuie - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 708,
+          "episode_number": 113,
+          "title": "Smile",
+          "aired": "2021-03-30",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 113 - Smile - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 704,
+          "episode_number": 114,
+          "title": "Préparatifs",
+          "aired": "2021-11-03",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 114 - Préparatifs - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 701,
+          "episode_number": 115,
+          "title": "Kozuki Oden entre en scène",
+          "aired": "2021-11-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 115 - Kozuki Oden entre en scène ! - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 690,
+          "episode_number": 116,
+          "title": "L'aventure d'Oden",
+          "aired": "2022-01-12",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 116 - L'aventure d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 709,
+          "episode_number": 117,
+          "title": "Bouillir, tel est le propre du Oden !",
+          "aired": "2022-01-13",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 117 - Bouillir, tel est le propre du Oden ! - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 700,
+          "episode_number": 118,
+          "title": "Cap sur Onigashima",
+          "aired": "2022-03-09",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 118 - Cap sur Onigashima - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 691,
+          "episode_number": 119,
+          "title": "Infiltration à la fête",
+          "aired": "2022-03-11",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 119 - Infiltration à la fête - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 703,
+          "episode_number": 120,
+          "title": "Mon nom",
+          "aired": "2022-03-12",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 120 - Mon nom - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 693,
+          "episode_number": 121,
+          "title": "Le futur Roi des pirates",
+          "aired": "2022-11-12",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 121 - Le futur Roi des pirates - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 710,
+          "episode_number": 122,
+          "title": "La nouvelle génération",
+          "aired": "2022-11-15",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 122 - La nouvelle génération - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 706,
+          "episode_number": 123,
+          "title": "Boulettes de millet",
+          "aired": "2023-12-03",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 123 - Boulettes de millet - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 702,
+          "episode_number": 124,
+          "title": "L'avatar du démon",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 124 - L'Avatar du démon - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 694,
+          "episode_number": 125,
+          "title": "Les dragons jumeaux",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 125 - Les Dragons jumeaux - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 696,
+          "episode_number": 126,
+          "title": "Têtes d'affiche",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 126 - Têtes d'affiche - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 699,
+          "episode_number": 127,
+          "title": "Les vainqueurs n'ont pas besoin d'épithète",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 127 - Les vainqueurs n'ont pas besoin d'épithète - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 695,
+          "episode_number": 128,
+          "title": "Le guerrier de la libération",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 128 - Le guerrier de la libération - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        },
+        {
+          "id": 711,
+          "episode_number": 129,
+          "title": "Rideau",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 129 - Rideau - 1080p.VOSTFR.x264 [Livaï].mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "season_number": 12,
+      "title": "Egg Head",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 773,
+          "episode_number": 130,
+          "title": "Le Cerveau du Monde",
+          "aired": "2025-07-08",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 130 - Le Cerveau du Monde - 1080p.VOSTFR.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 771,
+          "episode_number": 131,
+          "title": "Chasse au Savoir",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 131 - Chasse au Savoir - 1080p.VOSTFR.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 774,
+          "episode_number": 132,
+          "title": "Satellite défaillant",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 132 - Satellite défaillant - 1080p.VOSTFR.x264 [Johker].mkv"
+          ]
+        },
+        {
+          "id": 772,
+          "episode_number": 133,
+          "title": "Les Héritiers de la Vérité",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 36,
+  "title": "Solo Leveling Henshū",
+  "show_title": "Solo Leveling Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 71,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 489,
+          "episode_number": 1,
+          "title": "Started from the Bottom",
+          "aired": "2024-02-19",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 490,
+          "episode_number": 2,
+          "title": "Push it to the limit",
+          "aired": "2025-02-18",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 488,
+          "episode_number": 3,
+          "title": "Arise",
+          "aired": "2025-02-18",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 486,
+          "episode_number": 4,
+          "title": "In the Shadows",
+          "aired": "2025-11-01",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 485,
+          "episode_number": 5,
+          "title": "Kingslayer",
+          "aired": "2025-11-01",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 487,
+          "episode_number": 6,
+          "title": "Heavy is the crown",
+          "aired": "2025-11-01",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

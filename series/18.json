@@ -1,0 +1,88 @@
+{
+  "id": 18,
+  "title": "Enfer Et Paradis Henshū",
+  "show_title": "Enfer Et Paradis Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1481328,
+      "nyaa_url": "https://nyaa.si/view/1481328",
+      "title": "Enfer et Paradis Henshū (Fan-Kai) - INTEGRALE (6 films) - 1080p.MULTI.VF/VOSTFR.x264 [Livaï]",
+      "torrent_url": "https://nyaa.si/download/1481328.torrent",
+      "magnet": "magnet:?xt=urn:btih:3deb4ab14f4d605d9cea2d5ce596afa9edac6559&dn=Enfer%20et%20Paradis%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20INTEGRALE%20%286%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BLiva%C3%AF%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "3deb4ab14f4d605d9cea2d5ce596afa9edac6559",
+      "size": "7.4 GiB",
+      "pub_date": "2022-01-22 19:50",
+      "seeders": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": 32,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 299,
+          "episode_number": 1,
+          "title": "L'institut Tôdô",
+          "aired": "2022-01-17",
+          "torrents": [],
+          "paths": [
+            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 1 - L'Institut Tôdô - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 301,
+          "episode_number": 2,
+          "title": "L'unité des Exécuteurs",
+          "aired": "2022-01-18",
+          "torrents": [],
+          "paths": [
+            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 2 - L'unité des Exécuteurs - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 297,
+          "episode_number": 3,
+          "title": "La sanction",
+          "aired": "2022-01-19",
+          "torrents": [],
+          "paths": [
+            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 3 - La sanction - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 300,
+          "episode_number": 4,
+          "title": "Shin Natsume",
+          "aired": "2022-01-20",
+          "torrents": [],
+          "paths": [
+            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 4 - Shin Natsume - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 296,
+          "episode_number": 5,
+          "title": "Le Guerrier Ultime",
+          "aired": "2022-01-21",
+          "torrents": [],
+          "paths": [
+            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 5 - Le Guerrier Ultime - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 298,
+          "episode_number": 6,
+          "title": "Le poing du Dragon",
+          "aired": "2022-01-22",
+          "torrents": [],
+          "paths": [
+            "Enfer et Paradis Henshū [Livaï]/[Livaï] Enfer et Paradis Henshū 6 - Le Poing du Dragon - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

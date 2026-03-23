@@ -1,0 +1,162 @@
+{
+  "id": 60,
+  "title": "Dragon Ball Super Kaï",
+  "show_title": "Dragon Ball Super Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1356564,
+      "nyaa_url": "https://nyaa.si/view/1356564",
+      "title": "Dragon Ball Super (Fan-Kai) - INTEGRALE (11 films) - 720p.VOSTFR.x264 [Kaimisama]",
+      "torrent_url": "https://nyaa.si/download/1356564.torrent",
+      "magnet": "magnet:?xt=urn:btih:74e5e6cf9f17e8794758b8dff03d373e3d4082b3&dn=Dragon%20Ball%20Super%20%28Fan-Kai%29%20-%20INTEGRALE%20%2811%20films%29%20-%20720p.VOSTFR.x264%20%5BKaimisama%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "74e5e6cf9f17e8794758b8dff03d373e3d4082b3",
+      "size": "11.7 GiB",
+      "pub_date": "2021-03-12 23:28",
+      "seeders": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": 136,
+      "season_number": 1,
+      "title": "Introduction",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 885,
+          "episode_number": 1,
+          "title": "Dieu contre Dieu",
+          "aired": "2018-08-11",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 01 - Dieu contre dieu - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 886,
+          "episode_number": 2,
+          "title": "La Résurrection de l'empereur",
+          "aired": "2018-08-15",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "season_number": 2,
+      "title": "Dieu de la destruction Champa",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 879,
+          "episode_number": 3,
+          "title": "Les Super Dragon Balls",
+          "aired": "2018-08-18",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 03 - Les super Dragon balls - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 878,
+          "episode_number": 4,
+          "title": "Univers 6 VS Univers 7",
+          "aired": "2018-08-25",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 04 - Univers 6 VS Univers 7 ! - 720p.VOSTFR.x264.mp4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "season_number": 3,
+      "title": "Trunks du Futur",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 877,
+          "episode_number": 5,
+          "title": "Un SOS venu du futur",
+          "aired": "2018-09-01",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 876,
+          "episode_number": 6,
+          "title": "La justice divine !",
+          "aired": "2018-09-08",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 06 - La justice divine !! - 720p.VOSTFR.x264.mp4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "season_number": 4,
+      "title": "Survie de l'Univers",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 880,
+          "episode_number": 7,
+          "title": "Le tournoi du pouvoir",
+          "aired": "2018-09-29",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 881,
+          "episode_number": 8,
+          "title": "Le recrutement",
+          "aired": "2018-10-06",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 882,
+          "episode_number": 9,
+          "title": "Battle Royale",
+          "aired": "2018-10-13",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 883,
+          "episode_number": 10,
+          "title": "Les dernières minutes !",
+          "aired": "2018-10-20",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 10 - Les dernières minutes !!! - 720p.VOSTFR.x264.mp4"
+          ]
+        },
+        {
+          "id": 884,
+          "episode_number": 11,
+          "title": "L'Ultime combat pour la survie !",
+          "aired": "2018-10-27",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 11 - L'Ultime combat pour la survie !! - 720p.VOSTFR.x264.mp4"
+          ]
+        }
+      ]
+    }
+  ]
+}

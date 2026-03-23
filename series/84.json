@@ -1,0 +1,240 @@
+{
+  "id": 84,
+  "title": "Food Wars Kaï",
+  "show_title": "Food Wars Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1878380,
+      "nyaa_url": "https://nyaa.si/view/1878380",
+      "title": "[Tenma] Food Wars Kai - Integral - 1080p.x264 [DUB][VO|VF|EN] [Multi Sub] [EN|FR|POR|DEU|ESP|ARA|ITA] (Shokugeki no Souma)",
+      "torrent_url": "https://nyaa.si/download/1878380.torrent",
+      "magnet": "magnet:?xt=urn:btih:5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2&dn=%5BTenma%5D%20Food%20Wars%20Kai%20-%20Integral%20-%201080p.x264%20%5BDUB%5D%5BVO%7CVF%7CEN%5D%20%5BMulti%20Sub%5D%20%5BEN%7CFR%7CPOR%7CDEU%7CESP%7CARA%7CITA%5D%20%28Shokugeki%20no%20Souma%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+      "size": "45.4 GiB",
+      "pub_date": "2024-09-27 23:28",
+      "seeders": 12
+    }
+  ],
+  "seasons": [
+    {
+      "id": 208,
+      "season_number": 1,
+      "title": "Le premier plat",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1245,
+          "episode_number": 1,
+          "title": "L'École des Chefs",
+          "aired": "2023-10-08",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 01 - L'École des Chefs  - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1248,
+          "episode_number": 2,
+          "title": "Le Camp de l'Enfer",
+          "aired": "2023-11-18",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 02 - Le Camp de l'Enfer - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1249,
+          "episode_number": 3,
+          "title": "Le Karaage de la Jeunesse",
+          "aired": "2024-02-02",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 03 - Le Karaage de la Jeunesse - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1247,
+          "episode_number": 4,
+          "title": "L'Homme qu'on Surnommait le Démon",
+          "aired": "2024-02-17",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 04 - L'Homme qu'on Surnommait le Démon - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1246,
+          "episode_number": 5,
+          "title": "Les Élections d'Automne",
+          "aired": "2024-03-03",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 05 - Les Élections d'Automne - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "season_number": 2,
+      "title": "Le deuxième plat",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1240,
+          "episode_number": 6,
+          "title": "La Génération Diamant",
+          "aired": "2024-03-28",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 2/[Tenma] Food Wars Kai - 06 - La Génération Diamant - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1242,
+          "episode_number": 7,
+          "title": "Finale sous la Lune",
+          "aired": "2024-04-14",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 2/[Tenma] Food Wars Kai - 07 - Finale sous la Lune - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1241,
+          "episode_number": 8,
+          "title": "Les Stagiaires",
+          "aired": "2024-05-04",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 2/[Tenma] Food Wars Kai - 08 - Les Stagiaires - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "season_number": 3,
+      "title": "Le troisième plat",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1235,
+          "episode_number": 9,
+          "title": "Le Festival Gekkyô",
+          "aired": "2024-05-18",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 09 - Le Festival Gekkyô - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1236,
+          "episode_number": 10,
+          "title": "Centrale",
+          "aired": "2024-05-30",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 10 - Centrale - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1233,
+          "episode_number": 11,
+          "title": "La Chasse aux Survivants",
+          "aired": "2024-06-13",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 11 - La Chasse aux Survivants - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1232,
+          "episode_number": 12,
+          "title": "Examens de Passage",
+          "aired": "2024-06-27",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 12 - Examens de Passage - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1234,
+          "episode_number": 13,
+          "title": "Régiment de Cuisine",
+          "aired": "2024-07-12",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 13 - Régiment de Cuisine - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "season_number": 4,
+      "title": "Le quatrième plat",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1244,
+          "episode_number": 14,
+          "title": "Le Régiment de l'Espoir",
+          "aired": "2024-07-26",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 4/[Tenma] Food Wars Kai - 14 - Le Régiment de l'Espoir - 1080p.VO-EN.Multi.Sub.x264.mkv"
+          ]
+        },
+        {
+          "id": 1243,
+          "episode_number": 15,
+          "title": "Le Plat Véritable",
+          "aired": "2024-08-09",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 4/[Tenma] Food Wars Kai - 15 - Le Plat Véritable - 1080p.VO-EN.Multi.Sub.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "season_number": 5,
+      "title": "Le cinquième plat",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1237,
+          "episode_number": 16,
+          "title": "Les Cuisiniers Noirs",
+          "aired": "2024-08-23",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 5/[Tenma] Food Wars Kai - 16 - Les Cuisiniers Noirs - 1080p.VO-EN.Multi.Sub.x264.mkv"
+          ]
+        },
+        {
+          "id": 1238,
+          "episode_number": 17,
+          "title": "The Blue",
+          "aired": "2024-09-06",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 5/[Tenma] Food Wars Kai - 17 - The Blue - 1080p.VO-EN.Multi.Sub.x264.mkv"
+          ]
+        },
+        {
+          "id": 1239,
+          "episode_number": 18,
+          "title": "À Votre Service !",
+          "aired": "2024-09-20",
+          "torrents": [],
+          "paths": [
+            "Food Wars Kai [Tenma]/Saison 5/[Tenma] Food Wars Kai - 18 - À Votre Service ! - 1080p.VO-EN.Multi.Sub.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

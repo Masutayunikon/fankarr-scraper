@@ -1,0 +1,146 @@
+{
+  "id": 56,
+  "title": "GTO Kaï",
+  "show_title": "GTO Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1758971,
+      "nyaa_url": "https://nyaa.si/view/1758971",
+      "title": "[Tenma] GTO Kai - 9 films [DUB][VO|VF|EN|ITA] [Multiple Subtitle] [EN|FR|ES|ES-LA|POR|DEU|ARA|POR-BRA]",
+      "torrent_url": "https://nyaa.si/download/1758971.torrent",
+      "magnet": "magnet:?xt=urn:btih:7a4fc589d6438a3e1e554681b15546e52a2aa2a5&dn=%5BTenma%5D%20GTO%20Kai%20-%209%20films%20%5BDUB%5D%5BVO%7CVF%7CEN%7CITA%5D%20%5BMultiple%20Subtitle%5D%20%5BEN%7CFR%7CES%7CES-LA%7CPOR%7CDEU%7CARA%7CPOR-BRA%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
+      "size": "13.0 GiB",
+      "pub_date": "2023-12-22 20:19",
+      "seeders": 18
+    }
+  ],
+  "seasons": [
+    {
+      "id": 124,
+      "season_number": 0,
+      "title": "Saison 0",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 821,
+          "episode_number": 8,
+          "title": "Occulte, Infirmière et Or volé",
+          "aired": "2023-12-18",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 820,
+          "episode_number": 10,
+          "title": "La Dernière Bataille d'Onizuka",
+          "aired": "2023-12-18",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - DVD.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 823,
+          "episode_number": 1,
+          "title": "Eikichi Onizuka",
+          "aired": "2023-03-12",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 01 - Eikichi Onizuka - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 830,
+          "episode_number": 2,
+          "title": "La Troisième 4",
+          "aired": "2023-04-14",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 02 - La Troisième 4 - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 828,
+          "episode_number": 3,
+          "title": "La Naissance d'une Star",
+          "aired": "2023-04-28",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 03 - La Naissance d'une Star - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 826,
+          "episode_number": 4,
+          "title": "L'examen d'Onizuka",
+          "aired": "2023-06-26",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 04 - L'examen d'Onizuka - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 822,
+          "episode_number": 5,
+          "title": "L'ennemi juré d'Onizuka",
+          "aired": "2023-07-18",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 824,
+          "episode_number": 6,
+          "title": "L'obsession de Murai",
+          "aired": "2023-08-01",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 06 - L'obsession de Murai - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 829,
+          "episode_number": 7,
+          "title": "La plus grande idole du Japon",
+          "aired": "2023-08-11",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 825,
+          "episode_number": 8,
+          "title": "Le Piège d'Aizawa",
+          "aired": "2023-09-23",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - DVD.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 827,
+          "episode_number": 9,
+          "title": "Survie à Okinawa",
+          "aired": "2023-10-27",
+          "torrents": [],
+          "paths": [
+            "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 09 - Survie à Okinawa - DVD.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

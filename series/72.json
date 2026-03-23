@@ -1,0 +1,96 @@
+{
+  "id": 72,
+  "title": "Made In Abyss Henshū",
+  "show_title": "Made In Abyss Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1846639,
+      "nyaa_url": "https://nyaa.si/view/1846639",
+      "title": "[Odji-san] Made in Abyss Henshū - Films 1 à 6 1080p.MULTI.x264 [DUB][VO|VF] [Multiple Subtitle] [|FR|ESP]",
+      "torrent_url": "https://nyaa.si/download/1846639.torrent",
+      "magnet": "magnet:?xt=urn:btih:5180b86ed00ac2142d995ef6027fd11762016fc3&dn=%5BOdji-san%5D%20Made%20in%20Abyss%20Hensh%C5%AB%20-%20Films%201%20%C3%A0%206%201080p.MULTI.x264%20%5BDUB%5D%5BVO%7CVF%5D%20%5BMultiple%20Subtitle%5D%20%5B%7CFR%7CESP%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+      "size": "11.5 GiB",
+      "pub_date": "2024-07-17 07:00",
+      "seeders": 15
+    }
+  ],
+  "seasons": [
+    {
+      "id": 174,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1103,
+          "episode_number": 1,
+          "title": "Au bord de l'abysse",
+          "aired": "2023-07-21",
+          "torrents": [],
+          "paths": [
+            "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse  1080p Multi x264.mkv"
+          ]
+        },
+        {
+          "id": 1102,
+          "episode_number": 2,
+          "title": "La délivrance de l'âme",
+          "aired": "2023-07-30",
+          "torrents": [],
+          "paths": [
+            "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.mkv"
+          ]
+        },
+        {
+          "id": 1101,
+          "episode_number": 3,
+          "title": "L'aube de l'âme profonde",
+          "aired": "2023-08-15",
+          "torrents": [],
+          "paths": [
+            "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "season_number": 2,
+      "title": "La ville d'or incandescente",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1098,
+          "episode_number": 4,
+          "title": "La princesse des ombres",
+          "aired": "2024-03-14",
+          "torrents": [],
+          "paths": [
+            "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.mkv"
+          ]
+        },
+        {
+          "id": 1100,
+          "episode_number": 5,
+          "title": "La ville d'or incandescente",
+          "aired": "2024-03-14",
+          "torrents": [],
+          "paths": [
+            "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescente 1080p Multi x264.mkv"
+          ]
+        },
+        {
+          "id": 1099,
+          "episode_number": 6,
+          "title": "Chaleureuses Ténèbres",
+          "aired": "2024-03-14",
+          "torrents": [],
+          "paths": [
+            "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

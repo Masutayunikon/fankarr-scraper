@@ -1,0 +1,166 @@
+{
+  "id": 52,
+  "title": "Dr.Stone Henshū",
+  "show_title": "Dr.Stone Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1850293,
+      "nyaa_url": "https://nyaa.si/view/1850293",
+      "title": "[Khyinn.Roro] Dr.Stone Henshu - Films 1 à 13 - Saison 1 - 3",
+      "torrent_url": "https://nyaa.si/download/1850293.torrent",
+      "magnet": "magnet:?xt=urn:btih:fa687d0ff1687a374271dcda24b728db8e874a81&dn=%5BKhyinn.Roro%5D%20Dr.Stone%20Henshu%20-%20Films%201%20%C3%A0%2013%20-%20Saison%201%20-%203&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+      "size": "35.9 GiB",
+      "pub_date": "2024-07-25 13:33",
+      "seeders": 11
+    }
+  ],
+  "seasons": [
+    {
+      "id": 105,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 660,
+          "episode_number": 1,
+          "title": "Prologue",
+          "aired": "2021-10-06",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 01 - Prologue.mkv"
+          ]
+        },
+        {
+          "id": 664,
+          "episode_number": 2,
+          "title": "Dr.Stone, le commencement",
+          "aired": "2021-10-15",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 02 - Dr Stone, le commencement.mkv"
+          ]
+        },
+        {
+          "id": 658,
+          "episode_number": 3,
+          "title": "Nous brandirons la lumière de la science",
+          "aired": "2021-11-06",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.mkv"
+          ]
+        },
+        {
+          "id": 663,
+          "episode_number": 4,
+          "title": "Sauvons Ruri !",
+          "aired": "2021-11-22",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 04 - Sauvons Ruri !.mkv"
+          ]
+        },
+        {
+          "id": 661,
+          "episode_number": 5,
+          "title": "Les origines du village Ishigami",
+          "aired": "2021-12-14",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 05 - Les origines du village Ishigami.mkv"
+          ]
+        },
+        {
+          "id": 657,
+          "episode_number": 6,
+          "title": "Le téléphone portable",
+          "aired": "2023-12-24",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 06 - Le téléphone portable.mkv"
+          ]
+        },
+        {
+          "id": 665,
+          "episode_number": 7,
+          "title": "Chrome le Scientifique",
+          "aired": "2023-12-25",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 07 - Chrome le Scientifique.mkv"
+          ]
+        },
+        {
+          "id": 662,
+          "episode_number": 8,
+          "title": "Cryogénisation",
+          "aired": "2023-12-27",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 08 - Cryogénisation.mkv"
+          ]
+        },
+        {
+          "id": 659,
+          "episode_number": 9,
+          "title": "Pétrole, Montgolfière et Argent",
+          "aired": "2023-12-29",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 653,
+          "episode_number": 10,
+          "title": "Objectif Perseus",
+          "aired": "2024-07-26",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 10 - Objectif Perseus.mkv"
+          ]
+        },
+        {
+          "id": 654,
+          "episode_number": 11,
+          "title": "L'île aux trésors",
+          "aired": "2024-07-26",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 11 - L'île aux trésors.mkv"
+          ]
+        },
+        {
+          "id": 656,
+          "episode_number": 12,
+          "title": "Médusa",
+          "aired": "2024-07-26",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 12 - Médusa.mkv"
+          ]
+        },
+        {
+          "id": 655,
+          "episode_number": 13,
+          "title": "Nouvel objectif",
+          "aired": "2024-07-26",
+          "torrents": [],
+          "paths": [
+            "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 13 - Nouvel objectif.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 1,
+  "title": "Black Lagoon Henshū",
+  "show_title": "Black Lagoon Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1356550,
+      "nyaa_url": "https://nyaa.si/view/1356550",
+      "title": "Black Lagoon Henshū (Fan-Kai) - INTEGRALE (8 films) - 1080p.MULTI.VF/VOSTFR.x264 [Khyinn]",
+      "torrent_url": "https://nyaa.si/download/1356550.torrent",
+      "magnet": "magnet:?xt=urn:btih:23ebdc911bdab8637df13da53a4345e2026f980c&dn=Black%20Lagoon%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20INTEGRALE%20%288%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BKhyinn%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "23ebdc911bdab8637df13da53a4345e2026f980c",
+      "size": "8.9 GiB",
+      "pub_date": "2021-03-12 22:48",
+      "seeders": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": 3,
+      "season_number": 1,
+      "title": "Black Lagoon",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 5,
+          "episode_number": 1,
+          "title": "Le Black Lagoon",
+          "aired": "2019-04-08",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 01 - Le Black Lagoon - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 6,
+          "episode_number": 2,
+          "title": "La résurrection de l'Aigle",
+          "aired": "2019-04-28",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 02 - La Résurrection de l'Aigle - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 8,
+          "episode_number": 3,
+          "title": "Rasta Blasta",
+          "aired": "2019-05-05",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 03 - Rasta Blasta - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 7,
+          "episode_number": 4,
+          "title": "Révolution Ciblée",
+          "aired": "2019-05-05",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 04 - Révolution ciblée - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "season_number": 2,
+      "title": "Black Lagoon : Second Barrage",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 3,
+          "episode_number": 5,
+          "title": "Les Jumeaux Vampires",
+          "aired": "2019-05-23",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 05 - Les Jumeaux Vampires - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 4,
+          "episode_number": 6,
+          "title": "Jane",
+          "aired": "2019-07-29",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 06 - Jane - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 2,
+          "episode_number": 7,
+          "title": "Yukio",
+          "aired": "2020-02-21",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 07 - Yukio - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "season_number": 3,
+      "title": "Black Lagoon : Roberta's Blood Trail",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1,
+          "episode_number": 8,
+          "title": "Roberta, furie sanguinaire",
+          "aired": "2020-02-21",
+          "torrents": [],
+          "paths": [
+            "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 08 - Roberta, furie sanguinaire - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

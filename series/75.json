@@ -1,0 +1,278 @@
+{
+  "id": 75,
+  "title": "Major Henshū",
+  "show_title": "Major Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 185,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [
+        {
+          "nyaa_id": 2008410,
+          "nyaa_url": "https://nyaa.si/view/2008410",
+          "title": "[Tenma] Major Henshū - Seasons 1 & 2 - 1080p.x264 [Multiple Subtitle] [ENG][FRE]",
+          "torrent_url": "https://nyaa.si/download/2008410.torrent",
+          "magnet": "magnet:?xt=urn:btih:810b68507d4d0d90ca952a3486c3c97e27c19d5f&dn=%5BTenma%5D%20Major%20Hensh%C5%AB%20-%20Seasons%201%20%26%202%20-%201080p.x264%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+          "size": "12.4 GiB",
+          "pub_date": "2025-08-19 17:18",
+          "seeders": 4
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1155,
+          "episode_number": 1,
+          "title": "Le Rêve de Goro",
+          "aired": "2024-10-13",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 01 - Le Rêve de Goro - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1156,
+          "episode_number": 2,
+          "title": "Mifune Dolphins",
+          "aired": "2024-10-20",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 02 - Mifune Dolphins - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1157,
+          "episode_number": 3,
+          "title": "Major All Star Game",
+          "aired": "2024-10-27",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 03 - Major All Star Game - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1152,
+          "episode_number": 4,
+          "title": "Camp d'Entraînement",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 04 - Camp d'Entrainement - 1080p.MULTISUB.mkv"
+          ]
+        },
+        {
+          "id": 1153,
+          "episode_number": 5,
+          "title": "Le Tournoi Commence",
+          "aired": "2024-11-10",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 05 - Le Tournoi Commence - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1154,
+          "episode_number": 6,
+          "title": "Quart de Final décisif",
+          "aired": "2024-11-17",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 06 - Quart de Finale Décisif - 1080p.MULTISUB.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [
+        {
+          "nyaa_id": 2008410,
+          "nyaa_url": "https://nyaa.si/view/2008410",
+          "title": "[Tenma] Major Henshū - Seasons 1 & 2 - 1080p.x264 [Multiple Subtitle] [ENG][FRE]",
+          "torrent_url": "https://nyaa.si/download/2008410.torrent",
+          "magnet": "magnet:?xt=urn:btih:810b68507d4d0d90ca952a3486c3c97e27c19d5f&dn=%5BTenma%5D%20Major%20Hensh%C5%AB%20-%20Seasons%201%20%26%202%20-%201080p.x264%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+          "size": "12.4 GiB",
+          "pub_date": "2025-08-19 17:18",
+          "seeders": 4
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1147,
+          "episode_number": 7,
+          "title": "Le Retour de Goro",
+          "aired": "2025-07-24",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 07 - Le Retour de Goro - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1146,
+          "episode_number": 8,
+          "title": "Tournoi des Collèges et Conspiration",
+          "aired": "2025-07-29",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 08 - Tournoi des Collèges - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1145,
+          "episode_number": 9,
+          "title": "Sélection pour Kaido",
+          "aired": "2025-08-04",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 09 - Sélection pour Kaido - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1142,
+          "episode_number": 10,
+          "title": "L'île des Rêves",
+          "aired": "2025-08-08",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 10 - L'Île des Rêves - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1144,
+          "episode_number": 11,
+          "title": "Goro Contre le Manuel",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 11 - Goro contre le Manuel - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1143,
+          "episode_number": 12,
+          "title": "Nouvel Objectif",
+          "aired": "2025-08-16",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 12 - Nouvel Objectif - 1080p.MULTISUB.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "season_number": 3,
+      "title": "Saison 3",
+      "torrents": [
+        {
+          "nyaa_id": 2045810,
+          "nyaa_url": "https://nyaa.si/view/2045810",
+          "title": "[Tenma] Major Henshū - Season 3 - 1080p.x264 [Multiple Subtitle] [ENG][FRE]",
+          "torrent_url": "https://nyaa.si/download/2045810.torrent",
+          "magnet": "magnet:?xt=urn:btih:ff97a6853e63b93d5e1fac0477f8b6dd25cf869e&dn=%5BTenma%5D%20Major%20Hensh%C5%AB%20-%20Season%203%20-%201080p.x264%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "ff97a6853e63b93d5e1fac0477f8b6dd25cf869e",
+          "size": "6.1 GiB",
+          "pub_date": "2025-11-22 23:43",
+          "seeders": 4
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1138,
+          "episode_number": 13,
+          "title": "Nouveau Départ",
+          "aired": "2025-10-26",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 3/[Tenma] Major Henshū 13 - Nouveau Départ - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1137,
+          "episode_number": 14,
+          "title": "Une Vraie Équipe",
+          "aired": "2025-11-01",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 3/[Tenma] Major Henshū 14 - Une vraie Équipe - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1141,
+          "episode_number": 15,
+          "title": "Esprit Combatif",
+          "aired": "2025-11-08",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 3/[Tenma] Major Henshū 15 - Esprit Combatif - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1139,
+          "episode_number": 16,
+          "title": "En Route Vers Kaido",
+          "aired": "2025-11-15",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 3/[Tenma] Major Henshū 16 - En Route vers Kaidô - 1080p.MULTISUB.x264.mkv"
+          ]
+        },
+        {
+          "id": 1140,
+          "episode_number": 17,
+          "title": "Affrontement",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Major Henshū [Tenma]/Saison 3/[Tenma] Major Henshū 17 - Affrontement - 1080p.MULTISUB.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "season_number": 4,
+      "title": "Saison 4",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1149,
+          "episode_number": 18,
+          "title": "Rêve Américain",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1151,
+          "episode_number": 19,
+          "title": "Memphis Bats",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1150,
+          "episode_number": 20,
+          "title": "Playoff",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1148,
+          "episode_number": 21,
+          "title": "Lanceur vs Batteur",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

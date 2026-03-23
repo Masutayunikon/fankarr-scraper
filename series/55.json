@@ -1,0 +1,182 @@
+{
+  "id": 55,
+  "title": "Yu Yu Hakusho Kaï",
+  "show_title": "Yu Yu Hakusho Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1373047,
+      "nyaa_url": "https://nyaa.si/view/1373047",
+      "title": "Yu Yu Hakusho Kaï (Fan-Kai) -  INTEGRALE (13 films) - 1080p.MULTI.VF/VOSTFR.x264 [Titou]",
+      "torrent_url": "https://nyaa.si/download/1373047.torrent",
+      "magnet": "magnet:?xt=urn:btih:b1bab199c3f76805270205d0d46b96b034d9ae98&dn=Yu%20Yu%20Hakusho%20Ka%C3%AF%20%28Fan-Kai%29%20-%20%20INTEGRALE%20%2813%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BTitou%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
+      "size": "22.7 GiB",
+      "pub_date": "2021-04-16 19:14",
+      "seeders": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": 123,
+      "season_number": 1,
+      "title": "Spirit Detective",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 817,
+          "episode_number": 1,
+          "title": "Sacrifice et Résurrection",
+          "aired": "2019-01-01",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 1 - Sacrifice et résurrection.mkv"
+          ]
+        },
+        {
+          "id": 816,
+          "episode_number": 2,
+          "title": "Maître Genkai",
+          "aired": "2019-01-15",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 2 - Maître Genkai.mkv"
+          ]
+        },
+        {
+          "id": 819,
+          "episode_number": 3,
+          "title": "La flûte diabolique",
+          "aired": "2019-02-01",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 3 - La flûte diabolique.mkv"
+          ]
+        },
+        {
+          "id": 818,
+          "episode_number": 4,
+          "title": "Les frères Toguro",
+          "aired": "2019-02-06",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 4 - Les frères Toguro.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "season_number": 2,
+      "title": "Dark Tournament",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 813,
+          "episode_number": 5,
+          "title": "Des invités prometteurs",
+          "aired": "2019-02-14",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 5 - Des invités prometteurs.mkv"
+          ]
+        },
+        {
+          "id": 811,
+          "episode_number": 6,
+          "title": "Un règlement scandaleux",
+          "aired": "2019-03-04",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 6 - Un règlement scandaleux.mkv"
+          ]
+        },
+        {
+          "id": 812,
+          "episode_number": 7,
+          "title": "Les ravages du temps",
+          "aired": "2019-05-01",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 7 - Les ravages du temps.mkv"
+          ]
+        },
+        {
+          "id": 810,
+          "episode_number": 8,
+          "title": "Un pari risqué",
+          "aired": "2019-05-01",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 8 - Un pari risqué.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "season_number": 3,
+      "title": "Chapter Black",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 807,
+          "episode_number": 9,
+          "title": "L'héritage de Sakyô",
+          "aired": "2019-05-23",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
+          ]
+        },
+        {
+          "id": 808,
+          "episode_number": 10,
+          "title": "Le briseur du sort",
+          "aired": "2019-08-14",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
+          ]
+        },
+        {
+          "id": 809,
+          "episode_number": 11,
+          "title": "Le grand atavisme",
+          "aired": "2019-08-14",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "season_number": 4,
+      "title": "Three Kings",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 815,
+          "episode_number": 12,
+          "title": "Destins croisés",
+          "aired": "2020-02-15",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 12 - Destins croisés.mkv"
+          ]
+        },
+        {
+          "id": 814,
+          "episode_number": 13,
+          "title": "La Loi du Plus Fort",
+          "aired": "2020-02-15",
+          "torrents": [],
+          "paths": [
+            "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

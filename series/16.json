@@ -1,0 +1,88 @@
+{
+  "id": 16,
+  "title": "Street Fighter II V Fan-Cut",
+  "show_title": "Street Fighter II V Fan-Cut",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 29,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 291,
+          "episode_number": 1,
+          "title": "San Francisco",
+          "aired": "2023-02-09",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 287,
+          "episode_number": 2,
+          "title": "La forteresse des Neufs Dragons",
+          "aired": "2023-03-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 289,
+          "episode_number": 3,
+          "title": "Aventures à Hong Kong",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 286,
+          "episode_number": 4,
+          "title": "Le piège d'Ashura",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 285,
+          "episode_number": 5,
+          "title": "Les jeunes fauves",
+          "aired": "2024-01-07",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 284,
+          "episode_number": 6,
+          "title": "Le matador en cage",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 283,
+          "episode_number": 7,
+          "title": "Mission sauvetage",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 288,
+          "episode_number": 8,
+          "title": "Hadō contre Hadō",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 290,
+          "episode_number": 9,
+          "title": "Combattre jusqu'à la fin",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

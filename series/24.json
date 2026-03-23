@@ -1,0 +1,88 @@
+{
+  "id": 24,
+  "title": "Busô Renkin Kaï",
+  "show_title": "Busô Renkin Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1456086,
+      "nyaa_url": "https://nyaa.si/view/1456086",
+      "title": "Busô Renkin Kaï (Fan-Kai) - INTEGRALE (6 films) - 1080p.VOSTFR.x264 [Triggerforce]",
+      "torrent_url": "https://nyaa.si/download/1456086.torrent",
+      "magnet": "magnet:?xt=urn:btih:21bc7398d2f5c762b385c557163befec8ec97435&dn=Bus%C3%B4%20Renkin%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%286%20films%29%20-%201080p.VOSTFR.x264%20%5BTriggerforce%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "21bc7398d2f5c762b385c557163befec8ec97435",
+      "size": "11.0 GiB",
+      "pub_date": "2021-11-14 16:07",
+      "seeders": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": 43,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 351,
+          "episode_number": 1,
+          "title": "Une nouvelle vie",
+          "aired": "2020-12-20",
+          "torrents": [],
+          "paths": [
+            "Busô Renkin Kyodai [Triggerforce]/[Triggerforce] Busô Renkin Kyodai 01 - Une nouvelle vie - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 350,
+          "episode_number": 2,
+          "title": "Le soldat Tokiko",
+          "aired": "2021-06-19",
+          "torrents": [],
+          "paths": [
+            "Busô Renkin Kyodai [Triggerforce]/[Triggerforce] Busô Renkin Kyodai 02 - Le soldat Tokiko - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 353,
+          "episode_number": 3,
+          "title": "Le changement de coeur",
+          "aired": "2021-07-02",
+          "torrents": [],
+          "paths": [
+            "Busô Renkin Kyodai [Triggerforce]/[Triggerforce] Busô Renkin Kyodai 03 - Le changement de coeur - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 348,
+          "episode_number": 4,
+          "title": "L'autre tiers",
+          "aired": "2021-07-13",
+          "torrents": [],
+          "paths": [
+            "Busô Renkin Kyodai [Triggerforce]/[Triggerforce] Busô Renkin Kyodai 04 - L'autre tiers - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 352,
+          "episode_number": 5,
+          "title": "Paroxysme",
+          "aired": "2021-07-15",
+          "torrents": [],
+          "paths": [
+            "Busô Renkin Kyodai [Triggerforce]/[Triggerforce] Busô Renkin Kyodai 05 - Paroxysme - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 349,
+          "episode_number": 6,
+          "title": "Grand final",
+          "aired": "2021-07-21",
+          "torrents": [],
+          "paths": [
+            "Busô Renkin Kyodai [Triggerforce]/[Triggerforce] Busô Renkin Kyodai 06 - Le Grand Final - 1080p.VOSTFR.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

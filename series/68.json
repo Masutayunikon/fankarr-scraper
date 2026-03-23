@@ -1,0 +1,80 @@
+{
+  "id": 68,
+  "title": "Oshi no Ko Henshū",
+  "show_title": "Oshi no Ko Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 164,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1064,
+          "episode_number": 1,
+          "title": "Mensonges",
+          "aired": "2023-06-15",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1061,
+          "episode_number": 2,
+          "title": "Début de carrière",
+          "aired": "2023-07-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1063,
+          "episode_number": 3,
+          "title": "L'envers du décor",
+          "aired": "2023-08-02",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1062,
+          "episode_number": 4,
+          "title": "Héritage",
+          "aired": "2023-08-27",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1059,
+          "episode_number": 5,
+          "title": "Dramaturgie",
+          "aired": "2025-05-25",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1060,
+          "episode_number": 6,
+          "title": "Tokyo Blade",
+          "aired": "2025-05-25",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1058,
+          "episode_number": 7,
+          "title": "Reflets cendrés",
+          "aired": "2025-05-25",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

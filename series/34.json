@@ -1,0 +1,100 @@
+{
+  "id": 34,
+  "title": "Nichijou Henshū",
+  "show_title": "Nichijou Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1624602,
+      "nyaa_url": "https://nyaa.si/view/1624602",
+      "title": "Nichijou Henshû Films 02 à 06 - VOSTFR - Roro",
+      "torrent_url": "https://nyaa.si/download/1624602.torrent",
+      "magnet": "magnet:?xt=urn:btih:cf78a7b6d12baefc3c99dd818f2e8a225967dd80&dn=Nichijou%20Hensh%C3%BB%20Films%2002%20%C3%A0%2006%20-%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "cf78a7b6d12baefc3c99dd818f2e8a225967dd80",
+      "size": "4.8 GiB",
+      "pub_date": "2023-01-14 10:42",
+      "seeders": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": 69,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 482,
+          "episode_number": 1,
+          "title": "Statuettes",
+          "aired": "2021-11-27",
+          "torrents": [
+            {
+              "nyaa_id": 1460754,
+              "nyaa_url": "https://nyaa.si/view/1460754",
+              "title": "Nichijou Henshû 01 VOSTFR - Roro",
+              "torrent_url": "https://nyaa.si/download/1460754.torrent",
+              "magnet": "magnet:?xt=urn:btih:93b0b1c92b3b55b03967e8822f30f6f13fd7e82c&dn=Nichijou%20Hensh%C3%BB%2001%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "93b0b1c92b3b55b03967e8822f30f6f13fd7e82c",
+              "size": "1.2 GiB",
+              "pub_date": "2021-11-27 11:33",
+              "seeders": 4
+            }
+          ],
+          "paths": [
+            "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 481,
+          "episode_number": 2,
+          "title": "Sakamoto",
+          "aired": "2022-11-15",
+          "torrents": [],
+          "paths": [
+            "Nichijou Henshu Films 2 à 6/[Roro] Nichijou Henshu 02 - Sakamoto - VOSTFR 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 484,
+          "episode_number": 3,
+          "title": "École",
+          "aired": "2022-11-17",
+          "torrents": [],
+          "paths": [
+            "Nichijou Henshu Films 2 à 6/[Roro] Nichijou Henshu 03 - École - VOSTFR 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 480,
+          "episode_number": 4,
+          "title": "Science",
+          "aired": "2023-01-06",
+          "torrents": [],
+          "paths": [
+            "Nichijou Henshu Films 2 à 6/[Roro] Nichijou Henshu 04 - Science - VOSTFR 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 483,
+          "episode_number": 5,
+          "title": "Pluie et robot",
+          "aired": "2023-01-06",
+          "torrents": [],
+          "paths": [
+            "Nichijou Henshu Films 2 à 6/[Roro] Nichijou Henshu 05 - Pluie et robot - VOSTFR 1080p x264.mkv"
+          ]
+        },
+        {
+          "id": 479,
+          "episode_number": 6,
+          "title": "Quotidien",
+          "aired": "2023-01-08",
+          "torrents": [],
+          "paths": [
+            "Nichijou Henshu Films 2 à 6/[Roro] Nichijou Henshu 06 - Quotidien - VOSTFR 1080p x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

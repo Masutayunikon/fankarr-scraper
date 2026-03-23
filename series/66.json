@@ -1,0 +1,138 @@
+{
+  "id": 66,
+  "title": "Soul Eater Kaï",
+  "show_title": "Soul Eater Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1389810,
+      "nyaa_url": "https://nyaa.si/view/1389810",
+      "title": "Soul Eater Kaï (Fan-Kai) - INTEGRALE (11 films) - 1080p.MULTI.VF/VOSTFR.x264 [Triggerforce]",
+      "torrent_url": "https://nyaa.si/download/1389810.torrent",
+      "magnet": "magnet:?xt=urn:btih:01d1a37df351e7b9ec3278d42c08d94ffafe419d&dn=Soul%20Eater%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2811%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BTriggerforce%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "01d1a37df351e7b9ec3278d42c08d94ffafe419d",
+      "size": "10.2 GiB",
+      "pub_date": "2021-05-24 17:55",
+      "seeders": 12
+    }
+  ],
+  "seasons": [
+    {
+      "id": 153,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 984,
+          "episode_number": 1,
+          "title": "Prologue",
+          "aired": "2021-01-10",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 01 - Prologue.mkv"
+          ]
+        },
+        {
+          "id": 985,
+          "episode_number": 2,
+          "title": "Cours de rattrapage",
+          "aired": "2021-01-10",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 02 - Cours de rattrapage.mkv"
+          ]
+        },
+        {
+          "id": 977,
+          "episode_number": 3,
+          "title": "La lame damnée",
+          "aired": "2021-02-07",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 03 - La lame damnée.mkv"
+          ]
+        },
+        {
+          "id": 981,
+          "episode_number": 4,
+          "title": "Masamune, l'épée maudite",
+          "aired": "2021-02-11",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 04 - Masamune, l'épée maudite.mkv"
+          ]
+        },
+        {
+          "id": 987,
+          "episode_number": 5,
+          "title": "Expérimentation",
+          "aired": "2021-03-02",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 05 - Expérimentation.mkv"
+          ]
+        },
+        {
+          "id": 979,
+          "episode_number": 6,
+          "title": "Le dragon noir",
+          "aired": "2021-03-26",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 06 - Le Dragon Noir.mkv"
+          ]
+        },
+        {
+          "id": 982,
+          "episode_number": 7,
+          "title": "Combat à mort en sous-sol",
+          "aired": "2021-05-10",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 07 - Combat à mort en sous-sol.mkv"
+          ]
+        },
+        {
+          "id": 986,
+          "episode_number": 8,
+          "title": "Journée d'initiation",
+          "aired": "2021-05-14",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 08 - Journée d'initiation.mkv"
+          ]
+        },
+        {
+          "id": 978,
+          "episode_number": 9,
+          "title": "Retrouvailles express",
+          "aired": "2021-05-18",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 09 - Retrouvailles express.mkv"
+          ]
+        },
+        {
+          "id": 983,
+          "episode_number": 10,
+          "title": "La résonance des âmes",
+          "aired": "2021-05-22",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 10 - La résonance des âmes.mkv"
+          ]
+        },
+        {
+          "id": 980,
+          "episode_number": 11,
+          "title": "La bataille pour l'infusio",
+          "aired": "2021-05-23",
+          "torrents": [],
+          "paths": [
+            "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 11 - La bataille pour l'Infusio.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

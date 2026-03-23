@@ -1,0 +1,68 @@
+{
+  "id": 54,
+  "title": "Radiant Kaï",
+  "show_title": "Radiant Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1846048,
+      "nyaa_url": "https://nyaa.si/view/1846048",
+      "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+      "torrent_url": "https://nyaa.si/download/1846048.torrent",
+      "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+      "size": "6.8 GiB",
+      "pub_date": "2024-07-15 14:28",
+      "seeders": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": 119,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 806,
+          "episode_number": 1,
+          "title": "Seth Apprenti Sorcier",
+          "aired": "2023-04-30",
+          "torrents": [],
+          "paths": [
+            "Radiant Kaï S1 [Esdra]/Radiant Kai 01 - Seth, Apprenti Sorcier - 1080p.MULTI.x264 [Esdra].mkv"
+          ]
+        },
+        {
+          "id": 803,
+          "episode_number": 2,
+          "title": "Rumble Town",
+          "aired": "2024-07-15",
+          "torrents": [],
+          "paths": [
+            "Radiant Kaï S1 [Esdra]/Radiant Kai 02 - Rumble Town - 1080p.MULTI.x264 [Esdra].mkv"
+          ]
+        },
+        {
+          "id": 804,
+          "episode_number": 3,
+          "title": "Hameline",
+          "aired": "2024-07-15",
+          "torrents": [],
+          "paths": [
+            "Radiant Kaï S1 [Esdra]/Radiant Kai 03 - Hameline - 1080p.MULTI.x264 [Esdra].mkv"
+          ]
+        },
+        {
+          "id": 805,
+          "episode_number": 4,
+          "title": "Les Faiseurs de Miracles",
+          "aired": "2024-07-15",
+          "torrents": [],
+          "paths": [
+            "Radiant Kaï S1 [Esdra]/Radiant Kai 04 - Les Faiseurs de Miracles - 1080p.MULTI.x264 [Esdra].mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 74,
+  "title": "Tokyo Revengers Henshū",
+  "show_title": "Tokyo Revengers Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 2083491,
+      "nyaa_url": "https://nyaa.si/view/2083491",
+      "title": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264",
+      "torrent_url": "https://nyaa.si/download/2083491.torrent",
+      "magnet": "magnet:?xt=urn:btih:6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a&dn=%5BTriggerforce%5D%20Tokyo%20Revengers%20Hensh%C5%AB.1080p.MULTI-Audio%20et%20Sub.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
+      "size": "19.6 GiB",
+      "pub_date": "2026-03-07 11:22",
+      "seeders": 15
+    }
+  ],
+  "seasons": [
+    {
+      "id": 181,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1132,
+          "episode_number": 1,
+          "title": "Réincarnation",
+          "aired": "2023-03-07",
+          "torrents": [
+            {
+              "nyaa_id": 1646151,
+              "nyaa_url": "https://nyaa.si/view/1646151",
+              "title": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation",
+              "torrent_url": "https://nyaa.si/download/1646151.torrent",
+              "magnet": "magnet:?xt=urn:btih:29907c00eeebbcc10d81d3b0e7f14bdde15488b1&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2001%20-%20R%C3%A9incarnation&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
+              "size": "1.5 GiB",
+              "pub_date": "2023-03-07 17:20",
+              "seeders": 4
+            }
+          ],
+          "paths": [
+            "Tokyo Revengers Henshu 01 - Réincarnation.mkv",
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1136,
+          "episode_number": 2,
+          "title": "Révolte",
+          "aired": "2023-03-09",
+          "torrents": [
+            {
+              "nyaa_id": 1646713,
+              "nyaa_url": "https://nyaa.si/view/1646713",
+              "title": "[Triggerforce]Tokyo Revengers Henshu 02 - Révolte",
+              "torrent_url": "https://nyaa.si/download/1646713.torrent",
+              "magnet": "magnet:?xt=urn:btih:9c331362cc90a6e1e5d5b15b0b73a340d813a112&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2002%20-%20R%C3%A9volte&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "9c331362cc90a6e1e5d5b15b0b73a340d813a112",
+              "size": "2.5 GiB",
+              "pub_date": "2023-03-09 15:16",
+              "seeders": 4
+            }
+          ],
+          "paths": [
+            "Tokyo Revengers Henshu 02 - Révolte.mkv",
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 02 - Révolte.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1135,
+          "episode_number": 3,
+          "title": "Revanche",
+          "aired": "2023-03-12",
+          "torrents": [
+            {
+              "nyaa_id": 1647381,
+              "nyaa_url": "https://nyaa.si/view/1647381",
+              "title": "[Triggerforce] Tokyo Revengers Henshu 03 - Revanche",
+              "torrent_url": "https://nyaa.si/download/1647381.torrent",
+              "magnet": "magnet:?xt=urn:btih:050913b346aa0bc5b93d4c8f2506e37d4ae08bb4&dn=%5BTriggerforce%5D%20Tokyo%20Revengers%20Henshu%2003%20-%20Revanche&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "050913b346aa0bc5b93d4c8f2506e37d4ae08bb4",
+              "size": "2.1 GiB",
+              "pub_date": "2023-03-11 08:06",
+              "seeders": 4
+            }
+          ],
+          "paths": [
+            "Tokyo Revengers Henshu 03 - Revanche.mkv",
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 03 - Revanche.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1133,
+          "episode_number": 4,
+          "title": "No pain no gain",
+          "aired": "2023-04-01",
+          "torrents": [
+            {
+              "nyaa_id": 1655290,
+              "nyaa_url": "https://nyaa.si/view/1655290",
+              "title": "[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain",
+              "torrent_url": "https://nyaa.si/download/1655290.torrent",
+              "magnet": "magnet:?xt=urn:btih:31dcb859dc9bcd287664cbbb11c7ef818dd77423&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2004%20-%20No%20pain%2C%20no%20gain&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "31dcb859dc9bcd287664cbbb11c7ef818dd77423",
+              "size": "1.6 GiB",
+              "pub_date": "2023-04-01 08:09",
+              "seeders": 5
+            }
+          ],
+          "paths": [
+            "Tokyo Revengers Henshu 04 - No pain, no gain.mkv",
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1134,
+          "episode_number": 5,
+          "title": "Derniers souhaits",
+          "aired": "2023-05-01",
+          "torrents": [
+            {
+              "nyaa_id": 1667031,
+              "nyaa_url": "https://nyaa.si/view/1667031",
+              "title": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits",
+              "torrent_url": "https://nyaa.si/download/1667031.torrent",
+              "magnet": "magnet:?xt=urn:btih:07a04de62868cfe8f7330bf7718ee793b15f7812&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2005%20-%20Derniers%20souhaits&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
+              "size": "2.8 GiB",
+              "pub_date": "2023-05-01 09:43",
+              "seeders": 4
+            }
+          ],
+          "paths": [
+            "Tokyo Revengers Henshu 05 - Derniers souhaits.mkv",
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "season_number": 2,
+      "title": "Christmas Showdown",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1128,
+          "episode_number": 6,
+          "title": "Thicker than water",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 06 - Thicker Than Water.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1129,
+          "episode_number": 7,
+          "title": "Christmas Night",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 07 - Christmas Night.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1131,
+          "episode_number": 8,
+          "title": "Far from Home",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 08 - Far From Home.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1130,
+          "episode_number": 9,
+          "title": "Brother in Arms",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 09 - Brother in arms.1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "season_number": 3,
+      "title": "Saison 3",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1126,
+          "episode_number": 10,
+          "title": "Stick Together",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 03/[Triggerforce] Tokyo Revengers Henshu 10 - Stick Together.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1125,
+          "episode_number": 11,
+          "title": "Turn the Tide",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 03/[Triggerforce] Tokyo Revengers Henshu 11 - Turn the Tide.1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1127,
+          "episode_number": 12,
+          "title": "The One and Only",
+          "aired": "2026-03-08",
+          "torrents": [],
+          "paths": [
+            "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 03/[Triggerforce] Tokyo Revengers Henshu 12 - The one and only.1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}
