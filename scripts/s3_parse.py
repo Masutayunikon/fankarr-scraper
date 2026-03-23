@@ -712,7 +712,8 @@ def main():
         for season in structure["seasons"]:
             ep_torrents = [ep["torrents"][0] for ep in season["episodes"] if ep["torrents"]]
             ep_keys = {_torrent_key(t) for t in ep_torrents if _torrent_key(t)}
-            nb_eps = sum(1 for ep in season["episodes"] if ep.get("aired"))
+            # Compter les épisodes sortis OU ayant un torrent
+            nb_eps = sum(1 for ep in season["episodes"] if ep.get("aired") or ep.get("torrents"))
             if (len(ep_keys) == 1 and len(ep_torrents) >= max(1, nb_eps - 2)
                     and nb_eps > 1 and not season["torrents"]):
                 pack_key = next(iter(ep_keys))

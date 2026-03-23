@@ -80,26 +80,26 @@
       "id": 78,
       "season_number": 2,
       "title": "Le Royaume des duellistes",
-      "torrents": [],
+      "torrents": [
+        {
+          "nyaa_id": 2070687,
+          "nyaa_url": "https://nyaa.si/view/2070687",
+          "title": "[Manny] Yu-Gi-Oh! Kaï Saison 2 (Partie 1) - 480p.MULTISUB.x264",
+          "torrent_url": "https://nyaa.si/download/2070687.torrent",
+          "magnet": "magnet:?xt=urn:btih:7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%20Saison%202%20%28Partie%201%29%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
+          "size": "4.8 GiB",
+          "pub_date": "2026-01-30 14:52",
+          "seeders": 5
+        }
+      ],
       "episodes": [
         {
           "id": 520,
           "episode_number": 5,
           "title": "Le Royaume des duellistes",
           "aired": null,
-          "torrents": [
-            {
-              "nyaa_id": 2070687,
-              "nyaa_url": "https://nyaa.si/view/2070687",
-              "title": "[Manny] Yu-Gi-Oh! Kaï Saison 2 (Partie 1) - 480p.MULTISUB.x264",
-              "torrent_url": "https://nyaa.si/download/2070687.torrent",
-              "magnet": "magnet:?xt=urn:btih:7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%20Saison%202%20%28Partie%201%29%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
-              "size": "4.8 GiB",
-              "pub_date": "2026-01-30 14:52",
-              "seeders": 5
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
@@ -112,19 +112,7 @@
           "episode_number": 6,
           "title": "Les cicatrices de la défaite",
           "aired": null,
-          "torrents": [
-            {
-              "nyaa_id": 2070687,
-              "nyaa_url": "https://nyaa.si/view/2070687",
-              "title": "[Manny] Yu-Gi-Oh! Kaï Saison 2 (Partie 1) - 480p.MULTISUB.x264",
-              "torrent_url": "https://nyaa.si/download/2070687.torrent",
-              "magnet": "magnet:?xt=urn:btih:7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%20Saison%202%20%28Partie%201%29%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
-              "size": "4.8 GiB",
-              "pub_date": "2026-01-30 14:52",
-              "seeders": 5
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
@@ -137,19 +125,7 @@
           "episode_number": 7,
           "title": "Pris au piège",
           "aired": null,
-          "torrents": [
-            {
-              "nyaa_id": 2070687,
-              "nyaa_url": "https://nyaa.si/view/2070687",
-              "title": "[Manny] Yu-Gi-Oh! Kaï Saison 2 (Partie 1) - 480p.MULTISUB.x264",
-              "torrent_url": "https://nyaa.si/download/2070687.torrent",
-              "magnet": "magnet:?xt=urn:btih:7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%20Saison%202%20%28Partie%201%29%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
-              "size": "4.8 GiB",
-              "pub_date": "2026-01-30 14:52",
-              "seeders": 5
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
