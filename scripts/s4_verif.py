@@ -25,9 +25,10 @@ DIM  = "\033[2m"
 RST  = "\033[0m"
 BOLD = "\033[1m"
 
-def short_path(path):
-    if not path: return ""
-    return Path(path).name
+def short_path(p):
+    if not p: return ""
+    if isinstance(p, dict): p = p.get("path") or ""
+    return Path(p).name if p else ""
 
 def ep_status(ep, s_torrents, season_torrents):
     """Retourne (found, has_path, issues)."""
@@ -35,13 +36,14 @@ def ep_status(ep, s_torrents, season_torrents):
     ep_torrents = ep.get("torrents") or []
     ep_paths    = ep.get("paths") or []
     inherited   = bool(s_torrents or season_torrents)
-    has_path    = bool(ep_paths)
+    has_path    = any((obj.get("path") if isinstance(obj, dict) else obj) for obj in ep_paths)
     found       = bool(ep_torrents) or inherited
 
     if ep_torrents:
         if len(ep_paths) != len(ep_torrents):
             issues.append(f"⚠ {len(ep_torrents)} torrent(s) mais {len(ep_paths)} path(s)")
-        for i, p in enumerate(ep_paths):
+        for i, obj in enumerate(ep_paths):
+            p = obj.get("path") if isinstance(obj, dict) else obj
             if not p:
                 issues.append(f"⚠ path[{i}] est null")
 

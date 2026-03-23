@@ -249,8 +249,8 @@ def build_structure(serie, seasons_raw):
                 "episode_number": ep.get("episode_number"),
                 "title":          fix_encoding(ep.get("title")),
                 "aired":          ep.get("aired") or None,
-                "torrents":       [],   # liste de torrents (index lié à paths)
-                "paths":          [],   # paths[i] correspond à torrents[i]
+                "torrents":       [],   # liste de torrents individuels
+                "paths":          [],   # [{infohash, path}] — lié au torrent par infohash
             }
             for ep in sorted(eps_raw, key=lambda e: e.get("episode_number", 0))
         ]
@@ -450,7 +450,7 @@ def assign(structure, torrent, ttype):
                         # Fallback : construire le path depuis le titre Nyaa si files absent
                         if p is None:
                             p = _torrent_title_to_path(torrent.get("title"))
-                        ep["paths"].append(p)
+                        ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     assigned = True
         return assigned
 
@@ -473,7 +473,7 @@ def assign(structure, torrent, ttype):
                         p = _compute_path(ep, ep_num, is_specials, folder_key, season_path_idx, path_idx, title_path_idx, nb_seasons)
                         if p is None:
                             p = _torrent_title_to_path(torrent.get("title"))
-                        ep["paths"].append(p)
+                        ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     return True
         return False
 
@@ -490,11 +490,13 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
     """
     Peuple les paths des épisodes depuis les fichiers du torrent pack (consolidation).
     Si append=True, ajoute le path à la liste existante plutôt que de remplacer.
+    paths = [{infohash, path}] — lié au torrent par infohash.
     """
     path_idx       = build_ep_path_index(pack_raw)
     title_path_idx = build_title_path_index(pack_raw)
     folder_idx_c   = build_folder_ep_index(pack_raw)
     nb_seasons     = len([s for s in structure["seasons"] if s.get("season_number", 0) != 0])
+    pack_infohash  = pack_raw.get("infohash")
     for season in structure["seasons"]:
         is_specials = season.get("season_number") == 0
         folder_key  = find_best_folder(season.get("title", ""), folder_idx_c)
@@ -508,14 +510,15 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
                     return season_path_idx[n]
                 return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
             p = _get_path()
+            path_obj = {"infohash": pack_infohash, "path": p}
             if append:
-                # Ajouter le path à la liste existante (2ème torrent intégral)
                 if p:
-                    ep["paths"].append(p)
+                    ep["paths"].append(path_obj)
             elif ep["torrents"]:
-                ep["paths"] = [p] * len(ep["torrents"])
+                ep["paths"] = [{"infohash": t.get("infohash"), "path": p}
+                               for t in ep["torrents"]]
             else:
-                ep["paths"] = [p] if p else []
+                ep["paths"] = [path_obj] if p else []
 
 def main():
     print("=== Étape 2 : Fankai Torrent Matcher v2 ===\n")
@@ -674,10 +677,17 @@ def main():
                     # Ne retirer que les torrents qui font partie des intégrales
                     kept_torrents = []
                     kept_paths = []
-                    for i, t in enumerate(ep["torrents"]):
+                    for t in ep["torrents"]:
                         if _torrent_key(t) not in integral_keys_set:
                             kept_torrents.append(t)
-                            kept_paths.append(ep["paths"][i] if i < len(ep["paths"]) else None)
+                            # Retrouver le path lié par infohash
+                            existing = next(
+                                (obj for obj in ep["paths"]
+                                 if isinstance(obj, dict) and obj.get("infohash") == t.get("infohash")),
+                                None
+                            )
+                            if existing:
+                                kept_paths.append(existing)
                     ep["torrents"] = kept_torrents
                     ep["paths"] = kept_paths
 
@@ -713,13 +723,12 @@ def main():
                 is_specials    = season.get("season_number") == 0
                 folder_key     = find_best_folder(season.get("title", ""), folder_idx_c)
                 season_path_idx = folder_idx_c.get(folder_key, {}) if folder_key else {}
+                pack_infohash2 = pack_raw.get("infohash")
                 for ep in season["episodes"]:
                     ep["torrents"] = []
                     n = ep.get("episode_number")
-                    # nb_seasons=1 : ce pack couvre cette saison uniquement
-                    # donc on peut toujours utiliser path_idx global sans ambiguïté
                     p = _compute_path(ep, n, is_specials, folder_key, season_path_idx, path_idx, title_path_idx, 1)
-                    ep["paths"] = [p] if p else []
+                    ep["paths"] = [{"infohash": pack_infohash2, "path": p}] if p else []
                 consolidated += 1
 
         # 1b. structure["torrents"] non-vide mais épisodes sans paths → peupler depuis le 1er torrent Nyaa
