@@ -1,0 +1,330 @@
+{
+  "id": 6,
+  "title": "My Hero Academia Henshū",
+  "show_title": "My Hero Academia Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1812761,
+      "nyaa_url": "https://nyaa.si/view/1812761",
+      "title": "[Johker] My Hero Academia Henshū (Fan-Kaï) - Saisons 1/2/3/4/5/6 - 1080p.MULTI.VF/VOSTFR.x264",
+      "torrent_url": "https://nyaa.si/download/1812761.torrent",
+      "magnet": "magnet:?xt=urn:btih:c1a1a90e689fd936d7e4ef912fc45a686f0dba61&dn=%5BJohker%5D%20My%20Hero%20Academia%20Hensh%C5%AB%20%28Fan-Ka%C3%AF%29%20-%20Saisons%201%2F2%2F3%2F4%2F5%2F6%20-%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
+      "size": "65.4 GiB",
+      "pub_date": "2024-05-01 18:19",
+      "seeders": 18
+    }
+  ],
+  "seasons": [
+    {
+      "id": 9,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 27,
+          "episode_number": 1,
+          "title": "Two Heroes",
+          "aired": "2018-08-30",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Bonus/[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 26,
+          "episode_number": 2,
+          "title": "Heroes Rising",
+          "aired": "2020-02-26",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Bonus/[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 28,
+          "episode_number": 3,
+          "title": "World Heroes' Mission",
+          "aired": "2021-10-29",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Bonus/[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 29,
+          "episode_number": 4,
+          "title": "You're Next",
+          "aired": "2024-08-02",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "season_number": 1,
+      "title": "Héros de Yuei",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 47,
+          "episode_number": 1,
+          "title": "Izuku Midoriya : Origines",
+          "aired": "2019-05-22",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 1 - Izuku Midoriya Origines - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 44,
+          "episode_number": 2,
+          "title": "Yuei, l'Académie des Héros",
+          "aired": "2019-05-22",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 2 - Yuei, l'Académie des Héros - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 52,
+          "episode_number": 3,
+          "title": "Rencontre avec l'Inconnu",
+          "aired": "2019-05-22",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 3 - Rencontre avec l'Inconnu - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 49,
+          "episode_number": 4,
+          "title": "Tactiques, plans et stratégies",
+          "aired": "2019-05-26",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 4 - Tactiques, plans et stratégies - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 45,
+          "episode_number": 5,
+          "title": "Un chant de glace et de feu",
+          "aired": "2019-05-30",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 5 - Un chant de glace et de feu - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 48,
+          "episode_number": 6,
+          "title": "Le Tueur de Héros",
+          "aired": "2019-06-08",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 6 - Le Tueur de Héros - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 51,
+          "episode_number": 7,
+          "title": "Ennemi intime",
+          "aired": "2019-07-29",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 7 - Ennemi intime - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 50,
+          "episode_number": 8,
+          "title": "Festival des Ténèbres",
+          "aired": "2019-09-18",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 8 - Festival des Ténèbres - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 46,
+          "episode_number": 9,
+          "title": "Un pour tous, tous pour un",
+          "aired": "2019-09-18",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 9 - Un pour tous, tous pour un - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "season_number": 2,
+      "title": "L'Ascension du Mal",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 39,
+          "episode_number": 10,
+          "title": "L'Examen",
+          "aired": "2019-09-18",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 10 - L'Examen - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 42,
+          "episode_number": 11,
+          "title": "Avis de tempête",
+          "aired": "2019-09-18",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 11 - Avis de tempête - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 38,
+          "episode_number": 12,
+          "title": "La Saison des rencontres",
+          "aired": "2020-04-01",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 12 - La Saison des rencontres - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 31,
+          "episode_number": 13,
+          "title": "Huit Préceptes de la Mort",
+          "aired": "2020-04-01",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 13 - Huit Préceptes de la Mort - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 33,
+          "episode_number": 14,
+          "title": "Rattrapage",
+          "aired": "2020-08-25",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 14 - Rattrapage - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 43,
+          "episode_number": 15,
+          "title": "Après la Pluie",
+          "aired": "2020-08-25",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 15 - Après la pluie - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 41,
+          "episode_number": 16,
+          "title": "Héritage",
+          "aired": "2021-07-11",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 16 - Héritage 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 36,
+          "episode_number": 17,
+          "title": "Au-delà des limites",
+          "aired": "2021-07-23",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 17 - Au-delà des limites 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 35,
+          "episode_number": 18,
+          "title": "Izuku Midoriya : Origines II",
+          "aired": "2021-07-29",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 18 - Izuku Midoriya Origines II 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 32,
+          "episode_number": 19,
+          "title": "My Villain Academia",
+          "aired": "2021-09-29",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 19 - My Villain Academia 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 34,
+          "episode_number": 20,
+          "title": "Un pas après l'autre",
+          "aired": "2021-10-10",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 20 - Un pas après l'autre 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 37,
+          "episode_number": 21,
+          "title": "Hôpital",
+          "aired": "2024-01-19",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 21 - Hôpital 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 40,
+          "episode_number": 22,
+          "title": "La Guerre de Libération",
+          "aired": "2024-04-08",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 22 - La Guerre de Libération 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 30,
+          "episode_number": 23,
+          "title": "Un feu qui s'éteint",
+          "aired": "2024-04-16",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 23 - Un feu qui s'éteint 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "season_number": 3,
+      "title": "Acte Final",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 25,
+          "episode_number": 24,
+          "title": "L'Évadé",
+          "aired": "2024-05-01",
+          "torrents": [],
+          "paths": [
+            "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 3 - Acte Final (Saison 6)/[Johker] My Hero Academia Henshū 24 - L'Évadé 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

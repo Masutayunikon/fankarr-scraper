@@ -1,0 +1,32 @@
+{
+  "id": 82,
+  "title": "Hunter x Hunter Kaï (1999)",
+  "show_title": "Hunter x Hunter Kaï (1999)",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 198,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1210,
+          "episode_number": 1,
+          "title": "Départ",
+          "aired": "2024-01-10",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1209,
+          "episode_number": 2,
+          "title": "Épreuve collective",
+          "aired": "2025-07-13",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

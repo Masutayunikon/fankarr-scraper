@@ -1,0 +1,324 @@
+{
+  "id": 64,
+  "title": "Hajime No Ippo Henshū",
+  "show_title": "Hajime No Ippo Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1481343,
+      "nyaa_url": "https://nyaa.si/view/1481343",
+      "title": "Hajime no Ippo Henshū (Fan-Kai) - INTEGRALE (28 films) - VOSTFR.x264 [Livaï]",
+      "torrent_url": "https://nyaa.si/download/1481343.torrent",
+      "magnet": "magnet:?xt=urn:btih:c17d46ea9e694da23eedfdb302f9386e71dcf9ff&dn=Hajime%20no%20Ippo%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20INTEGRALE%20%2828%20films%29%20-%20VOSTFR.x264%20%5BLiva%C3%AF%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "c17d46ea9e694da23eedfdb302f9386e71dcf9ff",
+      "size": "42.6 GiB",
+      "pub_date": "2022-01-22 20:11",
+      "seeders": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": 146,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 949,
+          "episode_number": 1,
+          "title": "Makunouchi Ippo",
+          "aired": "2020-02-06",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 01 - Makunouchi Ippo - 576p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 947,
+          "episode_number": 2,
+          "title": "Les débuts d'un pro",
+          "aired": "2020-04-12",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 02 - Les début d'un pro - 576p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 948,
+          "episode_number": 3,
+          "title": "Crochet VS Uppercut",
+          "aired": "2020-04-12",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 03 - Crochet VS Uppercut - 576p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 955,
+          "episode_number": 4,
+          "title": "Accrochage",
+          "aired": "2020-04-16",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 04 - Accrochage - 576p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 953,
+          "episode_number": 5,
+          "title": "Le Shotgun",
+          "aired": "2020-04-17",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 05 - Le Shotgun - 576p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 942,
+          "episode_number": 6,
+          "title": "Une finale tant attendue",
+          "aired": "2020-04-21",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 06 - Une finale tant attendue - 576p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 944,
+          "episode_number": 7,
+          "title": "Le Rocky de Naniwa",
+          "aired": "2020-06-22",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 07 - Le Rocky de Naniwa - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 945,
+          "episode_number": 8,
+          "title": "Les deux Espoirs",
+          "aired": "2021-03-19",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 08 - Les deux Espoirs - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 941,
+          "episode_number": 9,
+          "title": "Un Contre qui surpasse un Contre",
+          "aired": "2021-09-12",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 09 - Un contre qui surpasse un contre - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 950,
+          "episode_number": 10,
+          "title": "Speed Star",
+          "aired": "2021-09-12",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 10 - Speed Star - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 954,
+          "episode_number": 11,
+          "title": "White Fang",
+          "aired": "2021-09-12",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 11 - White Fang - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 943,
+          "episode_number": 12,
+          "title": "Le Poing du Roi",
+          "aired": "2021-09-12",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 12 - Le Poing du Roi - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 952,
+          "episode_number": 13,
+          "title": "Le Chemin du Retour",
+          "aired": "2021-09-13",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 13 - Le Chemin du Retour - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 946,
+          "episode_number": 14,
+          "title": "Jeunesse Ardente",
+          "aired": "2021-09-14",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 14 - Jeunesse Ardente - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 956,
+          "episode_number": 15,
+          "title": "Camp d'été",
+          "aired": "2021-09-15",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 15 - Camp d'été - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 940,
+          "episode_number": 16,
+          "title": "Lallappallooza",
+          "aired": "2021-09-17",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 16 - Lallappallooza - 576p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 951,
+          "episode_number": 17,
+          "title": "Champion Road",
+          "aired": "2021-10-15",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 17 - Champion Road - 576p.VOSTFR.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 935,
+          "episode_number": 18,
+          "title": "Bloody Cross",
+          "aired": "2021-10-17",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 2 - New Challenger/[Livaï] Hajime no Ippo Henshū 18 - Bloody Cross - 720p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 938,
+          "episode_number": 19,
+          "title": "Niveau mondial",
+          "aired": "2021-10-21",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 2 - New Challenger/[Livaï] Hajime no Ippo Henshū 19 - Niveau mondial - 720p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 936,
+          "episode_number": 20,
+          "title": "Hammer Nao",
+          "aired": "2021-11-02",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 2 - New Challenger/[Livaï] Hajime no Ippo Henshū 20 - Hammer Nao - 720p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 937,
+          "episode_number": 21,
+          "title": "Les deux Faucons",
+          "aired": "2021-11-14",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 2 - New Challenger/[Livaï] Hajime no Ippo Henshū 21 - Les deux Faucons - 720p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 939,
+          "episode_number": 22,
+          "title": "Battle of Hawk",
+          "aired": "2021-01-01",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 2 - New Challenger/[Livaï] Hajime no Ippo Henshū 22 - Battle of Hawk - 720p.VOSTFR.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "season_number": 3,
+      "title": "Saison 3",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 931,
+          "episode_number": 23,
+          "title": "Guerre sous-marine",
+          "aired": "2022-01-02",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 3 - Rising/[Livaï] Hajime no Ippo Henshū 23 - Guerre sous-marine - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 930,
+          "episode_number": 24,
+          "title": "Spectacle cosmique",
+          "aired": "2022-01-04",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 3 - Rising/[Livaï] Hajime no Ippo Henshū 24 - Spectacle comique - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 934,
+          "episode_number": 25,
+          "title": "Le Dragon d'Owari",
+          "aired": "2022-01-05",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 3 - Rising/[Livaï] Hajime no Ippo Henshū 25 - Le Dragon d'Owari - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 933,
+          "episode_number": 26,
+          "title": "Yagi interdit",
+          "aired": "2022-01-06",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 3 - Rising/[Livaï] Hajime no Ippo Henshū 26 - Yagi Interdit - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 932,
+          "episode_number": 27,
+          "title": "A Passing Point",
+          "aired": "2022-01-07",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 3 - Rising/[Livaï] Hajime no Ippo Henshū 27 - A Passing Point - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 929,
+          "episode_number": 28,
+          "title": "Après-Guerre",
+          "aired": "2022-01-08",
+          "torrents": [],
+          "paths": [
+            "Hajime no Ippo Henshū [Livaï]/Saison 3 - Rising/[Livaï] Hajime no Ippo Henshū 28 - Après-Guerre - 1080p.VOSTFR.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

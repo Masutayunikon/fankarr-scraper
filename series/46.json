@@ -1,0 +1,48 @@
+{
+  "id": 46,
+  "title": "Parasyte - the maxim Henshū",
+  "show_title": "Parasyte - the maxim Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 89,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 565,
+          "episode_number": 1,
+          "title": "Invasion",
+          "aired": "2024-01-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 564,
+          "episode_number": 2,
+          "title": "Massacre",
+          "aired": "2024-01-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 566,
+          "episode_number": 3,
+          "title": "Enquête",
+          "aired": "2024-01-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 563,
+          "episode_number": 4,
+          "title": "Extermination",
+          "aired": "2024-01-06",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

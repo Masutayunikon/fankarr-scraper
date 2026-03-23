@@ -1,0 +1,116 @@
+{
+  "id": 69,
+  "title": "Spy x Family Henshū",
+  "show_title": "Spy x Family Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1887686,
+      "nyaa_url": "https://nyaa.si/view/1887686",
+      "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
+      "torrent_url": "https://nyaa.si/download/1887686.torrent",
+      "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
+      "size": "17.0 GiB",
+      "pub_date": "2024-10-18 19:30",
+      "seeders": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": 165,
+      "season_number": 0,
+      "title": "Films officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1065,
+          "episode_number": 1,
+          "title": "Code White",
+          "aired": "2024-04-17",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Specials/[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "season_number": 1,
+      "title": "Intégrale",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1070,
+          "episode_number": 1,
+          "title": "Admission",
+          "aired": "2024-04-17",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1068,
+          "episode_number": 2,
+          "title": "Police",
+          "aired": "2024-04-17",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 02 - Police - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1066,
+          "episode_number": 3,
+          "title": "Chien",
+          "aired": "2024-04-17",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 03 - Chien - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1072,
+          "episode_number": 4,
+          "title": "Examens",
+          "aired": "2024-04-17",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 04 - Examens - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1067,
+          "episode_number": 5,
+          "title": "Tennis",
+          "aired": "2024-04-17",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 05 - Tennis - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1069,
+          "episode_number": 6,
+          "title": "Contact",
+          "aired": "2024-09-02",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 06 - Contact - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 1071,
+          "episode_number": 7,
+          "title": "Croisière",
+          "aired": "2024-10-18",
+          "torrents": [],
+          "paths": [
+            "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

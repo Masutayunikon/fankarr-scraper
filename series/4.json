@@ -1,0 +1,40 @@
+{
+  "id": 4,
+  "title": "Saint Seiya Kaï",
+  "show_title": "Saint Seiya Kaï",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 6,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 18,
+          "episode_number": 1,
+          "title": "Pégase",
+          "aired": "2023-03-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 16,
+          "episode_number": 2,
+          "title": "L'ombre du Phénix",
+          "aired": "2023-09-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 17,
+          "episode_number": 3,
+          "title": "Ikki et les Chevaliers Noirs",
+          "aired": "2024-01-05",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

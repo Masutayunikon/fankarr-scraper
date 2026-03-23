@@ -1,0 +1,128 @@
+{
+  "id": 10,
+  "title": "Gintama Kaï",
+  "show_title": "Gintama Kaï",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 16,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 78,
+          "episode_number": 1,
+          "title": "L'homme à tout faire",
+          "aired": "2022-12-31",
+          "torrents": [
+            {
+              "nyaa_id": 1705103,
+              "nyaa_url": "https://nyaa.si/view/1705103",
+              "title": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire [Multiple Subtitle] [ENG][FRE]",
+              "torrent_url": "https://nyaa.si/download/1705103.torrent",
+              "magnet": "magnet:?xt=urn:btih:4e86612eea0bb2edd51dbdf602ef9ec6940f9817&dn=%5BTriggerforce%5D%20Gintama%20Ka%C3%AF%2001%20-%20L%27homme%20%C3%A0%20tout%20faire%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
+              "size": "1.6 GiB",
+              "pub_date": "2023-08-16 22:47",
+              "seeders": 7
+            }
+          ],
+          "paths": [
+            "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv"
+          ]
+        },
+        {
+          "id": 75,
+          "episode_number": 2,
+          "title": "Les animaux ressemblent à leurs maîtres",
+          "aired": "2023-01-28",
+          "torrents": [
+            {
+              "nyaa_id": 1705104,
+              "nyaa_url": "https://nyaa.si/view/1705104",
+              "title": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres [Multiple Subtitle] [ENG][FRE]",
+              "torrent_url": "https://nyaa.si/download/1705104.torrent",
+              "magnet": "magnet:?xt=urn:btih:f475d56c1deae051ce9103caa3a464dd1a2daa98&dn=%5BTriggerforce%5D%20Gintama%20Ka%C3%AF%2002%20-%20Les%20animaux%20ressemblent%20%C3%A0%20leurs%20ma%C3%AEtres%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
+              "size": "1.6 GiB",
+              "pub_date": "2023-08-16 22:52",
+              "seeders": 7
+            }
+          ],
+          "paths": [
+            "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv"
+          ]
+        },
+        {
+          "id": 74,
+          "episode_number": 3,
+          "title": "Quand tu as un problème, rigole, rigole.",
+          "aired": "2023-08-17",
+          "torrents": [
+            {
+              "nyaa_id": 1705097,
+              "nyaa_url": "https://nyaa.si/view/1705097",
+              "title": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole [Multiple Subtitle] [ENG][FRE]",
+              "torrent_url": "https://nyaa.si/download/1705097.torrent",
+              "magnet": "magnet:?xt=urn:btih:ee0a2bd7f7f384608a505eaecf6f0135b2ecb478&dn=%5BTriggerforce%5D%20Gintama%20Ka%C3%AF%2003%20-%20Quand%20tu%20as%20un%20probl%C3%A8me%2C%20rigole%2C%20rigole%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
+              "size": "1.5 GiB",
+              "pub_date": "2023-08-16 22:24",
+              "seeders": 7
+            }
+          ],
+          "paths": [
+            "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole.mkv"
+          ]
+        },
+        {
+          "id": 76,
+          "episode_number": 4,
+          "title": "Renonce à la fureur",
+          "aired": "2025-10-03",
+          "torrents": [
+            {
+              "nyaa_id": 2026521,
+              "nyaa_url": "https://nyaa.si/view/2026521",
+              "title": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur - 1080p.VOSTFR.x264",
+              "torrent_url": "https://nyaa.si/download/2026521.torrent",
+              "magnet": "magnet:?xt=urn:btih:d0aae7b7b52d077f1337ce959af1e82abeffb6f4&dn=%5BTriggerforce%5D%20Gintama%20Ka%C3%AF%2004%20-%20Renonce%20%C3%A0%20la%20fureur%20-%201080p.VOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
+              "size": "2.9 GiB",
+              "pub_date": "2025-10-03 16:00",
+              "seeders": 6
+            }
+          ],
+          "paths": [
+            "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv"
+          ]
+        },
+        {
+          "id": 79,
+          "episode_number": 5,
+          "title": "Sers-toi de tes poings pour réaliser tes rêves !",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 73,
+          "episode_number": 7,
+          "title": "Il ne faut pas juger les gens sur leur apparence.",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 77,
+          "episode_number": 8,
+          "title": "Il y a des monstres partout.",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

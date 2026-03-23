@@ -1,0 +1,368 @@
+{
+  "id": 27,
+  "title": "Bleach Yabai",
+  "show_title": "Bleach Yabai",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 54,
+      "season_number": 1,
+      "title": "Shinigami remplaçant",
+      "torrents": [
+        {
+          "nyaa_id": 1737115,
+          "nyaa_url": "https://nyaa.si/view/1737115",
+          "title": "[Johker] Bleach Yabaï - Saga 01 - Shinigami remplaçant 1080p.MULTI.VF/VOSTFR.x264",
+          "torrent_url": "https://nyaa.si/download/1737115.torrent",
+          "magnet": "magnet:?xt=urn:btih:c4ebdf756962ff1e56ace0106d3161bee1a45ab7&dn=%5BJohker%5D%20Bleach%20Yaba%C3%AF%20-%20Saga%2001%20-%20Shinigami%20rempla%C3%A7ant%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "c4ebdf756962ff1e56ace0106d3161bee1a45ab7",
+          "size": "4.9 GiB",
+          "pub_date": "2023-11-01 15:41",
+          "seeders": 19
+        }
+      ],
+      "episodes": [
+        {
+          "id": 407,
+          "episode_number": 1,
+          "title": "Death and Strawberry",
+          "aired": "2022-12-23",
+          "torrents": [],
+          "paths": [
+            "Saga 01 - Shinigami remplaçant/[Johker] Bleach Yabaï - 01 - Death and Strawberry - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 409,
+          "episode_number": 2,
+          "title": "Memories in the rain",
+          "aired": "2023-01-03",
+          "torrents": [],
+          "paths": [
+            "Saga 01 - Shinigami remplaçant/[Johker] Bleach Yabaï - 02 - Memories in the rain - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 410,
+          "episode_number": 3,
+          "title": "Quincy Archer hates you",
+          "aired": "2023-01-23",
+          "torrents": [],
+          "paths": [
+            "Saga 01 - Shinigami remplaçant/[Johker] Bleach Yabaï - 03 - Quincy Archer hates you - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 408,
+          "episode_number": 4,
+          "title": "The Blade and Me",
+          "aired": "2023-01-30",
+          "torrents": [],
+          "paths": [
+            "Saga 01 - Shinigami remplaçant/[Johker] Bleach Yabaï - 04 - The Blade And Me - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "season_number": 2,
+      "title": "Soul Society",
+      "torrents": [
+        {
+          "nyaa_id": 1737116,
+          "nyaa_url": "https://nyaa.si/view/1737116",
+          "title": "[Johker] Bleach Yabaï - Saga 02 - Soul Society 1080p.MULTI.VF/VOSTFR.x264",
+          "torrent_url": "https://nyaa.si/download/1737116.torrent",
+          "magnet": "magnet:?xt=urn:btih:8db63a2a3c3ca9e9abad44b30ff6813cc5829684&dn=%5BJohker%5D%20Bleach%20Yaba%C3%AF%20-%20Saga%2002%20-%20Soul%20Society%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "8db63a2a3c3ca9e9abad44b30ff6813cc5829684",
+          "size": "10.9 GiB",
+          "pub_date": "2023-11-01 15:43",
+          "seeders": 19
+        }
+      ],
+      "episodes": [
+        {
+          "id": 397,
+          "episode_number": 5,
+          "title": "Fourteen days for conspiracy",
+          "aired": "2023-02-09",
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 05 - Fourteen days for conspiracy - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 402,
+          "episode_number": 6,
+          "title": "Intruderz",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 06 - Intruderz - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 399,
+          "episode_number": 7,
+          "title": "The Dead & the Undead",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 07 - The Dead and the Undead - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 403,
+          "episode_number": 8,
+          "title": "Secrets of the Moon",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 08 - Secrets of the Moon - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 401,
+          "episode_number": 9,
+          "title": "Suspicion for Assassination",
+          "aired": "2023-10-08",
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 09 - Suspicion for Assassination - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 398,
+          "episode_number": 10,
+          "title": "No Goodbye",
+          "aired": "2023-11-01",
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 10 -  No Goodbye - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 400,
+          "episode_number": 11,
+          "title": "End of Hypnosis",
+          "aired": "2023-11-01",
+          "torrents": [],
+          "paths": [
+            "Saga 02 - Soul Society/[Johker] Bleach Yabaï - 11 - End of Hypnosis - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "season_number": 3,
+      "title": "Arrancars",
+      "torrents": [
+        {
+          "nyaa_id": 1965479,
+          "nyaa_url": "https://nyaa.si/view/1965479",
+          "title": "[Johker] Bleach Yabaï - Saga 03 - Arrancars 1080p.MULTI.VF/VOSTFR.x264",
+          "torrent_url": "https://nyaa.si/download/1965479.torrent",
+          "magnet": "magnet:?xt=urn:btih:2b81acabef97a5a0fff13e269a85f0acd2c4334b&dn=%5BJohker%5D%20Bleach%20Yaba%C3%AF%20-%20Saga%2003%20-%20Arrancars%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "2b81acabef97a5a0fff13e269a85f0acd2c4334b",
+          "size": "23.1 GiB",
+          "pub_date": "2025-04-28 16:41",
+          "seeders": 20
+        }
+      ],
+      "episodes": [
+        {
+          "id": 391,
+          "episode_number": 12,
+          "title": "Eyes of the Unknown",
+          "aired": "2024-01-29",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 12 - Eyes of the Unknown - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 387,
+          "episode_number": 13,
+          "title": "Mala Suerte",
+          "aired": "2024-04-13",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 13 - Mala Suerte - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 389,
+          "episode_number": 14,
+          "title": "Shaking Throne",
+          "aired": "2024-04-22",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 14 - Shaking Throne - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 383,
+          "episode_number": 15,
+          "title": "The Mascaron Drive",
+          "aired": "2024-04-26",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 15 - The Mascaron Drive - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 388,
+          "episode_number": 16,
+          "title": "United on The Desert",
+          "aired": "2024-05-14",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 16 - United On The Desert - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 384,
+          "episode_number": 17,
+          "title": "The Slashing Opera",
+          "aired": "2024-05-17",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 17 - The Slashing Opera - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 386,
+          "episode_number": 18,
+          "title": "Unleash the Beast",
+          "aired": "2024-10-20",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 18 - Unleash the Beast - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 393,
+          "episode_number": 19,
+          "title": "Intruderz 2",
+          "aired": "2024-10-27",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 19 - Intruderz 2 - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 394,
+          "episode_number": 20,
+          "title": "Turn Back the Pendulum",
+          "aired": "2025-01-04",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 20 - Turn Back the Pendulum - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 385,
+          "episode_number": 21,
+          "title": "Knockdown Monsters",
+          "aired": "2025-01-14",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 21 - Knockdown Monsters - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 392,
+          "episode_number": 22,
+          "title": "heart",
+          "aired": "2025-01-26",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 22 - heart - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 390,
+          "episode_number": 23,
+          "title": "Vice it",
+          "aired": "2025-02-09",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 23 - Vice it - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 395,
+          "episode_number": 24,
+          "title": "Back from Blind",
+          "aired": "2025-04-21",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 24 - Back from Blind - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 396,
+          "episode_number": 25,
+          "title": "Deicide",
+          "aired": "2025-04-28",
+          "torrents": [],
+          "paths": [
+            "Saga 03 - Arrancars/[Johker] Bleach Yabaï - 25 - Deicide - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "season_number": 4,
+      "title": "Fullbring",
+      "torrents": [
+        {
+          "nyaa_id": 2078719,
+          "nyaa_url": "https://nyaa.si/view/2078719",
+          "title": "[Johker] Bleach Yabaï - Saga 04 - Fullbring 1080p.MULTI.VF/VOSTFR.x264",
+          "torrent_url": "https://nyaa.si/download/2078719.torrent",
+          "magnet": "magnet:?xt=urn:btih:492adeb5fd6354e812c0949c635bb20d00952571&dn=%5BJohker%5D%20Bleach%20Yaba%C3%AF%20-%20Saga%2004%20-%20Fullbring%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "492adeb5fd6354e812c0949c635bb20d00952571",
+          "size": "4.9 GiB",
+          "pub_date": "2026-02-21 19:37",
+          "seeders": 16
+        }
+      ],
+      "episodes": [
+        {
+          "id": 405,
+          "episode_number": 26,
+          "title": "Welcome to Our Xcution",
+          "aired": "2026-02-15",
+          "torrents": [],
+          "paths": [
+            "Saga 04 - Fullbring/[Johker] Bleach Yabaï - 26 - Welcome to Our Xcution - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 404,
+          "episode_number": 27,
+          "title": "End of All Bonds",
+          "aired": "2026-02-17",
+          "torrents": [],
+          "paths": [
+            "Saga 04 - Fullbring/[Johker] Bleach Yabaï - 27 - End of All Bonds - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 406,
+          "episode_number": 28,
+          "title": "The Lost Agent",
+          "aired": "2026-02-21",
+          "torrents": [],
+          "paths": [
+            "Saga 04 - Fullbring/[Johker] Bleach Yabaï - 28 - The Lost Agent - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

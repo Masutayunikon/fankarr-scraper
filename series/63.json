@@ -1,0 +1,78 @@
+{
+  "id": 63,
+  "title": "Dragon Ball GT Fan-Cut",
+  "show_title": "Dragon Ball GT Fan-Cut",
+  "torrents": [
+    {
+      "nyaa_id": 1356560,
+      "nyaa_url": "https://nyaa.si/view/1356560",
+      "title": "Dragon Ball GT (Fan-Kai) - INTEGRALE (5 films) - 1080p.MULTI.VF/VOSTFR.x264 [Kaimisama]",
+      "torrent_url": "https://nyaa.si/download/1356560.torrent",
+      "magnet": "magnet:?xt=urn:btih:5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e&dn=Dragon%20Ball%20GT%20%28Fan-Kai%29%20-%20INTEGRALE%20%285%20films%29%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%5BKaimisama%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
+      "size": "8.1 GiB",
+      "pub_date": "2021-03-12 23:11",
+      "seeders": 12
+    }
+  ],
+  "seasons": [
+    {
+      "id": 143,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 924,
+          "episode_number": 1,
+          "title": "Le grand voyage",
+          "aired": "2018-12-28",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 926,
+          "episode_number": 2,
+          "title": "La vengeance Tsuful",
+          "aired": "2019-10-12",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 927,
+          "episode_number": 3,
+          "title": "La niveau 4",
+          "aired": "2019-10-28",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 928,
+          "episode_number": 4,
+          "title": "L'enfer sur Terre",
+          "aired": "2019-10-28",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 925,
+          "episode_number": 5,
+          "title": "Les Dragons Maléfiques",
+          "aired": "2020-02-16",
+          "torrents": [],
+          "paths": [
+            "Dragon Ball GT (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

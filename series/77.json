@@ -1,0 +1,88 @@
+{
+  "id": 77,
+  "title": "Ao Ashi Henshū",
+  "show_title": "Ao Ashi Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 2045408,
+      "nyaa_url": "https://nyaa.si/view/2045408",
+      "title": "[Brazh] Ao Ashi Henshū - Saison 1 (6 films) - 1080p.VOSTFR.x264",
+      "torrent_url": "https://nyaa.si/download/2045408.torrent",
+      "magnet": "magnet:?xt=urn:btih:d91ac098f4980f5559d104409d3280ba1d78b50d&dn=%5BBrazh%5D%20Ao%20Ashi%20Hensh%C5%AB%20-%20Saison%201%20%286%20films%29%20-%201080p.VOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
+      "size": "7.9 GiB",
+      "pub_date": "2025-11-22 07:43",
+      "seeders": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": 187,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1167,
+          "episode_number": 1,
+          "title": "Les détections",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 01 - Les détections - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 1171,
+          "episode_number": 2,
+          "title": "Débuts à l'Esperion",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 02 - Débuts à l'Esperion - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 1168,
+          "episode_number": 3,
+          "title": "Coup d'envoi de la Ligue de Tokyo",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 03 - Coup d'envoi de la Ligue de Tokyo - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 1170,
+          "episode_number": 4,
+          "title": "Entraînement latéral",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 04 - Entraînement défensif - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 1166,
+          "episode_number": 5,
+          "title": "Esperion vs Tama",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 05 - Esperion vs Tama - 1080p.VOSTFR.x264.mkv"
+          ]
+        },
+        {
+          "id": 1169,
+          "episode_number": 6,
+          "title": "Esperion vs Musashino",
+          "aired": "2025-11-22",
+          "torrents": [],
+          "paths": [
+            "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 06 - Esperion vs Musashino - 1080p.VOSTFR.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

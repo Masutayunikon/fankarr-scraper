@@ -1,0 +1,40 @@
+{
+  "id": 14,
+  "title": "Lastman Henshū",
+  "show_title": "Lastman Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 25,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 252,
+          "episode_number": 1,
+          "title": "Siri",
+          "aired": "2018-12-15",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 250,
+          "episode_number": 2,
+          "title": "La Coupe des Rois",
+          "aired": "2018-12-21",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 251,
+          "episode_number": 3,
+          "title": "Chorum le Dévoreur",
+          "aired": "2018-12-28",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

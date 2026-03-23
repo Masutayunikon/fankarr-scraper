@@ -1,0 +1,152 @@
+{
+  "id": 26,
+  "title": "Jujutsu Kaisen Henshū",
+  "show_title": "Jujutsu Kaisen Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1938513,
+      "nyaa_url": "https://nyaa.si/view/1938513",
+      "title": "[R1] Jujutsu Kaisen Henshū (Fan-Kaï) - Saisons 1/2 & Film 0 - [Multiple Subtitle] [ENG][SPA][FRE]",
+      "torrent_url": "https://nyaa.si/download/1938513.torrent",
+      "magnet": "magnet:?xt=urn:btih:a860a71cccb550415df4a4e7d5c7c0b69053eaef&dn=%5BR1%5D%20Jujutsu%20Kaisen%20Hensh%C5%AB%20%28Fan-Ka%C3%AF%29%20-%20Saisons%201%2F2%20%26%20Film%200%20-%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BSPA%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "a860a71cccb550415df4a4e7d5c7c0b69053eaef",
+      "size": "21.5 GiB",
+      "pub_date": "2025-02-20 20:32",
+      "seeders": 23
+    }
+  ],
+  "seasons": [
+    {
+      "id": 49,
+      "season_number": 0,
+      "title": "Préquel",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 377,
+          "episode_number": -1,
+          "title": "R1 Jujutsu Kaisen Henshū 00 Amour Maudit 802p MULTI",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 376,
+          "episode_number": 1,
+          "title": "Amour Maudit",
+          "aired": "2023-07-03",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 0/[R1] Jujutsu Kaisen Henshū 00 - Amour Maudit - 802p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 380,
+          "episode_number": 1,
+          "title": "Ryomen Sukuna",
+          "aired": "2022-11-12",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 1/[R1] Jujutsu Kaisen Henshū 01 - Ryomen Sukuna - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 382,
+          "episode_number": 2,
+          "title": "Apprentissage de l'occulte",
+          "aired": "2023-02-16",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 1/[R1] Jujutsu Kaisen Henshū 02 - Apprentissage de l'occulte - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 378,
+          "episode_number": 3,
+          "title": "Idées Sombres",
+          "aired": "2023-03-10",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 1/[R1] Jujutsu Kaisen Henshū 03 - Idées Sombres - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 379,
+          "episode_number": 4,
+          "title": "Tokyo VS Kyoto",
+          "aired": "2023-06-05",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 1/[R1] Jujutsu Kaisen Henshū 04 - Tokyo VS Kyoto - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 381,
+          "episode_number": 5,
+          "title": "Instinct Grégaire",
+          "aired": "2023-06-05",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 1/[R1] Jujutsu Kaisen Henshū 05 - Instinct Grégaire - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 374,
+          "episode_number": 6,
+          "title": "Passé Décomposé",
+          "aired": "2025-02-20",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 2/[R1] Jujutsu Kaisen Henshū 06 - Passé Décomposé - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 373,
+          "episode_number": 7,
+          "title": "Perdu d'avance",
+          "aired": "2025-02-20",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 2/[R1] Jujutsu Kaisen Henshū 07 - Perdu d'avance - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 375,
+          "episode_number": 8,
+          "title": "Le drame de Shibuya",
+          "aired": "2025-02-20",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 2/[R1] Jujutsu Kaisen Henshū 08 - Le drame de Shibuya - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 372,
+          "episode_number": 9,
+          "title": "Culpabilité",
+          "aired": "2025-02-20",
+          "torrents": [],
+          "paths": [
+            "[R1] Jujutsu Kaisen Henshū/Saison 2/[R1] Jujutsu Kaisen Henshū 09 - Culpabilité - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": 32,
+  "title": "Hikaru No Go Henshū",
+  "show_title": "Hikaru No Go Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 67,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 466,
+          "episode_number": 1,
+          "title": "À la découverte du Go",
+          "aired": "2020-02-27",
+          "torrents": [
+            {
+              "nyaa_id": 1356838,
+              "nyaa_url": "https://nyaa.si/view/1356838",
+              "title": "[Trafalgarwater] Hikaru no Go Henshū 01 - À la Découverte du Go - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1356838.torrent",
+              "magnet": "magnet:?xt=urn:btih:eca4b22f77b3553558290824dc6f7dea5d960714&dn=%5BTrafalgarwater%5D%20Hikaru%20no%20Go%20Hensh%C5%AB%2001%20-%20%C3%80%20la%20D%C3%A9couverte%20du%20Go%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "eca4b22f77b3553558290824dc6f7dea5d960714",
+              "size": "1.3 GiB",
+              "pub_date": "2021-03-13 17:02",
+              "seeders": 7
+            }
+          ],
+          "paths": [
+            "[Trafalgarwater] Hikaru no Go Henshū - 01 - À la Découverte du Go - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 468,
+          "episode_number": 2,
+          "title": "Le 3ème Joueur",
+          "aired": "2020-08-08",
+          "torrents": [
+            {
+              "nyaa_id": 1356839,
+              "nyaa_url": "https://nyaa.si/view/1356839",
+              "title": "[Trafalgarwater] Hikaru no Go Henshū 02 - Le 3ème Joueur - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1356839.torrent",
+              "magnet": "magnet:?xt=urn:btih:bdbef6d189ea5c6a86bb98468fce89255430193f&dn=%5BTrafalgarwater%5D%20Hikaru%20no%20Go%20Hensh%C5%AB%2002%20-%20Le%203%C3%A8me%20Joueur%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "bdbef6d189ea5c6a86bb98468fce89255430193f",
+              "size": "1022.3 MiB",
+              "pub_date": "2021-03-13 17:02",
+              "seeders": 6
+            }
+          ],
+          "paths": [
+            "[Trafalgarwater] Hikaru no Go Henshū - 02 - Le 3ème Joueur - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 469,
+          "episode_number": 3,
+          "title": "Espoir et Désillusion",
+          "aired": "2021-04-08",
+          "torrents": [
+            {
+              "nyaa_id": 1369164,
+              "nyaa_url": "https://nyaa.si/view/1369164",
+              "title": "[Trafalgarwater] Hikaru no Go Henshū 03 - Espoir et Désillusion - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1369164.torrent",
+              "magnet": "magnet:?xt=urn:btih:793a3a9fe25f11493b992b954dd8d405f1814412&dn=%5BTrafalgarwater%5D%20Hikaru%20no%20Go%20Hensh%C5%AB%2003%20-%20Espoir%20et%20D%C3%A9sillusion%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "793a3a9fe25f11493b992b954dd8d405f1814412",
+              "size": "595.7 MiB",
+              "pub_date": "2021-04-08 18:09",
+              "seeders": 5
+            }
+          ],
+          "paths": [
+            "[Trafalgarwater] Hikaru no Go Henshū - 03 - Espoir et Désillusion - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 467,
+          "episode_number": 4,
+          "title": "\"sai\"",
+          "aired": "2021-04-08",
+          "torrents": [
+            {
+              "nyaa_id": 1369165,
+              "nyaa_url": "https://nyaa.si/view/1369165",
+              "title": "[Trafalgarwater] Hikaru no Go Henshū 04 - sai - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1369165.torrent",
+              "magnet": "magnet:?xt=urn:btih:ed3bc61b2f6a0ce954c022f42a8fc0e17a8e2009&dn=%5BTrafalgarwater%5D%20Hikaru%20no%20Go%20Hensh%C5%AB%2004%20-%20sai%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "ed3bc61b2f6a0ce954c022f42a8fc0e17a8e2009",
+              "size": "779.2 MiB",
+              "pub_date": "2021-04-08 18:09",
+              "seeders": 6
+            }
+          ],
+          "paths": [
+            "[Trafalgarwater] Hikaru no Go Henshū - 04 - sai - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 465,
+          "episode_number": 5,
+          "title": "Inseï",
+          "aired": "2021-05-30",
+          "torrents": [
+            {
+              "nyaa_id": 1392081,
+              "nyaa_url": "https://nyaa.si/view/1392081",
+              "title": "[Trafalgarwater] Hikaru no Go Henshū 05 - Inseï - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1392081.torrent",
+              "magnet": "magnet:?xt=urn:btih:4ecddb2e4596697cc04e6982cff6fa9e9fe5160d&dn=%5BTrafalgarwater%5D%20Hikaru%20no%20Go%20Hensh%C5%AB%2005%20-%20Inse%C3%AF%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "4ecddb2e4596697cc04e6982cff6fa9e9fe5160d",
+              "size": "1.1 GiB",
+              "pub_date": "2021-05-30 13:46",
+              "seeders": 6
+            }
+          ],
+          "paths": [
+            "Hikaru no Go Henshû - 05 - Inseï.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

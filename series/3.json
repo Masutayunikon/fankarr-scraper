@@ -1,0 +1,40 @@
+{
+  "id": 3,
+  "title": "Chainsaw Man Henshū",
+  "show_title": "Chainsaw Man Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 5,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 14,
+          "episode_number": 1,
+          "title": "Objectif Nibards",
+          "aired": "2023-01-29",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 15,
+          "episode_number": 2,
+          "title": "Le goût du baiser",
+          "aired": "2023-02-05",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 13,
+          "episode_number": 3,
+          "title": "Une dernière cigarette",
+          "aired": "2023-02-09",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": 57,
+  "title": "Reborn! Kaï",
+  "show_title": "Reborn! Kaï",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 129,
+      "season_number": 1,
+      "title": "Daily Life",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 853,
+          "episode_number": 1,
+          "title": "Reborn débarque",
+          "aired": "2020-02-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 852,
+          "episode_number": 2,
+          "title": "La Famille déjantée s'agrandit",
+          "aired": "2020-03-21",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 851,
+          "episode_number": 3,
+          "title": "Tsunaze pour toujours",
+          "aired": "2021-12-29",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "season_number": 2,
+      "title": "Vs Kokuyô",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 838,
+          "episode_number": 4,
+          "title": "Le gang de Kokuyô",
+          "aired": "2022-01-04",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 837,
+          "episode_number": 5,
+          "title": "Vacances d'été",
+          "aired": "2022-02-17",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "season_number": 3,
+      "title": "Vs VARIA",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 832,
+          "episode_number": 6,
+          "title": "Les anneaux Vongola",
+          "aired": "2022-02-26",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 834,
+          "episode_number": 7,
+          "title": "Le combat pour les anneaux",
+          "aired": "2022-06-08",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 835,
+          "episode_number": 8,
+          "title": "La pluie et le brouillard",
+          "aired": "2022-10-20",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 833,
+          "episode_number": 9,
+          "title": "Gola Mosca",
+          "aired": "2023-01-29",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 831,
+          "episode_number": 10,
+          "title": "Le combat des cieux",
+          "aired": "2023-03-21",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 836,
+          "episode_number": 11,
+          "title": "Daily Life, le retour",
+          "aired": "2023-04-27",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "season_number": 4,
+      "title": "Futur",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 840,
+          "episode_number": 12,
+          "title": "Dix ans après",
+          "aired": "2023-05-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 849,
+          "episode_number": 13,
+          "title": "Héritage",
+          "aired": "2023-08-01",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 846,
+          "episode_number": 14,
+          "title": "Traître infiltré",
+          "aired": "2023-08-04",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 844,
+          "episode_number": 15,
+          "title": "Préparatifs avant l'assaut",
+          "aired": "2023-08-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 843,
+          "episode_number": 16,
+          "title": "X-BURNER",
+          "aired": "2023-08-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 847,
+          "episode_number": 17,
+          "title": "La famille Giglionero",
+          "aired": "2023-08-29",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 850,
+          "episode_number": 18,
+          "title": "Le plan de Shoichi Irie",
+          "aired": "2023-08-31",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 839,
+          "episode_number": 19,
+          "title": "Le front italien",
+          "aired": "2023-11-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 845,
+          "episode_number": 20,
+          "title": "L'éveil des boîtes",
+          "aired": "2024-04-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 841,
+          "episode_number": 21,
+          "title": "L'heure du Choice",
+          "aired": "2025-01-01",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 842,
+          "episode_number": 22,
+          "title": "Protéger Uni",
+          "aired": "2025-01-04",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 848,
+          "episode_number": 23,
+          "title": "La bataille finale",
+          "aired": "2025-02-16",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

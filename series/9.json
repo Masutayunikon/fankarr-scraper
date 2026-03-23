@@ -1,0 +1,56 @@
+{
+  "id": 9,
+  "title": "Blue Lock Henshū",
+  "show_title": "Blue Lock Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 15,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 72,
+          "episode_number": 1,
+          "title": "Welcome to Blue Lock",
+          "aired": "2023-03-20",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 70,
+          "episode_number": 2,
+          "title": "Level One",
+          "aired": "2023-03-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 69,
+          "episode_number": 3,
+          "title": "The price of defeat",
+          "aired": "2023-05-31",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 68,
+          "episode_number": 4,
+          "title": "King's awakening",
+          "aired": "2023-06-02",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 71,
+          "episode_number": 5,
+          "title": "Monsters",
+          "aired": "2023-07-16",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

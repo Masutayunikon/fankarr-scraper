@@ -1,0 +1,138 @@
+{
+  "id": 21,
+  "title": "Kaguya-sama : Love is War Henshū",
+  "show_title": "Kaguya-sama : Love is War Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 2075959,
+      "nyaa_url": "https://nyaa.si/view/2075959",
+      "title": "[Brazh & Foxthug] Kaguya-sama - Love Is War Henshū - Saisons 1/2/3 (11 films) - 1080p.MULTI.x264",
+      "torrent_url": "https://nyaa.si/download/2075959.torrent",
+      "magnet": "magnet:?xt=urn:btih:1e4912a0de9bd3adbefa2814a241edb11ea0b871&dn=%5BBrazh%20%26%20Foxthug%5D%20Kaguya-sama%20-%20Love%20Is%20War%20Hensh%C5%AB%20-%20Saisons%201%2F2%2F3%20%2811%20films%29%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "1e4912a0de9bd3adbefa2814a241edb11ea0b871",
+      "size": "19.5 GiB",
+      "pub_date": "2026-02-13 17:38",
+      "seeders": 11
+    }
+  ],
+  "seasons": [
+    {
+      "id": 40,
+      "season_number": 1,
+      "title": "Love is War",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 339,
+          "episode_number": 1,
+          "title": "Guerre romantico-psychologique",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 01 - Guerre romantico-psychologique - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 337,
+          "episode_number": 2,
+          "title": "Festival international",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 02 - Festival international - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 336,
+          "episode_number": 3,
+          "title": "Ishigami le trésorier",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 03 - Ishigami, le trésorier - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 331,
+          "episode_number": 4,
+          "title": "Vacances d'été",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 04 - Vacances d'été - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 340,
+          "episode_number": 5,
+          "title": "Retour de vacances",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 05 - Retour de vacances - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 338,
+          "episode_number": 6,
+          "title": "Élections pour le 68ème BDE",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 06 - Élections pour le 𝟨𝟪ème BDE - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 335,
+          "episode_number": 7,
+          "title": "Festival sportif révélateur",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 07 - Festival sportif révélateur - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 330,
+          "episode_number": 8,
+          "title": "Soirée mixte",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 08 - Soirée mixte - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 333,
+          "episode_number": 9,
+          "title": "Rivalité",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 09 - Rivalité - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 332,
+          "episode_number": 10,
+          "title": "Festival Hôshin",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 10 - Festival Hôshin - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 334,
+          "episode_number": 11,
+          "title": "Duel au sommet",
+          "aired": "2026-02-13",
+          "torrents": [],
+          "paths": [
+            "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 11 - Dual au sommet - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

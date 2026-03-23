@@ -1,0 +1,158 @@
+{
+  "id": 19,
+  "title": "Détective Conan Kaï",
+  "show_title": "Détective Conan Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1798263,
+      "nyaa_url": "https://nyaa.si/view/1798263",
+      "title": "[Johker] Detective Conan Kaï - Arc 1 - Conan (Partie 1) - 1080p.MULTI.VF/VOSTFR.x264",
+      "torrent_url": "https://nyaa.si/download/1798263.torrent",
+      "magnet": "magnet:?xt=urn:btih:6dea0a142b6c1271a95e182892e997b3027cacaa&dn=%5BJohker%5D%20Detective%20Conan%20Ka%C3%AF%20-%20Arc%201%20-%20Conan%20%28Partie%201%29%20-%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "6dea0a142b6c1271a95e182892e997b3027cacaa",
+      "size": "12.1 GiB",
+      "pub_date": "2024-04-03 20:09",
+      "seeders": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": 33,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 313,
+          "episode_number": 1,
+          "title": "Conan Edogawa, Détective",
+          "aired": "2023-10-16",
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 001 - Conan Edogawa, Détective - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 309,
+          "episode_number": 2,
+          "title": "École, gadgets et assassinats",
+          "aired": "2023-11-27",
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 002 - École, gadgets, et assassinats - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 305,
+          "episode_number": 3,
+          "title": "Affaires de famille",
+          "aired": "2024-01-21",
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 003 - Affaires de famille - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 314,
+          "episode_number": 4,
+          "title": "Attentat en première classe",
+          "aired": "2024-01-23",
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 004 - Attentat en première classe - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 306,
+          "episode_number": 5,
+          "title": "L'Homme aux bandelettes",
+          "aired": "2024-01-28",
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 005 - L'Homme aux bandelettes - 1080p.MULTI.x264 (1).mkv"
+          ]
+        },
+        {
+          "id": 312,
+          "episode_number": 6,
+          "title": "Sous le masque",
+          "aired": "2024-03-28",
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 006 - Sous le masque - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 311,
+          "episode_number": 7,
+          "title": "Une réputation à construire",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 007 - Une réputation à construire - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 310,
+          "episode_number": 8,
+          "title": "Sonate pour crime au clair de lune",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 008 - Sonate pour crime au clair de lune - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 308,
+          "episode_number": 9,
+          "title": "Le Virus du Baron Noir",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 009 - Le Virus du Baron Noir - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 307,
+          "episode_number": 10,
+          "title": "Mariage et enlèvement",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 010 - Mariage et enlèvement - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 302,
+          "episode_number": 11,
+          "title": "Réunion de classe",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 011 - Réunion de classe - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 304,
+          "episode_number": 12,
+          "title": "Mort en héritage",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 012 - Mort en héritage - 1080p.MULTI.x264.mkv"
+          ]
+        },
+        {
+          "id": 303,
+          "episode_number": 13,
+          "title": "Rivalité de l'Ouest",
+          "aired": null,
+          "torrents": [],
+          "paths": [
+            "[Johker] Détective Conan Kaï/Arc 1 - Conan/Conan - Partie 1/[Johker] Détective Conan Kaï - 013 - Rivalité de l'Ouest - 1080p.MULTI.x264.mkv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 58,
+  "title": "Mirai Nikki Henshū",
+  "show_title": "Mirai Nikki Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 130,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 855,
+          "episode_number": 1,
+          "title": "Yuno Gasai",
+          "aired": "2021-04-26",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 856,
+          "episode_number": 2,
+          "title": "Doutes",
+          "aired": "2021-04-26",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 857,
+          "episode_number": 3,
+          "title": "Amour fou",
+          "aired": "2021-04-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 854,
+          "episode_number": 4,
+          "title": "Passion",
+          "aired": "2021-05-05",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 858,
+          "episode_number": 5,
+          "title": "Résolution",
+          "aired": "2021-05-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 859,
+          "episode_number": 6,
+          "title": "Fin de partie",
+          "aired": "2021-05-24",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
+}

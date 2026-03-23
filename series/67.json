@@ -1,0 +1,775 @@
+{
+  "id": 67,
+  "title": "One Piece Yabai",
+  "show_title": "One Piece Yabai",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 157,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1013,
+          "episode_number": 1,
+          "title": "Strong World",
+          "aired": "2009-12-12",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1014,
+          "episode_number": 2,
+          "title": "Z",
+          "aired": "2012-12-15",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1012,
+          "episode_number": 3,
+          "title": "Gold",
+          "aired": "2016-07-23",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1015,
+          "episode_number": 4,
+          "title": "Stampede",
+          "aired": "2019-10-09",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1016,
+          "episode_number": 5,
+          "title": "Red",
+          "aired": "2022-08-06",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "season_number": 1,
+      "title": "East Blue",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1056,
+          "episode_number": 1,
+          "title": "Chapeau de Paille",
+          "aired": "2018-12-26",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1054,
+          "episode_number": 2,
+          "title": "Le Garçon qui criait au Loup",
+          "aired": "2019-01-04",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1052,
+          "episode_number": 3,
+          "title": "Cuisine et Déliquance",
+          "aired": "2019-01-09",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1053,
+          "episode_number": 4,
+          "title": "Seigneur de Guerre",
+          "aired": "2019-01-16",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1055,
+          "episode_number": 5,
+          "title": "Le Gang du Requin",
+          "aired": "2019-01-24",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1057,
+          "episode_number": 6,
+          "title": "Ma Partenaire",
+          "aired": "2019-01-31",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1051,
+          "episode_number": 7,
+          "title": "Tout se termine... et tout commence !",
+          "aired": "2019-02-07",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "season_number": 2,
+      "title": "Baroque Works",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1258,
+          "episode_number": 8,
+          "title": "La Route de tous les Périls",
+          "aired": "2019-02-14",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1260,
+          "episode_number": 9,
+          "title": "Le Monde Perdu",
+          "aired": "2019-02-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1257,
+          "episode_number": 10,
+          "title": "Le Retour du Roi",
+          "aired": "2019-03-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1261,
+          "episode_number": 11,
+          "title": "Le Temps des Cerisiers",
+          "aired": "2019-03-12",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1256,
+          "episode_number": 12,
+          "title": "La Traversée du Désert",
+          "aired": "2019-03-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1263,
+          "episode_number": 13,
+          "title": "Le Ventre du Crocodile",
+          "aired": "2019-04-24",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1262,
+          "episode_number": 14,
+          "title": "Insurrection",
+          "aired": "2019-04-29",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1259,
+          "episode_number": 15,
+          "title": "Contre la Montre",
+          "aired": "2019-05-03",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1264,
+          "episode_number": 16,
+          "title": "Jour de Pluie",
+          "aired": "2019-05-09",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "season_number": 3,
+      "title": "Île Céleste",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 990,
+          "episode_number": 17,
+          "title": "Les Yeux dans les Cieux",
+          "aired": "2019-05-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 988,
+          "episode_number": 18,
+          "title": "Le Jugement Divin",
+          "aired": "2019-05-30",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 992,
+          "episode_number": 19,
+          "title": "Jeu de Survie",
+          "aired": "2019-06-14",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 991,
+          "episode_number": 20,
+          "title": "L'Arche Divine",
+          "aired": "2019-08-01",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 993,
+          "episode_number": 21,
+          "title": "Montblanc Norland",
+          "aired": "2020-12-25",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 989,
+          "episode_number": 22,
+          "title": "Ranimer la flamme de Shandora",
+          "aired": "2021-03-31",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "season_number": 4,
+      "title": "Water 7",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1038,
+          "episode_number": 23,
+          "title": "Davy Back Fight",
+          "aired": "2021-06-25",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1032,
+          "episode_number": 24,
+          "title": "Le Faisan Bleu",
+          "aired": "2021-07-02",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1027,
+          "episode_number": 25,
+          "title": "Le Métropole aquatique",
+          "aired": "2021-07-05",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1033,
+          "episode_number": 26,
+          "title": "L'avenir du Vogue Merry",
+          "aired": "2021-07-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1030,
+          "episode_number": 27,
+          "title": "Le Cyborg",
+          "aired": "2021-07-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1031,
+          "episode_number": 28,
+          "title": "La Part d'Ombre",
+          "aired": "2021-07-20",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1034,
+          "episode_number": 29,
+          "title": "Les Artisans de Tom",
+          "aired": "2021-07-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1028,
+          "episode_number": 30,
+          "title": "Sacrifice en eaux troubles",
+          "aired": "2021-08-03",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1035,
+          "episode_number": 31,
+          "title": "Un long, long voyage",
+          "aired": "2021-08-10",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1024,
+          "episode_number": 32,
+          "title": "Jour de Jugement",
+          "aired": "2021-08-25",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1037,
+          "episode_number": 33,
+          "title": "Le Dernier Démon d'Ohara",
+          "aired": "2021-09-07",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1029,
+          "episode_number": 34,
+          "title": "La Clé de la Liberté",
+          "aired": "2021-09-16",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1026,
+          "episode_number": 35,
+          "title": "Chasseurs vs Chasseurs",
+          "aired": "2021-09-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1036,
+          "episode_number": 36,
+          "title": "Justice Absolue",
+          "aired": "2021-09-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1025,
+          "episode_number": 37,
+          "title": "Casus Belli",
+          "aired": "2021-10-04",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "season_number": 5,
+      "title": "Thriller Bark",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 997,
+          "episode_number": 38,
+          "title": "Thriller Bark",
+          "aired": "2022-01-30",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 994,
+          "episode_number": 39,
+          "title": "La Chasse Nocturne",
+          "aired": "2022-02-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 996,
+          "episode_number": 40,
+          "title": "Les Trois Mystérieux",
+          "aired": "2022-02-20",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 998,
+          "episode_number": 41,
+          "title": "Oz, le démon",
+          "aired": "2022-02-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 995,
+          "episode_number": 42,
+          "title": "Le bon rhum de Binks",
+          "aired": "2022-03-06",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "season_number": 6,
+      "title": "Guerre au Sommet",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1001,
+          "episode_number": 43,
+          "title": "Duval au masque de fer",
+          "aired": "2022-03-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1010,
+          "episode_number": 44,
+          "title": "Les Dragons Célestes",
+          "aired": "2022-07-02",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1009,
+          "episode_number": 45,
+          "title": "Le Singe Jaune",
+          "aired": "2022-07-03",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1000,
+          "episode_number": 46,
+          "title": "L'Île des femmes",
+          "aired": "2022-07-04",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1005,
+          "episode_number": 47,
+          "title": "La Prison Sous marine",
+          "aired": "2022-07-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1007,
+          "episode_number": 48,
+          "title": "La Résistance fluide",
+          "aired": "2022-07-10",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1006,
+          "episode_number": 49,
+          "title": "Par la grande porte",
+          "aired": "2022-07-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1004,
+          "episode_number": 50,
+          "title": "Guerre totale",
+          "aired": "2023-02-27",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1003,
+          "episode_number": 51,
+          "title": "Le pouvoir le plus redoutable",
+          "aired": "2023-02-28",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1002,
+          "episode_number": 52,
+          "title": "Le sauvetage d'Ace",
+          "aired": "2023-03-05",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1008,
+          "episode_number": 53,
+          "title": "Fuir ou mourir",
+          "aired": "2023-03-06",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 999,
+          "episode_number": 54,
+          "title": "Frères",
+          "aired": "2023-04-04",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1011,
+          "episode_number": 55,
+          "title": "Nouvelle ère",
+          "aired": "2023-10-20",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "season_number": 7,
+      "title": "Île des Hommes-Poissons",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1022,
+          "episode_number": 56,
+          "title": "Nouveau Départ",
+          "aired": "2024-09-12",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1019,
+          "episode_number": 57,
+          "title": "Le Royaume des abysses",
+          "aired": "2024-11-10",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1018,
+          "episode_number": 58,
+          "title": "Le Pacte des maudits",
+          "aired": "2024-11-13",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1020,
+          "episode_number": 59,
+          "title": "Deux visions un combat",
+          "aired": "2024-11-24",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1017,
+          "episode_number": 60,
+          "title": "Cent Mille VS Dix",
+          "aired": "2024-12-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1023,
+          "episode_number": 61,
+          "title": "L'Héritage de la haine",
+          "aired": "2024-12-29",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1021,
+          "episode_number": 62,
+          "title": "Vers le Soleil",
+          "aired": "2024-12-30",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "season_number": 8,
+      "title": "Punk Hazard",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1254,
+          "episode_number": 63,
+          "title": "L'île bipolaire",
+          "aired": "2026-02-16",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1251,
+          "episode_number": 64,
+          "title": "Alliance pirate",
+          "aired": "2026-02-18",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1250,
+          "episode_number": 65,
+          "title": "L'Ange de la mort",
+          "aired": "2026-02-22",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1252,
+          "episode_number": 66,
+          "title": "Rats de laboratoires",
+          "aired": "2026-02-24",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1253,
+          "episode_number": 67,
+          "title": "À Tristesse tranchée",
+          "aired": "2026-02-26",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1255,
+          "episode_number": 68,
+          "title": "Derrière le sourire",
+          "aired": "2026-03-01",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "season_number": 9,
+      "title": "Dressrosa",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1042,
+          "episode_number": 69,
+          "title": "Le pays de l'amour et de la passion",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1049,
+          "episode_number": 70,
+          "title": "Retrouvailles fatidiques",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1046,
+          "episode_number": 71,
+          "title": "Les oubliés",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1041,
+          "episode_number": 72,
+          "title": "La nuit tragique",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1050,
+          "episode_number": 73,
+          "title": "Opération S.O.P.",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1039,
+          "episode_number": 74,
+          "title": "La Cage à oiseaux",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1044,
+          "episode_number": 75,
+          "title": "Pari",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1040,
+          "episode_number": 76,
+          "title": "Cora",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1043,
+          "episode_number": 77,
+          "title": "Sur trois fronts",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1048,
+          "episode_number": 78,
+          "title": "Sur deux fronts",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1047,
+          "episode_number": 79,
+          "title": "Bound Man",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1045,
+          "episode_number": 80,
+          "title": "Coupes d'allégeance",
+          "aired": null,
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "season_number": 10,
+      "title": "Whole Cake Island",
+      "torrents": [],
+      "episodes": []
+    }
+  ]
+}
