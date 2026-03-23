@@ -447,8 +447,9 @@ def assign(structure, torrent, ttype):
                     if key not in existing:
                         ep["torrents"].append(ref)
                         p = _compute_path(ep, n, is_specials, folder_key, season_path_idx, path_idx, title_path_idx, nb_seasons)
-                        # Fallback : construire le path depuis le titre Nyaa si files absent
-                        if p is None:
+                        # Fallback titre seulement si le torrent n'a pas de files
+                        # (si files présents, la consolidation peuplera les paths correctement)
+                        if p is None and not torrent.get("files"):
                             p = _torrent_title_to_path(torrent.get("title"))
                         ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     assigned = True
@@ -471,7 +472,7 @@ def assign(structure, torrent, ttype):
                     if key not in existing:
                         ep["torrents"].append(ref)
                         p = _compute_path(ep, ep_num, is_specials, folder_key, season_path_idx, path_idx, title_path_idx, nb_seasons)
-                        if p is None:
+                        if p is None and not torrent.get("files"):
                             p = _torrent_title_to_path(torrent.get("title"))
                         ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     return True
@@ -638,14 +639,18 @@ def main():
         def _torrent_key(t):
             return t.get("nyaa_id") or t.get("infohash")
 
-        total_eps = sum(1 for s in structure["seasons"] for ep in s["episodes"] if ep.get("aired"))
+        # Compter les épisodes "actifs" : sortis OU ayant déjà un torrent assigné
+        total_eps = sum(
+            1 for s in structure["seasons"] for ep in s["episodes"]
+            if ep.get("aired") or ep.get("torrents")
+        )
 
-        # Collecter toutes les clés uniques présentes dans les épisodes
+        # Collecter toutes les clés uniques présentes dans les épisodes actifs
         all_ep_keys_per_ep = [
             {_torrent_key(t) for t in ep["torrents"] if _torrent_key(t)}
             for s in structure["seasons"]
             for ep in s["episodes"]
-            if ep.get("aired")
+            if ep.get("aired") or ep.get("torrents")
         ]
 
         # Une clé est "intégrale" si elle apparaît dans au moins total_eps-2 épisodes
