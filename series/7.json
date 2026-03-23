@@ -12,7 +12,7 @@
       "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
       "size": "23.0 GiB",
       "pub_date": "2024-07-17 11:25",
-      "seeders": 10
+      "seeders": 11
     }
   ],
   "seasons": [
@@ -31,7 +31,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 1\\[Roro] Vinland Saga Henshū 01 - Les Normands.mkv"
+              "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 01 - Les Normands.mkv"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 1\\[Roro] Vinland Saga Henshū 02 - Les Anglais.mkv"
+              "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 02 - Les Anglais.mkv"
             }
           ]
         },
@@ -57,7 +57,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 1\\[Roro] Vinland Saga Henshū 03 - Confrontation.mkv"
+              "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 03 - Confrontation.mkv"
             }
           ]
         },
@@ -70,7 +70,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 1\\[Roro] Vinland Saga Henshū 04 - Vengeance.mkv"
+              "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 04 - Vengeance.mkv"
             }
           ]
         }
@@ -91,7 +91,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 2\\[Odji-san] Vinland Saga Henshû 05 - Le Cauchemar 1080p Multi x264.mkv"
+              "path": "Vinland Saga Henshū/Saison 2/[Odji-san] Vinland Saga Henshû 05 - Le Cauchemar 1080p Multi x264.mkv"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 2\\[Odji-san] Vinland Saga Henshû 06 - Trahison 1080p Multi x264.mkv"
+              "path": "Vinland Saga Henshū/Saison 2/[Odji-san] Vinland Saga Henshû 06 - Trahison 1080p Multi x264.mkv"
             }
           ]
         },
@@ -117,7 +117,7 @@
           "paths": [
             {
               "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
-              "path": "Vinland Saga Henshū\\Saison 2\\[Odji-san] Vinland Saga Henshû 07 - La Naissance d'un Guerrier 1080p Multi x264.mkv"
+              "path": "Vinland Saga Henshū/Saison 2/[Odji-san] Vinland Saga Henshû 07 - La Naissance d'un Guerrier 1080p Multi x264.mkv"
             }
           ]
         }
