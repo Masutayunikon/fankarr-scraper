@@ -1,4 +1,4 @@
-name: Update Torrents
+name: Update Series
 
 on:
   schedule:
@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       # ── 1. Checkout ───────────────────────────────────────────────────────────
@@ -29,66 +28,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 3. Sauvegarder l'ancien JSON avant de le regénérer ───────────────────
-      - name: Save old torrent_final.json
-        run: |
-          if [ -f data/torrent_final.json ]; then
-            cp data/torrent_final.json data/torrent_final.old.json
-          else
-            echo "[]" > data/torrent_final.old.json
-          fi
-
-      # ── 4. Pipeline scraper ───────────────────────────────────────────────────
-      - name: s1 — Collect torrents from Discord + Nyaa
-        env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+      # ── 3. Pipeline ───────────────────────────────────────────────────────────
+      - name: s1 — Collect torrents from Nyaa
         run: python scripts/s1_collect.py
 
-      - name: s2 — Parse torrent names
-        run: python scripts/s2_parse.py
+      - name: s2 — Enrich with .torrent file info
+        run: python scripts/s2_enricher.py
 
-      - name: s3 — Resolve Fankai IDs
-        run: python scripts/s3_resolve.py
+      - name: s3 — Match torrents to series/episodes
+        run: python scripts/s3_parse.py
 
-      - name: s4 — Enrich with .torrent file info
-        run: python scripts/s4_enrich.py
-
-      - name: s5 — Finalize episode resolution
-        run: python scripts/s5_finalize.py
-
-      # ── 5. Diff ───────────────────────────────────────────────────────────────
-      - name: s6 — Compute diff
-        id: diff
-        run: |
-          python scripts/s6_diff.py \
-            --old data/torrent_final.old.json \
-            --new data/torrent_final.json \
-            --output pr_body.md
-          echo "has_changes=$?" >> $GITHUB_OUTPUT
-        # exit 0 = changements, exit 1 = rien → on continue sans erreur
-        continue-on-error: true
-
-      # ── 6. Ouvrir la PR si changements ───────────────────────────────────────
-      - name: Create Pull Request
-        if: steps.diff.outcome == 'success'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GH_PAT }}
-          branch: update/torrents-${{ github.run_number }}
-          base: main
-          title: "🎬 Mise à jour torrents — ${{ github.run_number }}"
-          body-path: pr_body.md
-          commit-message: "chore: update torrent_final.json"
-          labels: |
-            torrents
-            automated
-          add-paths: |
-            data/torrent_final.json
-
-      # ── 7. Cleanup ────────────────────────────────────────────────────────────
-      - name: Cleanup temp files
+      # ── 4. Cleanup cache (ne pas committer) ───────────────────────────────────
+      - name: Cleanup cache files
         if: always()
         run: |
-          rm -f data/torrent_final.old.json
-          rm -f pr_body.md
+          rm -rf data/api_cache/
+          rm -rf data/torrent_cache/
+
+      # ── 5. Commit & push series/ ──────────────────────────────────────────────
+      - name: Commit and push series/
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add series/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: update series — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

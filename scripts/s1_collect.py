@@ -52,6 +52,7 @@ def normalize(item: dict) -> dict:
 
     return {
         "title"      : title,
+        "nyaa_url"   : f"https://nyaa.si/view/{nyaa_id}" if nyaa_id else None,
         "torrent_url": torrent_url,
         "magnet"     : magnet or None,
         "infohash"   : infohash,
