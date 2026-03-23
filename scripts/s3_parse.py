@@ -410,7 +410,11 @@ def _compute_path(ep, n, is_specials, folder_key, season_path_idx, path_idx, tit
         return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
     if nb_seasons <= 1:
         return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
-    return None
+    # Multi-saisons sans dossier distinctif : utiliser path_idx si le numéro est présent
+    # (le torrent ne couvre qu'une partie de la série, pas d'ambiguïté de collision)
+    if path_idx.get(n):
+        return path_idx[n]
+    return match_title_to_path(ep.get("title", ""), title_path_idx)
 
 def _add_torrent_to_structure(structure, ref):
     """Ajoute un torrent intégral à structure["torrents"] si pas déjà présent."""

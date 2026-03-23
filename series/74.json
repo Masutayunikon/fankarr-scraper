@@ -12,7 +12,7 @@
       "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
       "size": "19.6 GiB",
       "pub_date": "2026-03-07 11:22",
-      "seeders": 12
+      "seeders": 15
     }
   ],
   "seasons": [
@@ -43,11 +43,11 @@
           "paths": [
             {
               "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
-              "path": "Tokyo Revengers Henshu 01 - Réincarnation.mkv"
+              "path": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv"
             },
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 01\\[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -72,11 +72,11 @@
           "paths": [
             {
               "infohash": "9c331362cc90a6e1e5d5b15b0b73a340d813a112",
-              "path": "Tokyo Revengers Henshu 02 - Révolte.mkv"
+              "path": "[Triggerforce]Tokyo Revengers Henshu 02 - Révolte.mkv"
             },
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 02 - Révolte.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 01\\[Triggerforce]Tokyo Revengers Henshu 02 - Révolte.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -101,11 +101,11 @@
           "paths": [
             {
               "infohash": "050913b346aa0bc5b93d4c8f2506e37d4ae08bb4",
-              "path": "Tokyo Revengers Henshu 03 - Revanche.mkv"
+              "path": "[Triggerforce]Tokyo Revengers Henshu 03 - Revanche.mkv"
             },
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 03 - Revanche.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 01\\[Triggerforce]Tokyo Revengers Henshu 03 - Revanche.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -130,11 +130,11 @@
           "paths": [
             {
               "infohash": "31dcb859dc9bcd287664cbbb11c7ef818dd77423",
-              "path": "Tokyo Revengers Henshu 04 - No pain, no gain.mkv"
+              "path": "[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain.mkv"
             },
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 01\\[Triggerforce]Tokyo Revengers Henshu 04 - No pain, no gain.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -153,17 +153,17 @@
               "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
               "size": "2.8 GiB",
               "pub_date": "2023-05-01 09:43",
-              "seeders": 4
+              "seeders": 3
             }
           ],
           "paths": [
             {
               "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
-              "path": "Tokyo Revengers Henshu 05 - Derniers souhaits.mkv"
+              "path": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.mkv"
             },
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 01\\[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -184,7 +184,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 06 - Thicker Than Water.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 02\\[Triggerforce] Tokyo Revengers Henshu 06 - Thicker Than Water.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -197,7 +197,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 07 - Christmas Night.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 02\\[Triggerforce] Tokyo Revengers Henshu 07 - Christmas Night.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -210,7 +210,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 08 - Far From Home.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 02\\[Triggerforce] Tokyo Revengers Henshu 08 - Far From Home.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -223,7 +223,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 02/[Triggerforce] Tokyo Revengers Henshu 09 - Brother in arms.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 02\\[Triggerforce] Tokyo Revengers Henshu 09 - Brother in arms.1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -244,7 +244,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 03/[Triggerforce] Tokyo Revengers Henshu 10 - Stick Together.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 03\\[Triggerforce] Tokyo Revengers Henshu 10 - Stick Together.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -257,7 +257,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 03/[Triggerforce] Tokyo Revengers Henshu 11 - Turn the Tide.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 03\\[Triggerforce] Tokyo Revengers Henshu 11 - Turn the Tide.1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -270,7 +270,7 @@
           "paths": [
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
-              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 03/[Triggerforce] Tokyo Revengers Henshu 12 - The one and only.1080p.MULTI.x264.mkv"
+              "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264\\Saison 03\\[Triggerforce] Tokyo Revengers Henshu 12 - The one and only.1080p.MULTI.x264.mkv"
             }
           ]
         }

@@ -12,7 +12,7 @@
       "infohash": "3eba9c3338cf53991ffcbcaea5deb255f5623c5e",
       "size": "13.0 GiB",
       "pub_date": "2022-01-19 10:30",
-      "seeders": 5
+      "seeders": 6
     }
   ],
   "seasons": [
@@ -31,7 +31,7 @@
           "paths": [
             {
               "infohash": "3eba9c3338cf53991ffcbcaea5deb255f5623c5e",
-              "path": "To Your Eternity Henshū/To Your Eternity Henshū - S01E01 - Le loup, le garçon et la jeune fille [Khyinn].mkv"
+              "path": "To Your Eternity Henshū\\To Your Eternity Henshū - S01E01 - Le loup, le garçon et la jeune fille [Khyinn].mkv"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "paths": [
             {
               "infohash": "3eba9c3338cf53991ffcbcaea5deb255f5623c5e",
-              "path": "To Your Eternity Henshū/To Your Eternity Henshū - S01E02 - Googoo [Khyinn].mkv"
+              "path": "To Your Eternity Henshū\\To Your Eternity Henshū - S01E02 - Googoo [Khyinn].mkv"
             }
           ]
         },
@@ -57,7 +57,7 @@
           "paths": [
             {
               "infohash": "3eba9c3338cf53991ffcbcaea5deb255f5623c5e",
-              "path": "To Your Eternity Henshū/To Your Eternity Henshū - S01E03 - Jananda [Khyinn].mkv"
+              "path": "To Your Eternity Henshū\\To Your Eternity Henshū - S01E03 - Jananda [Khyinn].mkv"
             }
           ]
         }
