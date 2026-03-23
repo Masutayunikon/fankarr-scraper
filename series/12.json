@@ -18,7 +18,7 @@
           "infohash": "aa12df5259fefc2c25d942ba561928985d925e02",
           "size": "45.5 GiB",
           "pub_date": "2023-06-28 16:55",
-          "seeders": 19
+          "seeders": 21
         }
       ],
       "episodes": [
@@ -129,7 +129,7 @@
           "infohash": "aa12df5259fefc2c25d942ba561928985d925e02",
           "size": "45.5 GiB",
           "pub_date": "2023-06-28 16:55",
-          "seeders": 19
+          "seeders": 21
         }
       ],
       "episodes": [
@@ -260,7 +260,7 @@
               "infohash": "e480c2b484e8162a20f5a929b2df910b6f5896d3",
               "size": "2.8 GiB",
               "pub_date": "2023-06-29 13:22",
-              "seeders": 22
+              "seeders": 24
             },
             {
               "nyaa_id": 1373039,
@@ -271,7 +271,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -300,7 +300,7 @@
               "infohash": "70a8e63cf2ae413899135128f37e228c4596957a",
               "size": "2.7 GiB",
               "pub_date": "2023-06-30 14:52",
-              "seeders": 23
+              "seeders": 26
             },
             {
               "nyaa_id": 1373039,
@@ -311,7 +311,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -340,7 +340,7 @@
               "infohash": "5fd2491005f5c90ccfecea3fc725ba88c7d3d2af",
               "size": "4.0 GiB",
               "pub_date": "2023-07-01 11:41",
-              "seeders": 21
+              "seeders": 23
             },
             {
               "nyaa_id": 1373039,
@@ -351,7 +351,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -380,7 +380,7 @@
               "infohash": "97974e9663cdc6e3d38cc69e3447b77e4a1e42d3",
               "size": "3.0 GiB",
               "pub_date": "2023-08-20 10:48",
-              "seeders": 21
+              "seeders": 23
             },
             {
               "nyaa_id": 1373039,
@@ -391,7 +391,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -420,7 +420,7 @@
               "infohash": "6c17c30e65d73aa07a12bd9e8127d27e3e31c60a",
               "size": "3.2 GiB",
               "pub_date": "2023-09-02 11:13",
-              "seeders": 18
+              "seeders": 21
             },
             {
               "nyaa_id": 1373039,
@@ -431,7 +431,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -468,7 +468,7 @@
               "infohash": "4318b2ef3f08293a53e9fa7abbfeac48bfc8049e",
               "size": "3.3 GiB",
               "pub_date": "2023-11-10 14:52",
-              "seeders": 18
+              "seeders": 20
             },
             {
               "nyaa_id": 1373039,
@@ -479,7 +479,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -508,7 +508,7 @@
               "infohash": "880368333c8f693443385bc9b097ead4cc9c8c6a",
               "size": "3.1 GiB",
               "pub_date": "2024-01-14 12:58",
-              "seeders": 21
+              "seeders": 23
             },
             {
               "nyaa_id": 1373039,
@@ -519,7 +519,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -548,7 +548,7 @@
               "infohash": "6ebfded95e2c01a8db5a279929d200226008664c",
               "size": "3.5 GiB",
               "pub_date": "2024-01-19 04:53",
-              "seeders": 21
+              "seeders": 23
             },
             {
               "nyaa_id": 1373039,
@@ -559,7 +559,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -588,7 +588,7 @@
               "infohash": "08b7445c386817de09375b26b7e928435c4d55e0",
               "size": "1.8 GiB",
               "pub_date": "2024-03-28 07:15",
-              "seeders": 20
+              "seeders": 22
             },
             {
               "nyaa_id": 1373039,
@@ -599,7 +599,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -628,7 +628,7 @@
               "infohash": "40c5b00072b00cbe9f1bee40362adcb860f2bbb7",
               "size": "3.2 GiB",
               "pub_date": "2024-03-29 07:28",
-              "seeders": 20
+              "seeders": 23
             },
             {
               "nyaa_id": 1373039,
@@ -639,7 +639,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -668,7 +668,7 @@
               "infohash": "fac93965318a68549e14f5e0ec335be1c660c1bf",
               "size": "2.8 GiB",
               "pub_date": "2024-03-30 07:47",
-              "seeders": 20
+              "seeders": 24
             },
             {
               "nyaa_id": 1373039,
@@ -679,7 +679,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -708,7 +708,7 @@
               "infohash": "bbf732c8921fa51a6a1074d5f3401b6a224dc0ef",
               "size": "2.2 GiB",
               "pub_date": "2024-06-20 08:33",
-              "seeders": 22
+              "seeders": 26
             },
             {
               "nyaa_id": 1373039,
@@ -719,7 +719,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -748,7 +748,7 @@
               "infohash": "13379895f4da65df771cef9ed3b42809d20bd487",
               "size": "2.1 GiB",
               "pub_date": "2024-06-23 07:43",
-              "seeders": 24
+              "seeders": 27
             },
             {
               "nyaa_id": 1373039,
@@ -759,7 +759,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -788,7 +788,7 @@
               "infohash": "2f2aaff89d06a9e27a762290933bc9f1cb9b7ab9",
               "size": "1.8 GiB",
               "pub_date": "2024-06-24 17:24",
-              "seeders": 24
+              "seeders": 28
             },
             {
               "nyaa_id": 1373039,
@@ -799,7 +799,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -828,7 +828,7 @@
               "infohash": "f0e2e04d1c2525700d5dd012a8e68bd67e5cbdbf",
               "size": "2.2 GiB",
               "pub_date": "2024-09-09 08:43",
-              "seeders": 24
+              "seeders": 28
             },
             {
               "nyaa_id": 1373039,
@@ -839,7 +839,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -868,7 +868,7 @@
               "infohash": "85a24f6cfcdb0e91beb1fa11b56e92879db6cb5c",
               "size": "1.6 GiB",
               "pub_date": "2024-09-10 06:22",
-              "seeders": 24
+              "seeders": 28
             },
             {
               "nyaa_id": 1373039,
@@ -879,7 +879,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -908,7 +908,7 @@
               "infohash": "3f6114603ce8011f64c93ae0784010e950a0ace3",
               "size": "3.3 GiB",
               "pub_date": "2024-09-12 07:01",
-              "seeders": 24
+              "seeders": 29
             },
             {
               "nyaa_id": 1373039,
@@ -919,7 +919,7 @@
               "infohash": "0f9457b82452c14b2cc6f5ab2924c04f6350cf73",
               "size": "50.3 GiB",
               "pub_date": "2021-04-16 19:05",
-              "seeders": 10
+              "seeders": 11
             }
           ],
           "paths": [
@@ -948,7 +948,7 @@
               "infohash": "bf9f5d4aeca79d5586128cc15ed9ec90c6599d83",
               "size": "1.9 GiB",
               "pub_date": "2024-09-14 16:07",
-              "seeders": 27
+              "seeders": 32
             }
           ],
           "paths": [
@@ -973,7 +973,7 @@
               "infohash": "45ba5096f7270bb95f384d171bd4ba99f41faf08",
               "size": "2.2 GiB",
               "pub_date": "2024-11-07 07:52",
-              "seeders": 26
+              "seeders": 33
             }
           ],
           "paths": [
@@ -998,7 +998,7 @@
               "infohash": "50ee4c6dd1f7fcc92374c5683de6c460ae2a6334",
               "size": "2.9 GiB",
               "pub_date": "2024-11-08 07:29",
-              "seeders": 23
+              "seeders": 29
             }
           ],
           "paths": [
@@ -1023,7 +1023,7 @@
               "infohash": "7e5a92d309969f046c9a7c8dc3e1e8052df97aee",
               "size": "1.2 GiB",
               "pub_date": "2024-11-16 08:05",
-              "seeders": 24
+              "seeders": 29
             }
           ],
           "paths": [
