@@ -2,7 +2,19 @@
   "id": 57,
   "title": "Reborn! Kaï",
   "show_title": "Reborn! Kaï",
-  "torrents": [],
+  "torrents": [
+    {
+      "nyaa_id": null,
+      "nyaa_url": null,
+      "title": "Reborn! Kaï",
+      "torrent_url": null,
+      "magnet": "magnet:?xt=urn:btih:b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388&dn=Reborn%21%20Ka%C3%AF&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+      "size": "34.9 GiB",
+      "pub_date": null,
+      "seeders": null
+    }
+  ],
   "seasons": [
     {
       "id": 129,
@@ -16,7 +28,12 @@
           "title": "Reborn débarque",
           "aired": "2020-02-13",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 01 - Reborn débarque - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 852,
@@ -24,7 +41,12 @@
           "title": "La Famille déjantée s'agrandit",
           "aired": "2020-03-21",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 02 - La famille déjantée s'agrandit - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 851,
@@ -32,7 +54,12 @@
           "title": "Tsunaze pour toujours",
           "aired": "2021-12-29",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 03 - Tsunaze pour toujours - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -48,7 +75,12 @@
           "title": "Le gang de Kokuyô",
           "aired": "2022-01-04",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 2\\[kadero_san] Reborn! Kaï 04 - Le gang de Kokuyô - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 837,
@@ -56,7 +88,12 @@
           "title": "Vacances d'été",
           "aired": "2022-02-17",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 2\\[kadero_san] Reborn! Kaï 05 - Vacances d'été - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -72,7 +109,12 @@
           "title": "Les anneaux Vongola",
           "aired": "2022-02-26",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 06 - Les anneaux Vongola - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 834,
@@ -80,7 +122,12 @@
           "title": "Le combat pour les anneaux",
           "aired": "2022-06-08",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 07 - Le combat pour les anneaux - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 835,
@@ -88,7 +135,12 @@
           "title": "La pluie et le brouillard",
           "aired": "2022-10-20",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 08 - La pluie & le brouillard - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 833,
@@ -96,7 +148,12 @@
           "title": "Gola Mosca",
           "aired": "2023-01-29",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 09 - Gola Mosca - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 831,
@@ -104,7 +161,12 @@
           "title": "Le combat des cieux",
           "aired": "2023-03-21",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 10 - Le combat des cieux - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 836,
@@ -112,7 +174,12 @@
           "title": "Daily Life, le retour",
           "aired": "2023-04-27",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 11 - Daily Life, le retour - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -128,7 +195,12 @@
           "title": "Dix ans après",
           "aired": "2023-05-27",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 12 - Dix ans après - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 849,
@@ -136,7 +208,12 @@
           "title": "Héritage",
           "aired": "2023-08-01",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 13 - Héritage - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 846,
@@ -144,7 +221,12 @@
           "title": "Traître infiltré",
           "aired": "2023-08-04",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 14 - Traître infiltré - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 844,
@@ -152,7 +234,12 @@
           "title": "Préparatifs avant l'assaut",
           "aired": "2023-08-06",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 15 - Préparatifs avant l'assaut - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 843,
@@ -160,7 +247,12 @@
           "title": "X-BURNER",
           "aired": "2023-08-06",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 16 - X-Burner - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 847,
@@ -168,7 +260,12 @@
           "title": "La famille Giglionero",
           "aired": "2023-08-29",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 17 - La famille Giglionero - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 850,
@@ -176,7 +273,12 @@
           "title": "Le plan de Shoichi Irie",
           "aired": "2023-08-31",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 18 - Le plan de Shôichi Irie - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 839,
@@ -184,7 +286,12 @@
           "title": "Le front italien",
           "aired": "2023-11-13",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 19 - Le front italien - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 845,
@@ -192,7 +299,12 @@
           "title": "L'éveil des boîtes",
           "aired": "2024-04-13",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 20 - L'éveil des boîtes - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 841,
@@ -200,7 +312,12 @@
           "title": "L'heure du Choice",
           "aired": "2025-01-01",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 21 - L'heure du Choice - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 842,
@@ -208,7 +325,12 @@
           "title": "Protéger Uni",
           "aired": "2025-01-04",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 22 - Protéger Uni - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         },
         {
           "id": 848,
@@ -216,7 +338,12 @@
           "title": "La bataille finale",
           "aired": "2025-02-16",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 4\\[kadero_san] Reborn! Kaï 23 - La bataille décisive - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
         }
       ]
     }
