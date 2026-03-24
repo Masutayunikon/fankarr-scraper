@@ -2,41 +2,7 @@
   "id": 38,
   "title": "Assassination Classroom Henshū",
   "show_title": "Assassination Classroom Henshū",
-  "torrents": [
-    {
-      "nyaa_id": 1356827,
-      "nyaa_url": "https://nyaa.si/view/1356827",
-      "title": "[ElFenomomo] Assassination Classroom Henshū 01 - Koro-sensei - 1080p.MULTI.x264",
-      "torrent_url": "https://nyaa.si/download/1356827.torrent",
-      "magnet": "magnet:?xt=urn:btih:e2046f86bddd1b0acc7cd97a105c9b12edb384f5&dn=%5BElFenomomo%5D%20Assassination%20Classroom%20Hensh%C5%AB%2001%20-%20Koro-sensei%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
-      "size": "1.2 GiB",
-      "pub_date": "2021-03-13 16:51",
-      "seeders": 5
-    },
-    {
-      "nyaa_id": 1356829,
-      "nyaa_url": "https://nyaa.si/view/1356829",
-      "title": "[ElFenomomo] Assassination Classroom Henshū 02 - Le voyage scolaire - 1080p.MULTI.x264",
-      "torrent_url": "https://nyaa.si/download/1356829.torrent",
-      "magnet": "magnet:?xt=urn:btih:60106c4bf93bce7ebbb46a2598a31887edb828af&dn=%5BElFenomomo%5D%20Assassination%20Classroom%20Hensh%C5%AB%2002%20-%20Le%20voyage%20scolaire%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
-      "size": "1.1 GiB",
-      "pub_date": "2021-03-13 16:54",
-      "seeders": 2
-    },
-    {
-      "nyaa_id": 1254689,
-      "nyaa_url": "https://nyaa.si/view/1254689",
-      "title": "[ElFenomomo] Assassination Classroom Henshū 03 - Les Nouveaux Élèves - 1080p.MULTI.x264",
-      "torrent_url": "https://nyaa.si/download/1254689.torrent",
-      "magnet": "magnet:?xt=urn:btih:be5571e2a1b7828dece89f5e23ad40457ca5ec4a&dn=%5BElFenomomo%5D%20Assassination%20Classroom%20Hensh%C5%AB%2003%20-%20Les%20Nouveaux%20%C3%89l%C3%A8ves%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
-      "size": "1021.6 MiB",
-      "pub_date": "2020-06-13 19:58",
-      "seeders": 6
-    }
-  ],
+  "torrents": [],
   "seasons": [
     {
       "id": 73,
@@ -49,7 +15,19 @@
           "episode_number": 1,
           "title": "Koro-sensei",
           "aired": "2020-01-24",
-          "torrents": [],
+          "torrents": [
+            {
+              "nyaa_id": 1356827,
+              "nyaa_url": "https://nyaa.si/view/1356827",
+              "title": "[ElFenomomo] Assassination Classroom Henshū 01 - Koro-sensei - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1356827.torrent",
+              "magnet": "magnet:?xt=urn:btih:e2046f86bddd1b0acc7cd97a105c9b12edb384f5&dn=%5BElFenomomo%5D%20Assassination%20Classroom%20Hensh%C5%AB%2001%20-%20Koro-sensei%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
+              "size": "1.2 GiB",
+              "pub_date": "2021-03-13 16:51",
+              "seeders": 6
+            }
+          ],
           "paths": [
             {
               "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
@@ -62,7 +40,19 @@
           "episode_number": 2,
           "title": "Le voyage Scolaire",
           "aired": "2020-05-06",
-          "torrents": [],
+          "torrents": [
+            {
+              "nyaa_id": 1356829,
+              "nyaa_url": "https://nyaa.si/view/1356829",
+              "title": "[ElFenomomo] Assassination Classroom Henshū 02 - Le voyage scolaire - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1356829.torrent",
+              "magnet": "magnet:?xt=urn:btih:60106c4bf93bce7ebbb46a2598a31887edb828af&dn=%5BElFenomomo%5D%20Assassination%20Classroom%20Hensh%C5%AB%2002%20-%20Le%20voyage%20scolaire%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
+              "size": "1.1 GiB",
+              "pub_date": "2021-03-13 16:54",
+              "seeders": 4
+            }
+          ],
           "paths": [
             {
               "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
@@ -75,7 +65,19 @@
           "episode_number": 3,
           "title": "Les nouveaux élèves",
           "aired": "2020-06-13",
-          "torrents": [],
+          "torrents": [
+            {
+              "nyaa_id": 1254689,
+              "nyaa_url": "https://nyaa.si/view/1254689",
+              "title": "[ElFenomomo] Assassination Classroom Henshū 03 - Les Nouveaux Élèves - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/1254689.torrent",
+              "magnet": "magnet:?xt=urn:btih:be5571e2a1b7828dece89f5e23ad40457ca5ec4a&dn=%5BElFenomomo%5D%20Assassination%20Classroom%20Hensh%C5%AB%2003%20-%20Les%20Nouveaux%20%C3%89l%C3%A8ves%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
+              "size": "1021.6 MiB",
+              "pub_date": "2020-06-13 19:58",
+              "seeders": 6
+            }
+          ],
           "paths": [
             {
               "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",

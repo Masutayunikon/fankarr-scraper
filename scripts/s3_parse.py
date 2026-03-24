@@ -660,8 +660,10 @@ def main():
         # Une clé est "intégrale" si elle apparaît dans au moins total_eps-2 épisodes
         from collections import Counter
         key_counts = Counter(k for keys in all_ep_keys_per_ep for k in keys)
+        # Une clé est intégrale si elle couvre tous les épisodes (tolérance 2 manquants)
+        # ET qu'elle couvre au moins 2 épisodes (évite de remonter des torrents individuels)
         integral_keys = [k for k, cnt in key_counts.items()
-                         if cnt >= max(1, total_eps - 2) and total_eps > 0]
+                         if cnt >= max(2, total_eps - 2) and total_eps > 0]
 
         if integral_keys:
             # Construire les paths finaux : une entrée par torrent intégral

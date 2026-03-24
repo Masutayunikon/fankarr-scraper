@@ -2,41 +2,7 @@
   "id": 43,
   "title": "Tower Of God Henshū",
   "show_title": "Tower Of God Henshū",
-  "torrents": [
-    {
-      "nyaa_id": 1388489,
-      "nyaa_url": "https://nyaa.si/view/1388489",
-      "title": "Tower of God Henshû 01 VOSTFR - Roro",
-      "torrent_url": "https://nyaa.si/download/1388489.torrent",
-      "magnet": "magnet:?xt=urn:btih:73b36340cc0e19f87ee6e27072f2c0b0c9446221&dn=Tower%20of%20God%20Hensh%C3%BB%2001%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "73b36340cc0e19f87ee6e27072f2c0b0c9446221",
-      "size": "1.8 GiB",
-      "pub_date": "2021-05-21 22:05",
-      "seeders": 3
-    },
-    {
-      "nyaa_id": 1392786,
-      "nyaa_url": "https://nyaa.si/view/1392786",
-      "title": "Tower of God Henshû 02 VOSTFR - Roro",
-      "torrent_url": "https://nyaa.si/download/1392786.torrent",
-      "magnet": "magnet:?xt=urn:btih:bbb4dcc1d38769d1dece84324bb35e7e7f93982e&dn=Tower%20of%20God%20Hensh%C3%BB%2002%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "bbb4dcc1d38769d1dece84324bb35e7e7f93982e",
-      "size": "1.1 GiB",
-      "pub_date": "2021-05-31 19:31",
-      "seeders": 5
-    },
-    {
-      "nyaa_id": 1392787,
-      "nyaa_url": "https://nyaa.si/view/1392787",
-      "title": "Tower of God Henshû 03 VOSTFR - Roro",
-      "torrent_url": "https://nyaa.si/download/1392787.torrent",
-      "magnet": "magnet:?xt=urn:btih:bf7f02b80af121368b0e769c25640c87cf4a893f&dn=Tower%20of%20God%20Hensh%C3%BB%2003%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "bf7f02b80af121368b0e769c25640c87cf4a893f",
-      "size": "1.5 GiB",
-      "pub_date": "2021-05-31 19:33",
-      "seeders": 5
-    }
-  ],
+  "torrents": [],
   "seasons": [
     {
       "id": 84,
@@ -49,7 +15,19 @@
           "episode_number": 1,
           "title": "La Tour",
           "aired": "2021-05-22",
-          "torrents": [],
+          "torrents": [
+            {
+              "nyaa_id": 1388489,
+              "nyaa_url": "https://nyaa.si/view/1388489",
+              "title": "Tower of God Henshû 01 VOSTFR - Roro",
+              "torrent_url": "https://nyaa.si/download/1388489.torrent",
+              "magnet": "magnet:?xt=urn:btih:73b36340cc0e19f87ee6e27072f2c0b0c9446221&dn=Tower%20of%20God%20Hensh%C3%BB%2001%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "73b36340cc0e19f87ee6e27072f2c0b0c9446221",
+              "size": "1.8 GiB",
+              "pub_date": "2021-05-21 22:05",
+              "seeders": 4
+            }
+          ],
           "paths": [
             {
               "infohash": "73b36340cc0e19f87ee6e27072f2c0b0c9446221",
@@ -62,7 +40,19 @@
           "episode_number": 2,
           "title": "Positionnement",
           "aired": "2021-06-02",
-          "torrents": [],
+          "torrents": [
+            {
+              "nyaa_id": 1392786,
+              "nyaa_url": "https://nyaa.si/view/1392786",
+              "title": "Tower of God Henshû 02 VOSTFR - Roro",
+              "torrent_url": "https://nyaa.si/download/1392786.torrent",
+              "magnet": "magnet:?xt=urn:btih:bbb4dcc1d38769d1dece84324bb35e7e7f93982e&dn=Tower%20of%20God%20Hensh%C3%BB%2002%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "bbb4dcc1d38769d1dece84324bb35e7e7f93982e",
+              "size": "1.1 GiB",
+              "pub_date": "2021-05-31 19:31",
+              "seeders": 5
+            }
+          ],
           "paths": [
             {
               "infohash": "bbb4dcc1d38769d1dece84324bb35e7e7f93982e",
@@ -75,7 +65,19 @@
           "episode_number": 3,
           "title": "Le Test de l'Administrateur",
           "aired": "2021-06-04",
-          "torrents": [],
+          "torrents": [
+            {
+              "nyaa_id": 1392787,
+              "nyaa_url": "https://nyaa.si/view/1392787",
+              "title": "Tower of God Henshû 03 VOSTFR - Roro",
+              "torrent_url": "https://nyaa.si/download/1392787.torrent",
+              "magnet": "magnet:?xt=urn:btih:bf7f02b80af121368b0e769c25640c87cf4a893f&dn=Tower%20of%20God%20Hensh%C3%BB%2003%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "bf7f02b80af121368b0e769c25640c87cf4a893f",
+              "size": "1.5 GiB",
+              "pub_date": "2021-05-31 19:33",
+              "seeders": 5
+            }
+          ],
           "paths": [
             {
               "infohash": "bf7f02b80af121368b0e769c25640c87cf4a893f",
