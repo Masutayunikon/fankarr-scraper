@@ -4,6 +4,17 @@
   "show_title": "Call of the Night Henshū",
   "torrents": [
     {
+      "nyaa_id": 2089866,
+      "nyaa_url": "https://nyaa.si/view/2089866",
+      "title": "Call of the Night Henshū - 1080p.MULTI.x264 [Subs: FR|EN]",
+      "torrent_url": "https://nyaa.si/download/2089866.torrent",
+      "magnet": "magnet:?xt=urn:btih:3b384fd5b405f74329d0d7f98e1aae04d16a97fe&dn=Call%20of%20the%20Night%20Hensh%C5%AB%20-%201080p.MULTI.x264%20%5BSubs%3A%20FR%7CEN%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
+      "size": "3.8 GiB",
+      "pub_date": "2026-03-24 20:28",
+      "seeders": 6
+    },
+    {
       "nyaa_id": 2088142,
       "nyaa_url": "https://nyaa.si/view/2088142",
       "title": "Call of the Night Henshū - 1080p.MULTI.x265 [Subs: FR|EN]",
@@ -12,7 +23,7 @@
       "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
       "size": "2.7 GiB",
       "pub_date": "2026-03-19 23:24",
-      "seeders": 10
+      "seeders": 8
     }
   ],
   "seasons": [
@@ -30,6 +41,10 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.mkv"
+            },
+            {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv"
             }
@@ -42,6 +57,10 @@
           "aired": "2023-12-04",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x264.mkv"
+            },
             {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.mkv"
@@ -56,6 +75,10 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x264.mkv"
+            },
+            {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv"
             }
@@ -68,6 +91,10 @@
           "aired": "2023-12-19",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
+              "path": "Call of the Night Henshū/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.mkv"
+            },
             {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv"
