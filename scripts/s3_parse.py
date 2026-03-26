@@ -533,6 +533,7 @@ def assign(structure, torrent, ttype):
         title_path_idx = build_title_path_index(torrent)
         folder_idx     = build_folder_ep_index(torrent)
         force_season   = torrent.get("force_season")
+        force_path     = torrent.get("force_path")
         for season in structure["seasons"]:
             # Si force_season spécifié, ne traiter que cette saison
             if force_season is not None and season.get("season_number") != force_season:
@@ -546,10 +547,13 @@ def assign(structure, torrent, ttype):
                     key = ref.get("nyaa_id") or ref.get("infohash")
                     if key not in existing:
                         ep["torrents"].append(ref)
-                        p = _compute_path(ep, ep_num, is_specials, folder_key, season_path_idx,
-                                          path_idx, title_path_idx, nb_seasons, strict=True)
-                        if p is None:
-                            p = _torrent_title_to_path(torrent.get("title"))
+                        if force_path:
+                            p = force_path
+                        else:
+                            p = _compute_path(ep, ep_num, is_specials, folder_key, season_path_idx,
+                                              path_idx, title_path_idx, nb_seasons, strict=True)
+                            if p is None:
+                                p = _torrent_title_to_path(torrent.get("title"))
                         ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     return True
         return False

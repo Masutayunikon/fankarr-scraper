@@ -41,6 +41,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 4,
+        "path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
     },
     {
         "source": 2068604,
@@ -48,6 +49,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 1,
+        "path": "[uP] One Piece - Strong World Episode 0 (WEBRip 1080p x264 AC3 VOSTFR) .mkv"
     },
     {
         "source": 1250812,
@@ -55,6 +57,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 2,
+        "path": "[Kaerizaki-Fansub]_One-Piece_Z_Film_12_[VOSTFR][BLU-RAY][FHD_1920x1080].mp4"
     },
     {
         "source": 1815826,
@@ -62,6 +65,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 3,
+        "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
     },
     {
         "source": 1257276,
@@ -69,6 +73,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 4,
+        "path": "[ISSOUj] ONE PIECE STAMPEDE - VOSTFR & VF MULTI (BDRip 1080p x264 10bits FLAC AAC AC-3).mkv"
     },
     {
         "source": 1648250,
@@ -76,6 +81,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 5,
+        "path": "[Almighty] One Piece Film Red [BD 1920x1080 x264 10bit FLAC][Multi Subs].mkv"
     }
     # ── Exemples pour films/spéciaux non-fankai ───────────────────────────────
     # {
@@ -115,6 +121,8 @@ def build_args(entry: dict) -> list[str]:
         args += ["--season", str(entry["season"])]
     if entry.get("type"):
         args += ["--type", entry["type"]]
+    if entry.get("path"):
+        args += ["--path", entry["path"]]
 
     return args
 

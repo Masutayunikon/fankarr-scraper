@@ -179,6 +179,7 @@ def main():
     parser.add_argument("--episode",   type=int,   default=None, help="Forcer le numéro d'épisode (ex: --episode 1)")
     parser.add_argument("--season",    type=int,   default=None, help="Forcer le numéro de saison (ex: --season 0 pour spécial)")
     parser.add_argument("--type",      default=None, choices=["episode","integral","season"], help="Forcer le type (défaut: auto)")
+    parser.add_argument("--path",      default=None, help="Chemin/nom de fichier forcé dans le torrent (ex: 'dossier/film.mkv')")
     parser.add_argument("--dry-run",   action="store_true", help="Afficher sans sauvegarder")
     args = parser.parse_args()
 
@@ -222,13 +223,15 @@ def main():
         "files":       info["files"],
         "ep_numbers":  info["ep_numbers"],
     }
-    # Forcer le type/épisode/saison si spécifié
+    # Forcer le type/épisode/saison/path si spécifié
     if args.type:
         entry["force_type"] = args.type
     if args.episode is not None:
         entry["ep_numbers"] = [args.episode]
     if args.season is not None:
         entry["force_season"] = args.season
+    if args.path:
+        entry["force_path"] = args.path
 
     print(f"\n{'─'*60}")
     print(f"Titre     : {title}")
@@ -239,6 +242,7 @@ def main():
     if args.type:     print(f"Type      : {args.type} (forcé)")
     if args.episode is not None: print(f"Épisode   : {args.episode} (forcé)")
     if args.season  is not None: print(f"Saison    : {args.season} (forcé)")
+    if args.path:                print(f"Path      : {args.path} (forcé)")
     print(f"Fichiers  : {len(info['files'])}")
     print(f"Épisodes  : {info['ep_numbers'][:15]}{'...' if len(info['ep_numbers']) > 15 else ''}")
     if info["files"]:
