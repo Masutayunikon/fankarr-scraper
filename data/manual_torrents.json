@@ -1,5 +1,41 @@
 [
   {
+    "title": "GTO Kaï",
+    "nyaa_id": null,
+    "nyaa_url": null,
+    "torrent_url": null,
+    "magnet": "magnet:?xt=urn:btih:b7bbf5294413d982ab2d7e4daacdd7527ae1982f&dn=GTO%20Kai%20%5BTenma%5D%20%281080p%20Upscale%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+    "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+    "size": "19.6 GiB",
+    "pub_date": null,
+    "seeders": null,
+    "fankai": true,
+    "files": [
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv",
+      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv"
+    ],
+    "ep_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
     "title": "Reborn! Kaï",
     "nyaa_id": null,
     "nyaa_url": null,
@@ -9,6 +45,7 @@
     "size": "34.9 GiB",
     "pub_date": null,
     "seeders": null,
+    "fankai": true,
     "files": [
       "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 01 - Reborn débarque - 1080p.VOSTFR.x264.mkv",
       "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 02 - La famille déjantée s'agrandit - 1080p.VOSTFR.x264.mkv",
@@ -61,39 +98,127 @@
     ]
   },
   {
-    "title": "GTO Kai [Tenma] (1080p Upscale)",
-    "nyaa_id": null,
-    "nyaa_url": null,
-    "torrent_url": null,
-    "magnet": "magnet:?xt=urn:btih:b7bbf5294413d982ab2d7e4daacdd7527ae1982f&dn=GTO%20Kai%20%5BTenma%5D%20%281080p%20Upscale%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
-    "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-    "size": "19.6 GiB",
+    "title": "My Hero Academia Henshū",
+    "nyaa_id": 1964024,
+    "nyaa_url": "https://nyaa.si/view/1964024",
+    "torrent_url": "https://nyaa.si/download/1964024.torrent",
+    "magnet": "magnet:?xt=urn:btih:eea5a605ecc47799adde9ecc034d03ff8af5cb14&dn=My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+    "infohash": "eea5a605ecc47799adde9ecc034d03ff8af5cb14",
+    "size": "7.1 GiB",
     "pub_date": null,
     "seeders": null,
+    "fankai": false,
     "files": [
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv",
-      "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv"
+      "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
     ],
     "ep_numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10
-    ]
+      4
+    ],
+    "force_season": 0,
+    "force_path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
+  },
+  {
+    "title": "One Piece Kaï",
+    "nyaa_id": 2066727,
+    "nyaa_url": "https://nyaa.si/view/2066727",
+    "torrent_url": "https://nyaa.si/download/2066727.torrent",
+    "magnet": "magnet:?xt=urn:btih:854f0c12bb8c4b1105b7453520053d74e0f399d4&dn=%5BuP%5D%20One%20Piece%20-%20Films%2006-10%20%28BDRip%201080p%20x264%20AC3%20Multi%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&so=4",
+    "infohash": "854f0c12bb8c4b1105b7453520053d74e0f399d4",
+    "size": "23.1 GiB",
+    "pub_date": null,
+    "seeders": null,
+    "fankai": false,
+    "files": [
+      "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)\\[uP] One Piece - 06 Le baron Omatsuri et l'île secrète (BDRip 1080p x264 AC3 MULTI).mkv",
+      "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)\\[uP] One Piece - 07 Le Mecha géant du château Karakuri (BDRip 1080p x264 AC3 MULTI).mkv",
+      "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)\\[uP] One Piece - 08 Les pirates et la princesse du désert (BDRip 1080p x264 AC3 MULTI).mkv",
+      "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)\\[uP] One Piece - 09 Le Miracle des cerisiers en hiver (BDRip 1080p x264 AC3 MULTI).mkv",
+      "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)\\[uP] One Piece - 10 Strong World (BDRip 1080p x264 AC3 MULTI).mkv"
+    ],
+    "ep_numbers": [
+      1
+    ],
+    "force_season": 0,
+    "force_path": "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)/[uP] One Piece - 10 Strong World (BDRip 1080p x264 AC3 MULTI).mkv"
+  },
+  {
+    "title": "One Piece Kaï Z",
+    "nyaa_id": 1250812,
+    "nyaa_url": "https://nyaa.si/view/1250812",
+    "torrent_url": "https://nyaa.si/download/1250812.torrent",
+    "magnet": "magnet:?xt=urn:btih:e05c2f2948da29157d0dced179401ed55f88c23a&dn=%5BKaerizaki-Fansub%5D_One-Piece_Z_Film_12_%5BVOSTFR%5D%5BBLU-RAY%5D%5BFHD_1920x1080%5D.mp4&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+    "infohash": "e05c2f2948da29157d0dced179401ed55f88c23a",
+    "size": "1.8 GiB",
+    "pub_date": null,
+    "seeders": null,
+    "fankai": false,
+    "files": [
+      "[Kaerizaki-Fansub]_One-Piece_Z_Film_12_[VOSTFR][BLU-RAY][FHD_1920x1080].mp4"
+    ],
+    "ep_numbers": [
+      2
+    ],
+    "force_season": 0,
+    "force_path": "[Kaerizaki-Fansub]_One-Piece_Z_Film_12_[VOSTFR][BLU-RAY][FHD_1920x1080].mp4"
+  },
+  {
+    "title": "One Piece Kaï Gold",
+    "nyaa_id": 1815826,
+    "nyaa_url": "https://nyaa.si/view/1815826",
+    "torrent_url": "https://nyaa.si/download/1815826.torrent",
+    "magnet": "magnet:?xt=urn:btih:ade6b7cb0ccaf64d58696b107a7464ac3ff69407&dn=One%20Piece%20Gold%20%282016%29%20MULTi%201080p%20WEB%20x264%20AAC%20-Tsundere-Raws%20%28ADN%29.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+    "infohash": "ade6b7cb0ccaf64d58696b107a7464ac3ff69407",
+    "size": "2.9 GiB",
+    "pub_date": null,
+    "seeders": null,
+    "fankai": false,
+    "files": [
+      "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
+    ],
+    "ep_numbers": [
+      3
+    ],
+    "force_season": 0,
+    "force_path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
+  },
+  {
+    "title": "One Piece Kaï Stampede",
+    "nyaa_id": 1257276,
+    "nyaa_url": "https://nyaa.si/view/1257276",
+    "torrent_url": "https://nyaa.si/download/1257276.torrent",
+    "magnet": "magnet:?xt=urn:btih:b9a5a1c0545084fbde86d4f4da5129c117bac8d3&dn=%5BISSOUj%5D%20ONE%20PIECE%20STAMPEDE%20-%20VOSTFR%20%26%20VF%20MULTI%20%28BDRip%201080p%20x264%2010bits%20FLAC%20AAC%20AC-3%29.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+    "infohash": "b9a5a1c0545084fbde86d4f4da5129c117bac8d3",
+    "size": "9.7 GiB",
+    "pub_date": null,
+    "seeders": null,
+    "fankai": false,
+    "files": [
+      "[ISSOUj] ONE PIECE STAMPEDE - VOSTFR & VF MULTI (BDRip 1080p x264 10bits FLAC AAC AC-3).mkv"
+    ],
+    "ep_numbers": [
+      4
+    ],
+    "force_season": 0,
+    "force_path": "[ISSOUj] ONE PIECE STAMPEDE - VOSTFR & VF MULTI (BDRip 1080p x264 10bits FLAC AAC AC-3).mkv"
+  },
+  {
+    "title": "One Piece Kaï Red",
+    "nyaa_id": 1648250,
+    "nyaa_url": "https://nyaa.si/view/1648250",
+    "torrent_url": "https://nyaa.si/download/1648250.torrent",
+    "magnet": "magnet:?xt=urn:btih:951fe8af962cab633fa008ca186ae8bcfb3473cd&dn=%5BAlmighty%5D%20One%20Piece%20Film%20Red%20%5BBD%201920x1080%20x264%2010bit%20FLAC%5D%5BMulti%20Subs%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+    "infohash": "951fe8af962cab633fa008ca186ae8bcfb3473cd",
+    "size": "9.1 GiB",
+    "pub_date": null,
+    "seeders": null,
+    "fankai": false,
+    "files": [
+      "[Almighty] One Piece Film Red [BD 1920x1080 x264 10bit FLAC][Multi Subs].mkv"
+    ],
+    "ep_numbers": [
+      5
+    ],
+    "force_season": 0,
+    "force_path": "[Almighty] One Piece Film Red [BD 1920x1080 x264 10bit FLAC][Multi Subs].mkv"
   }
 ]
