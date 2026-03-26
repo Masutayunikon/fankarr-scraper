@@ -461,7 +461,7 @@ def assign(structure, torrent, ttype):
                     ep["torrents"].append(ref)
                     p = _compute_path(ep, n, is_specials, folder_key, season_path_idx,
                                       path_idx, title_path_idx, nb_seasons_loc, strict=True)
-                    if p is None and not torrent.get("files"):
+                    if p is None:
                         p = _torrent_title_to_path(torrent.get("title"))
                     ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                 assigned = True
@@ -488,7 +488,7 @@ def assign(structure, torrent, ttype):
                         ep["torrents"].append(ref)
                         p = _compute_path(ep, n, is_specials, folder_key, season_path_idx,
                                           path_idx, title_path_idx, nb_seasons, strict=True)
-                        if p is None and not torrent.get("files"):
+                        if p is None:
                             p = _torrent_title_to_path(torrent.get("title"))
                         ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     assigned = True
@@ -512,7 +512,7 @@ def assign(structure, torrent, ttype):
                         ep["torrents"].append(ref)
                         p = _compute_path(ep, ep_num, is_specials, folder_key, season_path_idx,
                                           path_idx, title_path_idx, nb_seasons, strict=True)
-                        if p is None and not torrent.get("files"):
+                        if p is None:
                             p = _torrent_title_to_path(torrent.get("title"))
                         ep["paths"].append({"infohash": ref.get("infohash"), "path": p})
                     return True
@@ -736,6 +736,20 @@ def main():
                 if raw.get("files"):
                     _populate_paths_from_torrent(structure, raw, append=True)
 
+            # Nettoyer : si un épisode a un torrent individuel avec path null
+            # mais qu'il a aussi un path non-null venant du pack → supprimer le torrent individuel
+            for s in structure["seasons"]:
+                for ep in s["episodes"]:
+                    if not ep["torrents"]: continue
+                    good_paths = [obj for obj in ep["paths"]
+                                  if isinstance(obj, dict) and obj.get("path")]
+                    null_torrent_paths = [obj for obj in ep["paths"]
+                                          if isinstance(obj, dict) and not obj.get("path")]
+                    if good_paths and null_torrent_paths:
+                        # Le pack couvre déjà cet épisode → supprimer les torrents individuels
+                        ep["torrents"] = []
+                        ep["paths"] = good_paths
+
             consolidated += 1
             continue
 
@@ -779,6 +793,44 @@ def main():
             pack_raw = torrents_by_id.get(pack_ref.get("nyaa_id")) or torrents_by_infohash.get(pack_ref.get("infohash"), {})
             if pack_raw.get("files"):
                 _populate_paths_from_torrent(structure, pack_raw, append=False)
+
+    # Nettoyage final : supprimer les paths avec path=null
+    # Si l'épisode a d'autres paths valides, garder seulement ceux-là
+    # Si l'épisode n'a que des paths null, les remplacer par le fallback titre
+    for structure in structures.values():
+        for s in structure["seasons"]:
+            for ep in s["episodes"]:
+                if not ep["paths"]: continue
+                valid = [obj for obj in ep["paths"]
+                         if isinstance(obj, dict) and obj.get("path")]
+                null_paths = [obj for obj in ep["paths"]
+                              if isinstance(obj, dict) and not obj.get("path")]
+                if valid:
+                    # Garder seulement les paths valides, supprimer les null
+                    ep["paths"] = valid
+                    # Si on avait des torrents individuels sans path, les supprimer aussi
+                    # (le pack les couvre déjà)
+                    if null_paths:
+                        null_infohashes = {obj.get("infohash") for obj in null_paths}
+                        ep["torrents"] = [t for t in ep["torrents"]
+                                          if (t.get("nyaa_id") or t.get("infohash")) not in null_infohashes
+                                          and t.get("infohash") not in null_infohashes]
+                elif null_paths:
+                    # Aucun path valide → essayer le fallback titre pour chaque torrent
+                    new_paths = []
+                    for obj in null_paths:
+                        # Trouver le torrent correspondant
+                        ih = obj.get("infohash")
+                        ref_torrent = next(
+                            (t for t in ep["torrents"] if t.get("infohash") == ih),
+                            None
+                        )
+                        if ref_torrent:
+                            p = _torrent_title_to_path(ref_torrent.get("title"))
+                            new_paths.append({"infohash": ih, "path": p})
+                        else:
+                            new_paths.append(obj)
+                    ep["paths"] = new_paths
 
     print(f"[Consolidation] {consolidated} packs détectés et remontés\n")
 
