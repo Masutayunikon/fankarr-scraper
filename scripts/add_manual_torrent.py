@@ -44,12 +44,13 @@ TORRENTS = [
         "path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
     },
     {
-        "source": 2068604,
-        "title": "One Piece Kaï Strong World",
+        "source": 2066727,
+        "title": "One Piece Kaï",
         "no_fankai": True,
         "season": 0,
         "episode": 1,
-        "path": "[uP] One Piece - Strong World Episode 0 (WEBRip 1080p x264 AC3 VOSTFR) .mkv"
+        "path": "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)/[uP] One Piece - 10 Strong World (BDRip 1080p x264 AC3 MULTI).mkv",
+        "so": "4",  # index 4 = Strong World (5ème fichier)
     },
     {
         "source": 1250812,
@@ -123,6 +124,8 @@ def build_args(entry: dict) -> list[str]:
         args += ["--type", entry["type"]]
     if entry.get("path"):
         args += ["--path", entry["path"]]
+    if entry.get("so") is not None:
+        args += ["--so", str(entry["so"])]
 
     return args
 
@@ -135,7 +138,7 @@ def main():
 
     for i, entry in enumerate(TORRENTS, 1):
         source = entry.get("source", "?")
-        title  = entry.get("title", "?")
+        title = entry.get("title", "?")
         print(f"[{i:02d}/{len(TORRENTS)}] {title} ← {source}")
 
         args = build_args(entry)
@@ -149,7 +152,7 @@ def main():
 
         print()
 
-    print(f"{'─'*50}")
+    print(f"{'─' * 50}")
     print(f"✅ {ok} ajouté(s)  |  ❌ {errors} erreur(s)")
 
 

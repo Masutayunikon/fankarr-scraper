@@ -30,13 +30,13 @@
           "aired": "2009-12-12",
           "torrents": [
             {
-              "nyaa_id": 2068604,
-              "nyaa_url": "https://nyaa.si/view/2068604",
-              "title": "One Piece Kaï Strong World",
-              "torrent_url": "https://nyaa.si/download/2068604.torrent",
-              "magnet": "magnet:?xt=urn:btih:807b1e63e7dd98317aeebc890dcf98a38052d43a&dn=%5BuP%5D%20One%20Piece%20-%20Strong%20World%20Episode%200%20%28WEBRip%201080p%20x264%20AC3%20VOSTFR%29%20.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
-              "infohash": "807b1e63e7dd98317aeebc890dcf98a38052d43a",
-              "size": "631.2 MiB",
+              "nyaa_id": 2066727,
+              "nyaa_url": "https://nyaa.si/view/2066727",
+              "title": "One Piece Kaï",
+              "torrent_url": "https://nyaa.si/download/2066727.torrent",
+              "magnet": "magnet:?xt=urn:btih:854f0c12bb8c4b1105b7453520053d74e0f399d4&dn=%5BuP%5D%20One%20Piece%20-%20Films%2006-10%20%28BDRip%201080p%20x264%20AC3%20Multi%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&so=4",
+              "infohash": "854f0c12bb8c4b1105b7453520053d74e0f399d4",
+              "size": "23.1 GiB",
               "pub_date": null,
               "seeders": null,
               "fankai": false
@@ -44,8 +44,8 @@
           ],
           "paths": [
             {
-              "infohash": "807b1e63e7dd98317aeebc890dcf98a38052d43a",
-              "path": "[uP] One Piece - Strong World Episode 0 (WEBRip 1080p x264 AC3 VOSTFR) .mkv"
+              "infohash": "854f0c12bb8c4b1105b7453520053d74e0f399d4",
+              "path": "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)/[uP] One Piece - 10 Strong World (BDRip 1080p x264 AC3 MULTI).mkv"
             }
           ]
         },

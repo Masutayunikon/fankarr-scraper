@@ -158,6 +158,27 @@ def parse_torrent(torrent_path: Path):
 
 # ─── Manual file ──────────────────────────────────────────────────────────────
 
+def build_so_param(so_str: str) -> str | None:
+    """Valide et normalise le paramètre --so (ex: '4', '0,2,4', '0-3' → '4', '0,2,4', '0-3')."""
+    if not so_str: return None
+    so_str = so_str.strip()
+    # Accepter index simple, liste, ou range
+    if re.fullmatch(r'[\d]+', so_str): return so_str
+    if re.fullmatch(r'[\d]+(-\d+)?(,\d+(-\d+)?)*', so_str): return so_str
+    print(f"  [!] Format --so invalide : {so_str!r} (attendu: '4', '0,2,4' ou '0-3')")
+    return None
+
+
+def add_so_to_magnet(magnet: str, so: str) -> str:
+    """Ajoute &so=... au magnet."""
+    if not magnet or not so: return magnet
+    if "&so=" in magnet:
+        magnet = re.sub(r'&so=[^&]*', f'&so={so}', magnet)
+    else:
+        magnet += f"&so={so}"
+    return magnet
+
+
 def load_manual() -> list:
     p = Path(MANUAL_FILE)
     if not p.exists(): return []
@@ -180,6 +201,7 @@ def main():
     parser.add_argument("--season",    type=int,   default=None, help="Forcer le numéro de saison (ex: --season 0 pour spécial)")
     parser.add_argument("--type",      default=None, choices=["episode","integral","season"], help="Forcer le type (défaut: auto)")
     parser.add_argument("--path",      default=None, help="Chemin/nom de fichier forcé dans le torrent (ex: 'dossier/film.mkv')")
+    parser.add_argument("--so",        default=None, help="Sélection de fichiers dans le torrent pour le magnet (ex: '4' ou '0,2,4' ou '0-3')")
     parser.add_argument("--dry-run",   action="store_true", help="Afficher sans sauvegarder")
     args = parser.parse_args()
 
@@ -232,6 +254,10 @@ def main():
         entry["force_season"] = args.season
     if args.path:
         entry["force_path"] = args.path
+    if args.so:
+        so = build_so_param(args.so)
+        if so and entry.get("magnet"):
+            entry["magnet"] = add_so_to_magnet(entry["magnet"], so)
 
     print(f"\n{'─'*60}")
     print(f"Titre     : {title}")
@@ -243,6 +269,7 @@ def main():
     if args.episode is not None: print(f"Épisode   : {args.episode} (forcé)")
     if args.season  is not None: print(f"Saison    : {args.season} (forcé)")
     if args.path:                print(f"Path      : {args.path} (forcé)")
+    if args.so:                  print(f"so=       : {args.so} (sélection fichiers magnet)")
     print(f"Fichiers  : {len(info['files'])}")
     print(f"Épisodes  : {info['ep_numbers'][:15]}{'...' if len(info['ep_numbers']) > 15 else ''}")
     if info["files"]:
