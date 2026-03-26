@@ -12,7 +12,7 @@
       "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
       "size": "6.5 GiB",
       "pub_date": "2026-03-19 23:26",
-      "seeders": 10
+      "seeders": 8
     },
     {
       "nyaa_id": 2089867,
@@ -23,7 +23,7 @@
       "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
       "size": "9.9 GiB",
       "pub_date": "2026-03-24 20:28",
-      "seeders": 13
+      "seeders": 11
     }
   ],
   "seasons": [
@@ -42,11 +42,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -59,11 +59,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -76,11 +76,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -93,11 +93,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -110,11 +110,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -127,11 +127,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -144,11 +144,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -161,11 +161,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -178,11 +178,11 @@
           "paths": [
             {
               "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
-              "path": "Horimiya Kaï/Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
-              "path": "Horimiya Kaï/Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv"
+              "path": "Horimiya Kaï\\Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv"
             }
           ]
         }
