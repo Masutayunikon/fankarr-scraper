@@ -18,7 +18,8 @@
           "infohash": "7a70659b7cbcae14a2231e36be6b25d14b14a68f",
           "size": "6.9 GiB",
           "pub_date": "2020-04-20 17:35",
-          "seeders": 14
+          "seeders": 8,
+          "fankai": true
         }
       ],
       "episodes": [
@@ -129,7 +130,8 @@
           "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
           "size": "7.4 GiB",
           "pub_date": "2020-04-20 17:35",
-          "seeders": 12
+          "seeders": 6,
+          "fankai": true
         }
       ],
       "episodes": [
@@ -142,7 +144,7 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 8 - Retrouvailles.mkv"
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 10 - La Zone.mkv"
             }
           ]
         },
@@ -155,7 +157,7 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 9 - Qualifications pour la Winter Cup.mkv"
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.mkv"
             }
           ]
         },
@@ -168,7 +170,7 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 10 - La Zone.mkv"
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 8 - Retrouvailles.mkv"
             }
           ]
         },
@@ -181,7 +183,7 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.mkv"
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2\\[Livaï]Kuroko no Basket Henshū 9 - Qualifications pour la Winter Cup.mkv"
             }
           ]
         }
@@ -201,7 +203,8 @@
           "infohash": "5320bb4089d9567e30aaa6e9eaddb22c18fa5de3",
           "size": "7.0 GiB",
           "pub_date": "2020-04-20 17:35",
-          "seeders": 13
+          "seeders": 6,
+          "fankai": true
         }
       ],
       "episodes": [

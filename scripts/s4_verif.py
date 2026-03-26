@@ -40,7 +40,9 @@ def ep_status(ep, s_torrents, season_torrents):
     found       = bool(ep_torrents) or inherited
 
     if ep_torrents:
-        if len(ep_paths) != len(ep_torrents):
+        # paths peut être > torrents si un pack intégral a ajouté ses paths en plus
+        # → seulement signaler si paths < torrents (manque)
+        if len(ep_paths) < len(ep_torrents):
             issues.append(f"⚠ {len(ep_torrents)} torrent(s) mais {len(ep_paths)} path(s)")
         for i, obj in enumerate(ep_paths):
             p = obj.get("path") if isinstance(obj, dict) else obj

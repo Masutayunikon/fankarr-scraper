@@ -6,13 +6,14 @@
     {
       "nyaa_id": null,
       "nyaa_url": null,
-      "title": "GTO Kai [Tenma] (1080p Upscale)",
+      "title": "GTO Kaï",
       "torrent_url": null,
       "magnet": "magnet:?xt=urn:btih:b7bbf5294413d982ab2d7e4daacdd7527ae1982f&dn=GTO%20Kai%20%5BTenma%5D%20%281080p%20Upscale%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
       "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
       "size": "19.6 GiB",
       "pub_date": null,
-      "seeders": null
+      "seeders": null,
+      "fankai": true
     },
     {
       "nyaa_id": 1758971,
@@ -23,7 +24,8 @@
       "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
       "size": "13.0 GiB",
       "pub_date": "2023-12-22 20:19",
-      "seeders": 17
+      "seeders": 16,
+      "fankai": true
     }
   ],
   "seasons": [

@@ -110,6 +110,7 @@ _IS_INTEGRAL = re.compile(r"""
     | films?\s+\d+\s*[àa]\s*\d+
     | saisons?\s*\d+\s*[/&,]\s*\d
     | seasons?\s*\d+\s*[/&,]\s*\d
+    | parties?\s*\d+\s*[/&,]\s*\d
     | s\d{1,2}\s*/\s*s\d{1,2}
     | saga\s*\d+/\d+
     """, re.IGNORECASE | re.VERBOSE)
@@ -149,6 +150,10 @@ def detect_type(title):
     em = _EPISODE_NUM.search(title)
     if em:
         r["type"] = "episode"; r["episode"] = int(next(g for g in em.groups() if g is not None)); return r
+    # Spéciaux : "Spécial #1", "Special 01", "SP1"
+    sm2 = re.search(r"sp[eé][cç]ial\s*#?\s*0*(\d+)", title, re.IGNORECASE)
+    if sm2:
+        r["type"] = "episode"; r["episode"] = int(sm2.group(1)); return r
     return r
 
 def _dedup_letters(tokens):
@@ -281,6 +286,7 @@ def make_ref(t):
         "size":        t.get("size"),
         "pub_date":    t.get("pub_date"),
         "seeders":     t.get("seeders"),
+        "fankai":      t.get("fankai", True),
     }
 
 _VIDEO_EXT = {'.mkv', '.mp4', '.avi', '.m4v', '.mov'}
@@ -316,11 +322,37 @@ def _stem_title(s):
     return " ".join(w for w in s.split() if len(w) >= 3)
 
 def build_ep_path_index(torrent):
+    """Construit un index ep_number → path.
+    Gère aussi la numérotation SxxEyy en utilisant ep_numbers pour mapper
+    les numéros relatifs aux numéros globaux."""
     index = {}
+    ep_numbers = torrent.get("ep_numbers") or []
+
+    # Index par numéro extrait du filename
+    raw_index = {}
     for f in torrent.get("files") or []:
         num = _extract_ep_video(Path(f).name)
-        if num is not None and num not in index:
-            index[num] = f
+        if num is not None:
+            if num not in raw_index:
+                raw_index[num] = f
+
+    # Si ep_numbers fournis et numéros dans les fichiers ne correspondent pas
+    # (ex: torrent avec S01x01..S01x16 + S02x01..S02x06 → raw_index a 1-16 pour S01
+    # mais S02 ep1 écrase S01 ep1), utiliser l'ordre des fichiers vidéo
+    video_files = sorted([
+        f for f in (torrent.get("files") or [])
+        if Path(f).suffix.lower() in _VIDEO_EXT
+        and _extract_ep_video(Path(f).name) is not None
+        and not Path(f).name.lower().endswith(('.png', '.jpg', '.nfo', '.zip'))
+    ])
+
+    if ep_numbers and len(ep_numbers) == len(video_files):
+        # Mapper dans l'ordre fichier → ep_number global
+        for ep_num, f in zip(sorted(ep_numbers), video_files):
+            index[ep_num] = f
+    else:
+        index = raw_index
+
     return index
 
 def build_title_path_index(torrent):
@@ -500,7 +532,11 @@ def assign(structure, torrent, ttype):
         path_idx       = build_ep_path_index(torrent)
         title_path_idx = build_title_path_index(torrent)
         folder_idx     = build_folder_ep_index(torrent)
+        force_season   = torrent.get("force_season")
         for season in structure["seasons"]:
+            # Si force_season spécifié, ne traiter que cette saison
+            if force_season is not None and season.get("season_number") != force_season:
+                continue
             is_specials = season.get("season_number") == 0
             folder_key  = find_best_folder(season.get("title", ""), folder_idx)
             season_path_idx = folder_idx.get(folder_key, {}) if folder_key else {}
@@ -606,6 +642,13 @@ def main():
 
         if force_type == "integral":
             ttype = {"type": "integral", "season": None, "episode": None, "ep_from": None, "ep_to": None}
+        elif torrent.get("force_season") is not None and ep_numbers and len(ep_numbers) == 1:
+            # Torrent manuel avec saison+épisode forcés → episode direct
+            ttype = {"type": "episode", "episode": ep_numbers[0], "season": None, "ep_from": None, "ep_to": None}
+        elif torrent.get("force_season") is not None and ep_numbers and len(ep_numbers) > 1:
+            # Torrent manuel avec saison forcée et plage d'épisodes
+            ttype = {"type": "episode_range", "season": None, "episode": None,
+                     "ep_from": min(ep_numbers), "ep_to": max(ep_numbers)}
         else:
             title_type = detect_type(ttitle)
             if title_type["type"] == "season" and ep_numbers is not None and len(ep_numbers) > 0:

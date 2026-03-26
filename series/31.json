@@ -2,25 +2,26 @@
   "id": 31,
   "title": "Hokuto No Ken Kaï",
   "show_title": "Hokuto No Ken Kaï",
-  "torrents": [],
+  "torrents": [
+    {
+      "nyaa_id": 1373050,
+      "nyaa_url": "https://nyaa.si/view/1373050",
+      "title": "Hokuto No Ken Kaï (Fan-Kai) - INTEGRALE (22 films) - 1080p.VOSTFR.x264 [Illuzionn]",
+      "torrent_url": "https://nyaa.si/download/1373050.torrent",
+      "magnet": "magnet:?xt=urn:btih:aaa6f6b390523fa7e8c1294e0285d799cad4d0df&dn=Hokuto%20No%20Ken%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.VOSTFR.x264%20%5BIlluzionn%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+      "size": "53.1 GiB",
+      "pub_date": "2021-04-16 19:22",
+      "seeders": 8,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 66,
       "season_number": 1,
       "title": "Saison 1",
-      "torrents": [
-        {
-          "nyaa_id": 1373050,
-          "nyaa_url": "https://nyaa.si/view/1373050",
-          "title": "Hokuto No Ken Kaï (Fan-Kai) - INTEGRALE (22 films) - 1080p.VOSTFR.x264 [Illuzionn]",
-          "torrent_url": "https://nyaa.si/download/1373050.torrent",
-          "magnet": "magnet:?xt=urn:btih:aaa6f6b390523fa7e8c1294e0285d799cad4d0df&dn=Hokuto%20No%20Ken%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.VOSTFR.x264%20%5BIlluzionn%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
-          "size": "53.1 GiB",
-          "pub_date": "2021-04-16 19:22",
-          "seeders": 8
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 462,
@@ -80,19 +81,7 @@
       "id": 64,
       "season_number": 2,
       "title": "Saison 2",
-      "torrents": [
-        {
-          "nyaa_id": 1373050,
-          "nyaa_url": "https://nyaa.si/view/1373050",
-          "title": "Hokuto No Ken Kaï (Fan-Kai) - INTEGRALE (22 films) - 1080p.VOSTFR.x264 [Illuzionn]",
-          "torrent_url": "https://nyaa.si/download/1373050.torrent",
-          "magnet": "magnet:?xt=urn:btih:aaa6f6b390523fa7e8c1294e0285d799cad4d0df&dn=Hokuto%20No%20Ken%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.VOSTFR.x264%20%5BIlluzionn%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
-          "size": "53.1 GiB",
-          "pub_date": "2021-04-16 19:22",
-          "seeders": 8
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 452,
@@ -165,19 +154,7 @@
       "id": 61,
       "season_number": 3,
       "title": "Saison 3",
-      "torrents": [
-        {
-          "nyaa_id": 1373050,
-          "nyaa_url": "https://nyaa.si/view/1373050",
-          "title": "Hokuto No Ken Kaï (Fan-Kai) - INTEGRALE (22 films) - 1080p.VOSTFR.x264 [Illuzionn]",
-          "torrent_url": "https://nyaa.si/download/1373050.torrent",
-          "magnet": "magnet:?xt=urn:btih:aaa6f6b390523fa7e8c1294e0285d799cad4d0df&dn=Hokuto%20No%20Ken%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.VOSTFR.x264%20%5BIlluzionn%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
-          "size": "53.1 GiB",
-          "pub_date": "2021-04-16 19:22",
-          "seeders": 8
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 445,
@@ -224,19 +201,7 @@
       "id": 65,
       "season_number": 4,
       "title": "Saison 4",
-      "torrents": [
-        {
-          "nyaa_id": 1373050,
-          "nyaa_url": "https://nyaa.si/view/1373050",
-          "title": "Hokuto No Ken Kaï (Fan-Kai) - INTEGRALE (22 films) - 1080p.VOSTFR.x264 [Illuzionn]",
-          "torrent_url": "https://nyaa.si/download/1373050.torrent",
-          "magnet": "magnet:?xt=urn:btih:aaa6f6b390523fa7e8c1294e0285d799cad4d0df&dn=Hokuto%20No%20Ken%20Ka%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2822%20films%29%20-%201080p.VOSTFR.x264%20%5BIlluzionn%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
-          "size": "53.1 GiB",
-          "pub_date": "2021-04-16 19:22",
-          "seeders": 8
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 459,
@@ -304,7 +269,12 @@
           "title": "Retour en Enfer",
           "aired": "2019-08-04",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+              "path": "Hokuto No Ken [Illuzionn]\\Hokuto No Ken Fan-Kai - Saison 02 [Illuzionn]\\Hokuto No Ken Fan-Kai - 02x01 - Retour en Enfer.1080p.DvdRip.x264.Illuzionn.mkv"
+            }
+          ]
         },
         {
           "id": 446,
@@ -312,7 +282,12 @@
           "title": "Empereur Céleste",
           "aired": "2019-08-11",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+              "path": "Hokuto No Ken [Illuzionn]\\Hokuto No Ken Fan-Kai - Saison 02 [Illuzionn]\\Hokuto No Ken Fan-Kai - 02x02 - Empereur Céleste.1080p.DvdRip.x264.Illuzionn.mkv"
+            }
+          ]
         }
       ]
     },
@@ -328,7 +303,12 @@
           "title": "Pays de Shura",
           "aired": "2019-08-18",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+              "path": "Hokuto No Ken [Illuzionn]\\Hokuto No Ken Fan-Kai - Saison 02 [Illuzionn]\\Hokuto No Ken Fan-Kai - 02x03 - Pays de Shura.1080p.DvdRip.x264.Illuzionn.mkv"
+            }
+          ]
         },
         {
           "id": 448,
@@ -336,7 +316,12 @@
           "title": "Défaite totale",
           "aired": "2019-08-25",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+              "path": "Hokuto No Ken [Illuzionn]\\Hokuto No Ken Fan-Kai - Saison 02 [Illuzionn]\\Hokuto No Ken Fan-Kai - 02x04 - Défaite totale.1080p.DvdRip.x264.Illuzionn.mkv"
+            }
+          ]
         },
         {
           "id": 451,
@@ -344,7 +329,12 @@
           "title": "Deux frères",
           "aired": "2019-09-01",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+              "path": "Hokuto No Ken [Illuzionn]\\Hokuto No Ken Fan-Kai - Saison 02 [Illuzionn]\\Hokuto No Ken Fan-Kai - 02x05 - Deux frères.1080p.DvdRip.x264.Illuzionn.mkv"
+            }
+          ]
         },
         {
           "id": 449,
@@ -352,7 +342,12 @@
           "title": "Origines",
           "aired": "2019-09-08",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
+              "path": "Hokuto No Ken [Illuzionn]\\Hokuto No Ken Fan-Kai - Saison 02 [Illuzionn]\\Hokuto No Ken Fan-Kai - 02x06 - Origines.1080p.DvdRip.x264.Illuzionn.mkv"
+            }
+          ]
         }
       ]
     }

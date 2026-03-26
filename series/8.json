@@ -17,6 +17,18 @@
           "aired": "2025-01-27",
           "torrents": [
             {
+              "nyaa_id": 2090162,
+              "nyaa_url": "https://nyaa.si/view/2090162",
+              "title": "[Brazh] Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/2090162.torrent",
+              "magnet": "magnet:?xt=urn:btih:680ac0786ef7ca13b9319797f8d78136e93c29a3&dn=%5BBrazh%5D%20Boruto%20Ka%C3%AF%20Sp%C3%A9cial%20%231%20-%20Le%20Septi%C3%A8me%20Hokage%20et%20le%20Printemps%20%C3%A9carlate%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "680ac0786ef7ca13b9319797f8d78136e93c29a3",
+              "size": "1.4 GiB",
+              "pub_date": "2026-03-25 18:02",
+              "seeders": 20,
+              "fankai": true
+            },
+            {
               "nyaa_id": 1927673,
               "nyaa_url": "https://nyaa.si/view/1927673",
               "title": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264",
@@ -25,10 +37,15 @@
               "infohash": "4edc091916b76268d1d46cb71fe61d86448af0e4",
               "size": "2.0 GiB",
               "pub_date": "2025-01-28 17:31",
-              "seeders": 28
+              "seeders": 23,
+              "fankai": true
             }
           ],
           "paths": [
+            {
+              "infohash": "680ac0786ef7ca13b9319797f8d78136e93c29a3",
+              "path": "Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate.mkv"
+            },
             {
               "infohash": "4edc091916b76268d1d46cb71fe61d86448af0e4",
               "path": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv"
@@ -50,7 +67,8 @@
               "infohash": "574bee404f7de8ec4777e23e11f176f037e910bb",
               "size": "722.0 MiB",
               "pub_date": "2025-02-05 18:09",
-              "seeders": 27
+              "seeders": 22,
+              "fankai": true
             }
           ],
           "paths": [
@@ -75,7 +93,8 @@
               "infohash": "dd229eca10f819457c95985df91f4df1afbde37f",
               "size": "1.8 GiB",
               "pub_date": "2025-02-22 08:29",
-              "seeders": 29
+              "seeders": 23,
+              "fankai": true
             }
           ],
           "paths": [
@@ -100,7 +119,8 @@
               "infohash": "bae666a8859d9c93eebb4100b5b66a6d4263c8cf",
               "size": "2.3 GiB",
               "pub_date": "2025-03-05 10:15",
-              "seeders": 27
+              "seeders": 21,
+              "fankai": true
             }
           ],
           "paths": [
@@ -125,7 +145,8 @@
               "infohash": "fef6fbfd6038e80d148b2e050e85cd6f9ebe4363",
               "size": "1.3 GiB",
               "pub_date": "2025-04-23 17:41",
-              "seeders": 30
+              "seeders": 24,
+              "fankai": true
             }
           ],
           "paths": [
@@ -150,7 +171,8 @@
               "infohash": "b4e9180c4b612d7e7512d581c661e19970b3dfcd",
               "size": "2.0 GiB",
               "pub_date": "2025-08-06 13:11",
-              "seeders": 29
+              "seeders": 22,
+              "fankai": true
             }
           ],
           "paths": [
@@ -175,7 +197,8 @@
               "infohash": "4282ed04c67efc02164f495b1353519d5503b645",
               "size": "1.3 GiB",
               "pub_date": "2025-12-14 19:03",
-              "seeders": 30
+              "seeders": 23,
+              "fankai": true
             }
           ],
           "paths": [
@@ -200,7 +223,8 @@
               "infohash": "c41a128014f6bd3ebaf995956b4fb0e685a1e4f0",
               "size": "2.0 GiB",
               "pub_date": "2026-02-25 19:59",
-              "seeders": 18
+              "seeders": 17,
+              "fankai": true
             }
           ],
           "paths": [

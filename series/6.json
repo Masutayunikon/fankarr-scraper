@@ -12,7 +12,8 @@
       "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
       "size": "65.4 GiB",
       "pub_date": "2024-05-01 18:19",
-      "seeders": 16
+      "seeders": 14,
+      "fankai": true
     }
   ],
   "seasons": [
@@ -66,8 +67,26 @@
           "episode_number": 4,
           "title": "You're Next",
           "aired": "2024-08-02",
-          "torrents": [],
-          "paths": []
+          "torrents": [
+            {
+              "nyaa_id": 1964024,
+              "nyaa_url": "https://nyaa.si/view/1964024",
+              "title": "My Hero Academia Henshū",
+              "torrent_url": "https://nyaa.si/download/1964024.torrent",
+              "magnet": "magnet:?xt=urn:btih:eea5a605ecc47799adde9ecc034d03ff8af5cb14&dn=My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+              "infohash": "eea5a605ecc47799adde9ecc034d03ff8af5cb14",
+              "size": "7.1 GiB",
+              "pub_date": null,
+              "seeders": null,
+              "fankai": false
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "eea5a605ecc47799adde9ecc034d03ff8af5cb14",
+              "path": "My Hero Academia Henshū.mkv"
+            }
+          ]
         }
       ]
     },

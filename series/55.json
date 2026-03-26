@@ -12,7 +12,8 @@
       "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
       "size": "22.7 GiB",
       "pub_date": "2021-04-16 19:14",
-      "seeders": 8
+      "seeders": 9,
+      "fankai": true
     }
   ],
   "seasons": [
@@ -151,7 +152,7 @@
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
             }
           ]
         },
@@ -164,7 +165,7 @@
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
             }
           ]
         },
@@ -177,7 +178,7 @@
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
             }
           ]
         }

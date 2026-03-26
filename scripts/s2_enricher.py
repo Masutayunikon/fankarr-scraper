@@ -4,23 +4,12 @@
 Télécharge chaque .torrent depuis nyaa_id et parse son contenu
 pour extraire la liste des fichiers/dossiers internes.
 
-Cela permet au matcher (étape 2) de se baser sur les vrais noms
-de fichiers plutôt que sur le titre Nyaa, beaucoup plus fiable.
-
-Dépendance : pip install torrentool
-
 Input  : data/torrent_raw.json
 Output : data/torrent_raw.json  (enrichi avec champ "files")
-
-Structure ajoutée par torrent :
-  "files": [
-    "Shingeki No Kyojin Henshū/SNK_01_1080p.mkv",
-    "Shingeki No Kyojin Henshū/SNK_02_1080p.mkv",
-    ...
-  ]
 """
 
 import json
+import re
 import time
 import requests
 from pathlib import Path
@@ -34,23 +23,23 @@ except ImportError:
 # ─── Config ───────────────────────────────────────────────────────────────────
 
 TORRENT_FILE  = "data/torrent_raw.json"
-CACHE_DIR     = Path("data/torrent_cache")   # stocke les .torrent téléchargés
+CACHE_DIR     = Path("data/torrent_cache")
 DELAY         = 0.5
-MAX_ERRORS    = 10   # stop si trop d'erreurs réseau consécutives
+MAX_ERRORS    = 10
 
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": "fankarr-enricher/1.0"})
 
+VIDEO_EXT = {'.mkv', '.mp4', '.avi', '.m4v', '.mov'}
+
 # ─── Download + parse ─────────────────────────────────────────────────────────
 
 def download_torrent(nyaa_id: int) -> Path | None:
-    """Télécharge le .torrent depuis nyaa.si et le met en cache."""
     cache_path = CACHE_DIR / f"{nyaa_id}.torrent"
     if cache_path.exists():
         return cache_path
-
     url = f"https://nyaa.si/download/{nyaa_id}.torrent"
     try:
         r = SESSION.get(url, timeout=20)
@@ -63,94 +52,77 @@ def download_torrent(nyaa_id: int) -> Path | None:
 
 
 def parse_files(torrent_path: Path) -> list[str]:
-    """
-    Retourne la liste des chemins de fichiers contenus dans le torrent.
-    Pour un torrent single-file → ["nom_du_fichier.mkv"]
-    Pour un torrent multi-file  → ["dossier/fichier1.mkv", "dossier/fichier2.mkv", ...]
-    """
     try:
         torrent = tapi.Torrent.from_file(str(torrent_path))
-        files = []
-        for f in torrent.files:
-            # f.name est le chemin relatif complet (ex: "Serie/ep01.mkv")
-            files.append(f.name)
-        return sorted(files)
+        return sorted(f.name for f in torrent.files)
     except Exception as e:
         print(f"    [!] Parse {torrent_path.name} → {e}")
         return []
 
 
-# ─── Extraction des numéros depuis les noms de fichiers ───────────────────────
-
-import re
-
-VIDEO_EXT = {'.mkv', '.mp4', '.avi', '.m4v', '.mov'}
+# ─── Extraction des numéros ───────────────────────────────────────────────────
 
 def extract_ep_from_filename(fname: str):
-    """
-    Extrait le numéro d'épisode d'un nom de fichier vidéo Fan-Kai.
-    Ignore les fichiers non-vidéo. Retourne int ou None.
-    """
+    """Extrait le numéro d'épisode relatif d'un nom de fichier vidéo."""
     if Path(fname).suffix.lower() not in VIDEO_EXT:
         return None
-
     stem = Path(fname).stem
-    # Enlever les tags [xxx] en tête
     stem = re.sub(r'^\[[^\]]*\]\s*', '', stem).strip()
+    if re.search(r'\b\d+[,.]\d+\b', stem): return None
+    if re.search(r'\bbonus\b', stem, re.IGNORECASE): return None
 
-    # Ignorer les fichiers bonus : numéros avec virgule (7,5), point (08.5), ou mot "Bonus"
-    if re.search(r'\b\d+[,.]\d+\b', stem):
-        return None
-    if re.search(r'\bbonus\b', stem, re.IGNORECASE):
-        return None
-
-    # 1. Format S01E03
     m = re.search(r'\bS\d{1,2}E(\d{2,3})\b', stem, re.IGNORECASE)
-    if m:
-        return int(m.group(1))
-
-    # 2. Format 01x02 (ex: Hokuto No Ken Fan-Kai - 01x02 - ...)
+    if m: return int(m.group(1))
     m = re.search(r'\b\d{1,2}x(\d{2,3})\b', stem, re.IGNORECASE)
-    if m:
-        return int(m.group(1))
-
-    # 3. Format Fan-Kai : "Henshū 01" / "Kaï 04" / "film 1"
-    m = re.search(
-        r'\b(?:henshu|henshū|henshû|hensh|kaï|kai|yabai|yabaï|kyodai|film)\s+(\d{1,3})\b',
-        stem, re.IGNORECASE
-    )
-    if m:
-        return int(m.group(1))
-
-    # 4. Format "Inazuma Eleven 01 (Fan-kai)" → numéro suivi de (Fan-k...)
+    if m: return int(m.group(1))
+    m = re.search(r'\b(?:henshu|henshū|henshû|hensh|kaï|kai|yabai|yabaï|kyodai|film)\s+(\d{1,3})\b', stem, re.IGNORECASE)
+    if m: return int(m.group(1))
     m = re.search(r'\b(\d{1,3})\s*\(fan-?ka[iï]\)', stem, re.IGNORECASE)
-    if m:
-        return int(m.group(1))
-
-    # 4b. Format "(Fan-Kai) 01" → numéro après la parenthèse
+    if m: return int(m.group(1))
     m = re.search(r'\(fan-?ka[iï]\)\s+(\d{1,3})\b', stem, re.IGNORECASE)
-    if m:
-        return int(m.group(1))
-
-    # 5. Format "- 001 -" ou "- 22 -" (One Piece, SNK, NSY...)
+    if m: return int(m.group(1))
     m = re.search(r'[-–]\s*0*(\d{1,3})\s*[-–]', stem)
     if m:
         num = int(m.group(1))
-        if num <= 999:
-            return num
-
+        if num <= 999: return num
     return None
+
+
+def _is_video(f: str) -> bool:
+    return (Path(f).suffix.lower() in VIDEO_EXT
+            and not re.search(r'\b\d+[,.]\d+\b', Path(f).stem)
+            and not re.search(r'\bbonus\b', Path(f).name, re.IGNORECASE))
+
+
+def _uses_season_ep_notation(files: list[str]) -> bool:
+    """Détecte si le torrent utilise la notation NNxNN (ex: 01x01, 02x03)."""
+    for f in files:
+        if Path(f).suffix.lower() in VIDEO_EXT:
+            if re.search(r'\b\d{1,2}x\d{2,3}\b', Path(f).stem):
+                return True
+    return False
 
 
 def extract_ep_numbers_from_files(files: list[str]) -> list[int]:
     """
-    Extrait les numéros d'épisodes depuis la liste de fichiers du torrent.
-    N'analyse que les fichiers vidéo. Retourne une liste triée de numéros uniques.
+    Extrait les numéros d'épisodes globaux depuis la liste de fichiers.
+
+    Pour les torrents avec notation NNxNN (ex: 01x01, 02x01) :
+    → tri alphabétique des fichiers vidéo et numérotation séquentielle 1, 2, 3...
+    → évite les collisions entre saisons (02x01 ≠ 01x01)
+
+    Pour les autres formats :
+    → extraction directe du numéro depuis le nom de fichier.
     """
+    video_files = sorted([f for f in files if _is_video(f)])
+
+    if _uses_season_ep_notation(files):
+        # Numérotation séquentielle basée sur l'ordre alphabétique des fichiers
+        return list(range(1, len(video_files) + 1))
+
     numbers = set()
-    for f in files:
-        fname = Path(f).name
-        num = extract_ep_from_filename(fname)
+    for f in video_files:
+        num = extract_ep_from_filename(Path(f).name)
         if num is not None:
             numbers.add(num)
     return sorted(numbers)
@@ -169,7 +141,6 @@ def main():
     torrents = json.loads(p.read_text(encoding="utf-8"))
     print(f"[Input] {len(torrents)} torrents chargés")
 
-    # Filtrer ceux qui n'ont pas encore de "files"
     todo = [t for t in torrents if t.get("files") is None and t.get("nyaa_id")]
     print(f"[Todo]  {len(todo)} torrents à enrichir ({len(torrents)-len(todo)} déjà faits)\n")
 
@@ -191,8 +162,8 @@ def main():
                 break
             continue
 
-        errors = 0  # reset compteur si succès
-        files  = parse_files(torrent_path)
+        errors = 0
+        files   = parse_files(torrent_path)
         ep_nums = extract_ep_numbers_from_files(files)
 
         torrent["files"]      = files
@@ -206,12 +177,10 @@ def main():
         done += 1
         time.sleep(DELAY)
 
-        # Sauvegarder tous les 20 torrents
         if done % 20 == 0:
             p.write_text(json.dumps(torrents, ensure_ascii=False, indent=2), encoding="utf-8")
             print(f"  [Save] {done} enrichis...")
 
-    # Sauvegarde finale
     p.write_text(json.dumps(torrents, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\n[OK] {done} torrents enrichis → {TORRENT_FILE}")
     print(f"[Cache] {len(list(CACHE_DIR.glob('*.torrent')))} fichiers .torrent dans {CACHE_DIR}/")
