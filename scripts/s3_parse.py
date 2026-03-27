@@ -153,7 +153,8 @@ def detect_type(title):
     # Spéciaux : "Spécial #1", "Special 01", "SP1"
     sm2 = re.search(r"sp[eé][cç]ial\s*#?\s*0*(\d+)", title, re.IGNORECASE)
     if sm2:
-        r["type"] = "episode"; r["episode"] = int(sm2.group(1)); return r
+        # MODIF 1: ajouter r["season"] = 0 pour diriger vers S0
+        r["type"] = "episode"; r["episode"] = int(sm2.group(1)); r["season"] = 0; return r
     return r
 
 def _dedup_letters(tokens):
@@ -322,37 +323,25 @@ def _stem_title(s):
     return " ".join(w for w in s.split() if len(w) >= 3)
 
 def build_ep_path_index(torrent):
-    """Construit un index ep_number → path.
-    Gère aussi la numérotation SxxEyy en utilisant ep_numbers pour mapper
-    les numéros relatifs aux numéros globaux."""
     index = {}
     ep_numbers = torrent.get("ep_numbers") or []
-
-    # Index par numéro extrait du filename
     raw_index = {}
     for f in torrent.get("files") or []:
         num = _extract_ep_video(Path(f).name)
         if num is not None:
             if num not in raw_index:
                 raw_index[num] = f
-
-    # Si ep_numbers fournis et numéros dans les fichiers ne correspondent pas
-    # (ex: torrent avec S01x01..S01x16 + S02x01..S02x06 → raw_index a 1-16 pour S01
-    # mais S02 ep1 écrase S01 ep1), utiliser l'ordre des fichiers vidéo
     video_files = sorted([
         f for f in (torrent.get("files") or [])
         if Path(f).suffix.lower() in _VIDEO_EXT
         and _extract_ep_video(Path(f).name) is not None
         and not Path(f).name.lower().endswith(('.png', '.jpg', '.nfo', '.zip'))
     ])
-
     if ep_numbers and len(ep_numbers) == len(video_files):
-        # Mapper dans l'ordre fichier → ep_number global
         for ep_num, f in zip(sorted(ep_numbers), video_files):
             index[ep_num] = f
     else:
         index = raw_index
-
     return index
 
 def build_title_path_index(torrent):
@@ -390,10 +379,8 @@ def build_folder_ep_index(torrent):
     return index
 
 def _norm_folder(s):
-    """Normalise un nom de dossier : remplace 'Saison 1' par '1', garde les noms distinctifs."""
     s = unicodedata.normalize("NFD", s or "")
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
-    # Remplacer "Saison 1" / "Season 2" / "Partie 3" par juste le numéro
     s = re.sub(r"\b(?:partie|part|saison|season|arc)\s*(\d+)\b", r"\1", s, flags=re.IGNORECASE)
     s = re.sub(r"[^\w\s]", " ", s)
     return re.sub(r"\s+", " ", s).lower().strip()
@@ -432,11 +419,6 @@ def _torrent_title_to_path(torrent_title):
     return t + ".mkv" if t else None
 
 def _compute_path(ep, n, is_specials, folder_key, season_path_idx, path_idx, title_path_idx, nb_seasons, strict=False):
-    """
-    Calcule le path d'un épisode.
-    strict=True : assign() — ne pas deviner si multi-saisons sans dossier distinctif.
-    strict=False : consolidation — utiliser path_idx même multi-saisons.
-    """
     if is_specials:
         return match_title_to_path(ep.get("title", ""), title_path_idx)
     if season_path_idx.get(n):
@@ -445,7 +427,6 @@ def _compute_path(ep, n, is_specials, folder_key, season_path_idx, path_idx, tit
         return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
     if nb_seasons <= 1:
         return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
-    # Multi-saisons sans dossier distinctif
     if strict:
         return None
     if path_idx.get(n):
@@ -467,8 +448,6 @@ def assign(structure, torrent, ttype):
         return True
 
     if t == "season":
-        # Assigner aux épisodes de la saison ciblée avec les bons paths.
-        # NE PAS appeler _add_torrent_to_structure — la consolidation étape 2 s'en charge.
         season_num      = ttype.get("season")
         ep_numbers_list = torrent.get("ep_numbers") or []
         path_idx        = build_ep_path_index(torrent)
@@ -534,11 +513,18 @@ def assign(structure, torrent, ttype):
         folder_idx     = build_folder_ep_index(torrent)
         force_season   = torrent.get("force_season")
         force_path     = torrent.get("force_path")
+        # MODIF 2: si detect_type a détecté un spécial (season=0), forcer S0
+        if force_season is None and ttype.get("season") == 0:
+            force_season = 0
         for season in structure["seasons"]:
+            sn = season.get("season_number", 0)
             # Si force_season spécifié, ne traiter que cette saison
-            if force_season is not None and season.get("season_number") != force_season:
+            if force_season is not None and sn != force_season:
                 continue
-            is_specials = season.get("season_number") == 0
+            # Sans force_season, ignorer S0 (évite de matcher ep1 sur S0 au lieu de S1)
+            if force_season is None and sn == 0:
+                continue
+            is_specials = sn == 0
             folder_key  = find_best_folder(season.get("title", ""), folder_idx)
             season_path_idx = folder_idx.get(folder_key, {}) if folder_key else {}
             for ep in season["episodes"]:
@@ -568,10 +554,6 @@ def slugify(s):
     return s[:60]
 
 def _populate_paths_from_torrent(structure, pack_raw, append=False):
-    """
-    Peuple les paths des épisodes depuis les fichiers du torrent pack.
-    append=True : ajoute au lieu de remplacer (pour les multi-intégrales).
-    """
     path_idx       = build_ep_path_index(pack_raw)
     title_path_idx = build_title_path_index(pack_raw)
     folder_idx_c   = build_folder_ep_index(pack_raw)
@@ -647,20 +629,15 @@ def main():
         if force_type == "integral":
             ttype = {"type": "integral", "season": None, "episode": None, "ep_from": None, "ep_to": None}
         elif torrent.get("force_season") is not None and ep_numbers and len(ep_numbers) == 1:
-            # Torrent manuel avec saison+épisode forcés → episode direct
             ttype = {"type": "episode", "episode": ep_numbers[0], "season": None, "ep_from": None, "ep_to": None}
         elif torrent.get("force_season") is not None and ep_numbers and len(ep_numbers) > 1:
-            # Torrent manuel avec saison forcée et plage d'épisodes
             ttype = {"type": "episode_range", "season": None, "episode": None,
                      "ep_from": min(ep_numbers), "ep_to": max(ep_numbers)}
         else:
             title_type = detect_type(ttitle)
             if title_type["type"] == "season" and ep_numbers is not None and len(ep_numbers) > 0:
-                # Pack saison avec numéro explicite + ep_numbers → garder "season"
-                # pour que assign() cible uniquement la bonne saison
                 ttype = title_type
             elif title_type["type"] == "integral" and ep_numbers is not None and len(ep_numbers) > 0:
-                # Intégrale avec ep_numbers → episode_range pour peupler précisément
                 if len(ep_numbers) == 1:
                     ttype = {"type": "episode", "episode": ep_numbers[0],
                              "season": None, "ep_from": None, "ep_to": None}
@@ -730,11 +707,9 @@ def main():
         ]
         key_counts = Counter(k for keys in all_ep_keys_per_ep for k in keys)
 
-        # Saisons réelles (non-spéciales)
         real_seasons = [s for s in structure["seasons"] if s.get("season_number", 0) != 0]
 
         def key_covers_all_seasons(k):
-            """Vrai si le torrent couvre au moins 1 épisode dans chaque saison réelle."""
             for s in real_seasons:
                 has = any(k in {_torrent_key(t) for t in ep["torrents"] if _torrent_key(t)}
                           for ep in s["episodes"])
@@ -742,7 +717,6 @@ def main():
                     return False
             return True
 
-        # Intégral = couvre ≥ max(2, total-2) épisodes ET toutes les saisons réelles
         integral_keys = [k for k, cnt in key_counts.items()
                          if cnt >= max(2, total_eps - 2) and total_eps > 0
                          and (len(real_seasons) <= 1 or key_covers_all_seasons(k))]
@@ -783,8 +757,6 @@ def main():
                 if raw.get("files"):
                     _populate_paths_from_torrent(structure, raw, append=True)
 
-            # Nettoyer : si un épisode a un torrent individuel avec path null
-            # mais qu'il a aussi un path non-null venant du pack → supprimer le torrent individuel
             for s in structure["seasons"]:
                 for ep in s["episodes"]:
                     if not ep["torrents"]: continue
@@ -793,7 +765,6 @@ def main():
                     null_torrent_paths = [obj for obj in ep["paths"]
                                           if isinstance(obj, dict) and not obj.get("path")]
                     if good_paths and null_torrent_paths:
-                        # Le pack couvre déjà cet épisode → supprimer les torrents individuels
                         ep["torrents"] = []
                         ep["paths"] = good_paths
 
@@ -842,8 +813,6 @@ def main():
                 _populate_paths_from_torrent(structure, pack_raw, append=False)
 
     # Nettoyage final : supprimer les paths avec path=null
-    # Si l'épisode a d'autres paths valides, garder seulement ceux-là
-    # Si l'épisode n'a que des paths null, les remplacer par le fallback titre
     for structure in structures.values():
         for s in structure["seasons"]:
             for ep in s["episodes"]:
@@ -853,20 +822,15 @@ def main():
                 null_paths = [obj for obj in ep["paths"]
                               if isinstance(obj, dict) and not obj.get("path")]
                 if valid:
-                    # Garder seulement les paths valides, supprimer les null
                     ep["paths"] = valid
-                    # Si on avait des torrents individuels sans path, les supprimer aussi
-                    # (le pack les couvre déjà)
                     if null_paths:
                         null_infohashes = {obj.get("infohash") for obj in null_paths}
                         ep["torrents"] = [t for t in ep["torrents"]
                                           if (t.get("nyaa_id") or t.get("infohash")) not in null_infohashes
                                           and t.get("infohash") not in null_infohashes]
                 elif null_paths:
-                    # Aucun path valide → essayer le fallback titre pour chaque torrent
                     new_paths = []
                     for obj in null_paths:
-                        # Trouver le torrent correspondant
                         ih = obj.get("infohash")
                         ref_torrent = next(
                             (t for t in ep["torrents"] if t.get("infohash") == ih),

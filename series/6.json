@@ -32,7 +32,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Bonus/[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Bonus\\[Johker] My Hero Academia Henshū 7,5 - Film 1 - Two Heroes - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -45,7 +45,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Bonus/[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Bonus\\[Johker] My Hero Academia Henshū 19,5 - Film 2 - Heroes Rising - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -58,7 +58,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Bonus/[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Bonus\\[Johker] My Hero Academia Henshū 20,5 - Film 3 - World Heroes' Mission - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -67,8 +67,26 @@
           "episode_number": 4,
           "title": "You're Next",
           "aired": "2024-08-02",
-          "torrents": [],
-          "paths": []
+          "torrents": [
+            {
+              "nyaa_id": 1964024,
+              "nyaa_url": "https://nyaa.si/view/1964024",
+              "title": "My Hero Academia Henshū",
+              "torrent_url": "https://nyaa.si/download/1964024.torrent",
+              "magnet": "magnet:?xt=urn:btih:eea5a605ecc47799adde9ecc034d03ff8af5cb14&dn=My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+              "infohash": "eea5a605ecc47799adde9ecc034d03ff8af5cb14",
+              "size": "7.1 GiB",
+              "pub_date": null,
+              "seeders": null,
+              "fankai": false
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "eea5a605ecc47799adde9ecc034d03ff8af5cb14",
+              "path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
+            }
+          ]
         }
       ]
     },
@@ -87,7 +105,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 1 - Izuku Midoriya Origines - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 1 - Izuku Midoriya Origines - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -100,7 +118,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 2 - Yuei, l'Académie des Héros - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 2 - Yuei, l'Académie des Héros - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -113,7 +131,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 3 - Rencontre avec l'Inconnu - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 3 - Rencontre avec l'Inconnu - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -126,7 +144,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 4 - Tactiques, plans et stratégies - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 4 - Tactiques, plans et stratégies - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -139,7 +157,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 5 - Un chant de glace et de feu - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 5 - Un chant de glace et de feu - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -152,7 +170,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 6 - Le Tueur de Héros - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 6 - Le Tueur de Héros - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -165,7 +183,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 7 - Ennemi intime - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 7 - Ennemi intime - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -178,7 +196,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 8 - Festival des Ténèbres - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 8 - Festival des Ténèbres - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -191,7 +209,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 1 - Héros de Yuei (Saisons 1-2-3)/[Johker] My Hero Academia Henshū 9 - Un pour tous, tous pour un - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 1 - Héros de Yuei (Saisons 1-2-3)\\[Johker] My Hero Academia Henshū 9 - Un pour tous, tous pour un - 1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -212,7 +230,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 10 - L'Examen - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 10 - L'Examen - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -225,7 +243,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 11 - Avis de tempête - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 11 - Avis de tempête - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -238,7 +256,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 12 - La Saison des rencontres - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 12 - La Saison des rencontres - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -251,7 +269,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 13 - Huit Préceptes de la Mort - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 13 - Huit Préceptes de la Mort - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -264,7 +282,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 14 - Rattrapage - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 14 - Rattrapage - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -277,7 +295,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 15 - Après la pluie - 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 15 - Après la pluie - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -290,7 +308,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 16 - Héritage 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 16 - Héritage 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -303,7 +321,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 17 - Au-delà des limites 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 17 - Au-delà des limites 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -316,7 +334,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 18 - Izuku Midoriya Origines II 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 18 - Izuku Midoriya Origines II 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -329,7 +347,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 19 - My Villain Academia 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 19 - My Villain Academia 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -342,7 +360,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 20 - Un pas après l'autre 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 20 - Un pas après l'autre 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -355,7 +373,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 21 - Hôpital 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 21 - Hôpital 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -368,7 +386,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 22 - La Guerre de Libération 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 22 - La Guerre de Libération 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -381,7 +399,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)/[Johker] My Hero Academia Henshū 23 - Un feu qui s'éteint 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 2 - L'Ascension du Mal (Saisons 3-4-5-6)\\[Johker] My Hero Academia Henshū 23 - Un feu qui s'éteint 1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -402,7 +420,7 @@
           "paths": [
             {
               "infohash": "c1a1a90e689fd936d7e4ef912fc45a686f0dba61",
-              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)/Saga 3 - Acte Final (Saison 6)/[Johker] My Hero Academia Henshū 24 - L'Évadé 1080p.MULTI.x264.mkv"
+              "path": "[Johker] My Hero Academia Henshū (Fan-Kaï)\\Saga 3 - Acte Final (Saison 6)\\[Johker] My Hero Academia Henshū 24 - L'Évadé 1080p.MULTI.x264.mkv"
             }
           ]
         }
