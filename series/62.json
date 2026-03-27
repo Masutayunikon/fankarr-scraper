@@ -12,7 +12,7 @@
       "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
       "size": "16.0 GiB",
       "pub_date": "2024-07-24 14:43",
-      "seeders": 15,
+      "seeders": 21,
       "fankai": true
     }
   ],
@@ -32,7 +32,7 @@
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 01 - Light vs L Partie 1 1080p Multi x264.mkv"
+              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 01 - Light vs L Partie 1 1080p Multi x264.mkv"
             }
           ]
         },
@@ -45,7 +45,7 @@
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 02 - Light vs L Partie 2 1080p Multi x264.mkv"
+              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 02 - Light vs L Partie 2 1080p Multi x264.mkv"
             }
           ]
         },
@@ -58,7 +58,7 @@
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 03 - Second Kira 1080p Multi x264.mkv"
+              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 03 - Second Kira 1080p Multi x264.mkv"
             }
           ]
         },
@@ -71,7 +71,7 @@
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 04 - Yotsuba 1080p Multi x264.mkv"
+              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 04 - Yotsuba 1080p Multi x264.mkv"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 05 - Near & Mello 1080p Multi x264.mkv"
+              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 05 - Near & Mello 1080p Multi x264.mkv"
             }
           ]
         },
@@ -97,7 +97,7 @@
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 06 - Fin 1080p Multi 1080p x264.mkv"
+              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 06 - Fin 1080p Multi 1080p x264.mkv"
             }
           ]
         }
