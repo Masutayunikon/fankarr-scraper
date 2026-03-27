@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "Turbo Granny",
           "aired": "2025-03-07",
+          "original_filename": "[Shalouf] Dandadan Henshū 01 - Mémé Turbo - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Dandadan Henshū.S01E01.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
-              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 01 - Turbo Granny - 1080p.MULTISUB.x264.mkv"
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)\\[Shalouf] Dandadan Henshū 01 - Turbo Granny - 1080p.MULTISUB.x264.mkv"
             }
           ]
         },
@@ -41,11 +43,13 @@
           "episode_number": 2,
           "title": "Acrobatic Silky",
           "aired": "2025-03-07",
+          "original_filename": "[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Dandadan Henshū.S01E02.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
-              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)\\[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -54,11 +58,13 @@
           "episode_number": 3,
           "title": "Serpo Aliens",
           "aired": "2025-03-07",
+          "original_filename": "[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Dandadan Henshū.S01E03.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
-              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)\\[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -67,6 +73,8 @@
           "episode_number": 4,
           "title": "Cursed House (Pt.1)",
           "aired": null,
+          "original_filename": "[Shalouf] Dandadan Henshū 04 - Cursed House Pt.1 - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Dandadan Henshū.S01E04.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }

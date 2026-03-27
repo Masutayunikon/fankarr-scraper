@@ -18,7 +18,7 @@
           "infohash": "0de8acdafab53b42fcc743d9de0064ab0f0464eb",
           "size": "6.2 GiB",
           "pub_date": "2025-09-03 07:36",
-          "seeders": 9,
+          "seeders": 8,
           "fankai": true
         }
       ],
@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "The Man Who Stands at the Top",
           "aired": "2025-09-01",
+          "original_filename": "[Shalouf] Wind Breaker Henshū 01 - The Man Who Stands at the Top - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Wind Breaker Henshū.S01E01.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "0de8acdafab53b42fcc743d9de0064ab0f0464eb",
-              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)/[Shalouf] Wind Breaker Henshū 01 - The Man Who Stands at the Top - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)\\[Shalouf] Wind Breaker Henshū 01 - The Man Who Stands at the Top - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -41,11 +43,13 @@
           "episode_number": 2,
           "title": "Vow to Follow",
           "aired": "2025-09-01",
+          "original_filename": "[Shalouf] Wind Breaker Henshū 02 - Vow to Follow - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Wind Breaker Henshū.S01E02.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "0de8acdafab53b42fcc743d9de0064ab0f0464eb",
-              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)/[Shalouf] Wind Breaker Henshū 02 - Vow to Follow - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)\\[Shalouf] Wind Breaker Henshū 02 - Vow to Follow - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -54,11 +58,13 @@
           "episode_number": 3,
           "title": "Good Old Days",
           "aired": "2025-09-01",
+          "original_filename": "[Shalouf] Wind Breaker Henshū 03 - Good Old Days - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Wind Breaker Henshū.S01E03.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "0de8acdafab53b42fcc743d9de0064ab0f0464eb",
-              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)/[Shalouf] Wind Breaker Henshū 03 - Good Old Days - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)\\[Shalouf] Wind Breaker Henshū 03 - Good Old Days - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -67,11 +73,13 @@
           "episode_number": 4,
           "title": "Muscle & Gentle",
           "aired": "2025-09-01",
+          "original_filename": "[Shalouf] Wind Breaker Henshū 04 - Muscle & Gentle - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Wind Breaker Henshū.S01E04.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "0de8acdafab53b42fcc743d9de0064ab0f0464eb",
-              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)/[Shalouf] Wind Breaker Henshū 04 - Muscle & Gentle - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Wind Breaker Henshū (Fan-Kaï)\\[Shalouf] Wind Breaker Henshū 04 - Muscle & Gentle - 1080p.MULTI.x264.mkv"
             }
           ]
         }

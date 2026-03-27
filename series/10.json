@@ -15,6 +15,8 @@
           "episode_number": 1,
           "title": "L'homme à tout faire",
           "aired": "2022-12-31",
+          "original_filename": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv",
+          "formatted_name": "Gintama Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
           "torrents": [
             {
               "nyaa_id": 1705103,
@@ -25,7 +27,7 @@
               "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:47",
-              "seeders": 11,
+              "seeders": 15,
               "fankai": true
             }
           ],
@@ -41,6 +43,8 @@
           "episode_number": 2,
           "title": "Les animaux ressemblent à leurs maîtres",
           "aired": "2023-01-28",
+          "original_filename": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv",
+          "formatted_name": "Gintama Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
           "torrents": [
             {
               "nyaa_id": 1705104,
@@ -51,7 +55,7 @@
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:52",
-              "seeders": 10,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -67,6 +71,8 @@
           "episode_number": 3,
           "title": "Quand tu as un problème, rigole, rigole.",
           "aired": "2023-08-17",
+          "original_filename": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole..mkv",
+          "formatted_name": "Gintama Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
           "torrents": [
             {
               "nyaa_id": 1705097,
@@ -77,7 +83,7 @@
               "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
               "size": "1.5 GiB",
               "pub_date": "2023-08-16 22:24",
-              "seeders": 9,
+              "seeders": 14,
               "fankai": true
             }
           ],
@@ -93,6 +99,8 @@
           "episode_number": 4,
           "title": "Renonce à la fureur",
           "aired": "2025-10-03",
+          "original_filename": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv",
+          "formatted_name": "Gintama Kaï.S01E04.VOSTFR.1080p.x264-FANKAI",
           "torrents": [
             {
               "nyaa_id": 2026521,
@@ -103,7 +111,7 @@
               "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
               "size": "2.9 GiB",
               "pub_date": "2025-10-03 16:00",
-              "seeders": 9,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -119,6 +127,8 @@
           "episode_number": 5,
           "title": "Sers-toi de tes poings pour réaliser tes rêves !",
           "aired": null,
+          "original_filename": "[Triggerforce] Gintama Kaï 05 - Sers-toi de tes poings pour réaliser tes rêves !.mkv",
+          "formatted_name": "Gintama Kaï.S01E05.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -127,6 +137,8 @@
           "episode_number": 7,
           "title": "Il ne faut pas juger les gens sur leur apparence.",
           "aired": null,
+          "original_filename": "[Triggerforce] Gintama Kaï 07 - Il ne faut pas juger les gens sur leur apparence.mkv",
+          "formatted_name": "Gintama Kaï.S01E07.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -135,6 +147,8 @@
           "episode_number": 8,
           "title": "Il y a des monstres partout.",
           "aired": null,
+          "original_filename": "[Triggerforce] Gintama Kaï 08 - Il y a des monstres partout.mkv",
+          "formatted_name": "Gintama Kaï.S01E08.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }

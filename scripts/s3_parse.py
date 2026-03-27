@@ -252,12 +252,14 @@ def build_structure(serie, seasons_raw):
         time.sleep(DELAY)
         episodes_out = [
             {
-                "id":             ep["id"],
-                "episode_number": ep.get("episode_number"),
-                "title":          fix_encoding(ep.get("title")),
-                "aired":          ep.get("aired") or None,
-                "torrents":       [],
-                "paths":          [],
+                "id":               ep["id"],
+                "episode_number":   ep.get("episode_number"),
+                "title":            fix_encoding(ep.get("title")),
+                "aired":            ep.get("aired") or None,
+                "original_filename": ep.get("original_filename"),
+                "formatted_name":   ep.get("formatted_name"),
+                "torrents":         [],
+                "paths":            [],
             }
             for ep in sorted(eps_raw, key=lambda e: e.get("episode_number", 0))
         ]

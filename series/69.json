@@ -12,7 +12,7 @@
       "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
       "size": "17.0 GiB",
       "pub_date": "2024-10-18 19:30",
-      "seeders": 8,
+      "seeders": 7,
       "fankai": true
     }
   ],
@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "Code White",
           "aired": "2024-04-17",
+          "original_filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S00E01.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Specials/[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Specials\\[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -49,11 +51,13 @@
           "episode_number": 1,
           "title": "Admission",
           "aired": "2024-04-17",
+          "original_filename": "[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E01.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -62,11 +66,13 @@
           "episode_number": 2,
           "title": "Police",
           "aired": "2024-04-17",
+          "original_filename": "[Brazh] Spy x Family Henshū 02 - Police - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E02.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 02 - Police - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 02 - Police - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -75,11 +81,13 @@
           "episode_number": 3,
           "title": "Chien",
           "aired": "2024-04-17",
+          "original_filename": "[Brazh] Spy x Family Henshū 03 - Chien - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E03.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 03 - Chien - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 03 - Chien - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -88,11 +96,13 @@
           "episode_number": 4,
           "title": "Examens",
           "aired": "2024-04-17",
+          "original_filename": "[Brazh] Spy x Family Henshū 04 - Examens - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E04.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 04 - Examens - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 04 - Examens - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -101,11 +111,13 @@
           "episode_number": 5,
           "title": "Tennis",
           "aired": "2024-04-17",
+          "original_filename": "[Brazh] Spy x Family Henshū 05 - Tennis - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E05.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 05 - Tennis - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 05 - Tennis - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -114,11 +126,13 @@
           "episode_number": 6,
           "title": "Contact",
           "aired": "2024-09-02",
+          "original_filename": "[Brazh] Spy x Family Henshū 06 - Contact - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E06.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 06 - Contact - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 06 - Contact - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -127,11 +141,13 @@
           "episode_number": 7,
           "title": "Croisière",
           "aired": "2024-10-18",
+          "original_filename": "[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Spy x Family Henshū.S01E07.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)/Saison 1/[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.mkv"
+              "path": "[Brazh] Spy x Family Henshū (Fan-Kaï)\\Saison 1\\[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.mkv"
             }
           ]
         }

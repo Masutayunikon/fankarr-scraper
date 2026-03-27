@@ -12,7 +12,7 @@
       "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
       "size": "16.0 GiB",
       "pub_date": "2024-07-24 14:43",
-      "seeders": 21,
+      "seeders": 17,
       "fankai": true
     }
   ],
@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "Light vs L Partie 1",
           "aired": "2024-04-05",
+          "original_filename": "[Odji-san] Death Note Kaï - 01 - Light vs L Partie 1 1080p Multi x264.mkv",
+          "formatted_name": "Death Note Kaï.S01E01.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 01 - Light vs L Partie 1 1080p Multi x264.mkv"
+              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 01 - Light vs L Partie 1 1080p Multi x264.mkv"
             }
           ]
         },
@@ -41,11 +43,13 @@
           "episode_number": 2,
           "title": "Light vs L Partie 2",
           "aired": "2024-04-05",
+          "original_filename": "[Odji-san] Death Note Kaï - 02 - Light vs L Partie 2 1080p Multi x264.mkv",
+          "formatted_name": "Death Note Kaï.S01E02.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 02 - Light vs L Partie 2 1080p Multi x264.mkv"
+              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 02 - Light vs L Partie 2 1080p Multi x264.mkv"
             }
           ]
         },
@@ -54,11 +58,13 @@
           "episode_number": 3,
           "title": "Second Kira",
           "aired": "2024-07-24",
+          "original_filename": "[Odji-san] Death Note Kaï - 03 - Second Kira 1080p Multi x264.mkv",
+          "formatted_name": "Death Note Kaï.S01E03.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 03 - Second Kira 1080p Multi x264.mkv"
+              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 03 - Second Kira 1080p Multi x264.mkv"
             }
           ]
         },
@@ -67,11 +73,13 @@
           "episode_number": 4,
           "title": "Yotsuba",
           "aired": "2024-07-24",
+          "original_filename": "[Odji-san] Death Note Kaï - 04 - Yotsuba 1080p Multi x264.mkv",
+          "formatted_name": "Death Note Kaï.S01E04.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 04 - Yotsuba 1080p Multi x264.mkv"
+              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 04 - Yotsuba 1080p Multi x264.mkv"
             }
           ]
         },
@@ -80,11 +88,13 @@
           "episode_number": 5,
           "title": "Near & Mello",
           "aired": "2024-07-24",
+          "original_filename": "[Odji-san] Death Note Kaï - 05 - Near & Mello 1080p Multi x264.mkv",
+          "formatted_name": "Death Note Kaï.S01E05.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 05 - Near & Mello 1080p Multi x264.mkv"
+              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 05 - Near & Mello 1080p Multi x264.mkv"
             }
           ]
         },
@@ -93,11 +103,13 @@
           "episode_number": 6,
           "title": "Fin",
           "aired": "2024-07-24",
+          "original_filename": "[Odji-san] Death Note Kaï - 06 - Fin 1080p Multi 1080p x264.mkv",
+          "formatted_name": "Death Note Kaï.S01E06.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476",
-              "path": "Death Note Kaï/Saison 1/[Odji-san] Death Note Kaï - 06 - Fin 1080p Multi 1080p x264.mkv"
+              "path": "Death Note Kaï\\Saison 1\\[Odji-san] Death Note Kaï - 06 - Fin 1080p Multi 1080p x264.mkv"
             }
           ]
         }

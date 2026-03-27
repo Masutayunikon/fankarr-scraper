@@ -12,7 +12,7 @@
       "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
       "size": "22.7 GiB",
       "pub_date": "2021-04-16 19:14",
-      "seeders": 10,
+      "seeders": 9,
       "fankai": true
     }
   ],
@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "Sacrifice et Résurrection",
           "aired": "2019-01-01",
+          "original_filename": "Yu Yu Hakusho - film 01 - Sacrifice et résurrection.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 1 - Sacrifice et résurrection.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]\\Yu Yu Hakusho - Film 1 - Sacrifice et résurrection.mkv"
             }
           ]
         },
@@ -41,11 +43,13 @@
           "episode_number": 2,
           "title": "Maître Genkai",
           "aired": "2019-01-15",
+          "original_filename": "Yu Yu Hakusho - film 02 - Maître Genkai.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 2 - Maître Genkai.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]\\Yu Yu Hakusho - Film 2 - Maître Genkai.mkv"
             }
           ]
         },
@@ -54,11 +58,13 @@
           "episode_number": 3,
           "title": "La flûte diabolique",
           "aired": "2019-02-01",
+          "original_filename": "Yu Yu Hakusho - film 03 - La flûte diabolique.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 3 - La flûte diabolique.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]\\Yu Yu Hakusho - Film 3 - La flûte diabolique.mkv"
             }
           ]
         },
@@ -67,11 +73,13 @@
           "episode_number": 4,
           "title": "Les frères Toguro",
           "aired": "2019-02-06",
+          "original_filename": "Yu Yu Hakusho - film 04 - Les frères Toguro.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S01E04.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]/Yu Yu Hakusho - Film 4 - Les frères Toguro.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 1 - Spirit Detective [Titou]\\Yu Yu Hakusho - Film 4 - Les frères Toguro.mkv"
             }
           ]
         }
@@ -88,11 +96,13 @@
           "episode_number": 5,
           "title": "Des invités prometteurs",
           "aired": "2019-02-14",
+          "original_filename": "Yu Yu Hakusho - film 05 - Des invités prometteurs.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S02E05.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 5 - Des invités prometteurs.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]\\Yu Yu Hakusho - Film 5 - Des invités prometteurs.mkv"
             }
           ]
         },
@@ -101,11 +111,13 @@
           "episode_number": 6,
           "title": "Un règlement scandaleux",
           "aired": "2019-03-04",
+          "original_filename": "Yu Yu Hakusho - film 06 - Un règlement scandaleux.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S02E06.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 6 - Un règlement scandaleux.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]\\Yu Yu Hakusho - Film 6 - Un règlement scandaleux.mkv"
             }
           ]
         },
@@ -114,11 +126,13 @@
           "episode_number": 7,
           "title": "Les ravages du temps",
           "aired": "2019-05-01",
+          "original_filename": "Yu Yu Hakusho - film 07 - Les ravages du temps.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S02E07.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 7 - Les ravages du temps.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]\\Yu Yu Hakusho - Film 7 - Les ravages du temps.mkv"
             }
           ]
         },
@@ -127,11 +141,13 @@
           "episode_number": 8,
           "title": "Un pari risqué",
           "aired": "2019-05-01",
+          "original_filename": "Yu Yu Hakusho - film 08 - Un pari risqué.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S02E08.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]/Yu Yu Hakusho - Film 8 - Un pari risqué.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 2 - Dark Tournament [Titou]\\Yu Yu Hakusho - Film 8 - Un pari risqué.mkv"
             }
           ]
         }
@@ -148,11 +164,13 @@
           "episode_number": 9,
           "title": "L'héritage de Sakyô",
           "aired": "2019-05-23",
+          "original_filename": "Yu Yu Hakusho - film 09 - L'héritage de Sakyô.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S03E09.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
             }
           ]
         },
@@ -161,11 +179,13 @@
           "episode_number": 10,
           "title": "Le briseur du sort",
           "aired": "2019-08-14",
+          "original_filename": "Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S03E10.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"
             }
           ]
         },
@@ -174,11 +194,13 @@
           "episode_number": 11,
           "title": "Le grand atavisme",
           "aired": "2019-08-14",
+          "original_filename": "Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S03E11.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]\\Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv"
             }
           ]
         }
@@ -195,11 +217,13 @@
           "episode_number": 12,
           "title": "Destins croisés",
           "aired": "2020-02-15",
+          "original_filename": "Yu Yu Hakusho - Film 12 - Destins croisés.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S04E12.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 12 - Destins croisés.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]\\Yu Yu Hakusho - Film 12 - Destins croisés.mkv"
             }
           ]
         },
@@ -208,11 +232,13 @@
           "episode_number": 13,
           "title": "La Loi du Plus Fort",
           "aired": "2020-02-15",
+          "original_filename": "Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv",
+          "formatted_name": "Yu Yu Hakusho Kaï.S04E13.MULTI.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]/Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv"
+              "path": "Yu Yu Hakusho [Titou]\\Yu Yu Hakusho Kaï - Saga 4 - Three Kings - 1080P Multi X264 WEBRIP [Titou]\\Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv"
             }
           ]
         }

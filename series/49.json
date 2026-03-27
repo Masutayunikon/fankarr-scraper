@@ -12,7 +12,7 @@
       "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
       "size": "30.5 GiB",
       "pub_date": "2024-11-04 00:58",
-      "seeders": 7,
+      "seeders": 6,
       "fankai": true
     }
   ],
@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "Une journée à la capitale",
           "aired": "2023-06-01",
+          "original_filename": "[Roro] [VO] ReZero Kaï 01 - Une journée à la capitale.mkv",
+          "formatted_name": "Re Zero Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 1/[Roro] [VF] ReZero Kaï 01 - Une journée à la capitale.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 1\\[Roro] [VF] ReZero Kaï 01 - Une journée à la capitale.mkv"
             }
           ]
         },
@@ -41,11 +43,13 @@
           "episode_number": 2,
           "title": "Une semaine au manoir",
           "aired": "2023-06-11",
+          "original_filename": "[Roro] [VO] ReZero Kaï 02 - Une semaine au manoir.mkv",
+          "formatted_name": "Re Zero Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 2/[Roro] [VF] ReZero Kaï 02 - Une semaine au manoir.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 2\\[Roro] [VF] ReZero Kaï 02 - Une semaine au manoir.mkv"
             }
           ]
         },
@@ -54,11 +58,13 @@
           "episode_number": 3,
           "title": "Truth of Zero Part 1",
           "aired": "2024-01-01",
+          "original_filename": "[Roro] [VO] ReZero Kaï 03 - Truth of Zero Part 1.mkv",
+          "formatted_name": "Re Zero Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 3/[Roro] [VF] ReZero Kaï 03 - Truth of Zero Part 1.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 3\\[Roro] [VF] ReZero Kaï 03 - Truth of Zero Part 1.mkv"
             }
           ]
         },
@@ -67,11 +73,13 @@
           "episode_number": 4,
           "title": "Truth of Zero Part 2",
           "aired": "2024-01-01",
+          "original_filename": "[Roro] [VO] ReZero Kaï 04 - Truth of Zero Part 2.mkv",
+          "formatted_name": "Re Zero Kaï.S01E04.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 4/[Roro] [VF] ReZero Kaï 04 - Truth of Zero Part 2.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 4\\[Roro] [VF] ReZero Kaï 04 - Truth of Zero Part 2.mkv"
             }
           ]
         }
@@ -88,11 +96,13 @@
           "episode_number": 5,
           "title": "Sur la route du sanctuaire",
           "aired": "2024-01-02",
+          "original_filename": "[Roro] [VO] ReZero Kaï 05 - Sur la route du sanctuaire.mkv",
+          "formatted_name": "Re Zero Kaï.S02E05.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 5/[Roro] [VO] ReZero Kaï 05 - Sur la route du sanctuaire.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 5\\[Roro] [VO] ReZero Kaï 05 - Sur la route du sanctuaire.mkv"
             }
           ]
         },
@@ -101,11 +111,13 @@
           "episode_number": 6,
           "title": "Le goûter des sorcières",
           "aired": "2024-01-05",
+          "original_filename": "[Roro] [VO] ReZero Kaï 06 - Le goûter des sorcières.mkv",
+          "formatted_name": "Re Zero Kaï.S02E06.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 6/[Roro] [VO] ReZero Kaï 06 - Le goûter des sorcières.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 6\\[Roro] [VO] ReZero Kaï 06 - Le goûter des sorcières.mkv"
             }
           ]
         },
@@ -114,11 +126,13 @@
           "episode_number": 7,
           "title": "Le goût de la mort",
           "aired": "2024-01-05",
+          "original_filename": "[Roro] [VO] ReZero Kaï 07 - Le goût de la mort.mkv",
+          "formatted_name": "Re Zero Kaï.S02E07.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 7/[Roro] [VO] ReZero Kaï 07 - Le goût de la mort.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 7\\[Roro] [VO] ReZero Kaï 07 - Le goût de la mort.mkv"
             }
           ]
         },
@@ -127,11 +141,13 @@
           "episode_number": 8,
           "title": "Otto Suwen - Une raison de croire",
           "aired": "2024-01-05",
+          "original_filename": "[Roro] [VO] ReZero Kaï 08 - Otto Suwen - Une raison de croire.mkv",
+          "formatted_name": "Re Zero Kaï.S02E08.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 8/[Roro] [VO] ReZero Kaï 08 - Otto Suwen - Une raison de croire.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 8\\[Roro] [VO] ReZero Kaï 08 - Otto Suwen - Une raison de croire.mkv"
             }
           ]
         },
@@ -140,11 +156,13 @@
           "episode_number": 9,
           "title": "L'itinéraire de la mémoire",
           "aired": "2024-01-05",
+          "original_filename": "[Roro] [VO] ReZero Kaï 09 - L'itinéraire de la mémoire.mkv",
+          "formatted_name": "Re Zero Kaï.S02E09.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 9/[Roro] [VO] ReZero Kaï 09 - L'itinéraire de la mémoire.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 9\\[Roro] [VO] ReZero Kaï 09 - L'itinéraire de la mémoire.mkv"
             }
           ]
         },
@@ -153,11 +171,13 @@
           "episode_number": 10,
           "title": "De fous pas de danse sous la Lune",
           "aired": "2024-01-05",
+          "original_filename": "[Roro] [VO] ReZero Kaï 10 - De fous pas de danse sous la Lune.mkv",
+          "formatted_name": "Re Zero Kaï.S02E10.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 10/[Roro] [VO] ReZero Kaï 10 - De fous pas de danse sous la Lune.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10\\Film 10\\[Roro] [VO] ReZero Kaï 10 - De fous pas de danse sous la Lune.mkv"
             }
           ]
         }

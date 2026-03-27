@@ -2,66 +2,101 @@
   "id": 20,
   "title": "Initial D Kaï",
   "show_title": "Initial D Kaï",
-  "torrents": [
-    {
-      "nyaa_id": 1679589,
-      "nyaa_url": "https://nyaa.si/view/1679589",
-      "title": "[Roro]Initial D Kai - Films 1 à 5",
-      "torrent_url": "https://nyaa.si/download/1679589.torrent",
-      "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
-      "size": "8.9 GiB",
-      "pub_date": "2023-06-05 21:11",
-      "seeders": 8,
-      "fankai": true
-    }
-  ],
+  "torrents": [],
   "seasons": [
     {
       "id": 39,
       "season_number": 1,
       "title": "First Stage",
-      "torrents": [],
+      "torrents": [
+        {
+          "nyaa_id": 1679589,
+          "nyaa_url": "https://nyaa.si/view/1679589",
+          "title": "[Roro]Initial D Kai - Films 1 à 5",
+          "torrent_url": "https://nyaa.si/download/1679589.torrent",
+          "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+          "size": "8.9 GiB",
+          "pub_date": "2023-06-05 21:11",
+          "seeders": 8,
+          "fankai": true
+        }
+      ],
       "episodes": [
         {
           "id": 325,
           "episode_number": 1,
           "title": "Fantôme d'Akina",
           "aired": "2022-11-19",
+          "original_filename": "[Roro] Initial D Kaï 01 - Fantôme d'Akina - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5\\[Roro]Initial D Kai 01 - Le fantôme d'Akina.mkv"
+            }
+          ]
         },
         {
           "id": 328,
           "episode_number": 2,
           "title": "Battle de l'extrême",
           "aired": "2022-11-26",
+          "original_filename": "[Roro] Initial D Kaï 02 - Battle de l'extrême - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5\\[Roro]Initial D Kai 02 - Battle de l'extrême.mkv"
+            }
+          ]
         },
         {
           "id": 326,
           "episode_number": 3,
           "title": "Duel à mort",
           "aired": "2023-01-20",
+          "original_filename": "[Roro] Initial D Kaï 03 - Duel à mort - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5\\[Roro]Initial D Kai 03 - Duel à mort.mkv"
+            }
+          ]
         },
         {
           "id": 329,
           "episode_number": 4,
           "title": "La comète blanche d'Akagi",
           "aired": "2023-01-26",
+          "original_filename": "[Roro] Initial D Kaï 04 - La comète blanche d'Akagi - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S01E04.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5\\[Roro]Initial D Kai 04 - La comète blanche d'Akagi.mkv"
+            }
+          ]
         },
         {
           "id": 327,
           "episode_number": 5,
           "title": "De nouveaux défis pour la 86",
           "aired": "2023-04-15",
+          "original_filename": "[Roro] Initial D Kaï 05 - De nouveaux défis pour la 86 - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S01E05.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+              "path": "[Roro]Initial D Kai Films 1 à 5\\[Roro]Initial D Kai 05 - De nouveaux défis pour la 86.mkv"
+            }
+          ]
         }
       ]
     },
@@ -76,6 +111,8 @@
           "episode_number": 6,
           "title": "La bataille des LAN EVO",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 06 - La bataille des LAN-EVO - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S02E06.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -84,6 +121,8 @@
           "episode_number": 7,
           "title": "Tandis qu'une saison s'en va 86 vs 86",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 07 - Tandis qu'une saison s'en va (86 vs 86) - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S02E07.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }
@@ -100,6 +139,8 @@
           "episode_number": 8,
           "title": "La route de la victoire",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 08 - La route de la victoire - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S03E08.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }
@@ -116,6 +157,8 @@
           "episode_number": 9,
           "title": "Project D",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 09 - Project D - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S04E09.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -124,6 +167,8 @@
           "episode_number": 10,
           "title": "Une stratégie parfaite",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 10 - Une stratégie parfaite - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S04E10.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -132,6 +177,8 @@
           "episode_number": 11,
           "title": "Des adversaires vicieux",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 11 - Des adversaires vicieux - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S04E11.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -140,6 +187,8 @@
           "episode_number": 12,
           "title": "God Foot & God Hand",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 12 - God Foot & God Hand - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S04E12.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }
@@ -156,6 +205,8 @@
           "episode_number": 13,
           "title": "Kanagawa : Dernier rempart !",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 13 - Kanagawa, Dernier rempart ! - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S05E13.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -164,6 +215,8 @@
           "episode_number": 14,
           "title": "Se libérer des émotions",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 14 - Se libérer des émotions - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S05E14.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }
@@ -180,6 +233,8 @@
           "episode_number": 15,
           "title": "La fin d'une légende",
           "aired": null,
+          "original_filename": "[Roro] Initial D Kaï 15 - La fin d'une légende - MULTI 1080p x264.mkv",
+          "formatted_name": "Initial D Kaï.S06E15.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }

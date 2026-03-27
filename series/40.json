@@ -18,7 +18,7 @@
           "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
           "size": "12.0 GiB",
           "pub_date": "2023-11-11 13:37",
-          "seeders": 10,
+          "seeders": 12,
           "fankai": true
         }
       ],
@@ -28,11 +28,13 @@
           "episode_number": 1,
           "title": "Une nouvelle Flamme",
           "aired": "2022-02-05",
+          "original_filename": "[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Fire Force Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
-              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv"
+              "path": "Fire Force Henshū\\Saison 1\\[Pourquoi] Fire Force Henshū 01 - Une Nouvelle Flamme - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -41,11 +43,13 @@
           "episode_number": 2,
           "title": "Vs. la 5e et la 1re Brigade",
           "aired": "2023-06-22",
+          "original_filename": "[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Fire Force Henshū.S01E02.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
-              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv"
+              "path": "Fire Force Henshū\\Saison 1\\[Pourquoi] Fire Force Henshū 02 - VS. la 5e et la 1re brigade - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -54,11 +58,13 @@
           "episode_number": 3,
           "title": "Le Grand Prédicateur",
           "aired": "2023-06-25",
+          "original_filename": "[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Fire Force Henshū.S01E03.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
-              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv"
+              "path": "Fire Force Henshū\\Saison 1\\[Pourquoi] Fire Force Henshū 03 - Le Grand Prédicateur - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -67,11 +73,13 @@
           "episode_number": 4,
           "title": "L'Atelier de Vulcan",
           "aired": null,
+          "original_filename": "[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Fire Force Henshū.S01E04.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
-              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv"
+              "path": "Fire Force Henshū\\Saison 1\\[Pourquoi] Fire Force Henshū 04 - L'Atelier de Vulcan - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -80,11 +88,13 @@
           "episode_number": 5,
           "title": "Perdus dans l'Obscurité",
           "aired": "2023-08-15",
+          "original_filename": "[Pourquoi] Fire Force Henshū 05 - Perdus dans l'Obscurité - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Fire Force Henshū.S01E05.VOSTFR.1080p.x264-FANKAI",
           "torrents": [],
           "paths": [
             {
               "infohash": "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897",
-              "path": "Fire Force Henshū/Saison 1/[Pourquoi] Fire Force Henshū 05 - Perdus dans l'Obscurité - 1080p.MULTI.x264.mkv"
+              "path": "Fire Force Henshū\\Saison 1\\[Pourquoi] Fire Force Henshū 05 - Perdus dans l'Obscurité - 1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -101,6 +111,8 @@
           "episode_number": 1,
           "title": "Le 5e Pilier",
           "aired": null,
+          "original_filename": "[Pourquoi] Fire Force Henshu 06 - Le 5e Pillier MULTI 1080p.mkv",
+          "formatted_name": "Fire Force Henshū.S02E01.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -109,6 +121,8 @@
           "episode_number": 2,
           "title": "Réponses en Terre Inconnue",
           "aired": null,
+          "original_filename": "[Pourquoi] Fire Force Henshu 07 -  Réponses en Terre Inconnue MULTI 1080p.mkv",
+          "formatted_name": "Fire Force Henshū.S02E02.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -117,6 +131,8 @@
           "episode_number": 3,
           "title": "Les Industries Haijima",
           "aired": null,
+          "original_filename": "[Pourquoi] Fire Force Henshu 08 - Les Industries Haijima MULTI 1080p.mkv",
+          "formatted_name": "Fire Force Henshū.S02E03.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         },
@@ -125,6 +141,8 @@
           "episode_number": 4,
           "title": "Piège Dangereux",
           "aired": null,
+          "original_filename": "[Pourquoi] Fire Force Henshu 09 - Piège Dangereux MULTI 1080p.mkv",
+          "formatted_name": "Fire Force Henshū.S02E04.VOSTFR.480p.x264-FANKAI",
           "torrents": [],
           "paths": []
         }
