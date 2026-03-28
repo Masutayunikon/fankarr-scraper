@@ -329,7 +329,7 @@ def build_ep_path_index(torrent):
     ep_numbers = torrent.get("ep_numbers") or []
     raw_index = {}
     for f in torrent.get("files") or []:
-        num = _extract_ep_video(Path(f).name)
+        num = _extract_ep_video(re.split(r'[/\\]', f)[-1])
         if num is not None:
             if num not in raw_index:
                 raw_index[num] = f
@@ -349,7 +349,7 @@ def build_ep_path_index(torrent):
 def build_title_path_index(torrent):
     result = []
     for f in torrent.get("files") or []:
-        fname = Path(f).name
+        fname = re.split(r'[/\\]', f)[-1]  # compatibilité Linux/Windows
         if Path(fname).suffix.lower() not in _VIDEO_EXT: continue
         stem = Path(fname).stem
         stem = re.sub(r'^\[[^\]]*\]\s*', '', stem).strip()
