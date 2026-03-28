@@ -187,6 +187,34 @@
               "path": "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 11 - Dual au sommet - 1080p.MULTI.x264.mkv"
             }
           ]
+        },
+        {
+          "id": 1267,
+          "episode_number": 12,
+          "title": "Le premier baiser sans fin",
+          "aired": "2026-03-28",
+          "original_filename": "[Brazh] Kaguya-sama Love Is War Henshū 12 - Le premier baiser sans fin - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Kaguya-sama : Love is War Henshū.S01E12.VOSTFR.HD.x264-FANKAI",
+          "torrents": [
+            {
+              "nyaa_id": 2091129,
+              "nyaa_url": "https://nyaa.si/view/2091129",
+              "title": "[Brazh] Kaguya-sama Love Is War Henshū 12 - Le premier baiser sans fin - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/2091129.torrent",
+              "magnet": "magnet:?xt=urn:btih:ffc87e28a92b55ca1dba148ee57598262ee58423&dn=%5BBrazh%5D%20Kaguya-sama%20Love%20Is%20War%20Hensh%C5%AB%2012%20-%20Le%20premier%20baiser%20sans%20fin%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "ffc87e28a92b55ca1dba148ee57598262ee58423",
+              "size": "1.7 GiB",
+              "pub_date": "2026-03-28 17:00",
+              "seeders": 5,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "ffc87e28a92b55ca1dba148ee57598262ee58423",
+              "path": "[Brazh] Kaguya-sama Love Is War Henshū 12 - Le premier baiser sans fin - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     }
