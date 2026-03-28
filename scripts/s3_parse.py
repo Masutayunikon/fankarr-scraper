@@ -429,10 +429,11 @@ def _compute_path(ep, n, is_specials, folder_key, season_path_idx, path_idx, tit
         return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
     if nb_seasons <= 1:
         return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
-    if strict:
-        return None
+    # Si path_idx a ce numéro exact → non-ambigu (torrent individuel), toujours utiliser
     if path_idx.get(n):
         return path_idx[n]
+    if strict:
+        return None
     return match_title_to_path(ep.get("title", ""), title_path_idx)
 
 def _add_torrent_to_structure(structure, ref):
