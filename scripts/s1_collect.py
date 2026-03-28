@@ -24,6 +24,11 @@ OUTPUT_FILE    = "data/torrent_raw.json"
 NAMES_FILE     = "data/torrent_names.txt"
 DELAY          = 0.5
 
+# Torrents à ignorer (IDs Nyaa) — doublons, remplacés, mauvais uploads...
+IGNORE_IDS = {
+    1373039,
+}
+
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 
 _MAGNET_RE = re.compile(r"btih:([a-fA-F0-9]{40})", re.IGNORECASE)
@@ -120,6 +125,12 @@ def main():
     existing = load_existing(OUTPUT_FILE)
     print(f"[Existing] {len(existing)} torrents déjà en base")
 
+    # Filtrer les IDs ignorés de la base existante
+    ignored_existing = [t for t in existing if t.get("nyaa_id") in IGNORE_IDS]
+    if ignored_existing:
+        existing = [t for t in existing if t.get("nyaa_id") not in IGNORE_IDS]
+        print(f"[Ignore] {len(ignored_existing)} torrent(s) supprimé(s) de la base : {[t['nyaa_id'] for t in ignored_existing]}")
+
     existing_hashes = {t["infohash"] for t in existing if t.get("infohash")}
     existing_titles = {t["title"]    for t in existing if t.get("title")}
 
@@ -139,6 +150,10 @@ def main():
         for item in items:
             t = normalize(item)
             if not t["title"]:
+                continue
+            # Ignorer les IDs blacklistés
+            if t.get("nyaa_id") and t["nyaa_id"] in IGNORE_IDS:
+                print(f"  [Ignore] {t['nyaa_id']} — {t['title'][:60]}")
                 continue
             if (t.get("infohash") and t["infohash"] in existing_hashes) or \
                (t.get("title")    and t["title"]    in existing_titles):
