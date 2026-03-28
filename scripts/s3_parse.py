@@ -806,16 +806,14 @@ def main():
                     ep["paths"] = [{"infohash": pack_infohash2, "path": p}] if p else []
                 consolidated += 1
 
-        # 1b. structure["torrents"] non-vide → peupler depuis chaque pack intégral
-        if structure["torrents"]:
-            has_any_paths = any(ep.get("paths")
-                                for s in structure["seasons"]
-                                for ep in s["episodes"])
-            for pack_ref in structure["torrents"]:
-                pack_raw = torrents_by_id.get(pack_ref.get("nyaa_id")) or torrents_by_infohash.get(pack_ref.get("infohash"), {})
-                if pack_raw.get("files"):
-                    _populate_paths_from_torrent(structure, pack_raw, append=has_any_paths)
-                    has_any_paths = True  # les suivants s'ajoutent
+        # 1b. structure["torrents"] non-vide mais épisodes sans paths → peupler
+        if structure["torrents"] and not any(ep.get("paths")
+                                              for s in structure["seasons"]
+                                              for ep in s["episodes"]):
+            pack_ref = next((t for t in structure["torrents"] if t.get("nyaa_id")), structure["torrents"][0])
+            pack_raw = torrents_by_id.get(pack_ref.get("nyaa_id")) or torrents_by_infohash.get(pack_ref.get("infohash"), {})
+            if pack_raw.get("files"):
+                _populate_paths_from_torrent(structure, pack_raw, append=False)
 
     # Nettoyage final : supprimer les paths avec path=null
     for structure in structures.values():
