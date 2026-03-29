@@ -44,7 +44,7 @@ TORRENTS = [
         "path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
     },
     {
-        "source": "One_Piece_Strong_World.torrent",
+        "source": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264.torrent",
         "title": "One Piece Kaï",
         "no_fankai": True,
         "season": 0,
@@ -52,7 +52,7 @@ TORRENTS = [
         "path": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264-KHAYA.mkv",
     },
     {
-        "source": "One_Piece_Z.torrent",
+        "source": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv.torrent",
         "title": "One Piece Kaï Z",
         "no_fankai": True,
         "season": 0,
@@ -60,7 +60,7 @@ TORRENTS = [
         "path": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv"
     },
     {
-        "source": "One_Piece_Gold.torrent",
+        "source": "One Piece_ Gold (1080p HD).mkv.torrent",
         "title": "One Piece Kaï Gold",
         "no_fankai": True,
         "season": 0,
@@ -68,7 +68,7 @@ TORRENTS = [
         "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
     },
     {
-        "source": "One_Piece_Stampede.torrent",
+        "source": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv.torrent",
         "title": "One Piece Kaï Stampede",
         "no_fankai": True,
         "season": 0,
@@ -76,12 +76,12 @@ TORRENTS = [
         "path": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv"
     },
     {
-        "source": "One_Piece_Red.torrent",
+        "source": "One Piece Film - Red [FR-JP] (2022).mkv.torrent",
         "title": "One Piece Kaï Red",
         "no_fankai": True,
         "season": 0,
         "episode": 5,
-        "path": "One Piece Film - Red [FR-JP] (2022).mkv"
+        "path": "One Piece_ Gold (1080p HD).mkv"
     }
     # ── Exemples pour films/spéciaux non-fankai ───────────────────────────────
     # {
