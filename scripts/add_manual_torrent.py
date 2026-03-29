@@ -44,24 +44,23 @@ TORRENTS = [
         "path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
     },
     {
-        "source": 2066727,
+        "source": "One.Piece.Strong.World.torrent",
         "title": "One Piece Kaï",
         "no_fankai": True,
         "season": 0,
         "episode": 1,
-        "path": "[uP] One Piece - Films 06-10 (BDRip 1080p x264 AC3 Multi)/[uP] One Piece - 10 Strong World (BDRip 1080p x264 AC3 MULTI).mkv",
-        "so": "4",  # index 4 = Strong World (5ème fichier)
+        "path": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264-KHAYA.mkv",
     },
     {
-        "source": 1250812,
+        "source": "One.Piece.Z.torrent",
         "title": "One Piece Kaï Z",
         "no_fankai": True,
         "season": 0,
         "episode": 2,
-        "path": "[Kaerizaki-Fansub]_One-Piece_Z_Film_12_[VOSTFR][BLU-RAY][FHD_1920x1080].mp4"
+        "path": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv"
     },
     {
-        "source": 1815826,
+        "source": "One.Piece.Gold.torrent",
         "title": "One Piece Kaï Gold",
         "no_fankai": True,
         "season": 0,
@@ -69,20 +68,20 @@ TORRENTS = [
         "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
     },
     {
-        "source": 1257276,
+        "source": "One.Piece.Stampede.torrent",
         "title": "One Piece Kaï Stampede",
         "no_fankai": True,
         "season": 0,
         "episode": 4,
-        "path": "[ISSOUj] ONE PIECE STAMPEDE - VOSTFR & VF MULTI (BDRip 1080p x264 10bits FLAC AAC AC-3).mkv"
+        "path": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv"
     },
     {
-        "source": 1648250,
+        "source": "One.Piece.Red.torrent",
         "title": "One Piece Kaï Red",
         "no_fankai": True,
         "season": 0,
         "episode": 5,
-        "path": "[Almighty] One Piece Film Red [BD 1920x1080 x264 10bit FLAC][Multi Subs].mkv"
+        "path": "One Piece Film - Red [FR-JP] (2022).mkv"
     }
     # ── Exemples pour films/spéciaux non-fankai ───────────────────────────────
     # {
