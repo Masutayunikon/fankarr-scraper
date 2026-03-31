@@ -12,7 +12,7 @@
       "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
       "size": "278.1 GiB",
       "pub_date": "2026-03-09 18:30",
-      "seeders": 60,
+      "seeders": 57,
       "fankai": true
     }
   ],
@@ -1620,6 +1620,21 @@
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
               "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 092 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv"
+            }
+          ]
+        },
+        {
+          "id": 1269,
+          "episode_number": 93,
+          "title": "Le lien entre les Minks et l'équipage",
+          "aired": null,
+          "original_filename": "One Piece Kaï - 093 - Le liens entre les Minks et l'équipage - 720p.VOSTFR.x264 [Zdk].mp4",
+          "formatted_name": "One Piece Kaï.S10E93.VOSTFR.720p.x264-FANKAI",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 093 - Le liens entre les Minks et l'équipage - 720p.VOSTFR.x264 [Zdk].mkv"
             }
           ]
         },
