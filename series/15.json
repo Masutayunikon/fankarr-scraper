@@ -18,7 +18,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 10,
+          "seeders": 9,
           "fankai": true
         }
       ],
@@ -159,7 +159,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 10,
+          "seeders": 9,
           "fankai": true
         }
       ],
@@ -339,7 +339,7 @@
               "infohash": "37aadeb72da2f5d1236ba8e113f0d23da314096e",
               "size": "2.3 GiB",
               "pub_date": "2023-04-16 20:15",
-              "seeders": 8,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -367,7 +367,7 @@
               "infohash": "fe0e9190fd34811674969c88e46ea5d1b5cf3e17",
               "size": "1.1 GiB",
               "pub_date": "2023-04-17 19:17",
-              "seeders": 9,
+              "seeders": 11,
               "fankai": true
             }
           ],
@@ -395,7 +395,7 @@
               "infohash": "17c0a7f519773091705808564a056aa1f7a7559c",
               "size": "2.1 GiB",
               "pub_date": "2023-04-21 18:59",
-              "seeders": 7,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -423,7 +423,7 @@
               "infohash": "c56316903ae379af0b788dc234b1f88b3e656af1",
               "size": "1.4 GiB",
               "pub_date": "2023-04-22 19:44",
-              "seeders": 7,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -563,7 +563,7 @@
               "infohash": "6d63ed4836215690f86a5bacbcc6a1f9e87f85a3",
               "size": "1.4 GiB",
               "pub_date": "2024-10-11 19:24",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -591,7 +591,7 @@
               "infohash": "bf22f471f828e59cf7110ec755f3a5b2194a4b78",
               "size": "1.1 GiB",
               "pub_date": "2024-10-12 19:33",
-              "seeders": 7,
+              "seeders": 8,
               "fankai": true
             }
           ],
@@ -619,7 +619,7 @@
               "infohash": "b38e4987bcdf7ef77c16e8d120b7ceaed145bb67",
               "size": "2.6 GiB",
               "pub_date": "2024-11-04 20:15",
-              "seeders": 8,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -647,7 +647,7 @@
               "infohash": "8c61d17aafb639328463abc435902c44b74ad998",
               "size": "850.6 MiB",
               "pub_date": "2024-11-05 20:27",
-              "seeders": 9,
+              "seeders": 10,
               "fankai": true
             }
           ],
