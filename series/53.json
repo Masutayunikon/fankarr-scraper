@@ -12,7 +12,7 @@
       "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
       "size": "278.1 GiB",
       "pub_date": "2026-03-09 18:30",
-      "seeders": 61,
+      "seeders": 50,
       "fankai": true
     }
   ],
@@ -2266,6 +2266,21 @@
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
               "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv"
+            }
+          ]
+        },
+        {
+          "id": 1271,
+          "episode_number": 134,
+          "title": "L'Ange Gardien",
+          "aired": "2026-04-01",
+          "original_filename": "One Piece Kaï - 134 - L'Ange Gardien - 1080p.VOSTFR.x264 [Johker].mkv",
+          "formatted_name": "One Piece Kaï.S12E134.VOSTFR.480p.x264-FANKAI",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 065 - L'Ange de la mort - 1080p.MULTI.x264 [Johker].mkv"
             }
           ]
         }
