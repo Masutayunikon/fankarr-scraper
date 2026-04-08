@@ -17,6 +17,7 @@
           "aired": "2020-01-24",
           "original_filename": "[ElFenomomo] Assassination Classroom - Film 01 - Koro-sensei - 1080p.MULTI.x264.BDRip.mkv",
           "formatted_name": "Assassination Classroom Henshū.S01E01.MULTI.720p.x264-FANKAI",
+          "nfo_filename": "[ElFenomomo] Assassination Classroom - Film 01 - Koro-sensei - 1080p.MULTI.x264.BDRip.nfo",
           "torrents": [
             {
               "nyaa_id": 1356827,
@@ -45,6 +46,7 @@
           "aired": "2020-05-06",
           "original_filename": "[ElFenomomo] Assassination Classroom - Film 02 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.mkv",
           "formatted_name": "Assassination Classroom Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[ElFenomomo] Assassination Classroom - Film 02 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.nfo",
           "torrents": [
             {
               "nyaa_id": 1356829,
@@ -73,6 +75,7 @@
           "aired": "2020-06-13",
           "original_filename": "[ElFenomomo] Assassination Classroom - Film 03 - Les Nouveaux Elèves - 1080p.MULTI.x264.BDRip.mkv",
           "formatted_name": "Assassination Classroom Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[ElFenomomo] Assassination Classroom - Film 03 - Les Nouveaux Elèves - 1080p.MULTI.x264.BDRip.nfo",
           "torrents": [
             {
               "nyaa_id": 1254689,
@@ -83,7 +86,7 @@
               "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
               "size": "1021.6 MiB",
               "pub_date": "2020-06-13 19:58",
-              "seeders": 3,
+              "seeders": 4,
               "fankai": true
             }
           ],

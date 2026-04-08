@@ -12,7 +12,7 @@
       "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
       "size": "2.0 GiB",
       "pub_date": "2026-03-19 23:28",
-      "seeders": 9,
+      "seeders": 8,
       "fankai": true
     },
     {
@@ -42,6 +42,7 @@
           "aired": "2024-01-11",
           "original_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés.mkv",
           "formatted_name": "Inuyashiki Last Hero Henshū.S01E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -61,6 +62,7 @@
           "aired": "2024-01-19",
           "original_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes.mkv",
           "formatted_name": "Inuyashiki Last Hero Henshū.S01E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -80,6 +82,7 @@
           "aired": "2024-01-26",
           "original_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros.mkv",
           "formatted_name": "Inuyashiki Last Hero Henshū.S01E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x264.nfo",
           "torrents": [],
           "paths": [
             {

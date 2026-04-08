@@ -12,7 +12,7 @@
       "infohash": "e9acde526588d7b38a9fb649446c835b8ff2a265",
       "size": "34.2 GiB",
       "pub_date": "2021-03-14 13:31",
-      "seeders": 40,
+      "seeders": 43,
       "fankai": true
     }
   ],
@@ -30,6 +30,7 @@
           "aired": null,
           "original_filename": "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S01E01.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 01 - Devenir Hunter - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -45,6 +46,7 @@
           "aired": null,
           "original_filename": "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 02 - La Tour aux Astuces - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -60,6 +62,7 @@
           "aired": null,
           "original_filename": "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S01E03.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 03 - Chasseurs et Proies - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -75,6 +78,7 @@
           "aired": null,
           "original_filename": "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S01E04.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 04 - La Famille Zoldik - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -98,6 +102,7 @@
           "aired": "2019-01-22",
           "original_filename": "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S02E05.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 05 - La Tour Céleste - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -113,6 +118,7 @@
           "aired": "2019-01-22",
           "original_filename": "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S02E06.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 06 - La Brigade Fantôme - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -128,6 +134,7 @@
           "aired": "2019-01-22",
           "original_filename": "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S02E07.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 07 - Requiem - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -143,6 +150,7 @@
           "aired": "2019-01-22",
           "original_filename": "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S02E08.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 08 - La Tête de l'Araignée - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -166,6 +174,7 @@
           "aired": "2019-01-27",
           "original_filename": "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S03E09.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 09 - Le Jeu Légendaire - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -181,6 +190,7 @@
           "aired": "2019-01-27",
           "original_filename": "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S03E10.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 10 - Lutte de Clans - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -204,6 +214,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E11.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 11 - Kaito - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -219,6 +230,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E12.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 12 - Faibles et Puissants - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -234,6 +246,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E13.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -249,6 +262,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E14.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 14 - Jeux de Guerre - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -264,6 +278,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E15.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 15 - Infiltration - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -279,6 +294,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E16.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 16 - Assaut (Acte I) - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -294,6 +310,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E17.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 17 - Assaut (Acte II) - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -309,6 +326,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E18.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 18 - Assaut (Acte III) - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -324,6 +342,7 @@
           "aired": "2019-03-03",
           "original_filename": "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S04E19.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 19 - La Pire des Bêtes - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -347,6 +366,7 @@
           "aired": "2019-03-18",
           "original_filename": "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S05E20.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 20 - Les Douze du Zodiaque - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -362,6 +382,7 @@
           "aired": "2019-03-18",
           "original_filename": "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.mkv",
           "formatted_name": "Hunter x Hunter Kaï (2011).S05E21.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Avalokitesvara] HxH Kai - 21 - Un Vaste Monde - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {

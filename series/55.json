@@ -12,7 +12,7 @@
       "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
       "size": "22.7 GiB",
       "pub_date": "2021-04-16 19:14",
-      "seeders": 12,
+      "seeders": 13,
       "fankai": true
     }
   ],
@@ -30,6 +30,7 @@
           "aired": "2019-01-01",
           "original_filename": "Yu Yu Hakusho - film 01 - Sacrifice et résurrection.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 01 - Sacrifice et résurrection.nfo",
           "torrents": [],
           "paths": [
             {
@@ -45,6 +46,7 @@
           "aired": "2019-01-15",
           "original_filename": "Yu Yu Hakusho - film 02 - Maître Genkai.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 02 - Maître Genkai.nfo",
           "torrents": [],
           "paths": [
             {
@@ -60,6 +62,7 @@
           "aired": "2019-02-01",
           "original_filename": "Yu Yu Hakusho - film 03 - La flûte diabolique.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 03 - La flûte diabolique.nfo",
           "torrents": [],
           "paths": [
             {
@@ -75,6 +78,7 @@
           "aired": "2019-02-06",
           "original_filename": "Yu Yu Hakusho - film 04 - Les frères Toguro.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S01E04.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 04 - Les frères Toguro.nfo",
           "torrents": [],
           "paths": [
             {
@@ -98,6 +102,7 @@
           "aired": "2019-02-14",
           "original_filename": "Yu Yu Hakusho - film 05 - Des invités prometteurs.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S02E05.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 05 - Des invités prometteurs.nfo",
           "torrents": [],
           "paths": [
             {
@@ -113,6 +118,7 @@
           "aired": "2019-03-04",
           "original_filename": "Yu Yu Hakusho - film 06 - Un règlement scandaleux.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S02E06.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 06 - Un règlement scandaleux.nfo",
           "torrents": [],
           "paths": [
             {
@@ -128,6 +134,7 @@
           "aired": "2019-05-01",
           "original_filename": "Yu Yu Hakusho - film 07 - Les ravages du temps.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S02E07.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 07 - Les ravages du temps.nfo",
           "torrents": [],
           "paths": [
             {
@@ -143,6 +150,7 @@
           "aired": "2019-05-01",
           "original_filename": "Yu Yu Hakusho - film 08 - Un pari risqué.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S02E08.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 08 - Un pari risqué.nfo",
           "torrents": [],
           "paths": [
             {
@@ -166,6 +174,7 @@
           "aired": "2019-05-23",
           "original_filename": "Yu Yu Hakusho - film 09 - L'héritage de Sakyô.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S03E09.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - film 09 - L'héritage de Sakyô.nfo",
           "torrents": [],
           "paths": [
             {
@@ -181,6 +190,7 @@
           "aired": "2019-08-14",
           "original_filename": "Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S03E10.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - Film 10 - Le briseur de sort.nfo",
           "torrents": [],
           "paths": [
             {
@@ -196,6 +206,7 @@
           "aired": "2019-08-14",
           "original_filename": "Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S03E11.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - Film 11 - Le grand atavisme.nfo",
           "torrents": [],
           "paths": [
             {
@@ -219,6 +230,7 @@
           "aired": "2020-02-15",
           "original_filename": "Yu Yu Hakusho - Film 12 - Destins croisés.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S04E12.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - Film 12 - Destins croisés.nfo",
           "torrents": [],
           "paths": [
             {
@@ -234,6 +246,7 @@
           "aired": "2020-02-15",
           "original_filename": "Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv",
           "formatted_name": "Yu Yu Hakusho Kaï.S04E13.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Yu Yu Hakusho - Film 13 - La loi du plus fort.nfo",
           "torrents": [],
           "paths": [
             {
