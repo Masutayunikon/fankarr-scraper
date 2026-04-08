@@ -258,6 +258,7 @@ def build_structure(serie, seasons_raw):
                 "aired":            ep.get("aired") or None,
                 "original_filename": ep.get("original_filename"),
                 "formatted_name":   ep.get("formatted_name"),
+                "nfo_filename":     ep.get("nfo_filename"),
                 "torrents":         [],
                 "paths":            [],
             }
