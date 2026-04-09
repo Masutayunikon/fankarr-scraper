@@ -2,7 +2,20 @@
   "id": 11,
   "title": "Dragon Ball Z Recut",
   "show_title": "Dragon Ball Z Recut",
-  "torrents": [],
+  "torrents": [
+    {
+      "nyaa_id": 2024827,
+      "nyaa_url": "https://nyaa.si/view/2024827",
+      "title": "Dragon Ball Z Recut",
+      "torrent_url": "https://nyaa.si/download/2024827.torrent",
+      "magnet": "magnet:?xt=urn:btih:b8770d78d8e665132536f3631a35c16ab354fbed&dn=%5BTeam%20Kienzan%5D%20Dragon%20Ball%20Z%20Recut%20%5Bx264%5D%20%5B480p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "infohash": "b8770d78d8e665132536f3631a35c16ab354fbed",
+      "size": "406.4 GiB",
+      "pub_date": null,
+      "seeders": null,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 20,
