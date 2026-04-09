@@ -44,6 +44,11 @@ TORRENTS = [
         "path": "My.Hero.Academia.Youre.Next.2024.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv"
     },
     {
+        "source": 2024827,
+        "title": "Dragon Ball Z Recut",
+        "type": "integral",
+    },
+    {
         "source": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264.torrent",
         "title": "One Piece Kaï",
         "no_fankai": True,
