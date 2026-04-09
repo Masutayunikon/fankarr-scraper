@@ -17,6 +17,7 @@
           "aired": "2020-01-24",
           "original_filename": "[ElFenomomo] Assassination Classroom - Film 01 - Koro-sensei - 1080p.MULTI.x264.BDRip.mkv",
           "formatted_name": "Assassination Classroom Henshū.S01E01.MULTI.720p.x264-FANKAI",
+          "nfo_filename": "[ElFenomomo] Assassination Classroom - Film 01 - Koro-sensei - 1080p.MULTI.x264.BDRip.nfo",
           "torrents": [
             {
               "nyaa_id": 1356827,
@@ -27,7 +28,7 @@
               "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
               "size": "1.2 GiB",
               "pub_date": "2021-03-13 16:51",
-              "seeders": 4,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -45,6 +46,7 @@
           "aired": "2020-05-06",
           "original_filename": "[ElFenomomo] Assassination Classroom - Film 02 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.mkv",
           "formatted_name": "Assassination Classroom Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[ElFenomomo] Assassination Classroom - Film 02 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.nfo",
           "torrents": [
             {
               "nyaa_id": 1356829,
@@ -55,7 +57,7 @@
               "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
               "size": "1.1 GiB",
               "pub_date": "2021-03-13 16:54",
-              "seeders": 2,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -73,6 +75,7 @@
           "aired": "2020-06-13",
           "original_filename": "[ElFenomomo] Assassination Classroom - Film 03 - Les Nouveaux Elèves - 1080p.MULTI.x264.BDRip.mkv",
           "formatted_name": "Assassination Classroom Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[ElFenomomo] Assassination Classroom - Film 03 - Les Nouveaux Elèves - 1080p.MULTI.x264.BDRip.nfo",
           "torrents": [
             {
               "nyaa_id": 1254689,
@@ -83,7 +86,7 @@
               "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
               "size": "1021.6 MiB",
               "pub_date": "2020-06-13 19:58",
-              "seeders": 3,
+              "seeders": 5,
               "fankai": true
             }
           ],

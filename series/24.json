@@ -12,7 +12,7 @@
       "infohash": "21bc7398d2f5c762b385c557163befec8ec97435",
       "size": "11.0 GiB",
       "pub_date": "2021-11-14 16:07",
-      "seeders": 6,
+      "seeders": 7,
       "fankai": true
     }
   ],
@@ -30,6 +30,7 @@
           "aired": "2020-12-20",
           "original_filename": "[Triggerforce] Busô Renkin Kyodai 01 - Une nouvelle vie - 1080p.VOSTFR.x264.mkv",
           "formatted_name": "Busô Renkin Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Triggerforce] Busô Renkin Kyodai 01 - Une nouvelle vie - 1080p.VOSTFR.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -45,6 +46,7 @@
           "aired": "2021-06-19",
           "original_filename": "[Triggerforce] Busô Renkin Kyodai 02 - Le soldat Tokiko - 1080p.VOSTFR.x264.mkv",
           "formatted_name": "Busô Renkin Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Triggerforce] Busô Renkin Kyodai 02 - Le soldat Tokiko - 1080p.VOSTFR.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -60,6 +62,7 @@
           "aired": "2021-07-02",
           "original_filename": "[Triggerforce] Busô Renkin Kyodai 03 - Le changement de coeur - 1080p.VOSTFR.x264.mkv",
           "formatted_name": "Busô Renkin Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Triggerforce] Busô Renkin Kyodai 03 - Le changement de coeur - 1080p.VOSTFR.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -75,6 +78,7 @@
           "aired": "2021-07-13",
           "original_filename": "[Triggerforce] Busô Renkin Kyodai 04 - L'autre tiers - 1080p.VOSTFR.x264.mkv",
           "formatted_name": "Busô Renkin Kaï.S01E04.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Triggerforce] Busô Renkin Kyodai 04 - L'autre tiers - 1080p.VOSTFR.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -90,6 +94,7 @@
           "aired": "2021-07-15",
           "original_filename": "[Triggerforce] Busô Renkin Kyodai 05 - Paroxysme - 1080p.VOSTFR.x264.mkv",
           "formatted_name": "Busô Renkin Kaï.S01E05.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Triggerforce] Busô Renkin Kyodai 05 - Paroxysme - 1080p.VOSTFR.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -105,6 +110,7 @@
           "aired": "2021-07-21",
           "original_filename": "[Triggerforce] Busô Renkin Kyodai 06 - Le Grand Final - 1080p.VOSTFR.x264.mkv",
           "formatted_name": "Busô Renkin Kaï.S01E06.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Triggerforce] Busô Renkin Kyodai 06 - Le Grand Final - 1080p.VOSTFR.x264.nfo",
           "torrents": [],
           "paths": [
             {
