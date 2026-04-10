@@ -41,6 +41,9 @@ jobs:
       - name: s5 — Generate available.json
         run: python scripts/s5_available.py
 
+      - name: s6 — Generate infohash map
+        run: python scripts/gen_infohash_map.py
+
       # ── 4. Cleanup cache (ne pas committer) ───────────────────────────────────
       - name: Cleanup cache files
         if: always()
@@ -48,12 +51,12 @@ jobs:
           rm -rf data/api_cache/
           rm -rf data/torrent_cache/
 
-      # ── 5. Commit & push series/ ──────────────────────────────────────────────
-      - name: Commit and push series/
+      # ── 5. Commit & push ──────────────────────────────────────────────────────
+      - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add series/ available.json
+          git add series/ available.json data/torrent_raw.json infohash_map.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "chore: update series — $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
