@@ -258,7 +258,6 @@ def build_structure(serie, seasons_raw):
                 "aired":            ep.get("aired") or None,
                 "original_filename": ep.get("original_filename"),
                 "formatted_name":   ep.get("formatted_name"),
-                "nfo_filename":     ep.get("nfo_filename"),
                 "torrents":         [],
                 "paths":            [],
             }
@@ -336,9 +335,9 @@ def build_ep_path_index(torrent):
                 raw_index[num] = f
     video_files = sorted([
         f for f in (torrent.get("files") or [])
-        if Path(f).suffix.lower() in _VIDEO_EXT
-        and _extract_ep_video(Path(f).name) is not None
-        and not Path(f).name.lower().endswith(('.png', '.jpg', '.nfo', '.zip'))
+        if Path(re.split(r'[/\\]', f)[-1]).suffix.lower() in _VIDEO_EXT
+        and _extract_ep_video(re.split(r'[/\\]', f)[-1]) is not None
+        and not re.split(r'[/\\]', f)[-1].lower().endswith(('.png', '.jpg', '.nfo', '.zip'))
     ])
     if ep_numbers and len(ep_numbers) == len(video_files):
         for ep_num, f in zip(sorted(ep_numbers), video_files):
@@ -574,7 +573,13 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
                     return match_title_to_path(ep.get("title", ""), title_path_idx)
                 if season_path_idx.get(n):
                     return season_path_idx[n]
-                return path_idx.get(n) or match_title_to_path(ep.get("title", ""), title_path_idx)
+                if path_idx.get(n):
+                    return path_idx[n]
+                # Si path_idx non vide mais ne contient pas cet épisode → pas dans ce torrent
+                if path_idx:
+                    return None
+                # path_idx vide (torrent sans files parsés) → fallback title match
+                return match_title_to_path(ep.get("title", ""), title_path_idx)
             p = _get_path()
             path_obj = {"infohash": pack_infohash, "path": p}
             if append:
