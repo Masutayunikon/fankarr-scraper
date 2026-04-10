@@ -8,7 +8,7 @@ from pathlib import Path
 
 TORRENT_FILE = "data/torrent_raw.json"
 MANUAL_FILE  = "data/manual_torrents.json"
-OUTPUT_FILE  = "data/infohash_map.json"
+OUTPUT_FILE  = "infohash_map.json"
 
 def main():
     torrents = []
