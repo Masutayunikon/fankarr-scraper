@@ -12,7 +12,7 @@
       "infohash": "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e",
       "size": "8.1 GiB",
       "pub_date": "2021-03-12 23:11",
-      "seeders": 10,
+      "seeders": 9,
       "fankai": true
     }
   ],
@@ -30,6 +30,7 @@
           "aired": "2018-12-28",
           "original_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.mkv",
           "formatted_name": "Dragon Ball GT Fan-Cut.S01E01.VOSTFR.720p.x264-FANKAI",
+          "nfo_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 01 - Le grand voyage - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -45,6 +46,7 @@
           "aired": "2019-10-12",
           "original_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.mkv",
           "formatted_name": "Dragon Ball GT Fan-Cut.S01E02.VOSTFR.720p.x264-FANKAI",
+          "nfo_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 02 - La vengeance Tsuful ! - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -60,6 +62,7 @@
           "aired": "2019-10-28",
           "original_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.mkv",
           "formatted_name": "Dragon Ball GT Fan-Cut.S01E03.VOSTFR.720p.x264-FANKAI",
+          "nfo_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 03 - La niveau 4 ! - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -75,6 +78,7 @@
           "aired": "2019-10-28",
           "original_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.mkv",
           "formatted_name": "Dragon Ball GT Fan-Cut.S01E04.VOSTFR.720p.x264-FANKAI",
+          "nfo_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 04 - L'enfer sur Terre ! - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -90,6 +94,7 @@
           "aired": "2020-02-16",
           "original_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv",
           "formatted_name": "Dragon Ball GT Fan-Cut.S01E05.VOSTFR.720p.x264-FANKAI",
+          "nfo_filename": "[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {

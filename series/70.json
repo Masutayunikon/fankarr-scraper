@@ -12,7 +12,7 @@
       "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
       "size": "3.8 GiB",
       "pub_date": "2026-03-24 20:28",
-      "seeders": 4,
+      "seeders": 3,
       "fankai": true
     },
     {
@@ -24,7 +24,7 @@
       "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
       "size": "2.7 GiB",
       "pub_date": "2026-03-19 23:24",
-      "seeders": 7,
+      "seeders": 5,
       "fankai": true
     }
   ],
@@ -42,6 +42,7 @@
           "aired": "2023-11-14",
           "original_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv",
           "formatted_name": "Call of the Night Henshū.S01E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -61,6 +62,7 @@
           "aired": "2023-12-04",
           "original_filename": "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.FR.ENG.mkv",
           "formatted_name": "Call of the Night Henshū.S01E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -80,6 +82,7 @@
           "aired": "2023-12-15",
           "original_filename": "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.FR.ENG.mkv",
           "formatted_name": "Call of the Night Henshū.S01E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -99,6 +102,7 @@
           "aired": "2023-12-19",
           "original_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv",
           "formatted_name": "Call of the Night Henshū.S01E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {

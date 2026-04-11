@@ -12,7 +12,7 @@
       "infohash": "19b6658f9833ed7b49d12f36a4409a8c567d3316",
       "size": "6.5 GiB",
       "pub_date": "2026-03-19 23:26",
-      "seeders": 10,
+      "seeders": 7,
       "fankai": true
     },
     {
@@ -24,7 +24,7 @@
       "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
       "size": "9.9 GiB",
       "pub_date": "2026-03-24 20:28",
-      "seeders": 7,
+      "seeders": 4,
       "fankai": true
     }
   ],
@@ -42,6 +42,7 @@
           "aired": "2024-08-06",
           "original_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E01.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -61,6 +62,7 @@
           "aired": "2024-08-10",
           "original_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -80,6 +82,7 @@
           "aired": "2024-08-14",
           "original_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E03.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -99,6 +102,7 @@
           "aired": "2024-09-03",
           "original_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E04.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -118,6 +122,7 @@
           "aired": "2024-09-03",
           "original_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E05.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -137,6 +142,7 @@
           "aired": "2024-11-30",
           "original_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E06.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -156,6 +162,7 @@
           "aired": "2024-11-01",
           "original_filename": "[Hikano] Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E07.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -175,6 +182,7 @@
           "aired": "2024-11-05",
           "original_filename": "[Hikano] Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E08.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -194,6 +202,7 @@
           "aired": "2024-11-06",
           "original_filename": "[Hikano] Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv",
           "formatted_name": "Horimiya Kaï.S01E09.VOSTFR.HD.x264-FANKAI",
+          "nfo_filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
