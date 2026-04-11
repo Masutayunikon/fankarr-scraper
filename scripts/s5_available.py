@@ -28,8 +28,8 @@ def serie_has_torrent(data: dict) -> bool:
         if season.get("torrents"):
             return True
         for ep in season.get("episodes") or []:
-            # Torrent individuel ou path depuis pack
-            if ep.get("torrents") or ep.get("paths"):
+            # Torrent individuel, path depuis pack, ou épisode avec métadonnées
+            if ep.get("torrents") or ep.get("paths") or ep.get("formatted_name") or ep.get("original_filename"):
                 return True
     return False
 
