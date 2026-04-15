@@ -4,18 +4,6 @@
   "show_title": "GTO Kaï",
   "torrents": [
     {
-      "nyaa_id": null,
-      "nyaa_url": null,
-      "title": "GTO Kaï",
-      "torrent_url": null,
-      "magnet": "magnet:?xt=urn:btih:b7bbf5294413d982ab2d7e4daacdd7527ae1982f&dn=GTO%20Kai%20%5BTenma%5D%20%281080p%20Upscale%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
-      "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-      "size": "19.6 GiB",
-      "pub_date": null,
-      "seeders": null,
-      "fankai": true
-    },
-    {
       "nyaa_id": 1758971,
       "nyaa_url": "https://nyaa.si/view/1758971",
       "title": "[Tenma] GTO Kai - 9 films [DUB][VO|VF|EN|ITA] [Multiple Subtitle] [EN|FR|ES|ES-LA|POR|DEU|ARA|POR-BRA]",
@@ -25,6 +13,18 @@
       "size": "13.0 GiB",
       "pub_date": "2023-12-22 20:19",
       "seeders": 15,
+      "fankai": true
+    },
+    {
+      "nyaa_id": null,
+      "nyaa_url": null,
+      "title": "GTO Kaï",
+      "torrent_url": null,
+      "magnet": "magnet:?xt=urn:btih:b7bbf5294413d982ab2d7e4daacdd7527ae1982f&dn=GTO%20Kai%20%5BTenma%5D%20%281080p%20Upscale%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+      "size": "19.6 GiB",
+      "pub_date": null,
+      "seeders": null,
       "fankai": true
     }
   ],
@@ -46,12 +46,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 08.5 - Bonus - Occulte, Infirmière et Or volé - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -66,12 +66,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO - 10 - Bonus - La Dernière Bataille d'Onizuka - 1080p.MULTI.x264.mkv"
             }
           ]
         }
@@ -94,12 +94,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 01 - Eikichi Onizuka - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 01 - Eikichi Onizuka - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -114,12 +114,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 02 - La Troisième 4 - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 02 - La Troisième 4 - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -134,12 +134,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 03 - La Naissance d'une Star - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 03 - La Naissance d'une Star - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -154,12 +154,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 04 - L'examen d'Onizuka - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 04 - L'examen d'Onizuka - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -174,12 +174,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 05 - L'ennemi juré d'Onizuka - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -194,12 +194,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 06 - L'obsession de Murai - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 06 - L'obsession de Murai - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -214,12 +214,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 07 - La Plus Grande Idole du Japon - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -234,12 +234,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 08 - Le Piège d'Aizawa - 1080p.MULTI.x264.mkv"
             }
           ]
         },
@@ -254,12 +254,12 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
-              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv"
-            },
-            {
               "infohash": "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
               "path": "GTO Kai [Tenma] (DVD Source)/[Tenma] GTO Kai - 09 - Survie à Okinawa - DVD.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b7bbf5294413d982ab2d7e4daacdd7527ae1982f",
+              "path": "GTO Kai [Tenma] (1080p Upscale)\\[Tenma] GTO Kai - 09 - Survie à Okinawa - 1080p.MULTI.x264.mkv"
             }
           ]
         }
