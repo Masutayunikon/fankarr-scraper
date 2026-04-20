@@ -1,7 +1,7 @@
 """
 Script d'ajout batch de torrents manuels
 ==========================================
-Lance step_manual_add.py pour chaque torrent à ajouter.
+Lance manual_add.py pour chaque torrent à ajouter.
 Modifier la liste TORRENTS ci-dessous pour ajouter vos entrées.
 """
 
@@ -9,9 +9,9 @@ import subprocess
 import sys
 
 # ─── À REMPLIR ────────────────────────────────────────────────────────────────
-# Chaque entrée est un dict avec les paramètres à passer à step_manual_add.py
+# Chaque entrée est un dict avec les paramètres à passer à manual_add.py
 # Paramètres disponibles :
-#   source     : chemin .torrent local OU nyaa_id (int)
+#   source     : chemin .torrent local (relatif à scripts/) OU nyaa_id (int)
 #   title      : titre de la série (doit matcher le titre sur fankai)
 #   no_fankai  : True/False
 #   episode    : numéro d'épisode forcé (optionnel)
@@ -20,7 +20,7 @@ import sys
 
 TORRENTS = [
     {
-        "source":    "GTO_Kai_upscale.torrent",
+        "source":    "torrents/GTO_Kai_upscale.torrent",
         "title":     "GTO Kaï",
         "no_fankai": False,
         # "episode": 1,
@@ -28,7 +28,7 @@ TORRENTS = [
         # "type":    "integral",
     },
     {
-        "source":    "reborn_kai.torrent",
+        "source":    "torrents/reborn_kai.torrent",
         "title":     "Reborn! Kaï",
         "no_fankai": False,
         # "episode": 1,
@@ -49,7 +49,7 @@ TORRENTS = [
         "type": "integral",
     },
     {
-        "source": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264.torrent",
+        "source": "torrents/10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264.torrent",
         "title": "One Piece Kaï",
         "no_fankai": True,
         "season": 0,
@@ -57,7 +57,7 @@ TORRENTS = [
         "path": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264-KHAYA.mkv",
     },
     {
-        "source": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv.torrent",
+        "source": "torrents/One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv.torrent",
         "title": "One Piece Kaï Z",
         "no_fankai": True,
         "season": 0,
@@ -65,7 +65,7 @@ TORRENTS = [
         "path": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv"
     },
     {
-        "source": "One Piece_ Gold (1080p HD).mkv.torrent",
+        "source": "torrents/One Piece_ Gold (1080p HD).mkv.torrent",
         "title": "One Piece Kaï Gold",
         "no_fankai": True,
         "season": 0,
@@ -73,7 +73,7 @@ TORRENTS = [
         "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
     },
     {
-        "source": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv.torrent",
+        "source": "torrents/One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv.torrent",
         "title": "One Piece Kaï Stampede",
         "no_fankai": True,
         "season": 0,
@@ -81,7 +81,7 @@ TORRENTS = [
         "path": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv"
     },
     {
-        "source": "One Piece Film - Red [FR-JP] (2022).mkv.torrent",
+        "source": "torrents/One Piece Film - Red [FR-JP] (2022).mkv.torrent",
         "title": "One Piece Kaï Red",
         "no_fankai": True,
         "season": 0,
@@ -90,14 +90,14 @@ TORRENTS = [
     }
     # ── Exemples pour films/spéciaux non-fankai ───────────────────────────────
     # {
-    #     "source":    12345678,           # nyaa_id
+    #     "source":    12345678,                    # nyaa_id
     #     "title":     "One Piece Kaï",
     #     "no_fankai": True,
     #     "season":    0,
     #     "episode":   1,
     # },
     # {
-    #     "source":    "film.torrent",
+    #     "source":    "torrents/film.torrent",     # fichier local
     #     "title":     "Boruto Kaï",
     #     "no_fankai": True,
     #     "season":    0,
@@ -108,7 +108,7 @@ TORRENTS = [
 # ─────────────────────────────────────────────────────────────────────────────
 
 def build_args(entry: dict) -> list[str]:
-    args = [sys.executable, "step_manual_add.py"]
+    args = [sys.executable, "manual_add.py"]
 
     source = entry["source"]
     if isinstance(source, int):
@@ -142,10 +142,10 @@ def main():
 
     for i, entry in enumerate(TORRENTS, 1):
         source = entry.get("source", "?")
-        title = entry.get("title", "?")
+        title  = entry.get("title", "?")
         print(f"[{i:02d}/{len(TORRENTS)}] {title} ← {source}")
 
-        args = build_args(entry)
+        args   = build_args(entry)
         result = subprocess.run(args, text=True)
 
         if result.returncode == 0:

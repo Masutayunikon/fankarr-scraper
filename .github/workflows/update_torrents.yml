@@ -33,15 +33,18 @@ jobs:
         run: python scripts/s1_collect.py
 
       - name: s2 — Enrich with .torrent file info
-        run: python scripts/s2_enricher.py
+        run: python scripts/s2_enrich.py
 
-      - name: s3 — Match torrents to series/episodes
-        run: python scripts/s3_parse.py
+      - name: s3 — Match torrents to series
+        run: python scripts/s3_match.py
 
-      - name: s5 — Generate available.json
-        run: python scripts/s5_available.py
+      - name: s4 — Assign torrents to episodes
+        run: python scripts/s4_assign.py
 
-      - name: s6 — Generate infohash map
+      - name: s6 — Generate available.json
+        run: python scripts/s6_available.py
+
+      - name: Generate infohash map
         run: python scripts/gen_infohash_map.py
 
       # ── 4. Cleanup cache (ne pas committer) ───────────────────────────────────
