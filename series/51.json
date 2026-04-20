@@ -1,7 +1,7 @@
 {
   "id": 51,
   "title": "Fairy Tail Kaï",
-  "show_title": "Fairy Tail Kaï",
+  "show_title": null,
   "torrents": [
     {
       "nyaa_id": 1675838,
@@ -12,7 +12,7 @@
       "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
       "size": "72.1 GiB",
       "pub_date": "2023-05-26 10:50",
-      "seeders": 26,
+      "seeders": 28,
       "fankai": true
     }
   ],
@@ -35,7 +35,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 01 - La Meilleure des Guildes - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 01 - La Meilleure des Guildes - 1080p.MULTI.x264.mkv",
+              "file_index": 1
             }
           ]
         },
@@ -51,7 +52,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 02 - La Malédiction de la Lune - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 02 - La Malédiction de la Lune - 1080p.MULTI.x264.mkv",
+              "file_index": 4
             }
           ]
         },
@@ -67,7 +69,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 03 - La Guerre des Guildes - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 03 - La Guerre des Guildes - 1080p.MULTI.x264.mkv",
+              "file_index": 7
             }
           ]
         },
@@ -83,7 +86,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 04 - La Loi des Fées - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 04 - La Loi des Fées - 1080p.MULTI.x264.mkv",
+              "file_index": 10
             }
           ]
         },
@@ -99,7 +103,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 05 - La Tour du Paradis - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 05 - La Tour du Paradis - 1080p.MULTI.x264.mkv",
+              "file_index": 13
             }
           ]
         },
@@ -115,7 +120,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 06 - La Bataille de Fairy Tail - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 1/[Avalokitesvara] Fairy Tail Kai - 06 - La Bataille de Fairy Tail - 1080p.MULTI.x264.mkv",
+              "file_index": 16
             }
           ]
         }
@@ -139,7 +145,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 07 - Coalition de Guildes - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 07 - Coalition de Guildes - 1080p.MULTI.x264.mkv",
+              "file_index": 19
             }
           ]
         },
@@ -155,7 +162,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 08 - Lumière et Ténèbres - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 08 - Lumière et Ténèbres - 1080p.MULTI.x264.mkv",
+              "file_index": 22
             }
           ]
         },
@@ -171,7 +179,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 09 - La Puissance du Nirvana - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 09 - La Puissance du Nirvana - 1080p.MULTI.x264.mkv",
+              "file_index": 25
             }
           ]
         },
@@ -187,7 +196,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 10 - Un Autre Monde - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 10 - Un Autre Monde - 1080p.MULTI.x264.mkv",
+              "file_index": 28
             }
           ]
         },
@@ -203,7 +213,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 11 - Extalia, le Pays des Chats - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 11 - Extalia, le Pays des Chats - 1080p.MULTI.x264.mkv",
+              "file_index": 31
             }
           ]
         },
@@ -219,7 +230,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 12 - La Guerre d'Edolas - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 2/[Avalokitesvara] Fairy Tail Kai - 12 - La Guerre d'Edolas - 1080p.MULTI.x264.mkv",
+              "file_index": 34
             }
           ]
         }
@@ -243,7 +255,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 13 - L'Examen des Rangs S - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 13 - L'Examen des Rangs S - 1080p.MULTI.x264.mkv",
+              "file_index": 37
             }
           ]
         },
@@ -259,7 +272,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 14 - Les Chevaliers du Purgatoire - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 14 - Les Chevaliers du Purgatoire - 1080p.MULTI.x264.mkv",
+              "file_index": 40
             }
           ]
         },
@@ -275,7 +289,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 15 - La Bataille de Tenrô - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 15 - La Bataille de Tenrô - 1080p.MULTI.x264.mkv",
+              "file_index": 43
             }
           ]
         },
@@ -291,7 +306,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 16 - Acnologia - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 3/[Avalokitesvara] Fairy Tail Kai - 16 - Acnologia - 1080p.MULTI.x264.mkv",
+              "file_index": 46
             }
           ]
         },
@@ -307,7 +323,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 17 - Fairy Tail, Année X-791 - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 17 - Fairy Tail, Année X-791 - 1080p.MULTI.x264.mkv",
+              "file_index": 50
             }
           ]
         }
@@ -331,7 +348,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 18 - Crocus, la Cité Fleurie - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 18 - Crocus, la Cité Fleurie - 1080p.MULTI.x264.mkv",
+              "file_index": 52
             }
           ]
         },
@@ -347,7 +365,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 19 - Le Deuxième Jour - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 19 - Le Deuxième Jour - 1080p.MULTI.x264.mkv",
+              "file_index": 55
             }
           ]
         },
@@ -363,7 +382,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 20 - Pour la Première Place - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 20 - Pour la Première Place - 1080p.MULTI.x264.mkv",
+              "file_index": 58
             }
           ]
         },
@@ -379,7 +399,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 21 - L’Ordre des Loups Affamés - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 21 - L’Ordre des Loups Affamés - 1080p.MULTI.x264.mkv",
+              "file_index": 61
             }
           ]
         },
@@ -395,7 +416,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 22 - Destin - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 22 - Destin - 1080p.MULTI.x264.mkv",
+              "file_index": 64
             }
           ]
         },
@@ -411,7 +433,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 23 - La Fin du Monde - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 4/[Avalokitesvara] Fairy Tail Kai - 23 - La Fin du Monde - 1080p.MULTI.x264.mkv",
+              "file_index": 67
             }
           ]
         }
@@ -435,7 +458,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 24 - Le Village du Soleil - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 24 - Le Village du Soleil - 1080p.MULTI.x264.mkv",
+              "file_index": 70
             }
           ]
         },
@@ -451,7 +475,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 25 - La Porte des Neuf Démons - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 25 - La Porte des Neuf Démons - 1080p.MULTI.x264.mkv",
+              "file_index": 73
             }
           ]
         },
@@ -467,7 +492,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 26 - Face et le Roi des Enfers - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 26 - Face et le Roi des Enfers - 1080p.MULTI.x264.mkv",
+              "file_index": 76
             }
           ]
         },
@@ -483,7 +509,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 27 - Père et Fils - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 27 - Père et Fils - 1080p.MULTI.x264.mkv",
+              "file_index": 79
             }
           ]
         },
@@ -499,7 +526,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 28 - Ignir - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 28 - Ignir - 1080p.MULTI.x264.mkv",
+              "file_index": 82
             }
           ]
         },
@@ -515,7 +543,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 29 - Zerø - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 5/[Avalokitesvara] Fairy Tail Kai - 29 - Zerø - 1080p.MULTI.x264.mkv",
+              "file_index": 85
             }
           ]
         }
@@ -539,7 +568,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 30 - Rassemblement - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 30 - Rassemblement - 1080p.MULTI.x264.mkv",
+              "file_index": 88
             }
           ]
         },
@@ -555,7 +585,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 31 - L'Empereur Spriggan - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 31 - L'Empereur Spriggan - 1080p.MULTI.x264.mkv",
+              "file_index": 91
             }
           ]
         },
@@ -571,7 +602,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 32 - La défense de Magnolia - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 32 - La défense de Magnolia - 1080p.MULTI.x264.mkv",
+              "file_index": 94
             }
           ]
         },
@@ -587,7 +619,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 33 - Détermination - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 33 - Détermination - 1080p.MULTI.x264.mkv",
+              "file_index": 97
             }
           ]
         },
@@ -603,7 +636,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 34 - Universe One - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 34 - Universe One - 1080p.MULTI.x264.mkv",
+              "file_index": 100
             }
           ]
         },
@@ -619,7 +653,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 35 - Il y a 400 ans - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 35 - Il y a 400 ans - 1080p.MULTI.x264.mkv",
+              "file_index": 103
             }
           ]
         },
@@ -635,7 +670,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 36 - Néo-Éclipse - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 36 - Néo-Éclipse - 1080p.MULTI.x264.mkv",
+              "file_index": 107
             }
           ]
         },
@@ -651,7 +687,8 @@
           "paths": [
             {
               "infohash": "ab642e341383e18b5d44d80f123e14791e21a285",
-              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 37 - Liés par le cœur - 1080p.MULTI.x264.mkv"
+              "path": "Fairy Tail Kaï [Avalokitesvara & Livaï]/Saga 6/[Livaï] Fairy Tail Kai - 37 - Liés par le cœur - 1080p.MULTI.x264.mkv",
+              "file_index": 109
             }
           ]
         }

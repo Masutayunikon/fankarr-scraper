@@ -1,7 +1,7 @@
 {
   "id": 52,
   "title": "Dr.Stone Henshū",
-  "show_title": "Dr.Stone Henshū",
+  "show_title": null,
   "torrents": [
     {
       "nyaa_id": 1850293,
@@ -12,7 +12,7 @@
       "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
       "size": "35.9 GiB",
       "pub_date": "2024-07-25 13:33",
-      "seeders": 19,
+      "seeders": 16,
       "fankai": true
     }
   ],
@@ -35,7 +35,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 01 - Prologue.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 01 - Prologue.mkv",
+              "file_index": 119
             }
           ]
         },
@@ -51,7 +52,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 02 - Dr Stone, le commencement.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 02 - Dr Stone, le commencement.mkv",
+              "file_index": 122
             }
           ]
         },
@@ -67,7 +69,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.mkv",
+              "file_index": 125
             }
           ]
         },
@@ -83,7 +86,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 04 - Sauvons Ruri !.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 04 - Sauvons Ruri !.mkv",
+              "file_index": 128
             }
           ]
         },
@@ -99,7 +103,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 05 - Les origines du village Ishigami.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 05 - Les origines du village Ishigami.mkv",
+              "file_index": 131
             }
           ]
         },
@@ -115,7 +120,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 06 - Le téléphone portable.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 06 - Le téléphone portable.mkv",
+              "file_index": 134
             }
           ]
         },
@@ -131,7 +137,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 07 - Chrome le Scientifique.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 07 - Chrome le Scientifique.mkv",
+              "file_index": 137
             }
           ]
         },
@@ -147,7 +154,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 08 - Cryogénisation.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 08 - Cryogénisation.mkv",
+              "file_index": 140
             }
           ]
         },
@@ -163,7 +171,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.mkv"
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.mkv",
+              "file_index": 143
             }
           ]
         }
@@ -187,7 +196,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 10 - Objectif Perseus.mkv"
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 10 - Objectif Perseus.mkv",
+              "file_index": 146
             }
           ]
         },
@@ -203,7 +213,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 11 - L'île aux trésors.mkv"
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 11 - L'île aux trésors.mkv",
+              "file_index": 149
             }
           ]
         },
@@ -219,7 +230,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 12 - Médusa.mkv"
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 12 - Médusa.mkv",
+              "file_index": 152
             }
           ]
         },
@@ -235,7 +247,8 @@
           "paths": [
             {
               "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
-              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 13 - Nouvel objectif.mkv"
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 13 - Nouvel objectif.mkv",
+              "file_index": 155
             }
           ]
         }
