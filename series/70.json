@@ -24,7 +24,7 @@
       "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
       "size": "2.7 GiB",
       "pub_date": "2026-03-19 23:24",
-      "seeders": 4,
+      "seeders": 3,
       "fankai": true
     }
   ],
@@ -48,12 +48,12 @@
             {
               "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
               "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 2
             },
             {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv",
-              "file_index": 0
+              "file_index": 2
             }
           ]
         },
@@ -92,12 +92,12 @@
             {
               "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
               "path": "Call of the Night Henshū/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x264.mkv",
-              "file_index": 2
+              "file_index": 0
             },
             {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.mkv",
-              "file_index": 2
+              "file_index": 0
             }
           ]
         },

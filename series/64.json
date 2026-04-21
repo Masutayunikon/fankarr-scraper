@@ -12,7 +12,7 @@
       "infohash": "c17d46ea9e694da23eedfdb302f9386e71dcf9ff",
       "size": "42.6 GiB",
       "pub_date": "2022-01-22 20:11",
-      "seeders": 12,
+      "seeders": 9,
       "fankai": true
     }
   ],
@@ -36,7 +36,7 @@
             {
               "infohash": "c17d46ea9e694da23eedfdb302f9386e71dcf9ff",
               "path": "Hajime no Ippo Henshū [Livaï]/Saison 1 - Ippo le Challenger/[Livaï] Hajime no Ippo Henshū 01 - Makunouchi Ippo - 576p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 21
             }
           ]
         },
@@ -401,7 +401,7 @@
             {
               "infohash": "c17d46ea9e694da23eedfdb302f9386e71dcf9ff",
               "path": "Hajime no Ippo Henshū [Livaï]/Saison 2 - New Challenger/[Livaï] Hajime no Ippo Henshū 22 - Battle of Hawk - 720p.VOSTFR.x264.mkv",
-              "file_index": 21
+              "file_index": 0
             }
           ]
         }
