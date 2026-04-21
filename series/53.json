@@ -1,7 +1,7 @@
 {
   "id": 53,
   "title": "One Piece Kaï",
-  "show_title": "One Piece Kaï",
+  "show_title": null,
   "torrents": [
     {
       "nyaa_id": 2084491,
@@ -12,7 +12,7 @@
       "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
       "size": "278.1 GiB",
       "pub_date": "2026-03-09 18:30",
-      "seeders": 60,
+      "seeders": 53,
       "fankai": true
     }
   ],
@@ -48,7 +48,8 @@
           "paths": [
             {
               "infohash": "c03540ecd6779b10ac1ae6a475bebec2a4feb2d9",
-              "path": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264-KHAYA.mkv"
+              "path": "10-One.Piece.Film.10.Strong.World.MULTi.1080p.Bluray.x264-KHAYA.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -77,7 +78,8 @@
           "paths": [
             {
               "infohash": "3e3693681e874407ab115d55375d8fd0aa1c4f83",
-              "path": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv"
+              "path": "One.Piece.Film.11.Z.1080p.VF.VOSTFR.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -106,7 +108,8 @@
           "paths": [
             {
               "infohash": "21c0a39553099daf4acf7aff51235d8e5920b0ab",
-              "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
+              "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+              "file_index": null
             }
           ]
         },
@@ -135,7 +138,8 @@
           "paths": [
             {
               "infohash": "91e015a5e58fb28f6d264d2a685b28c2b10c7076",
-              "path": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv"
+              "path": "One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -164,7 +168,8 @@
           "paths": [
             {
               "infohash": "207b5e9d0d968b1060d6cbfe5bde4acb8b1d7a0c",
-              "path": "One Piece_ Gold (1080p HD).mkv"
+              "path": "One Piece_ Gold (1080p HD).mkv",
+              "file_index": null
             }
           ]
         }
@@ -188,7 +193,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 001 - Chapeau de Paille - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 001 - Chapeau de Paille - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 2
             }
           ]
         },
@@ -204,7 +210,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 002 - Le Garçon qui criait au loup - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 002 - Le Garçon qui criait au loup - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 3
             }
           ]
         },
@@ -220,7 +227,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 003 - Cuisine et Délinquance - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 003 - Cuisine et Délinquance - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 4
             }
           ]
         },
@@ -236,7 +244,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 004 - Seigneur de Guerre - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 004 - Seigneur de Guerre - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 5
             }
           ]
         },
@@ -252,7 +261,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 005 - Le Gang du Requin - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 005 - Le Gang du Requin - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 6
             }
           ]
         },
@@ -268,7 +278,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 006 - Ma Partenaire - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 006 - Ma Partenaire - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 7
             }
           ]
         },
@@ -284,7 +295,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 007 - Tout se termine... et tout commence ! - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 01 - East Blue/One Piece Yabai - 007 - Tout se termine... et tout commence ! - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 8
             }
           ]
         }
@@ -308,7 +320,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 008 - La Route de tous les Périls - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 008 - La Route de tous les Périls - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 9
             }
           ]
         },
@@ -324,7 +337,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 009 - Le Monde Perdu - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 009 - Le Monde Perdu - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 10
             }
           ]
         },
@@ -340,7 +354,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 010 - Le Retour du Roi - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 010 - Le Retour du Roi - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 11
             }
           ]
         },
@@ -356,7 +371,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 011 - Le Temps des Cerisiers - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 011 - Le Temps des Cerisiers - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 12
             }
           ]
         },
@@ -372,7 +388,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 012 - La Traversée du Désert - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 012 - La Traversée du Désert - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 13
             }
           ]
         },
@@ -388,7 +405,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 013 - Le Ventre du Crocodile - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 013 - Le Ventre du Crocodile - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 14
             }
           ]
         },
@@ -404,7 +422,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 014 - Insurrection - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 014 - Insurrection - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 15
             }
           ]
         },
@@ -420,7 +439,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 015 - Contre la montre - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 015 - Contre la montre - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 16
             }
           ]
         },
@@ -436,7 +456,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 016 - Jour de Pluie - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 02 - Baroque Works/One Piece Yabai - 016 - Jour de Pluie - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 17
             }
           ]
         }
@@ -460,7 +481,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 017 - Les Yeux dans les Cieux - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 017 - Les Yeux dans les Cieux - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 18
             }
           ]
         },
@@ -476,7 +498,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 018 - Le Jugement Divin - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 018 - Le Jugement Divin - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 19
             }
           ]
         },
@@ -492,7 +515,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 019 - Jeu de Survie - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 019 - Jeu de Survie - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 20
             }
           ]
         },
@@ -508,7 +532,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 020 - L'Arche Divine - 1080p.MULTI.x264 [Mixouille].mkv"
+              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 020 - L'Arche Divine - 1080p.MULTI.x264 [Mixouille].mkv",
+              "file_index": 21
             }
           ]
         },
@@ -524,7 +549,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 021 - Montblanc Norland - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 021 - Montblanc Norland - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 22
             }
           ]
         },
@@ -540,7 +566,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 022 - Ranimer la flamme de Shandora - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 03 - Skypiea/One Piece Yabai - 022 - Ranimer la flamme de Shandora - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 23
             }
           ]
         }
@@ -564,7 +591,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 023 - Davy Back Fight - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 023 - Davy Back Fight - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 24
             }
           ]
         },
@@ -580,7 +608,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 024 - Le Faisan Bleu - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 024 - Le Faisan Bleu - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 25
             }
           ]
         },
@@ -596,7 +625,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 025 - La Métropole aquatique - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 025 - La Métropole aquatique - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 26
             }
           ]
         },
@@ -612,7 +642,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 026 - L'Avenir du Vogue Merry - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 026 - L'Avenir du Vogue Merry - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 27
             }
           ]
         },
@@ -628,7 +659,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 027 - Le Cyborg - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 027 - Le Cyborg - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 28
             }
           ]
         },
@@ -644,7 +676,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 028 - La Part d'Ombre - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 028 - La Part d'Ombre - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 29
             }
           ]
         },
@@ -660,7 +693,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 029 - Les Artisans de Tom - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 029 - Les Artisans de Tom - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 30
             }
           ]
         },
@@ -676,7 +710,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 030 - Sacrifice en eaux troubles - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 030 - Sacrifice en eaux troubles - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 31
             }
           ]
         },
@@ -692,7 +727,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 031 - Un long, long voyage - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 031 - Un long, long voyage - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 32
             }
           ]
         },
@@ -708,7 +744,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 032 - Jour de Jugement - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 032 - Jour de Jugement - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 33
             }
           ]
         },
@@ -724,7 +761,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 033 - Le Dernier Démon d'Ohara - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 033 - Le Dernier Démon d'Ohara - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 34
             }
           ]
         },
@@ -740,7 +778,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 35
             }
           ]
         },
@@ -756,7 +795,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 035 - Chasseurs v. Chasseurs - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 035 - Chasseurs v. Chasseurs - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 36
             }
           ]
         },
@@ -772,7 +812,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 036 - Justice Absolue - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 036 - Justice Absolue - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 37
             }
           ]
         },
@@ -788,7 +829,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 037 - Casus Belli - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 037 - Casus Belli - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 38
             }
           ]
         }
@@ -812,7 +854,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 038 - Thriller Bark - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 038 - Thriller Bark - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 39
             }
           ]
         },
@@ -828,7 +871,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 039 - La Chasse Nocturne - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 039 - La Chasse Nocturne - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 40
             }
           ]
         },
@@ -844,7 +888,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 040 - Les Trois Mystérieux - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 040 - Les Trois Mystérieux - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 41
             }
           ]
         },
@@ -860,7 +905,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 041 - Oz, le démon - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 041 - Oz, le démon - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 42
             }
           ]
         },
@@ -876,7 +922,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 042 - Le bon rhum de Binks - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 05 - Thriller Bark/One Piece Yabai - 042 - Le bon rhum de Binks - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 43
             }
           ]
         }
@@ -900,7 +947,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 043 - Duval au masque de fer - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 043 - Duval au masque de fer - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 44
             }
           ]
         },
@@ -916,7 +964,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 044 - Les Dragons Célestes - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 044 - Les Dragons Célestes - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 45
             }
           ]
         },
@@ -932,7 +981,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 045 - Le Singe Jaune - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 045 - Le Singe Jaune - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 46
             }
           ]
         },
@@ -948,7 +998,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 046 - L'Île des femmes - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 046 - L'Île des femmes - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 47
             }
           ]
         },
@@ -964,7 +1015,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 047 - La Prison Sous-marine - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 047 - La Prison Sous-marine - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 48
             }
           ]
         },
@@ -980,7 +1032,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 048 - La Résistance fluide - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 048 - La Résistance fluide - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 49
             }
           ]
         },
@@ -996,7 +1049,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 049 - Par la grande porte - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 049 - Par la grande porte - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 50
             }
           ]
         },
@@ -1012,7 +1066,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 050 - Guerre totale - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 050 - Guerre totale - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 51
             }
           ]
         },
@@ -1028,7 +1083,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 051 - Le pouvoir le plus redoutable - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 051 - Le pouvoir le plus redoutable - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 52
             }
           ]
         },
@@ -1044,7 +1100,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 052 - Le sauvetage d'Ace - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 052 - Le sauvetage d'Ace - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 53
             }
           ]
         },
@@ -1060,7 +1117,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 053 - Fuir ou mourir - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 053 - Fuir ou mourir - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 54
             }
           ]
         },
@@ -1076,7 +1134,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 054 - Frères - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 054 - Frères - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 55
             }
           ]
         },
@@ -1092,7 +1151,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 055 - Nouvelle ère - 1080p.MULTI.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 06 - Guerre au Sommet/One Piece Yabai - 055 - Nouvelle ère - 1080p.MULTI.x264 [Livaï].mkv",
+              "file_index": 56
             }
           ]
         }
@@ -1116,7 +1176,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 056 - Nouveau Départ - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 056 - Nouveau Départ - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 57
             }
           ]
         },
@@ -1132,7 +1193,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 057 - Le Royaume des abysses - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 057 - Le Royaume des abysses - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 58
             }
           ]
         },
@@ -1148,7 +1210,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 058 - Le Pacte des maudits - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 058 - Le Pacte des maudits - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 59
             }
           ]
         },
@@ -1164,7 +1227,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 059 - Deux visions, un combat - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 059 - Deux visions, un combat - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 60
             }
           ]
         },
@@ -1180,7 +1244,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 060 - Cent Mille VS Dix - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 060 - Cent Mille VS Dix - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 61
             }
           ]
         },
@@ -1196,7 +1261,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 061 - L'Héritage de la haine - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 061 - L'Héritage de la haine - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 62
             }
           ]
         },
@@ -1212,7 +1278,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 062 - Vers le Soleil - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 07 - Ile des Hommes-Poissons/One Piece Yabai - 062 - Vers le Soleil - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 63
             }
           ]
         }
@@ -1236,7 +1303,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 063 - L'île bipolaire - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 063 - L'île bipolaire - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 64
             }
           ]
         },
@@ -1252,7 +1320,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 064 - Alliance pirate - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 064 - Alliance pirate - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 65
             }
           ]
         },
@@ -1268,7 +1337,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 065 - L'Ange de la mort - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 065 - L'Ange de la mort - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 66
             }
           ]
         },
@@ -1284,7 +1354,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 066 - Rats de laboratoires - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 066 - Rats de laboratoires - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 67
             }
           ]
         },
@@ -1300,7 +1371,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 067 - À Tristesse tranchée - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 067 - À Tristesse tranchée - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 68
             }
           ]
         },
@@ -1316,7 +1388,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 068 - Derrière le sourire - 1080p.MULTI.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 1 - Punk Hazard/One Piece Yabai - 068 - Derrière le sourire - 1080p.MULTI.x264 [Johker].mkv",
+              "file_index": 69
             }
           ]
         }
@@ -1340,7 +1413,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 069 - Dressrosa, le pays de l'amour, de la passion... - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 069 - Dressrosa, le pays de l'amour, de la passion... - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 70
             }
           ]
         },
@@ -1356,7 +1430,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 070 - Colosseum - Bloc B - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 070 - Colosseum - Bloc B - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 71
             }
           ]
         },
@@ -1372,7 +1447,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 071 - Le piège - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 071 - Le piège - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 72
             }
           ]
         },
@@ -1388,7 +1464,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 072 - Colosseum - Bloc C - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 072 - Colosseum - Bloc C - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 73
             }
           ]
         },
@@ -1404,7 +1481,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 073 - Les Oubliés de Dressrosa - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 073 - Les Oubliés de Dressrosa - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 74
             }
           ]
         },
@@ -1420,7 +1498,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 074 - La Paria du Bloc D - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 074 - La Paria du Bloc D - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 75
             }
           ]
         },
@@ -1436,7 +1515,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 075 - La nuit où tout a basculé - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 075 - La nuit où tout a basculé - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 76
             }
           ]
         },
@@ -1452,7 +1532,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 076 - Le Revenant - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 076 - Le Revenant - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 77
             }
           ]
         },
@@ -1468,7 +1549,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 077 - Opération S.O.P. - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 077 - Opération S.O.P. - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 78
             }
           ]
         },
@@ -1484,7 +1566,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 078 - Le Gladiateur Légendaire - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 078 - Le Gladiateur Légendaire - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 79
             }
           ]
         },
@@ -1500,7 +1583,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 079 - Dressrosa tremble - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 079 - Dressrosa tremble - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 80
             }
           ]
         },
@@ -1516,7 +1600,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 080 - Inglourious Basterds - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 080 - Inglourious Basterds - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 81
             }
           ]
         },
@@ -1532,7 +1617,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 081 - Miser sur le bon pirate - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 081 - Miser sur le bon pirate - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 82
             }
           ]
         },
@@ -1548,7 +1634,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 082 - A risque ou à péril - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 082 - A risque ou à péril - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 83
             }
           ]
         },
@@ -1564,7 +1651,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 083 - Le Saturnisme Blanc - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 083 - Le Saturnisme Blanc - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 84
             }
           ]
         },
@@ -1580,7 +1668,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 084 - Sur trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 084 - Sur trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 85
             }
           ]
         },
@@ -1596,7 +1685,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 085 - Toujours sur les trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 085 - Toujours sur les trois fronts - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 86
             }
           ]
         },
@@ -1612,7 +1702,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 086 - Le Démon Céleste - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 086 - Le Démon Céleste - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 87
             }
           ]
         },
@@ -1628,7 +1719,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 087 - Dans dix minutes... et quelque - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 087 - Dans dix minutes... et quelque - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 88
             }
           ]
         },
@@ -1644,7 +1736,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 088 - La naissance d’un Révolutionnaire - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 088 - La naissance d’un Révolutionnaire - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 89
             }
           ]
         },
@@ -1660,7 +1753,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 089 - Le Bon, la Buse, et les Cinglés - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 08 - Alliance Pirate - Part 2 - Dressrosa/One Piece Kaï - 089 - Le Bon, la Buse, et les Cinglés - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 90
             }
           ]
         }
@@ -1684,7 +1778,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 090 - Vers Zo - 720p.VOSTFR.x264 [Knuckalex].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 090 - Vers Zo - 720p.VOSTFR.x264 [Knuckalex].mp4",
+              "file_index": 91
             }
           ]
         },
@@ -1700,7 +1795,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 091 - Le rideau se lève sur une nouvelle aventure - 720p.VOSTFR.x264 [Zdk].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 091 - Le rideau se lève sur une nouvelle aventure - 720p.VOSTFR.x264 [Zdk].mkv",
+              "file_index": 92
             }
           ]
         },
@@ -1716,7 +1812,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 092 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 092 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv",
+              "file_index": 93
             }
           ]
         },
@@ -1732,7 +1829,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 093 - Le liens entre les Minks et l'équipage - 720p.VOSTFR.x264 [Zdk].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 093 - Le liens entre les Minks et l'équipage - 720p.VOSTFR.x264 [Zdk].mkv",
+              "file_index": 94
             }
           ]
         },
@@ -1748,7 +1846,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 094 - Le troisième homme - 720p.VOSTFR.x264 [Zdk].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 094 - Le troisième homme - 720p.VOSTFR.x264 [Zdk].mkv",
+              "file_index": 95
             }
           ]
         },
@@ -1764,7 +1863,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 095 - Un serment entre hommes - 720p.VOSTFR.x264 [Zdk].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 1 - Zou/One Piece Kaï - 095 - Un serment entre hommes - 720p.VOSTFR.x264 [Zdk].mp4",
+              "file_index": 96
             }
           ]
         },
@@ -1780,7 +1880,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 096 - Totto Land - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 096 - Totto Land - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 97
             }
           ]
         },
@@ -1796,7 +1897,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 097 - Aventure dans la  forêt enchantée - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 097 - Aventure dans la  forêt enchantée - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 98
             }
           ]
         },
@@ -1812,7 +1914,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 098 - Le commandant sucré Cracker - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 098 - Le commandant sucré Cracker - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 99
             }
           ]
         },
@@ -1828,7 +1931,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 099 - Mégot - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 099 - Mégot - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 100
             }
           ]
         },
@@ -1844,7 +1948,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 100 - Le plan d'assassinat de l'Empereur - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 100 - Le plan d'assassinat de l'Empereur - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 101
             }
           ]
         },
@@ -1860,7 +1965,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 101 - Tea Party - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 101 - Tea Party - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 102
             }
           ]
         },
@@ -1876,7 +1982,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 102 - Impitoyable - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 102 - Impitoyable - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 103
             }
           ]
         },
@@ -1892,7 +1999,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 103 - Merienda - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 103 - Merienda - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 104
             }
           ]
         },
@@ -1908,7 +2016,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 104 - Sulong - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 104 - Sulong - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 105
             }
           ]
         },
@@ -1924,7 +2033,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 105 - End roll - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 105 - End roll - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 106
             }
           ]
         },
@@ -1940,7 +2050,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 106 - Rêverie - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 2 - Whole cake/One Piece Kaï - 106 - Rêverie - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 107
             }
           ]
         }
@@ -1964,7 +2075,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 107 - Koinobori - 1080p.VOSTFR.x264 [Sacha].mp4"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 107 - Koinobori - 1080p.VOSTFR.x264 [Sacha].mp4",
+              "file_index": 108
             }
           ]
         },
@@ -1980,7 +2092,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 108 - Sumo à Wano - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 108 - Sumo à Wano - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 109
             }
           ]
         },
@@ -1996,7 +2109,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 109 - Les ruines du château d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 1/One Piece Kaï - 109 - Les ruines du château d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 110
             }
           ]
         },
@@ -2012,7 +2126,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 110 - La suprême courtisane Komurasaki - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 110 - La suprême courtisane Komurasaki - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 111
             }
           ]
         },
@@ -2028,7 +2143,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 111 - Passé oublié - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 111 - Passé oublié - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 112
             }
           ]
         },
@@ -2044,7 +2160,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 112 - Shimotsuki Yasuie - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 112 - Shimotsuki Yasuie - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 113
             }
           ]
         },
@@ -2060,7 +2177,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 113 - Smile - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 113 - Smile - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 114
             }
           ]
         },
@@ -2076,7 +2194,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 114 - Préparatifs - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 2/One Piece Kaï - 114 - Préparatifs - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 115
             }
           ]
         },
@@ -2092,7 +2211,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 115 - Kozuki Oden entre en scène ! - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 115 - Kozuki Oden entre en scène ! - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 116
             }
           ]
         },
@@ -2108,7 +2228,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 116 - L'aventure d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 116 - L'aventure d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 117
             }
           ]
         },
@@ -2124,7 +2245,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 117 - Bouillir, tel est le propre du Oden ! - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 117 - Bouillir, tel est le propre du Oden ! - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 118
             }
           ]
         },
@@ -2140,7 +2262,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 118 - Cap sur Onigashima - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 118 - Cap sur Onigashima - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 119
             }
           ]
         },
@@ -2156,7 +2279,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 119 - Infiltration à la fête - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 119 - Infiltration à la fête - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 120
             }
           ]
         },
@@ -2172,7 +2296,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 120 - Mon nom - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 120 - Mon nom - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 121
             }
           ]
         },
@@ -2188,7 +2313,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 121 - Le futur Roi des pirates - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 121 - Le futur Roi des pirates - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 122
             }
           ]
         },
@@ -2204,7 +2330,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 122 - La nouvelle génération - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 122 - La nouvelle génération - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 123
             }
           ]
         },
@@ -2220,7 +2347,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 123 - Boulettes de millet - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 123 - Boulettes de millet - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 124
             }
           ]
         },
@@ -2236,7 +2364,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 124 - L'Avatar du démon - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 124 - L'Avatar du démon - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 125
             }
           ]
         },
@@ -2252,7 +2381,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 125 - Les Dragons jumeaux - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 125 - Les Dragons jumeaux - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 126
             }
           ]
         },
@@ -2268,7 +2398,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 126 - Têtes d'affiche - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 126 - Têtes d'affiche - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 127
             }
           ]
         },
@@ -2284,7 +2415,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 127 - Les vainqueurs n'ont pas besoin d'épithète - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 127 - Les vainqueurs n'ont pas besoin d'épithète - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 128
             }
           ]
         },
@@ -2300,7 +2432,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 128 - Le guerrier de la libération - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 128 - Le guerrier de la libération - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 129
             }
           ]
         },
@@ -2316,7 +2449,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 129 - Rideau - 1080p.VOSTFR.x264 [Livaï].mkv"
+              "path": "One Piece Kaï/Saga 09 - Quatre Empereurs - Part 3 - Wa no Kuni/Wa no Kuni - Acte 3/One Piece Kaï - 129 - Rideau - 1080p.VOSTFR.x264 [Livaï].mkv",
+              "file_index": 130
             }
           ]
         }
@@ -2329,22 +2463,6 @@
       "torrents": [],
       "episodes": [
         {
-          "id": 1270,
-          "episode_number": 34,
-          "title": "L'Ange Gardien",
-          "aired": "2026-04-01",
-          "original_filename": "One Piece Kaï - 134 - L'Ange Gardien - 1080p.VOSTFR.x264 [Johker].mkv",
-          "formatted_name": "One Piece Kaï.S12E34.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "One Piece Kaï - 134 - L'Ange Gardien - 1080p.VOSTFR.x264 [Johker].nfo",
-          "torrents": [],
-          "paths": [
-            {
-              "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 04 - Enies Lobby/One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv"
-            }
-          ]
-        },
-        {
           "id": 773,
           "episode_number": 130,
           "title": "Le Cerveau du Monde",
@@ -2356,7 +2474,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 130 - Le Cerveau du Monde - 1080p.VOSTFR.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 130 - Le Cerveau du Monde - 1080p.VOSTFR.x264 [Johker].mkv",
+              "file_index": 131
             }
           ]
         },
@@ -2372,7 +2491,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 131 - Chasse au Savoir - 1080p.VOSTFR.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 131 - Chasse au Savoir - 1080p.VOSTFR.x264 [Johker].mkv",
+              "file_index": 132
             }
           ]
         },
@@ -2388,7 +2508,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 132 - Satellite défaillant - 1080p.VOSTFR.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 132 - Satellite défaillant - 1080p.VOSTFR.x264 [Johker].mkv",
+              "file_index": 133
             }
           ]
         },
@@ -2404,7 +2525,8 @@
           "paths": [
             {
               "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
-              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv"
+              "path": "One Piece Kaï/Saga 10 - Sage Finale - Part 1 - Egghead/One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv",
+              "file_index": 134
             }
           ]
         },

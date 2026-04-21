@@ -1,7 +1,7 @@
 {
   "id": 10,
   "title": "Gintama Kaï",
-  "show_title": "Gintama Kaï",
+  "show_title": null,
   "torrents": [],
   "seasons": [
     {
@@ -28,14 +28,15 @@
               "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:47",
-              "seeders": 18,
+              "seeders": 15,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
-              "path": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv"
+              "path": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -57,14 +58,15 @@
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:52",
-              "seeders": 17,
+              "seeders": 14,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
-              "path": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv"
+              "path": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -86,14 +88,15 @@
               "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
               "size": "1.5 GiB",
               "pub_date": "2023-08-16 22:24",
-              "seeders": 17,
+              "seeders": 14,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
-              "path": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole.mkv"
+              "path": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -115,14 +118,15 @@
               "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
               "size": "2.9 GiB",
               "pub_date": "2025-10-03 16:00",
-              "seeders": 13,
+              "seeders": 10,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
-              "path": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv"
+              "path": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv",
+              "file_index": 0
             }
           ]
         },

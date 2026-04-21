@@ -1,7 +1,7 @@
 {
   "id": 49,
   "title": "Re Zero Kaï",
-  "show_title": "Re Zero Kaï",
+  "show_title": null,
   "torrents": [
     {
       "nyaa_id": 1894953,
@@ -12,7 +12,7 @@
       "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
       "size": "30.5 GiB",
       "pub_date": "2024-11-04 00:58",
-      "seeders": 7,
+      "seeders": 5,
       "fankai": true
     }
   ],
@@ -35,7 +35,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 1/[Roro] [VF] ReZero Kaï 01 - Une journée à la capitale.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 1/[Roro] [VF] ReZero Kaï 01 - Une journée à la capitale.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -51,7 +52,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 2/[Roro] [VF] ReZero Kaï 02 - Une semaine au manoir.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 2/[Roro] [VF] ReZero Kaï 02 - Une semaine au manoir.mkv",
+              "file_index": 3
             }
           ]
         },
@@ -67,7 +69,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 3/[Roro] [VF] ReZero Kaï 03 - Truth of Zero Part 1.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 3/[Roro] [VF] ReZero Kaï 03 - Truth of Zero Part 1.mkv",
+              "file_index": 5
             }
           ]
         },
@@ -83,7 +86,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 4/[Roro] [VF] ReZero Kaï 04 - Truth of Zero Part 2.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 4/[Roro] [VF] ReZero Kaï 04 - Truth of Zero Part 2.mkv",
+              "file_index": 7
             }
           ]
         }
@@ -107,7 +111,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 5/[Roro] [VO] ReZero Kaï 05 - Sur la route du sanctuaire.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 5/[Roro] [VO] ReZero Kaï 05 - Sur la route du sanctuaire.mkv",
+              "file_index": 9
             }
           ]
         },
@@ -123,7 +128,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 6/[Roro] [VO] ReZero Kaï 06 - Le goûter des sorcières.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 6/[Roro] [VO] ReZero Kaï 06 - Le goûter des sorcières.mkv",
+              "file_index": 10
             }
           ]
         },
@@ -139,7 +145,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 7/[Roro] [VO] ReZero Kaï 07 - Le goût de la mort.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 7/[Roro] [VO] ReZero Kaï 07 - Le goût de la mort.mkv",
+              "file_index": 11
             }
           ]
         },
@@ -155,7 +162,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 8/[Roro] [VO] ReZero Kaï 08 - Otto Suwen - Une raison de croire.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 8/[Roro] [VO] ReZero Kaï 08 - Otto Suwen - Une raison de croire.mkv",
+              "file_index": 12
             }
           ]
         },
@@ -171,7 +179,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 9/[Roro] [VO] ReZero Kaï 09 - L'itinéraire de la mémoire.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 9/[Roro] [VO] ReZero Kaï 09 - L'itinéraire de la mémoire.mkv",
+              "file_index": 13
             }
           ]
         },
@@ -187,7 +196,8 @@
           "paths": [
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
-              "path": "[Roro] ReZero Kai films 1 à 10/Film 10/[Roro] [VO] ReZero Kaï 10 - De fous pas de danse sous la Lune.mkv"
+              "path": "[Roro] ReZero Kai films 1 à 10/Film 10/[Roro] [VO] ReZero Kaï 10 - De fous pas de danse sous la Lune.mkv",
+              "file_index": 2
             }
           ]
         }

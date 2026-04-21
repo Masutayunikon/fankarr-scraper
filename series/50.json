@@ -1,7 +1,7 @@
 {
   "id": 50,
   "title": "World Trigger Kaï",
-  "show_title": "World Trigger Kaï",
+  "show_title": null,
   "torrents": [],
   "seasons": [
     {
@@ -28,14 +28,15 @@
               "infohash": "c51cd3d3d7a802154c3493593aee7ce7496362d1",
               "size": "2.9 GiB",
               "pub_date": "2023-07-02 19:33",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "c51cd3d3d7a802154c3493593aee7ce7496362d1",
-              "path": "[Hellinouille] World Trigger Kaï 01 - Les visiteurs venus d’un autre monde - VOSTFR.1080p.x264.mkv"
+              "path": "[Hellinouille] World Trigger Kaï 01 - Les visiteurs venus d’un autre monde - VOSTFR.1080p.x264.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -57,14 +58,15 @@
               "infohash": "9eb05f38dd860ce263925b5d6efa0b1ce93c6432",
               "size": "2.8 GiB",
               "pub_date": "2023-07-03 12:20",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "9eb05f38dd860ce263925b5d6efa0b1ce93c6432",
-              "path": "[Hellinouille] World Trigger Kaï 02 - Le Black Trigger - VOSTFR.1080p.x264.mkv"
+              "path": "[Hellinouille] World Trigger Kaï 02 - Le Black Trigger - VOSTFR.1080p.x264.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -86,14 +88,15 @@
               "infohash": "00d75268a9c23f6eeac3aaea57c21224ffb09595",
               "size": "2.0 GiB",
               "pub_date": "2024-03-31 13:57",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "00d75268a9c23f6eeac3aaea57c21224ffb09595",
-              "path": "[Hellinouille] World Trigger Kaï 03 - Les troupes d'élite du Border - VOSTFR.1080p.x264.mkv"
+              "path": "[Hellinouille] World Trigger Kaï 03 - Les troupes d'élite du Border - VOSTFR.1080p.x264.mkv",
+              "file_index": 0
             }
           ]
         }

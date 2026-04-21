@@ -1,7 +1,7 @@
 {
   "id": 38,
   "title": "Assassination Classroom Henshū",
-  "show_title": "Assassination Classroom Henshū",
+  "show_title": null,
   "torrents": [],
   "seasons": [
     {
@@ -28,14 +28,15 @@
               "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
               "size": "1.2 GiB",
               "pub_date": "2021-03-13 16:51",
-              "seeders": 7,
+              "seeders": 8,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "e2046f86bddd1b0acc7cd97a105c9b12edb384f5",
-              "path": "[ElFenomomo] Assassination Classroom - Film 1 - Koro-sensei - 1080p.MULTI.x264.BDRip.mkv"
+              "path": "[ElFenomomo] Assassination Classroom - Film 1 - Koro-sensei - 1080p.MULTI.x264.BDRip.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -57,14 +58,15 @@
               "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
               "size": "1.1 GiB",
               "pub_date": "2021-03-13 16:54",
-              "seeders": 7,
+              "seeders": 8,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "60106c4bf93bce7ebbb46a2598a31887edb828af",
-              "path": "[ElFenomomo] Assassination Classroom - Film 2 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.mkv"
+              "path": "[ElFenomomo] Assassination Classroom - Film 2 - Le voyage scolaire - 1080p.MULTI.x264.BDRip.mkv",
+              "file_index": 0
             }
           ]
         },
@@ -86,14 +88,15 @@
               "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
               "size": "1021.6 MiB",
               "pub_date": "2020-06-13 19:58",
-              "seeders": 7,
+              "seeders": 8,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
-              "path": "[ElFenomomo] Assassination Classroom - Film 3 - Les Nouveaux Élèves - 1080p.MULTI.x264.BDRip.mkv"
+              "path": "[ElFenomomo] Assassination Classroom - Film 3 - Les Nouveaux Élèves - 1080p.MULTI.x264.BDRip.mkv",
+              "file_index": 0
             }
           ]
         }

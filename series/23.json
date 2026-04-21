@@ -1,7 +1,7 @@
 {
   "id": 23,
   "title": "Overlord Henshū",
-  "show_title": "Overlord Henshū",
+  "show_title": null,
   "torrents": [],
   "seasons": [
     {
@@ -35,7 +35,8 @@
           "paths": [
             {
               "infohash": "98ea9a977b9256b9e4be1f13bad1b1b0e8ff28a2",
-              "path": "[Crew] Overlord Henshū 01 - Ainz Ooal Gown - 1080p.multi.x264.mkv"
+              "path": "[Crew] Overlord Henshū 01 - Ainz Ooal Gown - 1080p.multi.x264.mkv",
+              "file_index": 0
             }
           ]
         }

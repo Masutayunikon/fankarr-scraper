@@ -1,7 +1,7 @@
 {
   "id": 36,
   "title": "Solo Leveling Henshū",
-  "show_title": "Solo Leveling Henshū",
+  "show_title": null,
   "torrents": [
     {
       "nyaa_id": 2094883,
@@ -12,7 +12,7 @@
       "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
       "size": "12.4 GiB",
       "pub_date": "2026-04-06 18:11",
-      "seeders": 18,
+      "seeders": 14,
       "fankai": true
     }
   ],
@@ -35,7 +35,8 @@
           "paths": [
             {
               "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
-              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 1/[Shalouf] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 1/[Shalouf] Solo Leveling Henshū 01 - Started from the Bottom - 1080p.MULTI.x264.mkv",
+              "file_index": 2
             }
           ]
         },
@@ -51,7 +52,8 @@
           "paths": [
             {
               "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
-              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 1/[Shalouf] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 1/[Shalouf] Solo Leveling Henshū 02 - Push it to the limit - 1080p.MULTI.x264.mkv",
+              "file_index": 4
             }
           ]
         },
@@ -67,7 +69,8 @@
           "paths": [
             {
               "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
-              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 1/[Shalouf] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 1/[Shalouf] Solo Leveling Henshū 03 - Arise - 1080p.MULTI.x264.mkv",
+              "file_index": 6
             }
           ]
         }
@@ -91,7 +94,8 @@
           "paths": [
             {
               "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
-              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 2/[Shalouf] Solo Leveling Henshū 04 - In the shadows - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 2/[Shalouf] Solo Leveling Henshū 04 - In the shadows - 1080p.MULTI.x264.mkv",
+              "file_index": 8
             }
           ]
         },
@@ -107,7 +111,8 @@
           "paths": [
             {
               "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
-              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 2/[Shalouf] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 2/[Shalouf] Solo Leveling Henshū 05 - Kingslayer - 1080p.MULTI.x264.mkv",
+              "file_index": 10
             }
           ]
         },
@@ -123,7 +128,8 @@
           "paths": [
             {
               "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
-              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 2/[Shalouf] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264.mkv"
+              "path": "[Shalouf] Solo Leveling Henshū (Fan-Kaï)/Saison 2/[Shalouf] Solo Leveling Henshū 06 - Heavy is the crown - 1080p.MULTI.x264.mkv",
+              "file_index": 12
             }
           ]
         }
