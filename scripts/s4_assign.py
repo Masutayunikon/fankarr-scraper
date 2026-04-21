@@ -141,13 +141,22 @@ def make_ref(t):
 # ── Index des fichiers du torrent (chemin → position) ────────────────────────
 
 def build_file_index(torrent: dict) -> dict:
-    """Retourne {chemin → index 0-based} sur la liste complète des fichiers du torrent.
-    Stocke les deux variantes de séparateur (/ et \\) pour un lookup robuste."""
+    """Retourne {chemin → index_réel 0-based dans le .torrent}.
+
+    Préfère torrent["file_indices"] (ordre original du .torrent, produit par
+    s2_enrich / manual_add). Si absent, fallback sur la position dans files[]
+    (qui peut être alphabétique → index approximatif).
+    Les deux variantes de séparateur (/ et \\) sont stockées pour un lookup robuste.
+    """
+    source = torrent.get("file_indices") or {}
+    if not source:
+        # fallback : position dans la liste triée
+        source = {f: i for i, f in enumerate(torrent.get("files") or [])}
     result = {}
-    for i, f in enumerate(torrent.get("files") or []):
-        result[f] = i
-        result[f.replace("\\", "/")] = i
-        result[f.replace("/", "\\")] = i
+    for path, idx in source.items():
+        result[path] = idx
+        result[path.replace("\\", "/")] = idx
+        result[path.replace("/", "\\")] = idx
     return result
 
 def file_index_of(path: str | None, file_index: dict) -> int | None:

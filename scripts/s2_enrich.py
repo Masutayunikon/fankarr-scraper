@@ -51,13 +51,19 @@ def download_torrent(nyaa_id: int) -> Path | None:
         return None
 
 
-def parse_files(torrent_path: Path) -> list[str]:
+def parse_files(torrent_path: Path) -> tuple[list[str], dict[str, int]]:
+    """Retourne (files_triés, file_indices).
+    file_indices = {chemin → index_réel} dans l'ordre original du .torrent,
+    indépendant du tri alphabétique de files[].
+    """
     try:
         torrent = tapi.Torrent.from_file(str(torrent_path))
-        return sorted(f.name for f in torrent.files)
+        files_raw     = [f.name for f in torrent.files]   # ordre original
+        file_indices  = {name: i for i, name in enumerate(files_raw)}
+        return sorted(files_raw), file_indices
     except Exception as e:
         print(f"    [!] Parse {torrent_path.name} → {e}")
-        return []
+        return [], {}
 
 
 # ─── Extraction des numéros ───────────────────────────────────────────────────
@@ -141,7 +147,9 @@ def main():
     torrents = json.loads(p.read_text(encoding="utf-8"))
     print(f"[Input] {len(torrents)} torrents chargés")
 
-    todo = [t for t in torrents if t.get("files") is None and t.get("nyaa_id")]
+    todo = [t for t in torrents
+            if (t.get("files") is None or t.get("file_indices") is None)
+            and t.get("nyaa_id")]
     print(f"[Todo]  {len(todo)} torrents à enrichir ({len(torrents)-len(todo)} déjà faits)\n")
 
     errors = 0
@@ -163,11 +171,12 @@ def main():
             continue
 
         errors = 0
-        files   = parse_files(torrent_path)
-        ep_nums = extract_ep_numbers_from_files(files)
+        files, file_indices = parse_files(torrent_path)
+        ep_nums             = extract_ep_numbers_from_files(files)
 
-        torrent["files"]      = files
-        torrent["ep_numbers"] = ep_nums
+        torrent["files"]        = files
+        torrent["file_indices"] = file_indices
+        torrent["ep_numbers"]   = ep_nums
 
         if files:
             print(f"         {len(files)} fichier(s) | ep_numbers={ep_nums[:10]}")

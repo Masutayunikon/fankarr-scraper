@@ -126,8 +126,10 @@ def parse_torrent(torrent_path: Path):
     except Exception:
         infohash = None
 
-    files = sorted(f.name for f in torrent.files)
-    ep_numbers = extract_ep_numbers(files)
+    files_raw    = [f.name for f in torrent.files]   # ordre original du .torrent
+    file_indices = {name: i for i, name in enumerate(files_raw)}
+    files        = sorted(files_raw)
+    ep_numbers   = extract_ep_numbers(files)
 
     magnet = None
     if infohash:
@@ -148,12 +150,13 @@ def parse_torrent(torrent_path: Path):
         size = None
 
     return {
-        "name":       torrent.name,
-        "infohash":   infohash,
-        "magnet":     magnet,
-        "size":       size,
-        "files":      files,
-        "ep_numbers": ep_numbers,
+        "name":         torrent.name,
+        "infohash":     infohash,
+        "magnet":       magnet,
+        "size":         size,
+        "files":        files,
+        "file_indices": file_indices,
+        "ep_numbers":   ep_numbers,
     }
 
 # ─── Manual file ──────────────────────────────────────────────────────────────
@@ -242,8 +245,9 @@ def main():
         "pub_date":    None,
         "seeders":     None,
         "fankai":      fankai,
-        "files":       info["files"],
-        "ep_numbers":  info["ep_numbers"],
+        "files":        info["files"],
+        "file_indices": info["file_indices"],
+        "ep_numbers":   info["ep_numbers"],
     }
     # Forcer le type/épisode/saison/path si spécifié
     if args.type:
