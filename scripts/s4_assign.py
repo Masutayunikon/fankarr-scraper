@@ -125,16 +125,17 @@ def build_structure(serie, seasons_raw):
 
 def make_ref(t):
     return {
-        "nyaa_id":     t.get("nyaa_id"),
-        "nyaa_url":    t.get("nyaa_url"),
-        "title":       t.get("title"),
-        "torrent_url": t.get("torrent_url"),
-        "magnet":      t.get("magnet"),
-        "infohash":    t.get("infohash"),
-        "size":        t.get("size"),
-        "pub_date":    t.get("pub_date"),
-        "seeders":     t.get("seeders"),
-        "fankai":      t.get("fankai", True),
+        "nyaa_id":      t.get("nyaa_id"),
+        "nyaa_url":     t.get("nyaa_url"),
+        "title":        t.get("title"),
+        "torrent_name": t.get("torrent_name"),
+        "torrent_url":  t.get("torrent_url"),
+        "magnet":       t.get("magnet"),
+        "infohash":     t.get("infohash"),
+        "size":         t.get("size"),
+        "pub_date":     t.get("pub_date"),
+        "seeders":      t.get("seeders"),
+        "fankai":       t.get("fankai", True),
     }
 
 
