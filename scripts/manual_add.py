@@ -245,6 +245,7 @@ def main():
         "pub_date":    None,
         "seeders":     None,
         "fankai":      fankai,
+        "torrent_name": info["name"],
         "files":        info["files"],
         "file_indices": info["file_indices"],
         "ep_numbers":   info["ep_numbers"],

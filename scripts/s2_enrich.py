@@ -51,19 +51,19 @@ def download_torrent(nyaa_id: int) -> Path | None:
         return None
 
 
-def parse_files(torrent_path: Path) -> tuple[list[str], dict[str, int]]:
-    """Retourne (files_triés, file_indices).
-    file_indices = {chemin → index_réel} dans l'ordre original du .torrent,
-    indépendant du tri alphabétique de files[].
+def parse_files(torrent_path: Path) -> tuple[list[str], dict[str, int], str | None]:
+    """Retourne (files_triés, file_indices, torrent_name).
+    - file_indices  = {chemin → index_réel} dans l'ordre original du .torrent
+    - torrent_name  = nom racine affiché dans le client torrent (torrent.name)
     """
     try:
-        torrent = tapi.Torrent.from_file(str(torrent_path))
-        files_raw     = [f.name for f in torrent.files]   # ordre original
-        file_indices  = {name: i for i, name in enumerate(files_raw)}
-        return sorted(files_raw), file_indices
+        torrent      = tapi.Torrent.from_file(str(torrent_path))
+        files_raw    = [f.name for f in torrent.files]   # ordre original
+        file_indices = {name: i for i, name in enumerate(files_raw)}
+        return sorted(files_raw), file_indices, torrent.name
     except Exception as e:
         print(f"    [!] Parse {torrent_path.name} → {e}")
-        return [], {}
+        return [], {}, None
 
 
 # ─── Extraction des numéros ───────────────────────────────────────────────────
@@ -148,7 +148,9 @@ def main():
     print(f"[Input] {len(torrents)} torrents chargés")
 
     todo = [t for t in torrents
-            if (t.get("files") is None or t.get("file_indices") is None)
+            if (t.get("files") is None
+                or "file_indices"  not in t
+                or "torrent_name"  not in t)
             and t.get("nyaa_id")]
     print(f"[Todo]  {len(todo)} torrents à enrichir ({len(torrents)-len(todo)} déjà faits)\n")
 
@@ -171,11 +173,12 @@ def main():
             continue
 
         errors = 0
-        files, file_indices = parse_files(torrent_path)
-        ep_nums             = extract_ep_numbers_from_files(files)
+        files, file_indices, torrent_name = parse_files(torrent_path)
+        ep_nums                           = extract_ep_numbers_from_files(files)
 
         torrent["files"]        = files
         torrent["file_indices"] = file_indices
+        torrent["torrent_name"] = torrent_name
         torrent["ep_numbers"]   = ep_nums
 
         if files:
