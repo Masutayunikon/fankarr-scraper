@@ -12,7 +12,7 @@
       "infohash": "23ebdc911bdab8637df13da53a4345e2026f980c",
       "size": "8.9 GiB",
       "pub_date": "2021-03-12 22:48",
-      "seeders": 12,
+      "seeders": 10,
       "fankai": true
     }
   ],
@@ -36,7 +36,7 @@
             {
               "infohash": "23ebdc911bdab8637df13da53a4345e2026f980c",
               "path": "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 01 - Le Black Lagoon - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 7
             }
           ]
         },
@@ -171,7 +171,7 @@
             {
               "infohash": "23ebdc911bdab8637df13da53a4345e2026f980c",
               "path": "Black Lagoon Henshū [Khyinn]/[Khyinn] Black Lagoon Henshū 08 - Roberta, furie sanguinaire - 1080p.MULTI.x264.mkv",
-              "file_index": 7
+              "file_index": 0
             }
           ]
         }

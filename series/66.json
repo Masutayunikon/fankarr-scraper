@@ -12,7 +12,7 @@
       "infohash": "01d1a37df351e7b9ec3278d42c08d94ffafe419d",
       "size": "10.2 GiB",
       "pub_date": "2021-05-24 17:55",
-      "seeders": 21,
+      "seeders": 17,
       "fankai": true
     }
   ],
@@ -36,7 +36,7 @@
             {
               "infohash": "01d1a37df351e7b9ec3278d42c08d94ffafe419d",
               "path": "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 01 - Prologue.mkv",
-              "file_index": 0
+              "file_index": 6
             }
           ]
         },
@@ -138,7 +138,7 @@
             {
               "infohash": "01d1a37df351e7b9ec3278d42c08d94ffafe419d",
               "path": "Soul Eater Intégrale Kaï/[Triggerforce]Soul Eater Kaï 07 - Combat à mort en sous-sol.mkv",
-              "file_index": 6
+              "file_index": 0
             }
           ]
         },

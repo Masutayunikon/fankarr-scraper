@@ -12,7 +12,7 @@
       "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
       "size": "53.1 GiB",
       "pub_date": "2021-04-16 19:22",
-      "seeders": 8,
+      "seeders": 10,
       "fankai": true
     }
   ],
@@ -36,7 +36,7 @@
             {
               "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
               "path": "Hokuto No Ken [Illuzionn]/Hokuto No Ken Fan-Kai - Saison 01 [Illuzionn]/Hokuto No Ken Fan-Kai - 01x01 - King.1080p.DvdRip.x264.Illuzionn.mkv",
-              "file_index": 0
+              "file_index": 9
             }
           ]
         },
@@ -205,7 +205,7 @@
             {
               "infohash": "aaa6f6b390523fa7e8c1294e0285d799cad4d0df",
               "path": "Hokuto No Ken [Illuzionn]/Hokuto No Ken Fan-Kai - Saison 01 [Illuzionn]/Hokuto No Ken Fan-Kai - 01x10 - Souther.1080p.DvdRip.x264.Illuzionn.mkv",
-              "file_index": 9
+              "file_index": 0
             }
           ]
         },

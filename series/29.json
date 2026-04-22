@@ -12,7 +12,7 @@
       "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
       "size": "40.3 GiB",
       "pub_date": "2021-04-16 19:30",
-      "seeders": 18,
+      "seeders": 16,
       "fankai": true
     }
   ],
@@ -36,7 +36,7 @@
             {
               "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
               "path": "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 1 - Les Saiyens (01-03) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 01 - La Menace Saiyenne - 720p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 16
             }
           ]
         },
@@ -332,7 +332,7 @@
             {
               "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
               "path": "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 4 - Majin Boo (15-22) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 17 - Bibidi Babidi Boo ! - 1080p.MULTI.x264.mkv",
-              "file_index": 16
+              "file_index": 0
             }
           ]
         },

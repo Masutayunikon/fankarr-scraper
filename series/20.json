@@ -18,7 +18,7 @@
           "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
           "size": "8.9 GiB",
           "pub_date": "2023-06-05 21:11",
-          "seeders": 9,
+          "seeders": 8,
           "fankai": true
         }
       ],
@@ -36,7 +36,7 @@
             {
               "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
               "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 01 - Le fantôme d'Akina.mkv",
-              "file_index": 0
+              "file_index": 4
             }
           ]
         },
@@ -104,7 +104,7 @@
             {
               "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
               "path": "[Roro]Initial D Kai Films 1 à 5/[Roro]Initial D Kai 05 - De nouveaux défis pour la 86.mkv",
-              "file_index": 4
+              "file_index": 0
             }
           ]
         }

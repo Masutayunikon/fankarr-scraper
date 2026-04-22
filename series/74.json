@@ -76,7 +76,7 @@
               "infohash": "9c331362cc90a6e1e5d5b15b0b73a340d813a112",
               "size": "2.5 GiB",
               "pub_date": "2023-03-09 15:16",
-              "seeders": 3,
+              "seeders": 2,
               "fankai": true
             }
           ],
@@ -111,7 +111,7 @@
               "infohash": "050913b346aa0bc5b93d4c8f2506e37d4ae08bb4",
               "size": "2.1 GiB",
               "pub_date": "2023-03-11 08:06",
-              "seeders": 3,
+              "seeders": 2,
               "fankai": true
             }
           ],
@@ -181,7 +181,7 @@
               "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
               "size": "2.8 GiB",
               "pub_date": "2023-05-01 09:43",
-              "seeders": 3,
+              "seeders": 2,
               "fankai": true
             }
           ],
@@ -194,7 +194,7 @@
             {
               "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
               "path": "[Triggerforce] Tokyo Revengers Henshū.1080p.MULTI-Audio et Sub.x264/Saison 01/[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.1080p.MULTI.x264.mkv",
-              "file_index": 5
+              "file_index": 0
             }
           ]
         }

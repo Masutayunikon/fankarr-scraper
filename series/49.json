@@ -12,7 +12,7 @@
       "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
       "size": "30.5 GiB",
       "pub_date": "2024-11-04 00:58",
-      "seeders": 5,
+      "seeders": 6,
       "fankai": true
     }
   ],
@@ -36,7 +36,7 @@
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
               "path": "[Roro] ReZero Kai films 1 à 10/Film 1/[Roro] [VF] ReZero Kaï 01 - Une journée à la capitale.mkv",
-              "file_index": 0
+              "file_index": 1
             }
           ]
         },
@@ -87,7 +87,7 @@
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
               "path": "[Roro] ReZero Kai films 1 à 10/Film 4/[Roro] [VF] ReZero Kaï 04 - Truth of Zero Part 2.mkv",
-              "file_index": 7
+              "file_index": 0
             }
           ]
         }
@@ -197,7 +197,7 @@
             {
               "infohash": "47bffd209fe6b06e6bb795ffcfa840c28c7186f8",
               "path": "[Roro] ReZero Kai films 1 à 10/Film 10/[Roro] [VO] ReZero Kaï 10 - De fous pas de danse sous la Lune.mkv",
-              "file_index": 2
+              "file_index": 14
             }
           ]
         }

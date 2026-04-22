@@ -12,7 +12,7 @@
       "infohash": "1e4912a0de9bd3adbefa2814a241edb11ea0b871",
       "size": "19.5 GiB",
       "pub_date": "2026-02-13 17:38",
-      "seeders": 10,
+      "seeders": 11,
       "fankai": true
     }
   ],
@@ -87,7 +87,7 @@
             {
               "infohash": "1e4912a0de9bd3adbefa2814a241edb11ea0b871",
               "path": "Kaguya-sama - Love Is War Henshū/Saison 1/[Brazh & Foxthug] Kaguya-sama Love Is War Henshū 04 - Vacances d'été - 1080p.MULTI.x264.mkv",
-              "file_index": 4
+              "file_index": 0
             }
           ]
         },
@@ -228,7 +228,7 @@
               "infohash": "ffc87e28a92b55ca1dba148ee57598262ee58423",
               "size": "1.7 GiB",
               "pub_date": "2026-03-28 17:00",
-              "seeders": 5,
+              "seeders": 6,
               "fankai": true
             }
           ],
