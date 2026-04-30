@@ -19,7 +19,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 10,
+          "seeders": 11,
           "fankai": true
         }
       ],
@@ -177,7 +177,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 10,
+          "seeders": 11,
           "fankai": true
         }
       ],
@@ -426,7 +426,7 @@
           "id": 262,
           "episode_number": 21,
           "title": "Les Dragons de Feu",
-          "aired": null,
+          "aired": "2023-04-21",
           "original_filename": "[Livaï] Inazuma Eleven 21 (Fan-kai) - Les Dragons de Feu - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E21.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 21 (Fan-kai) - Les Dragons de Feu - 720p.MULTI.x264.nfo",
@@ -457,7 +457,7 @@
           "id": 257,
           "episode_number": 22,
           "title": "Les Knights of Queen",
-          "aired": null,
+          "aired": "2023-04-22",
           "original_filename": "[Livaï] Inazuma Eleven 22 (Fan-kai) - Les Knights of Queen - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E22.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 22 (Fan-kai) - Les Knights of Queen - 720p.MULTI.x264.nfo",
@@ -674,7 +674,7 @@
           "id": 255,
           "episode_number": 29,
           "title": "Duel au sommet",
-          "aired": null,
+          "aired": "2024-11-04",
           "original_filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E29.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet - 720p.MULTI.x264.nfo",

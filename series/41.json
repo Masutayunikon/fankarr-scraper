@@ -19,7 +19,7 @@
           "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
           "size": "7.2 GiB",
           "pub_date": "2025-12-31 11:35",
-          "seeders": 13,
+          "seeders": 14,
           "fankai": true
         }
       ],
@@ -104,7 +104,7 @@
           "id": 520,
           "episode_number": 5,
           "title": "Le Royaume des duellistes",
-          "aired": null,
+          "aired": "2026-04-10",
           "original_filename": "[Manny] Yu-Gi-Oh! Kaï 05 - Le Royaume des duellistes - 480p.VOSTFR.x264.mkv",
           "formatted_name": "Yu Gi Oh! Kaï.S02E05.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 05 - Le royaume des duellistes - 480p.MULTISUB.x264.nfo",
@@ -119,7 +119,7 @@
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
               "size": "4.8 GiB",
               "pub_date": "2026-01-30 14:52",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -135,7 +135,7 @@
           "id": 521,
           "episode_number": 6,
           "title": "Les cicatrices de la défaite",
-          "aired": null,
+          "aired": "2026-04-10",
           "original_filename": "[Manny] Yu-Gi-Oh! Kaï 06 - Les cicatrices de la défaite - 480p.VOSTFR.x264.mkv",
           "formatted_name": "Yu Gi Oh! Kaï.S02E06.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 06 - Les cicatrices de la défaite - 480p.MULTISUB.x264.nfo",
@@ -150,7 +150,7 @@
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
               "size": "4.8 GiB",
               "pub_date": "2026-01-30 14:52",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -166,7 +166,7 @@
           "id": 522,
           "episode_number": 7,
           "title": "Pris au piège",
-          "aired": null,
+          "aired": "2026-04-10",
           "original_filename": "[Manny] Yu-Gi-Oh! Kaï 07 - Pris au piège - 480p.VOSTFR.x264.mkv",
           "formatted_name": "Yu Gi Oh! Kaï.S02E07.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 07 - Pris au piège - 480p.MULTISUB.x264.nfo",
@@ -181,7 +181,7 @@
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
               "size": "4.8 GiB",
               "pub_date": "2026-01-30 14:52",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
