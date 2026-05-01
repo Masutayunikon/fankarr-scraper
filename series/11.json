@@ -209,17 +209,6 @@
       "torrents": [],
       "episodes": [
         {
-          "id": 135,
-          "episode_number": 16,
-          "title": "Les répercussions",
-          "aired": null,
-          "original_filename": "Dragon Ball Z Recut - 016.mkv",
-          "formatted_name": "Dragon Ball Z Recut.S02E16.VOSTFR.480p.x265-FANKAI",
-          "nfo_filename": "Dragon Ball Z Recut - 016.nfo",
-          "torrents": [],
-          "paths": []
-        },
-        {
           "id": 125,
           "episode_number": 17,
           "title": "Yunzabit",

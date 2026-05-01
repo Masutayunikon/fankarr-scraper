@@ -1,0 +1,259 @@
+{
+  "id": 88,
+  "title": "Dr.Stone Henshū",
+  "show_title": null,
+  "torrents": [
+    {
+      "nyaa_id": 1850293,
+      "nyaa_url": "https://nyaa.si/view/1850293",
+      "title": "[Khyinn.Roro] Dr.Stone Henshu - Films 1 à 13 - Saison 1 - 3",
+      "torrent_name": "Dr. Stone Henshu",
+      "torrent_url": "https://nyaa.si/download/1850293.torrent",
+      "magnet": "magnet:?xt=urn:btih:fa687d0ff1687a374271dcda24b728db8e874a81&dn=%5BKhyinn.Roro%5D%20Dr.Stone%20Henshu%20-%20Films%201%20%C3%A0%2013%20-%20Saison%201%20-%203&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+      "size": "35.9 GiB",
+      "pub_date": "2024-07-25 13:33",
+      "seeders": 14,
+      "fankai": true
+    }
+  ],
+  "seasons": [
+    {
+      "id": 215,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1303,
+          "episode_number": 1,
+          "title": "Prologue",
+          "aired": "2021-10-06",
+          "original_filename": "[Khyinn] Dr Stone Henshu - 01 - Prologue.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Khyinn] Dr Stone Henshu - 01 - Prologue.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 01 - Prologue.mkv",
+              "file_index": 128
+            }
+          ]
+        },
+        {
+          "id": 1307,
+          "episode_number": 2,
+          "title": "Dr.Stone, le commencement",
+          "aired": "2021-10-15",
+          "original_filename": "[Khyinn] Dr Stone Henshu - 02 - Dr Stone, le commencement.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Khyinn] Dr Stone Henshu - 02 - Dr Stone, le commencement.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 02 - Dr Stone, le commencement.mkv",
+              "file_index": 131
+            }
+          ]
+        },
+        {
+          "id": 1301,
+          "episode_number": 3,
+          "title": "Nous brandirons la lumière de la science",
+          "aired": "2021-11-06",
+          "original_filename": "[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.mkv",
+              "file_index": 134
+            }
+          ]
+        },
+        {
+          "id": 1306,
+          "episode_number": 4,
+          "title": "Sauvons Ruri !",
+          "aired": "2021-11-22",
+          "original_filename": "[Khyinn] Dr Stone Henshu - 04 - Sauvons Ruri !.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E04.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Khyinn] Dr Stone Henshu - 04 - Sauvons Ruri !.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 04 - Sauvons Ruri !.mkv",
+              "file_index": 137
+            }
+          ]
+        },
+        {
+          "id": 1304,
+          "episode_number": 5,
+          "title": "Les origines du village Ishigami",
+          "aired": "2021-12-14",
+          "original_filename": "[Khyinn] Dr Stone Henshu - 05 - Les origines du village Ishigami.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E05.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Khyinn] Dr Stone Henshu - 05 - Les origines du village Ishigami.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Khyinn] Dr Stone Henshu - 05 - Les origines du village Ishigami.mkv",
+              "file_index": 140
+            }
+          ]
+        },
+        {
+          "id": 1300,
+          "episode_number": 6,
+          "title": "Le téléphone portable",
+          "aired": "2023-12-24",
+          "original_filename": "[Roro] Dr Stone Henshû 06 - Le téléphone portable.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E06.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Roro] Dr Stone Henshû 06 - Le téléphone portable.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 06 - Le téléphone portable.mkv",
+              "file_index": 143
+            }
+          ]
+        },
+        {
+          "id": 1308,
+          "episode_number": 7,
+          "title": "Chrome le Scientifique",
+          "aired": "2023-12-25",
+          "original_filename": "[Roro] Dr Stone Henshû 07 - Chrome le Scientifique.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E07.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Roro] Dr Stone Henshû 07 - Chrome le Scientifique.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 07 - Chrome le Scientifique.mkv",
+              "file_index": 146
+            }
+          ]
+        },
+        {
+          "id": 1305,
+          "episode_number": 8,
+          "title": "Cryogénisation",
+          "aired": "2023-12-27",
+          "original_filename": "[Roro] Dr Stone Henshû 08 - Cryogénisation.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E08.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Roro] Dr Stone Henshû 08 - Cryogénisation.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 08 - Cryogénisation.mkv",
+              "file_index": 149
+            }
+          ]
+        },
+        {
+          "id": 1302,
+          "episode_number": 9,
+          "title": "Pétrole, Montgolfière et Argent",
+          "aired": "2023-12-29",
+          "original_filename": "[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.mkv",
+          "formatted_name": "Dr.Stone Henshū.S01E09.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 1/[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.mkv",
+              "file_index": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1309,
+          "episode_number": 10,
+          "title": "Objectif Perseus",
+          "aired": "2024-07-26",
+          "original_filename": "[MECHAPOULPE] Dr Stone Henshu - 10 - Objectif Perseus.mkv",
+          "formatted_name": "Dr.Stone Henshū.S02E10.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[MECHAPOULPE] Dr Stone Henshu - 10 - Objectif Perseus.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 10 - Objectif Perseus.mkv",
+              "file_index": 155
+            }
+          ]
+        },
+        {
+          "id": 1310,
+          "episode_number": 11,
+          "title": "L'île aux trésors",
+          "aired": "2024-07-26",
+          "original_filename": "[MECHAPOULPE] Dr Stone Henshu - 11 - L'île aux trésors.mkv",
+          "formatted_name": "Dr.Stone Henshū.S02E11.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[MECHAPOULPE] Dr Stone Henshu - 11 - L'île aux trésors.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 11 - L'île aux trésors.mkv",
+              "file_index": 158
+            }
+          ]
+        },
+        {
+          "id": 1312,
+          "episode_number": 12,
+          "title": "Médusa",
+          "aired": "2024-07-26",
+          "original_filename": "[MECHAPOULPE] Dr Stone Henshu - 12 - Médusa.mkv",
+          "formatted_name": "Dr.Stone Henshū.S02E12.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[MECHAPOULPE] Dr Stone Henshu - 12 - Médusa.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 12 - Médusa.mkv",
+              "file_index": 0
+            }
+          ]
+        },
+        {
+          "id": 1311,
+          "episode_number": 13,
+          "title": "Nouvel objectif",
+          "aired": "2024-07-26",
+          "original_filename": "[MECHAPOULPE] Dr Stone Henshu - 13 - Nouvel objectif.mkv",
+          "formatted_name": "Dr.Stone Henshū.S02E13.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[MECHAPOULPE] Dr Stone Henshu - 13 - Nouvel objectif.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
+              "path": "Dr. Stone Henshu/Saison 2/[MECHAPOULPE] Dr Stone Henshu - 13 - Nouvel objectif.mkv",
+              "file_index": 164
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
