@@ -37,7 +37,9 @@
             {
               "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
               "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 01 - Turbo Granny - 1080p.MULTISUB.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Dandadan Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Dandadan Henshū 01 - Turbo Granny - 1080p.MULTISUB.x264.nfo"
             }
           ]
         },
@@ -54,7 +56,9 @@
             {
               "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
               "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.mkv",
-              "file_index": 1
+              "file_index": 1,
+              "formatted_name": "Dandadan Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Dandadan Henshū 02 - Acrobatic Silky - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -71,7 +75,9 @@
             {
               "infohash": "8328eaaa95db53f55855c16d0c65b25279f432ea",
               "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.mkv",
-              "file_index": 2
+              "file_index": 2,
+              "formatted_name": "Dandadan Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Dandadan Henshū 03 - Serpo Aliens - 1080p.MULTI.x264.nfo"
             }
           ]
         },

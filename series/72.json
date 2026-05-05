@@ -13,7 +13,7 @@
       "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
       "size": "11.5 GiB",
       "pub_date": "2024-07-17 07:00",
-      "seeders": 16,
+      "seeders": 18,
       "fankai": true
     }
   ],
@@ -37,7 +37,9 @@
             {
               "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
               "path": "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse  1080p Multi x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Made In Abyss Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse  1080p Multi x264.nfo"
             }
           ]
         },
@@ -54,7 +56,9 @@
             {
               "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
               "path": "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.mkv",
-              "file_index": 12
+              "file_index": 12,
+              "formatted_name": "Made In Abyss Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.nfo"
             }
           ]
         },
@@ -71,7 +75,9 @@
             {
               "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
               "path": "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.mkv",
-              "file_index": 15
+              "file_index": 15,
+              "formatted_name": "Made In Abyss Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made In Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.nfo"
             }
           ]
         }
@@ -96,7 +102,9 @@
             {
               "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
               "path": "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.mkv",
-              "file_index": 18
+              "file_index": 18,
+              "formatted_name": "Made In Abyss Henshū.S02E04.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.nfo"
             }
           ]
         },
@@ -113,7 +121,9 @@
             {
               "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
               "path": "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescente 1080p Multi x264.mkv",
-              "file_index": 21
+              "file_index": 21,
+              "formatted_name": "Made In Abyss Henshū.S02E05.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescente 1080p Multi x264.nfo"
             }
           ]
         },
@@ -130,7 +140,9 @@
             {
               "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
               "path": "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.mkv",
-              "file_index": 24
+              "file_index": 24,
+              "formatted_name": "Made In Abyss Henshū.S02E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.nfo"
             }
           ]
         }
