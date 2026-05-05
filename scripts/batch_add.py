@@ -70,7 +70,7 @@ TORRENTS = [
         "no_fankai": True,
         "season": 0,
         "episode": 3,
-        "path": "One Piece Gold (2016) MULTi 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv"
+        "path": "One Piece_ Gold (1080p HD).mkv"
     },
     {
         "source": "torrents/One.Piece.Stampede.2019.MULTI.VFF.1080p.BluRay.x265.AC3.5.1-TG.mkv.torrent",

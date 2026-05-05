@@ -15,7 +15,7 @@ import time
 import unicodedata
 import requests
 from pathlib import Path
-from collections import Counter
+from collections import Counter, defaultdict
 
 METADATA_BASE  = "https://metadata.fankai.fr"
 MATCHED_FILE   = "data/torrents_matched.json"
@@ -87,14 +87,46 @@ def fix_encoding(s):
         try: return s.encode('latin-1').decode('utf-8')
         except (UnicodeEncodeError, UnicodeDecodeError): return s
 
+def detect_codec(text: str) -> str | None:
+    """Détecte le codec vidéo (x264/x265) depuis un titre ou nom de fichier."""
+    if not text: return None
+    if re.search(r'\bx265\b|hevc|\bh\.?265\b', text, re.IGNORECASE): return 'x265'
+    if re.search(r'\bx264\b|\bh\.?264\b', text, re.IGNORECASE): return 'x264'
+    return None
+
+def get_variant_for_torrent(ep: dict, torrent_data: dict, path: str | None = None) -> dict | None:
+    """Retourne la variante codec de l'épisode correspondant au torrent, ou None.
+
+    Cherche le codec dans le titre Nyaa, puis le torrent_name (nom affiché dans le
+    client), puis le chemin du fichier. Retourne le dict de variante si trouvé.
+    """
+    variants = ep.get("codec_variants")
+    if not variants: return None
+    codec = (detect_codec(torrent_data.get("title") or "")
+             or detect_codec(torrent_data.get("torrent_name") or "")
+             or detect_codec(path or ""))
+    if codec and codec in variants:
+        return variants[codec]
+    return None
+
+
 def build_structure(serie, seasons_raw):
     seasons_raw = [s for s in (seasons_raw or []) if isinstance(s, dict)]
     seasons_out = []
     for season in sorted(seasons_raw, key=lambda s: s.get("season_number", 0)):
         eps_raw = [e for e in fetch_episodes(season["id"]) if isinstance(e, dict)]
         time.sleep(DELAY)
-        episodes_out = [
-            {
+
+        # Grouper par episode_number pour détecter les doublons x264/x265
+        eps_filtered = [e for e in eps_raw if e.get("id") not in IGNORED_EPISODE_IDS]
+        eps_by_num   = defaultdict(list)
+        for ep in sorted(eps_filtered, key=lambda e: e.get("episode_number", 0)):
+            eps_by_num[ep.get("episode_number")].append(ep)
+
+        episodes_out = []
+        for ep_num, eps_group in sorted(eps_by_num.items(), key=lambda kv: kv[0] or 0):
+            ep = eps_group[0]
+            entry = {
                 "id":                ep["id"],
                 "episode_number":    ep.get("episode_number"),
                 "title":             fix_encoding(ep.get("title")),
@@ -105,9 +137,22 @@ def build_structure(serie, seasons_raw):
                 "torrents":          [],
                 "paths":             [],
             }
-            for ep in sorted(eps_raw, key=lambda e: e.get("episode_number", 0))
-            if ep.get("id") not in IGNORED_EPISODE_IDS
-        ]
+            # Si plusieurs variantes du même épisode → codec_variants
+            if len(eps_group) > 1:
+                variants = {}
+                for ep_v in eps_group:
+                    codec = (detect_codec(ep_v.get("formatted_name") or "")
+                             or detect_codec(ep_v.get("nfo_filename") or ""))
+                    if codec and codec not in variants:
+                        variants[codec] = {
+                            "id":             ep_v["id"],
+                            "formatted_name": ep_v.get("formatted_name"),
+                            "nfo_filename":   ep_v.get("nfo_filename"),
+                            "nfo_path":       ep_v.get("nfo_path"),
+                        }
+                if len(variants) > 1:
+                    entry["codec_variants"] = variants
+            episodes_out.append(entry)
         seasons_out.append({
             "id":            season["id"],
             "season_number": season.get("season_number"),
@@ -322,8 +367,17 @@ def assign(structure, torrent, ttype):
     fidx         = build_file_index(torrent)   # chemin → index dans torrent["files"]
     ihash        = ref.get("infohash")
 
-    def _path_obj(p):
-        return {"infohash": ihash, "path": p, "file_index": file_index_of(p, fidx)}
+    def _path_obj(p, ep=None):
+        obj = {"infohash": ihash, "path": p, "file_index": file_index_of(p, fidx)}
+        if ep is not None:
+            variant = get_variant_for_torrent(ep, torrent, p)
+            if variant:
+                obj["formatted_name"] = variant.get("formatted_name")
+                obj["nfo_filename"]   = variant.get("nfo_filename")
+            else:
+                obj["formatted_name"] = ep.get("formatted_name")
+                obj["nfo_filename"]   = ep.get("nfo_filename")
+        return obj
 
     if t == "integral":
         _add_torrent_to_structure(structure, ref)
@@ -355,7 +409,7 @@ def assign(structure, torrent, ttype):
                                       path_idx, title_path_idx, nb_seasons_loc, strict=True)
                     if p is None:
                         p = _torrent_title_to_path(torrent.get("title"))
-                    ep["paths"].append(_path_obj(p))
+                    ep["paths"].append(_path_obj(p, ep=ep))
                 assigned = True
         return assigned
 
@@ -381,7 +435,7 @@ def assign(structure, torrent, ttype):
                                           path_idx, title_path_idx, nb_seasons, strict=True)
                         if p is None:
                             p = _torrent_title_to_path(torrent.get("title"))
-                        ep["paths"].append(_path_obj(p))
+                        ep["paths"].append(_path_obj(p, ep=ep))
                     assigned = True
         return assigned
 
@@ -416,7 +470,7 @@ def assign(structure, torrent, ttype):
                                               path_idx, title_path_idx, nb_seasons, strict=True)
                             if p is None:
                                 p = _torrent_title_to_path(torrent.get("title"))
-                        ep["paths"].append(_path_obj(p))
+                        ep["paths"].append(_path_obj(p, ep=ep))
                     return True
         return False
 
@@ -436,8 +490,18 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
     pack_infohash   = pack_raw.get("infohash")
     fidx            = build_file_index(pack_raw)
 
-    def _mk(p, ih=None):
-        return {"infohash": ih or pack_infohash, "path": p, "file_index": file_index_of(p, fidx)}
+    def _mk(p, ih=None, ep=None, torrent_ref=None):
+        actual = torrent_ref if torrent_ref is not None else pack_raw
+        obj = {"infohash": ih or pack_infohash, "path": p, "file_index": file_index_of(p, fidx)}
+        if ep is not None:
+            variant = get_variant_for_torrent(ep, actual, p)
+            if variant:
+                obj["formatted_name"] = variant.get("formatted_name")
+                obj["nfo_filename"]   = variant.get("nfo_filename")
+            else:
+                obj["formatted_name"] = ep.get("formatted_name")
+                obj["nfo_filename"]   = ep.get("nfo_filename")
+        return obj
 
     for season in structure["seasons"]:
         is_specials     = season.get("season_number") == 0
@@ -458,11 +522,12 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
             p = _get_path()
             if append:
                 if p:
-                    ep["paths"].append(_mk(p))
+                    ep["paths"].append(_mk(p, ep=ep))
             elif ep["torrents"]:
-                ep["paths"] = [_mk(p, t2.get("infohash")) for t2 in ep["torrents"]]
+                ep["paths"] = [_mk(p, t2.get("infohash"), ep=ep, torrent_ref=t2)
+                               for t2 in ep["torrents"]]
             else:
-                ep["paths"] = [_mk(p)] if p else []
+                ep["paths"] = [_mk(p, ep=ep)] if p else []
 
 def consolidate(structures, torrents_by_id, torrents_by_infohash):
     """Remonte les packs intégraux et saisons détectés en haut de la structure."""
@@ -582,8 +647,19 @@ def consolidate(structures, torrents_by_id, torrents_by_infohash):
                     n = ep.get("episode_number")
                     p = _compute_path(ep, n, is_specials, folder_key, season_path_idx,
                                       path_idx, title_path_idx, nb_seasons_real)
-                    ep["paths"] = [{"infohash": pack_infohash2, "path": p,
-                                    "file_index": file_index_of(p, fidx2)}] if p else []
+                    if p:
+                        path_obj = {"infohash": pack_infohash2, "path": p,
+                                    "file_index": file_index_of(p, fidx2)}
+                        variant = get_variant_for_torrent(ep, pack_raw, p)
+                        if variant:
+                            path_obj["formatted_name"] = variant.get("formatted_name")
+                            path_obj["nfo_filename"]   = variant.get("nfo_filename")
+                        else:
+                            path_obj["formatted_name"] = ep.get("formatted_name")
+                            path_obj["nfo_filename"]   = ep.get("nfo_filename")
+                        ep["paths"] = [path_obj]
+                    else:
+                        ep["paths"] = []
                 consolidated += 1
 
         # 1b. structure["torrents"] non-vide → peupler depuis chaque pack intégral
@@ -623,7 +699,13 @@ def cleanup_null_paths(structures, torrents_by_id, torrents_by_infohash):
                         )
                         if ref_torrent:
                             p = _torrent_title_to_path(ref_torrent.get("title"))
-                            new_paths.append({"infohash": ih, "path": p, "file_index": None})
+                            new_paths.append({
+                                "infohash":      ih,
+                                "path":          p,
+                                "file_index":    None,
+                                "formatted_name": ep.get("formatted_name"),
+                                "nfo_filename":   ep.get("nfo_filename"),
+                            })
                         else:
                             new_paths.append(obj)
                     ep["paths"] = new_paths
