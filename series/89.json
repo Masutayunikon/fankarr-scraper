@@ -1,5 +1,5 @@
 {
-  "id": 69,
+  "id": 89,
   "title": "Spy x Family Henshū",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
       "size": "17.0 GiB",
       "pub_date": "2024-10-18 19:30",
-      "seeders": 9,
+      "seeders": 12,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 165,
+      "id": 218,
       "season_number": 0,
       "title": "Films officiels",
       "torrents": [],
       "episodes": [
         {
-          "id": 1065,
+          "id": 1320,
           "episode_number": 1,
           "title": "Code White",
           "aired": "2024-04-17",
@@ -44,13 +44,13 @@
       ]
     },
     {
-      "id": 166,
+      "id": 217,
       "season_number": 1,
       "title": "Intégrale",
       "torrents": [],
       "episodes": [
         {
-          "id": 1070,
+          "id": 1317,
           "episode_number": 1,
           "title": "Admission",
           "aired": "2024-04-17",
@@ -67,7 +67,7 @@
           ]
         },
         {
-          "id": 1068,
+          "id": 1315,
           "episode_number": 2,
           "title": "Police",
           "aired": "2024-04-17",
@@ -84,7 +84,7 @@
           ]
         },
         {
-          "id": 1066,
+          "id": 1313,
           "episode_number": 3,
           "title": "Chien",
           "aired": "2024-04-17",
@@ -101,7 +101,7 @@
           ]
         },
         {
-          "id": 1072,
+          "id": 1319,
           "episode_number": 4,
           "title": "Examens",
           "aired": "2024-04-17",
@@ -118,7 +118,7 @@
           ]
         },
         {
-          "id": 1067,
+          "id": 1314,
           "episode_number": 5,
           "title": "Tennis",
           "aired": "2024-04-17",
@@ -135,7 +135,7 @@
           ]
         },
         {
-          "id": 1069,
+          "id": 1316,
           "episode_number": 6,
           "title": "Contact",
           "aired": "2024-09-02",
@@ -152,7 +152,7 @@
           ]
         },
         {
-          "id": 1071,
+          "id": 1318,
           "episode_number": 7,
           "title": "Croisière",
           "aired": "2024-10-18",

@@ -1,5 +1,5 @@
 {
-  "id": 59,
+  "id": 90,
   "title": "Black Clover Kaï",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "e2ab66abda3501342f9dfc8fdda91157d886a43f",
       "size": "37.1 GiB",
       "pub_date": "2024-11-08 17:24",
-      "seeders": 28,
+      "seeders": 24,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 132,
+      "id": 219,
       "season_number": 1,
       "title": "Œil maléfique du Crépuscule",
       "torrents": [],
       "episodes": [
         {
-          "id": 868,
+          "id": 1326,
           "episode_number": 1,
           "title": "Le Taureau Noir",
           "aired": "2020-04-02",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "id": 873,
+          "id": 1331,
           "episode_number": 2,
           "title": "Le Donjon",
           "aired": "2020-04-02",
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "id": 864,
+          "id": 1322,
           "episode_number": 3,
           "title": "Attaque de la capitale",
           "aired": "2020-09-21",
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "id": 863,
+          "id": 1321,
           "episode_number": 4,
           "title": "Lumière et Ténèbres",
           "aired": "2020-09-21",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "id": 875,
+          "id": 1333,
           "episode_number": 5,
           "title": "Le Sanctuaire Englouti",
           "aired": "2020-11-13",
@@ -110,7 +110,7 @@
           ]
         },
         {
-          "id": 870,
+          "id": 1328,
           "episode_number": 6,
           "title": "Derrière le masque",
           "aired": "2022-11-23",
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "id": 872,
+          "id": 1330,
           "episode_number": 7,
           "title": "La Forêt des Sorcières",
           "aired": "2022-11-27",
@@ -144,7 +144,7 @@
           ]
         },
         {
-          "id": 867,
+          "id": 1325,
           "episode_number": 8,
           "title": "La fête des étoiles",
           "aired": "2022-11-29",
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "id": 865,
+          "id": 1323,
           "episode_number": 9,
           "title": "La sélection des chevaliers royaux",
           "aired": "2022-12-10",
@@ -178,7 +178,7 @@
           ]
         },
         {
-          "id": 866,
+          "id": 1324,
           "episode_number": 10,
           "title": "À l'assaut de l'antre de l'ennemi",
           "aired": "2024-10-21",
@@ -195,7 +195,7 @@
           ]
         },
         {
-          "id": 874,
+          "id": 1332,
           "episode_number": 11,
           "title": "Réincarnations",
           "aired": "2024-10-22",
@@ -212,7 +212,7 @@
           ]
         },
         {
-          "id": 869,
+          "id": 1327,
           "episode_number": 12,
           "title": "Combat décisif à la cité royale",
           "aired": "2024-10-23",
@@ -229,7 +229,7 @@
           ]
         },
         {
-          "id": 871,
+          "id": 1329,
           "episode_number": 13,
           "title": "Le cerveau",
           "aired": "2024-10-24",
@@ -248,13 +248,13 @@
       ]
     },
     {
-      "id": 131,
+      "id": 220,
       "season_number": 2,
       "title": "Démons",
       "torrents": [],
       "episodes": [
         {
-          "id": 861,
+          "id": 1335,
           "episode_number": 14,
           "title": "Malédictions",
           "aired": "2024-10-28",
@@ -271,7 +271,7 @@
           ]
         },
         {
-          "id": 860,
+          "id": 1334,
           "episode_number": 15,
           "title": "La Triade sombre",
           "aired": "2024-10-29",
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "id": 862,
+          "id": 1336,
           "episode_number": 16,
           "title": "Pacte",
           "aired": "2024-10-30",

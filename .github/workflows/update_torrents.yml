@@ -2,7 +2,7 @@ name: Update Series
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # toutes les 6h
+    - cron: '0 */1 * * *'   # toutes les 6h
   workflow_dispatch:          # déclenchement manuel depuis GitHub
 
 jobs:

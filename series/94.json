@@ -1,5 +1,5 @@
 {
-  "id": 36,
+  "id": 94,
   "title": "Solo Leveling Henshū",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "c5e7eb04674612488129d3ddfc835ae4447bb2d9",
       "size": "12.4 GiB",
       "pub_date": "2026-04-06 18:11",
-      "seeders": 21,
+      "seeders": 18,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 71,
+      "id": 224,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 489,
+          "id": 1378,
           "episode_number": 1,
           "title": "Started from the Bottom",
           "aired": "2024-02-19",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "id": 490,
+          "id": 1379,
           "episode_number": 2,
           "title": "Push it to the limit",
           "aired": "2025-02-18",
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "id": 488,
+          "id": 1380,
           "episode_number": 3,
           "title": "Arise",
           "aired": "2025-02-18",
@@ -78,13 +78,13 @@
       ]
     },
     {
-      "id": 70,
+      "id": 225,
       "season_number": 2,
       "title": "Saison 2",
       "torrents": [],
       "episodes": [
         {
-          "id": 486,
+          "id": 1381,
           "episode_number": 4,
           "title": "In the Shadows",
           "aired": "2025-11-01",
@@ -101,7 +101,7 @@
           ]
         },
         {
-          "id": 485,
+          "id": 1382,
           "episode_number": 5,
           "title": "Kingslayer",
           "aired": "2025-11-01",
@@ -118,7 +118,7 @@
           ]
         },
         {
-          "id": 487,
+          "id": 1383,
           "episode_number": 6,
           "title": "Heavy is the crown",
           "aired": "2025-11-01",

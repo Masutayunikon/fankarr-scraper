@@ -1,5 +1,5 @@
 {
-  "id": 66,
+  "id": 95,
   "title": "Soul Eater Kaï",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "01d1a37df351e7b9ec3278d42c08d94ffafe419d",
       "size": "10.2 GiB",
       "pub_date": "2021-05-24 17:55",
-      "seeders": 24,
+      "seeders": 20,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 153,
+      "id": 226,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 984,
+          "id": 1391,
           "episode_number": 1,
           "title": "Prologue",
           "aired": "2021-01-10",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "id": 985,
+          "id": 1392,
           "episode_number": 2,
           "title": "Cours de rattrapage",
           "aired": "2021-01-10",
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "id": 977,
+          "id": 1384,
           "episode_number": 3,
           "title": "La lame damnée",
           "aired": "2021-02-07",
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "id": 981,
+          "id": 1388,
           "episode_number": 4,
           "title": "Masamune, l'épée maudite",
           "aired": "2021-02-11",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "id": 987,
+          "id": 1394,
           "episode_number": 5,
           "title": "Expérimentation",
           "aired": "2021-03-02",
@@ -110,7 +110,7 @@
           ]
         },
         {
-          "id": 979,
+          "id": 1386,
           "episode_number": 6,
           "title": "Le dragon noir",
           "aired": "2021-03-26",
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "id": 982,
+          "id": 1389,
           "episode_number": 7,
           "title": "Combat à mort en sous-sol",
           "aired": "2021-05-10",
@@ -144,7 +144,7 @@
           ]
         },
         {
-          "id": 986,
+          "id": 1393,
           "episode_number": 8,
           "title": "Journée d'initiation",
           "aired": "2021-05-14",
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "id": 978,
+          "id": 1385,
           "episode_number": 9,
           "title": "Retrouvailles express",
           "aired": "2021-05-18",
@@ -178,7 +178,7 @@
           ]
         },
         {
-          "id": 983,
+          "id": 1390,
           "episode_number": 10,
           "title": "La résonance des âmes",
           "aired": "2021-05-22",
@@ -195,7 +195,7 @@
           ]
         },
         {
-          "id": 980,
+          "id": 1387,
           "episode_number": 11,
           "title": "La bataille pour l'infusio",
           "aired": "2021-05-23",

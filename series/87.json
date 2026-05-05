@@ -1,17 +1,17 @@
 {
-  "id": 37,
+  "id": 87,
   "title": "Demon Slayer Henshū",
   "show_title": null,
   "torrents": [],
   "seasons": [
     {
-      "id": 72,
+      "id": 214,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 496,
+          "id": 1294,
           "episode_number": 1,
           "title": "La sélection finale",
           "aired": "2024-08-25",
@@ -29,7 +29,7 @@
               "infohash": "817d3605a634efe0cfb910801b9c491449b3b369",
               "size": "1.8 GiB",
               "pub_date": "2024-08-25 17:45",
-              "seeders": 9,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "id": 493,
+          "id": 1291,
           "episode_number": 2,
           "title": "Les premières missions",
           "aired": "2024-08-28",
@@ -60,7 +60,7 @@
               "infohash": "b5a5a8d5a6d174d030faf0ef726d53e5baf3cf2f",
               "size": "1.9 GiB",
               "pub_date": "2024-08-28 10:33",
-              "seeders": 7,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "id": 500,
+          "id": 1298,
           "episode_number": 3,
           "title": "La maison aux tambours",
           "aired": "2024-08-30",
@@ -91,7 +91,7 @@
               "infohash": "2c434621e58b00e409b062ad48b848bb844b2010",
               "size": "1.6 GiB",
               "pub_date": "2024-08-30 19:36",
-              "seeders": 7,
+              "seeders": 8,
               "fankai": true
             }
           ],
@@ -104,7 +104,7 @@
           ]
         },
         {
-          "id": 494,
+          "id": 1292,
           "episode_number": 4,
           "title": "Le mont Natagumo",
           "aired": "2024-09-11",
@@ -122,7 +122,7 @@
               "infohash": "b586fc79b7db5ba75f2f7b2e1b6d20dfb3b24437",
               "size": "2.5 GiB",
               "pub_date": "2024-09-11 13:43",
-              "seeders": 7,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -135,7 +135,7 @@
           ]
         },
         {
-          "id": 501,
+          "id": 1299,
           "episode_number": 5,
           "title": "L'entraînement de récupération",
           "aired": "2024-09-17",
@@ -153,7 +153,7 @@
               "infohash": "7025e392f84fe69726c315d44a3f961ac75a3628",
               "size": "1.5 GiB",
               "pub_date": "2024-09-18 07:35",
-              "seeders": 7,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -166,7 +166,7 @@
           ]
         },
         {
-          "id": 495,
+          "id": 1293,
           "episode_number": 6,
           "title": "Le train de l'infini",
           "aired": "2024-10-09",
@@ -184,7 +184,7 @@
               "infohash": "22df77a48eba629875866195758db994d8569a71",
               "size": "3.0 GiB",
               "pub_date": "2024-10-09 14:45",
-              "seeders": 7,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -197,7 +197,7 @@
           ]
         },
         {
-          "id": 498,
+          "id": 1296,
           "episode_number": 7,
           "title": "L'infiltration travestie",
           "aired": "2024-10-11",
@@ -215,7 +215,7 @@
               "infohash": "200929bab14a648f30e53a82a3f0970d2b3e51f4",
               "size": "1.7 GiB",
               "pub_date": "2024-10-11 16:10",
-              "seeders": 7,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "id": 499,
+          "id": 1297,
           "episode_number": 8,
           "title": "Les frères et soeurs",
           "aired": "2024-10-11",
@@ -246,7 +246,7 @@
               "infohash": "e07d8dbfb898abc9de927b4d3956f5f493c960cb",
               "size": "3.2 GiB",
               "pub_date": "2024-10-11 16:12",
-              "seeders": 7,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -259,7 +259,7 @@
           ]
         },
         {
-          "id": 491,
+          "id": 1289,
           "episode_number": 9,
           "title": "Le sabre écarlate",
           "aired": "2024-11-29",
@@ -290,7 +290,7 @@
           ]
         },
         {
-          "id": 492,
+          "id": 1290,
           "episode_number": 10,
           "title": "L'approche de l'aube",
           "aired": "2024-11-30",
@@ -308,7 +308,7 @@
               "infohash": "d33dae02564f9029f8fbfa54cd1f0c8bae0024c3",
               "size": "2.7 GiB",
               "pub_date": "2024-11-30 12:07",
-              "seeders": 8,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -321,7 +321,7 @@
           ]
         },
         {
-          "id": 497,
+          "id": 1295,
           "episode_number": 11,
           "title": "L'entraînement des piliers",
           "aired": "2024-12-23",

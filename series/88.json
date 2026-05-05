@@ -1,5 +1,5 @@
 {
-  "id": 52,
+  "id": 88,
   "title": "Dr.Stone Henshū",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "fa687d0ff1687a374271dcda24b728db8e874a81",
       "size": "35.9 GiB",
       "pub_date": "2024-07-25 13:33",
-      "seeders": 14,
+      "seeders": 15,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 105,
+      "id": 215,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 660,
+          "id": 1303,
           "episode_number": 1,
           "title": "Prologue",
           "aired": "2021-10-06",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "id": 664,
+          "id": 1307,
           "episode_number": 2,
           "title": "Dr.Stone, le commencement",
           "aired": "2021-10-15",
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "id": 658,
+          "id": 1301,
           "episode_number": 3,
           "title": "Nous brandirons la lumière de la science",
           "aired": "2021-11-06",
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "id": 663,
+          "id": 1306,
           "episode_number": 4,
           "title": "Sauvons Ruri !",
           "aired": "2021-11-22",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "id": 661,
+          "id": 1304,
           "episode_number": 5,
           "title": "Les origines du village Ishigami",
           "aired": "2021-12-14",
@@ -110,7 +110,7 @@
           ]
         },
         {
-          "id": 657,
+          "id": 1300,
           "episode_number": 6,
           "title": "Le téléphone portable",
           "aired": "2023-12-24",
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "id": 665,
+          "id": 1308,
           "episode_number": 7,
           "title": "Chrome le Scientifique",
           "aired": "2023-12-25",
@@ -144,7 +144,7 @@
           ]
         },
         {
-          "id": 662,
+          "id": 1305,
           "episode_number": 8,
           "title": "Cryogénisation",
           "aired": "2023-12-27",
@@ -161,12 +161,12 @@
           ]
         },
         {
-          "id": 659,
+          "id": 1302,
           "episode_number": 9,
           "title": "Pétrole, Montgolfière et Argent",
           "aired": "2023-12-29",
           "original_filename": "[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.mkv",
-          "formatted_name": "Dr.Stone Henshū.S01E09.VOSTFR.1080p.x264-FANKAI",
+          "formatted_name": "Dr.Stone Henshū.S01E09.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Roro] Dr Stone Henshû 09 - Pétrole, Montgolfière et Argent.nfo",
           "torrents": [],
           "paths": [
@@ -180,13 +180,13 @@
       ]
     },
     {
-      "id": 104,
+      "id": 216,
       "season_number": 2,
       "title": "Saison 2",
       "torrents": [],
       "episodes": [
         {
-          "id": 653,
+          "id": 1309,
           "episode_number": 10,
           "title": "Objectif Perseus",
           "aired": "2024-07-26",
@@ -203,7 +203,7 @@
           ]
         },
         {
-          "id": 654,
+          "id": 1310,
           "episode_number": 11,
           "title": "L'île aux trésors",
           "aired": "2024-07-26",
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "id": 656,
+          "id": 1312,
           "episode_number": 12,
           "title": "Médusa",
           "aired": "2024-07-26",
@@ -237,7 +237,7 @@
           ]
         },
         {
-          "id": 655,
+          "id": 1311,
           "episode_number": 13,
           "title": "Nouvel objectif",
           "aired": "2024-07-26",
