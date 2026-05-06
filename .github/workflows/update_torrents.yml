@@ -39,7 +39,9 @@ jobs:
         run: python scripts/s3_match.py
 
       - name: s4 — Assign torrents to episodes
-        run: python scripts/s4_assign.py
+        run: |
+          rm -rf series/
+          python scripts/s4_assign.py
 
       - name: s6 — Generate available.json
         run: python scripts/s6_available.py
