@@ -29,7 +29,7 @@
               "infohash": "817d3605a634efe0cfb910801b9c491449b3b369",
               "size": "1.8 GiB",
               "pub_date": "2024-08-25 17:45",
-              "seeders": 12,
+              "seeders": 13,
               "fankai": true
             }
           ],
@@ -37,7 +37,9 @@
             {
               "infohash": "817d3605a634efe0cfb910801b9c491449b3b369",
               "path": "Demon Slayer Henshū/Saison 1/[Brazh] Demon Slayer Henshū 01 - La sélection finale - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 01 - La sélection finale - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -60,7 +62,7 @@
               "infohash": "b5a5a8d5a6d174d030faf0ef726d53e5baf3cf2f",
               "size": "1.9 GiB",
               "pub_date": "2024-08-28 10:33",
-              "seeders": 10,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -68,7 +70,9 @@
             {
               "infohash": "b5a5a8d5a6d174d030faf0ef726d53e5baf3cf2f",
               "path": "[Brazh] Demon Slayer Henshū 02 - Les premières missions - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 02 - Les premières missions - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 02 - Les premières missions - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -91,7 +95,7 @@
               "infohash": "2c434621e58b00e409b062ad48b848bb844b2010",
               "size": "1.6 GiB",
               "pub_date": "2024-08-30 19:36",
-              "seeders": 8,
+              "seeders": 11,
               "fankai": true
             }
           ],
@@ -99,7 +103,9 @@
             {
               "infohash": "2c434621e58b00e409b062ad48b848bb844b2010",
               "path": "[Brazh] Demon Slayer Henshū 03 - La maison aux tambours - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 03 - La maison aux tambours - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 03 - La maison aux tambours - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -122,7 +128,7 @@
               "infohash": "b586fc79b7db5ba75f2f7b2e1b6d20dfb3b24437",
               "size": "2.5 GiB",
               "pub_date": "2024-09-11 13:43",
-              "seeders": 10,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -130,7 +136,9 @@
             {
               "infohash": "b586fc79b7db5ba75f2f7b2e1b6d20dfb3b24437",
               "path": "[Brazh] Demon Slayer Henshū 04 - Le mont Natagumo - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 04 - Le mont Natagumo - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E04.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 04 - Le mont Natagumo - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -153,7 +161,7 @@
               "infohash": "7025e392f84fe69726c315d44a3f961ac75a3628",
               "size": "1.5 GiB",
               "pub_date": "2024-09-18 07:35",
-              "seeders": 9,
+              "seeders": 11,
               "fankai": true
             }
           ],
@@ -161,7 +169,9 @@
             {
               "infohash": "7025e392f84fe69726c315d44a3f961ac75a3628",
               "path": "[Brazh] Demon Slayer Henshū 05 - L'entraînement de récupération - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 05 - L'entraînement de récupération - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E05.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 05 - L'entraînement de récupération - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -184,7 +194,7 @@
               "infohash": "22df77a48eba629875866195758db994d8569a71",
               "size": "3.0 GiB",
               "pub_date": "2024-10-09 14:45",
-              "seeders": 9,
+              "seeders": 11,
               "fankai": true
             }
           ],
@@ -192,7 +202,9 @@
             {
               "infohash": "22df77a48eba629875866195758db994d8569a71",
               "path": "[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -215,7 +227,7 @@
               "infohash": "200929bab14a648f30e53a82a3f0970d2b3e51f4",
               "size": "1.7 GiB",
               "pub_date": "2024-10-11 16:10",
-              "seeders": 9,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -223,7 +235,9 @@
             {
               "infohash": "200929bab14a648f30e53a82a3f0970d2b3e51f4",
               "path": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E07.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -246,7 +260,7 @@
               "infohash": "e07d8dbfb898abc9de927b4d3956f5f493c960cb",
               "size": "3.2 GiB",
               "pub_date": "2024-10-11 16:12",
-              "seeders": 10,
+              "seeders": 13,
               "fankai": true
             }
           ],
@@ -254,7 +268,9 @@
             {
               "infohash": "e07d8dbfb898abc9de927b4d3956f5f493c960cb",
               "path": "[Brazh] Demon Slayer Henshū 08 - Les frères et sœurs - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 08 - Les frères et soeurs - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E08.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 08 - Les frères et soeurs - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -277,7 +293,7 @@
               "infohash": "1162ff5dc57ebee952b298cdf36929cfa853e90b",
               "size": "2.9 GiB",
               "pub_date": "2024-11-29 20:31",
-              "seeders": 9,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -285,7 +301,9 @@
             {
               "infohash": "1162ff5dc57ebee952b298cdf36929cfa853e90b",
               "path": "[Brazh] Demon Slayer Henshū 09 - Le sabre écarlate - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 09 - Le sabre écarlate - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E09.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 09 - Le sabre écarlate - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -308,7 +326,7 @@
               "infohash": "d33dae02564f9029f8fbfa54cd1f0c8bae0024c3",
               "size": "2.7 GiB",
               "pub_date": "2024-11-30 12:07",
-              "seeders": 10,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -316,7 +334,9 @@
             {
               "infohash": "d33dae02564f9029f8fbfa54cd1f0c8bae0024c3",
               "path": "[Brazh] Demon Slayer Henshū 10 - L'approche de l'aube - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 10 - L'approche de l'aube - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E10.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 10 - L'approche de l'aube - 1080p.MULTI.x264.nfo"
             }
           ]
         },
@@ -339,7 +359,7 @@
               "infohash": "4efb07027bdf87b2c7559ad3dc2d013055570223",
               "size": "3.3 GiB",
               "pub_date": "2024-12-23 15:41",
-              "seeders": 9,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -347,7 +367,9 @@
             {
               "infohash": "4efb07027bdf87b2c7559ad3dc2d013055570223",
               "path": "[Brazh] Demon Slayer Henshū 11 - L'entraînement des piliers - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 11 - L'entraînement des piliers - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E11.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 11 - L'entraînement des piliers - 1080p.MULTI.x264.nfo"
             }
           ]
         }

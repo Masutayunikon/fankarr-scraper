@@ -37,7 +37,9 @@
             {
               "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
               "path": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Gintama Kaï.S01E01.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Triggerforce] Gintama Kaï 01 - L'homme à tout faire.nfo"
             }
           ]
         },
@@ -60,7 +62,7 @@
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:52",
-              "seeders": 9,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -68,7 +70,9 @@
             {
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
               "path": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Gintama Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.nfo"
             }
           ]
         },
@@ -99,7 +103,9 @@
             {
               "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
               "path": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Gintama Kaï.S01E03.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Triggerforce] Gintama Kaï 03 - Quand tu as un problème, rigole, rigole..nfo"
             }
           ]
         },
@@ -122,7 +128,7 @@
               "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
               "size": "2.9 GiB",
               "pub_date": "2025-10-03 16:00",
-              "seeders": 5,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -130,7 +136,9 @@
             {
               "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
               "path": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Gintama Kaï.S01E04.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Triggerforce] Gintama Kaï 04 - Renonce à la fureur.nfo"
             }
           ]
         },

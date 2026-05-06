@@ -13,7 +13,7 @@
       "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
       "size": "9.3 GiB",
       "pub_date": "2026-04-06 18:23",
-      "seeders": 13,
+      "seeders": 16,
       "fankai": true
     }
   ],
@@ -37,7 +37,9 @@
             {
               "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
               "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 01 - Objectif Nibards - 1080p.MULTI.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Chainsaw Man Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Chainsaw Man 01 - Objectif Nibards.nfo"
             }
           ]
         },
@@ -54,7 +56,9 @@
             {
               "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
               "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 02 - Le goût du baiser - 1080p.MULTI.x264.mkv",
-              "file_index": 2
+              "file_index": 2,
+              "formatted_name": "Chainsaw Man Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.nfo"
             }
           ]
         },
@@ -71,7 +75,9 @@
             {
               "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
               "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 03 - Une dernière cigarette - 1080p.MULTI.x264.mkv",
-              "file_index": 4
+              "file_index": 4,
+              "formatted_name": "Chainsaw Man Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Chainsaw Man 03 - Une dernière cigarette.nfo"
             }
           ]
         }

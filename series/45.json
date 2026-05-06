@@ -13,7 +13,7 @@
       "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
       "size": "2.0 GiB",
       "pub_date": "2026-03-19 23:28",
-      "seeders": 8,
+      "seeders": 6,
       "fankai": true
     },
     {
@@ -50,36 +50,32 @@
             {
               "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
               "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv",
-              "file_index": 2
+              "file_index": 2,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E01.VOSTFR.1080p.x265-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.nfo"
             },
             {
               "infohash": "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
               "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.mkv",
-              "file_index": 2
+              "file_index": 2,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.nfo"
             }
-          ]
-        },
-        {
-          "id": 1364,
-          "episode_number": 1,
-          "title": "Deux opposés",
-          "aired": "2024-01-11",
-          "original_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés.mkv",
-          "formatted_name": "Inuyashiki Last Hero Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
-          "nfo_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.nfo",
-          "torrents": [],
-          "paths": [
-            {
-              "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
-              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.mkv",
-              "file_index": 2
+          ],
+          "codec_variants": {
+            "x265": {
+              "id": 561,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E01.VOSTFR.1080p.x265-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.nfo",
+              "nfo_path": "Inuyashiki Last Hero Henshū/Saison 1/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x265.nfo"
             },
-            {
-              "infohash": "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
-              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.mkv",
-              "file_index": 2
+            "x264": {
+              "id": 1364,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.nfo",
+              "nfo_path": "Inuyashiki Last Hero Henshū/Saison 1/Inuyashiki Last Hero Henshū 01 - Deux opposés - 1080p.MULTISUB.x264.nfo"
             }
-          ]
+          }
         },
         {
           "id": 560,
@@ -94,36 +90,32 @@
             {
               "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
               "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv",
-              "file_index": 1
+              "file_index": 1,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E02.VOSTFR.1080p.x265-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.nfo"
             },
             {
               "infohash": "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
               "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x264.mkv",
-              "file_index": 1
+              "file_index": 1,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E02.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x264.nfo"
             }
-          ]
-        },
-        {
-          "id": 1363,
-          "episode_number": 2,
-          "title": "Rancunes",
-          "aired": "2024-01-19",
-          "original_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes.mkv",
-          "formatted_name": "Inuyashiki Last Hero Henshū.S01E02.VOSTFR.1080p.x265-FANKAI",
-          "nfo_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.nfo",
-          "torrents": [],
-          "paths": [
-            {
-              "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
-              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.mkv",
-              "file_index": 1
+          ],
+          "codec_variants": {
+            "x264": {
+              "id": 560,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E02.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x264.nfo",
+              "nfo_path": "Inuyashiki Last Hero Henshū/Saison 1/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x264.nfo"
             },
-            {
-              "infohash": "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
-              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x264.mkv",
-              "file_index": 1
+            "x265": {
+              "id": 1363,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E02.VOSTFR.1080p.x265-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.nfo",
+              "nfo_path": "Inuyashiki Last Hero Henshū/Saison 1/Inuyashiki Last Hero Henshū 02 - Rancunes - 1080p.MULTISUB.x265.nfo"
             }
-          ]
+          }
         },
         {
           "id": 562,
@@ -138,36 +130,32 @@
             {
               "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
               "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E03.VOSTFR.1080p.x265-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.nfo"
             },
             {
               "infohash": "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
               "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E03.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x264.nfo"
             }
-          ]
-        },
-        {
-          "id": 1365,
-          "episode_number": 3,
-          "title": "Devenir un héros",
-          "aired": "2024-01-26",
-          "original_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros.mkv",
-          "formatted_name": "Inuyashiki Last Hero Henshū.S01E03.VOSTFR.1080p.x265-FANKAI",
-          "nfo_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.nfo",
-          "torrents": [],
-          "paths": [
-            {
-              "infohash": "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d",
-              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.mkv",
-              "file_index": 0
+          ],
+          "codec_variants": {
+            "x264": {
+              "id": 562,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E03.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x264.nfo",
+              "nfo_path": "Inuyashiki Last Hero Henshū/Saison 1/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x264.nfo"
             },
-            {
-              "infohash": "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
-              "path": "Inuyashiki Last Hero Henshū/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x264.mkv",
-              "file_index": 0
+            "x265": {
+              "id": 1365,
+              "formatted_name": "Inuyashiki Last Hero Henshū.S01E03.VOSTFR.1080p.x265-FANKAI",
+              "nfo_filename": "Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.nfo",
+              "nfo_path": "Inuyashiki Last Hero Henshū/Saison 1/Inuyashiki Last Hero Henshū 03 - Devenir un héros - 1080p.MULTISUB.x265.nfo"
             }
-          ]
+          }
         }
       ]
     }

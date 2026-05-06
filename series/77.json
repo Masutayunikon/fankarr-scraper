@@ -13,7 +13,7 @@
       "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
       "size": "7.9 GiB",
       "pub_date": "2025-11-22 07:43",
-      "seeders": 5,
+      "seeders": 7,
       "fankai": true
     }
   ],
@@ -37,7 +37,9 @@
             {
               "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
               "path": "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 01 - Les détections - 1080p.VOSTFR.x264.mkv",
-              "file_index": 6
+              "file_index": 6,
+              "formatted_name": "Ao Ashi Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Ao Ashi Henshū 01 - Les détections - 1080p.VOSTFR.x264.nfo"
             }
           ]
         },
@@ -54,7 +56,9 @@
             {
               "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
               "path": "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 02 - Débuts à l'Esperion - 1080p.VOSTFR.x264.mkv",
-              "file_index": 9
+              "file_index": 9,
+              "formatted_name": "Ao Ashi Henshū.S01E02.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Ao Ashi Henshū 02 - Débuts à l'Esperion - 1080p.VOSTFR.x264.nfo"
             }
           ]
         },
@@ -71,7 +75,9 @@
             {
               "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
               "path": "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 03 - Coup d'envoi de la Ligue de Tokyo - 1080p.VOSTFR.x264.mkv",
-              "file_index": 12
+              "file_index": 12,
+              "formatted_name": "Ao Ashi Henshū.S01E03.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Ao Ashi Henshū 03 - Coup d'envoi de la Ligue de Tokyo - 1080p.VOSTFR.x264.nfo"
             }
           ]
         },
@@ -88,7 +94,9 @@
             {
               "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
               "path": "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 04 - Entraînement défensif - 1080p.VOSTFR.x264.mkv",
-              "file_index": 15
+              "file_index": 15,
+              "formatted_name": "Ao Ashi Henshū.S01E04.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Ao Ashi Henshū 04 - Entraînement défensif - 1080p.VOSTFR.x264.nfo"
             }
           ]
         },
@@ -105,7 +113,9 @@
             {
               "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
               "path": "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 05 - Esperion vs Tama - 1080p.VOSTFR.x264.mkv",
-              "file_index": 18
+              "file_index": 18,
+              "formatted_name": "Ao Ashi Henshū.S01E05.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Ao Ashi Henshū 05 - Esperion vs Tama - 1080p.VOSTFR.x264.nfo"
             }
           ]
         },
@@ -122,7 +132,9 @@
             {
               "infohash": "d91ac098f4980f5559d104409d3280ba1d78b50d",
               "path": "Ao Ashi Henshū/Saison 1/[Brazh] Ao Ashi Henshū 06 - Esperion vs Musashino - 1080p.VOSTFR.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Ao Ashi Henshū.S01E06.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Ao Ashi Henshū 06 - Esperion vs Musashino - 1080p.VOSTFR.x264.nfo"
             }
           ]
         }

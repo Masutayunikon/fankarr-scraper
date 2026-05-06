@@ -29,7 +29,7 @@
               "infohash": "98ea9a977b9256b9e4be1f13bad1b1b0e8ff28a2",
               "size": "1.4 GiB",
               "pub_date": "2023-06-10 13:35",
-              "seeders": 2,
+              "seeders": 3,
               "fankai": true
             }
           ],
@@ -37,7 +37,9 @@
             {
               "infohash": "98ea9a977b9256b9e4be1f13bad1b1b0e8ff28a2",
               "path": "[Crew] Overlord Henshū 01 - Ainz Ooal Gown - 1080p.multi.x264.mkv",
-              "file_index": 0
+              "file_index": 0,
+              "formatted_name": "Overlord Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Crew] Overlord Henshū 01 - Ainz Ooal Gown - 1080p.multi.x264.nfo"
             }
           ]
         }
