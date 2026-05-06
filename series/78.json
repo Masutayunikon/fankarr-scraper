@@ -13,7 +13,7 @@
       "infohash": "e380efbfde922e075c6d5c3f6fa3295df157967b",
       "size": "22.2 GiB",
       "pub_date": "2021-03-13 15:11",
-      "seeders": 24,
+      "seeders": 27,
       "fankai": true
     }
   ],
@@ -290,5 +290,6 @@
         }
       ]
     }
-  ]
+  ],
+  "wiki": "https://fan-kai.fandom.com/fr/wiki/Fullmetal_Alchemist_Kai"
 }

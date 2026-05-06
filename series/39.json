@@ -13,7 +13,7 @@
       "infohash": "edbb6d30921c0a42a286f73c63920622b82d2123",
       "size": "15.2 GiB",
       "pub_date": "2025-01-05 22:41",
-      "seeders": 6,
+      "seeders": 5,
       "fankai": true
     }
   ],
@@ -154,5 +154,6 @@
         }
       ]
     }
-  ]
+  ],
+  "wiki": "https://fan-kai.fandom.com/fr/wiki/Record_of_Ragnar%C3%B6k_Hensh%C5%AB"
 }
