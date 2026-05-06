@@ -26,7 +26,7 @@
       "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
       "size": "9.9 GiB",
       "pub_date": "2026-03-24 20:28",
-      "seeders": 4,
+      "seeders": 3,
       "fankai": true
     }
   ],
@@ -52,14 +52,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.mkv",
               "file_index": 0,
               "formatted_name": "Horimiya Kaï.S01E01.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x265.nfo",
+              "original_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv",
               "file_index": 0,
               "formatted_name": "Horimiya Kaï.S01E01.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.nfo",
+              "original_filename": "Horimiya Kaï 01 - Long Hair and Short Tempers - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -92,14 +94,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.mkv",
               "file_index": 1,
               "formatted_name": "Horimiya Kaï.S01E02.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x265.nfo",
+              "original_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv",
               "file_index": 1,
               "formatted_name": "Horimiya Kaï.S01E02.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.nfo",
+              "original_filename": "Horimiya Kaï 02 - Sports and Pleasure - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -132,14 +136,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.mkv",
               "file_index": 2,
               "formatted_name": "Horimiya Kaï.S01E03.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x265.nfo",
+              "original_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv",
               "file_index": 2,
               "formatted_name": "Horimiya Kaï.S01E03.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.nfo",
+              "original_filename": "Horimiya Kaï 03 - Table with a Capital Tea - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -172,14 +178,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.mkv",
               "file_index": 3,
               "formatted_name": "Horimiya Kaï.S01E04.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x265.nfo",
+              "original_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv",
               "file_index": 3,
               "formatted_name": "Horimiya Kaï.S01E04.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.nfo",
+              "original_filename": "Horimiya Kaï 04 - Respect and Relaxation - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -212,14 +220,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.mkv",
               "file_index": 4,
               "formatted_name": "Horimiya Kaï.S01E05.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x265.nfo",
+              "original_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv",
               "file_index": 4,
               "formatted_name": "Horimiya Kaï.S01E05.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.nfo",
+              "original_filename": "Horimiya Kaï 05 - Getting Some Side Action - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -252,14 +262,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.mkv",
               "file_index": 5,
               "formatted_name": "Horimiya Kaï.S01E06.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x265.nfo",
+              "original_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv",
               "file_index": 5,
               "formatted_name": "Horimiya Kaï.S01E06.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.nfo",
+              "original_filename": "Horimiya Kaï 06 - Call Me Maybe - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -292,14 +304,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.mkv",
               "file_index": 6,
               "formatted_name": "Horimiya Kaï.S01E07.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x265.nfo",
+              "original_filename": "[Hikano] Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv",
               "file_index": 6,
               "formatted_name": "Horimiya Kaï.S01E07.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Hikano] Horimiya Kaï 07 - All Good in the Hood - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -332,14 +346,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.mkv",
               "file_index": 7,
               "formatted_name": "Horimiya Kaï.S01E08.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x265.nfo",
+              "original_filename": "[Hikano] Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv",
               "file_index": 7,
               "formatted_name": "Horimiya Kaï.S01E08.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Hikano] Horimiya Kaï 08 - Cherry on Top - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
@@ -372,14 +388,16 @@
               "path": "Horimiya Kaï/Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.mkv",
               "file_index": 8,
               "formatted_name": "Horimiya Kaï.S01E09.MULTI.1080p.x265-FANKAI",
-              "nfo_filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.nfo"
+              "nfo_filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x265.nfo",
+              "original_filename": "[Hikano] Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv"
             },
             {
               "infohash": "6d88c8e60019f5661b905fc72391f58a5e60f70e",
               "path": "Horimiya Kaï/Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv",
               "file_index": 8,
               "formatted_name": "Horimiya Kaï.S01E09.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.nfo"
+              "nfo_filename": "Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Hikano] Horimiya Kaï 09 - Over and Out - 1080p.MULTI.x264.mkv"
             }
           ],
           "codec_variants": {
