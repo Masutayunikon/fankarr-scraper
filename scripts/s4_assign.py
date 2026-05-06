@@ -372,11 +372,12 @@ def assign(structure, torrent, ttype):
         if ep is not None:
             variant = get_variant_for_torrent(ep, torrent, p)
             if variant:
-                obj["formatted_name"] = variant.get("formatted_name")
-                obj["nfo_filename"]   = variant.get("nfo_filename")
+                obj["formatted_name"]    = variant.get("formatted_name")
+                obj["nfo_filename"]      = variant.get("nfo_filename")
             else:
-                obj["formatted_name"] = ep.get("formatted_name")
-                obj["nfo_filename"]   = ep.get("nfo_filename")
+                obj["formatted_name"]    = ep.get("formatted_name")
+                obj["nfo_filename"]      = ep.get("nfo_filename")
+            obj["original_filename"] = ep.get("original_filename")
         return obj
 
     if t == "integral":
@@ -496,11 +497,12 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
         if ep is not None:
             variant = get_variant_for_torrent(ep, actual, p)
             if variant:
-                obj["formatted_name"] = variant.get("formatted_name")
-                obj["nfo_filename"]   = variant.get("nfo_filename")
+                obj["formatted_name"]    = variant.get("formatted_name")
+                obj["nfo_filename"]      = variant.get("nfo_filename")
             else:
-                obj["formatted_name"] = ep.get("formatted_name")
-                obj["nfo_filename"]   = ep.get("nfo_filename")
+                obj["formatted_name"]    = ep.get("formatted_name")
+                obj["nfo_filename"]      = ep.get("nfo_filename")
+            obj["original_filename"] = ep.get("original_filename")
         return obj
 
     for season in structure["seasons"]:
@@ -652,11 +654,12 @@ def consolidate(structures, torrents_by_id, torrents_by_infohash):
                                     "file_index": file_index_of(p, fidx2)}
                         variant = get_variant_for_torrent(ep, pack_raw, p)
                         if variant:
-                            path_obj["formatted_name"] = variant.get("formatted_name")
-                            path_obj["nfo_filename"]   = variant.get("nfo_filename")
+                            path_obj["formatted_name"]    = variant.get("formatted_name")
+                            path_obj["nfo_filename"]      = variant.get("nfo_filename")
                         else:
-                            path_obj["formatted_name"] = ep.get("formatted_name")
-                            path_obj["nfo_filename"]   = ep.get("nfo_filename")
+                            path_obj["formatted_name"]    = ep.get("formatted_name")
+                            path_obj["nfo_filename"]      = ep.get("nfo_filename")
+                        path_obj["original_filename"] = ep.get("original_filename")
                         ep["paths"] = [path_obj]
                     else:
                         ep["paths"] = []
@@ -700,11 +703,12 @@ def cleanup_null_paths(structures, torrents_by_id, torrents_by_infohash):
                         if ref_torrent:
                             p = _torrent_title_to_path(ref_torrent.get("title"))
                             new_paths.append({
-                                "infohash":      ih,
-                                "path":          p,
-                                "file_index":    None,
-                                "formatted_name": ep.get("formatted_name"),
-                                "nfo_filename":   ep.get("nfo_filename"),
+                                "infohash":         ih,
+                                "path":             p,
+                                "file_index":       None,
+                                "formatted_name":   ep.get("formatted_name"),
+                                "nfo_filename":     ep.get("nfo_filename"),
+                                "original_filename": ep.get("original_filename"),
                             })
                         else:
                             new_paths.append(obj)
@@ -792,6 +796,26 @@ def main():
         out = OUTPUT_DIR / f"{sid}.json"
         out.write_text(json.dumps(structure, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[Output] {len(structures)} fichiers → {OUTPUT_DIR}/")
+
+    # Nettoyage des fichiers de séries obsolètes
+    # (séries présentes sur disque mais absentes du run actuel → vérifier l'API)
+    current_ids   = set(serie_ids)
+    existing_files = {int(f.stem): f for f in OUTPUT_DIR.glob("*.json") if f.stem.isdigit()}
+    orphan_ids     = sorted(set(existing_files.keys()) - current_ids)
+    deleted        = 0
+    if orphan_ids:
+        print(f"[Cleanup] {len(orphan_ids)} fichier(s) orphelin(s) à vérifier...")
+        for sid in orphan_ids:
+            data = api_get(f"{METADATA_BASE}/series/{sid}", force=True)
+            if isinstance(data, dict) and "error" in data:
+                existing_files[sid].unlink()
+                print(f"  [Cleanup] Supprimé series/{sid}.json — {data.get('error')}")
+                deleted += 1
+            time.sleep(DELAY)
+    if deleted:
+        print(f"[Cleanup] {deleted} fichier(s) obsolète(s) supprimé(s)")
+    else:
+        print(f"[Cleanup] Aucun fichier obsolète")
 
     # Rapport final des non-matchés (score + assign)
     all_unmatched = unmatched_score + assign_failed
