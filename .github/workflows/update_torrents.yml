@@ -46,6 +46,9 @@ jobs:
       - name: s6 — Generate available.json
         run: python scripts/s6_available.py
 
+      - name: s7 — Enrich series with wiki URLs
+        run: python scripts/s7_wiki.py
+
       - name: Generate infohash map
         run: python scripts/gen_infohash_map.py
 

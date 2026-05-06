@@ -740,15 +740,27 @@ def main():
     serie_meta = {entry["serie_id"]: {"id": entry["serie_id"], "title": entry["serie_title"]}
                   for entry in matched}
 
-    structures = {}
+    structures  = {}
+    skipped_ids = set()
     for i, sid in enumerate(serie_ids, 1):
         print(f"  [{i:02d}/{len(serie_ids)}] série id={sid}")
+        serie_data = api_get(f"{METADATA_BASE}/series/{sid}")
+        if isinstance(serie_data, dict) and "error" in serie_data:
+            print(f"  [Skip] Série {sid} introuvable dans l'API ({serie_data.get('error')})")
+            stale = OUTPUT_DIR / f"{sid}.json"
+            if stale.exists():
+                stale.unlink()
+                print(f"  [Cleanup] Supprimé series/{sid}.json")
+            skipped_ids.add(sid)
+            time.sleep(DELAY)
+            continue
         seasons_raw = fetch_seasons(sid)
         time.sleep(DELAY)
         structures[sid] = build_structure(serie_meta[sid], seasons_raw)
         time.sleep(DELAY)
 
-    print(f"\n[OK] {len(structures)} structures prêtes\n")
+    print(f"\n[OK] {len(structures)} structures prêtes"
+          + (f" | {len(skipped_ids)} série(s) supprimée(s)" if skipped_ids else "") + "\n")
 
     # Construire les index de torrents pour la consolidation
     all_torrents         = [entry["torrent"] for entry in matched]
@@ -763,6 +775,9 @@ def main():
         torrent = entry["torrent"]
         ttype   = entry["ttype"]
         sid     = entry["serie_id"]
+
+        if sid not in structures:
+            continue   # série supprimée (API error)
 
         ok = assign(structures[sid], torrent, ttype)
         if ok:
@@ -797,25 +812,21 @@ def main():
         out.write_text(json.dumps(structure, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[Output] {len(structures)} fichiers → {OUTPUT_DIR}/")
 
-    # Nettoyage des fichiers de séries obsolètes
-    # (séries présentes sur disque mais absentes du run actuel → vérifier l'API)
-    current_ids   = set(serie_ids)
+    # Nettoyage des fichiers orphelins (séries sans torrents matchés dans ce run)
     existing_files = {int(f.stem): f for f in OUTPUT_DIR.glob("*.json") if f.stem.isdigit()}
-    orphan_ids     = sorted(set(existing_files.keys()) - current_ids)
+    orphan_ids     = sorted(set(existing_files.keys()) - set(structures.keys()) - skipped_ids)
     deleted        = 0
     if orphan_ids:
         print(f"[Cleanup] {len(orphan_ids)} fichier(s) orphelin(s) à vérifier...")
         for sid in orphan_ids:
-            data = api_get(f"{METADATA_BASE}/series/{sid}", force=True)
+            data = api_get(f"{METADATA_BASE}/series/{sid}")
             if isinstance(data, dict) and "error" in data:
                 existing_files[sid].unlink()
                 print(f"  [Cleanup] Supprimé series/{sid}.json — {data.get('error')}")
                 deleted += 1
             time.sleep(DELAY)
     if deleted:
-        print(f"[Cleanup] {deleted} fichier(s) obsolète(s) supprimé(s)")
-    else:
-        print(f"[Cleanup] Aucun fichier obsolète")
+        print(f"[Cleanup] {deleted} fichier(s) orphelin(s) supprimé(s)")
 
     # Rapport final des non-matchés (score + assign)
     all_unmatched = unmatched_score + assign_failed
