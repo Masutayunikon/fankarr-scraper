@@ -13,7 +13,7 @@
       "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
       "size": "23.0 GiB",
       "pub_date": "2024-07-17 11:25",
-      "seeders": 14,
+      "seeders": 12,
       "fankai": true
     }
   ],
@@ -39,7 +39,8 @@
               "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 01 - Les Normands.mkv",
               "file_index": 10,
               "formatted_name": "Vinland Saga Henshū.S01E01.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Roro] Vinland Saga Henshū 01 - Les Normands.nfo"
+              "nfo_filename": "[Roro] Vinland Saga Henshū 01 - Les Normands.nfo",
+              "original_filename": "[Roro] Vinland Saga Henshu 01 - Les Normands - MULTI 1080p x264.mkv"
             }
           ]
         },
@@ -58,7 +59,8 @@
               "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 02 - Les Anglais.mkv",
               "file_index": 0,
               "formatted_name": "Vinland Saga Henshū.S01E02.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Roro] Vinland Saga Henshū 02 - Les Anglais.nfo"
+              "nfo_filename": "[Roro] Vinland Saga Henshū 02 - Les Anglais.nfo",
+              "original_filename": "[Roro] Vinland Saga Henshu 02 - Les Anglais - MULTI 1080p x264.mkv"
             }
           ]
         },
@@ -77,7 +79,8 @@
               "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 03 - Confrontation.mkv",
               "file_index": 16,
               "formatted_name": "Vinland Saga Henshū.S01E03.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Roro] Vinland Saga Henshū 03 - Confrontation.nfo"
+              "nfo_filename": "[Roro] Vinland Saga Henshū 03 - Confrontation.nfo",
+              "original_filename": "[Roro] Vinland Saga Henshu 03 - Confrontation - MULTI 1080p x264.mkv"
             }
           ]
         },
@@ -96,7 +99,8 @@
               "path": "Vinland Saga Henshū/Saison 1/[Roro] Vinland Saga Henshū 04 - Vengeance.mkv",
               "file_index": 19,
               "formatted_name": "Vinland Saga Henshū.S01E04.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Roro] Vinland Saga Henshū 04 - Vengeance.nfo"
+              "nfo_filename": "[Roro] Vinland Saga Henshū 04 - Vengeance.nfo",
+              "original_filename": "[Roro] Vinland Saga Henshu 04 - Vengeance - MULTI 1080p x264.mkv"
             }
           ]
         }
@@ -123,7 +127,8 @@
               "path": "Vinland Saga Henshū/Saison 2/[Odji-san] Vinland Saga Henshû 05 - Le Cauchemar 1080p Multi x264.mkv",
               "file_index": 22,
               "formatted_name": "Vinland Saga Henshū.S02E05.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Odji-san] Vinland Saga Henshû 05 - Le Cauchemar 1080p Multi x264.nfo"
+              "nfo_filename": "[Odji-san] Vinland Saga Henshû 05 - Le Cauchemar 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Vinland Saga Henshû 05 - Le Cauchemar 1080p Multi x264.mkv"
             }
           ]
         },
@@ -142,7 +147,8 @@
               "path": "Vinland Saga Henshū/Saison 2/[Odji-san] Vinland Saga Henshû 06 - Trahison 1080p Multi x264.mkv",
               "file_index": 25,
               "formatted_name": "Vinland Saga Henshū.S02E06.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Odji-san] Vinland Saga Henshû 06 - Trahison 1080p Multi x264.nfo"
+              "nfo_filename": "[Odji-san] Vinland Saga Henshû 06 - Trahison 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Vinland Saga Henshû 06 - Trahison 1080p Multi x264.mkv"
             }
           ]
         },
@@ -161,7 +167,8 @@
               "path": "Vinland Saga Henshū/Saison 2/[Odji-san] Vinland Saga Henshû 07 - La Naissance d'un Guerrier 1080p Multi x264.mkv",
               "file_index": 28,
               "formatted_name": "Vinland Saga Henshū.S02E07.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Odji-san] Vinland Saga Henshû 07 - La Naissance d'un Guerrier 1080p Multi x264.nfo"
+              "nfo_filename": "[Odji-san] Vinland Saga Henshû 07 - La Naissance d'un Guerrier 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Vinland Saga Henshû 07 - La Naissance d'un Guerrier 1080p Multi x264.mkv"
             }
           ]
         }
