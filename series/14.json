@@ -1,0 +1,50 @@
+{
+  "id": 14,
+  "title": "Lastman Henshū",
+  "show_title": "Lastman Henshū",
+  "torrents": [],
+  "seasons": [
+    {
+      "id": 25,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 252,
+          "episode_number": 1,
+          "title": "Siri",
+          "aired": "2018-12-15",
+          "original_filename": "Lastman (Fan-Kai) - Film 01 - Siri.mkv",
+          "formatted_name": "Lastman Henshū.S01E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Lastman (Fan-Kai) - Film 01 - Siri.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 250,
+          "episode_number": 2,
+          "title": "La Coupe des Rois",
+          "aired": "2018-12-21",
+          "original_filename": "Lastman (Fan-Kai) - Film 02 - La coupe des rois.mkv",
+          "formatted_name": "Lastman Henshū.S01E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Lastman (Fan-Kai) - Film 02 - La coupe des rois.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 251,
+          "episode_number": 3,
+          "title": "Chorum le Dévoreur",
+          "aired": "2018-12-28",
+          "original_filename": "Lastman (Fan-Kai) - Film 03 - Chorum le dévoreur.mkv",
+          "formatted_name": "Lastman Henshū.S01E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Lastman (Fan-Kai) - Film 03 - Chorum le dévoreur.nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ],
+  "wiki": "https://fan-kai.fandom.com/fr/wiki/Lastman_FAN-CUT"
+}
