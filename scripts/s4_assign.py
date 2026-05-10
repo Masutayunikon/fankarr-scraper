@@ -72,6 +72,13 @@ def fetch_seasons(serie_id):
             if isinstance(data.get(key), list): return data[key]
     return []
 
+def fetch_all_series() -> list[dict]:
+    """Retourne toutes les séries listées par l'API."""
+    data = api_get(f"{METADATA_BASE}/series") or []
+    if isinstance(data, list):
+        return [s for s in data if isinstance(s, dict) and s.get("id")]
+    return []
+
 def fetch_episodes(season_id):
     data = api_get(f"{METADATA_BASE}/seasons/{season_id}/episodes")
     if isinstance(data, list): return data
@@ -762,6 +769,20 @@ def main():
     print(f"\n[OK] {len(structures)} structures prêtes"
           + (f" | {len(skipped_ids)} série(s) supprimée(s)" if skipped_ids else "") + "\n")
 
+    # Générer les fichiers pour les séries sans torrents matchés
+    all_series     = fetch_all_series()
+    all_serie_meta = {s["id"]: s for s in all_series}
+    no_torrent_ids = sorted(set(all_serie_meta.keys()) - set(structures.keys()) - skipped_ids)
+    if no_torrent_ids:
+        print(f"[API] {len(no_torrent_ids)} série(s) sans torrent à générer...")
+        for i, sid in enumerate(no_torrent_ids, 1):
+            print(f"  [{i:03d}/{len(no_torrent_ids)}] série id={sid}")
+            seasons_raw      = fetch_seasons(sid)
+            time.sleep(DELAY)
+            structures[sid]  = build_structure(all_serie_meta[sid], seasons_raw)
+            time.sleep(DELAY)
+        print(f"[OK] {len(no_torrent_ids)} structure(s) sans torrent ajoutées\n")
+
     # Construire les index de torrents pour la consolidation
     all_torrents         = [entry["torrent"] for entry in matched]
     torrents_by_id       = {t["nyaa_id"]: t for t in all_torrents if t.get("nyaa_id")}
@@ -812,21 +833,15 @@ def main():
         out.write_text(json.dumps(structure, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[Output] {len(structures)} fichiers → {OUTPUT_DIR}/")
 
-    # Nettoyage des fichiers orphelins (séries sans torrents matchés dans ce run)
+    # Nettoyage des fichiers orphelins
+    # Toutes les séries valides sont maintenant dans structures → les autres sont obsolètes
     existing_files = {int(f.stem): f for f in OUTPUT_DIR.glob("*.json") if f.stem.isdigit()}
     orphan_ids     = sorted(set(existing_files.keys()) - set(structures.keys()) - skipped_ids)
-    deleted        = 0
     if orphan_ids:
-        print(f"[Cleanup] {len(orphan_ids)} fichier(s) orphelin(s) à vérifier...")
         for sid in orphan_ids:
-            data = api_get(f"{METADATA_BASE}/series/{sid}")
-            if isinstance(data, dict) and "error" in data:
-                existing_files[sid].unlink()
-                print(f"  [Cleanup] Supprimé series/{sid}.json — {data.get('error')}")
-                deleted += 1
-            time.sleep(DELAY)
-    if deleted:
-        print(f"[Cleanup] {deleted} fichier(s) orphelin(s) supprimé(s)")
+            existing_files[sid].unlink()
+            print(f"[Cleanup] Supprimé series/{sid}.json (absent de l'API)")
+        print(f"[Cleanup] {len(orphan_ids)} fichier(s) obsolète(s) supprimé(s)")
 
     # Rapport final des non-matchés (score + assign)
     all_unmatched = unmatched_score + assign_failed
@@ -836,10 +851,14 @@ def main():
     print(f"[Output] {len(all_unmatched)} non-matchés → {REPORT_FILE}")
 
     # Stats
+    s_with    = sum(1 for s in structures.values() if s["torrents"]
+                    or any(e["torrents"] for ss in s["seasons"] for e in ss["episodes"]))
+    s_without = len(structures) - s_with
     s_integral = sum(1 for s in structures.values() if s["torrents"])
     s_seasons  = sum(1 for s in structures.values() for ss in s["seasons"] if ss["torrents"])
     s_episodes = sum(1 for s in structures.values() for ss in s["seasons"] for e in ss["episodes"] if e["torrents"])
-    print(f"\nIntégrales: {s_integral} | Saisons: {s_seasons} | Épisodes: {s_episodes}")
+    print(f"\n{len(structures)} séries générées : {s_with} avec torrent(s) | {s_without} sans torrent")
+    print(f"Intégrales: {s_integral} | Saisons: {s_seasons} | Épisodes: {s_episodes}")
 
     if assign_failed:
         print(f"\n⚠️  Premiers échecs d'assignation :")
