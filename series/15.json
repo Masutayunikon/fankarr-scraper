@@ -19,7 +19,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 9,
+          "seeders": 11,
           "fankai": true
         }
       ],
@@ -201,7 +201,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 9,
+          "seeders": 11,
           "fankai": true
         }
       ],
@@ -433,7 +433,7 @@
               "infohash": "37aadeb72da2f5d1236ba8e113f0d23da314096e",
               "size": "2.3 GiB",
               "pub_date": "2023-04-16 20:15",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -501,7 +501,7 @@
               "infohash": "17c0a7f519773091705808564a056aa1f7a7559c",
               "size": "2.1 GiB",
               "pub_date": "2023-04-21 18:59",
-              "seeders": 8,
+              "seeders": 6,
               "fankai": true
             }
           ],
@@ -535,7 +535,7 @@
               "infohash": "c56316903ae379af0b788dc234b1f88b3e656af1",
               "size": "1.4 GiB",
               "pub_date": "2023-04-22 19:44",
-              "seeders": 9,
+              "seeders": 8,
               "fankai": true
             }
           ],
@@ -563,21 +563,21 @@
               "nyaa_id": 1730199,
               "nyaa_url": "https://nyaa.si/view/1730199",
               "title": "[Livai] Inazuma Eleven 23 (Fan-kai) - Emprise - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 23 (Fan-kai) - Emprise - 720p.MULTI.x264.mkv",
+              "torrent_name": null,
               "torrent_url": "https://nyaa.si/download/1730199.torrent",
               "magnet": "magnet:?xt=urn:btih:4f4a4e416f47e3f5cfaaaf348ec3917b921f9d0f&dn=%5BLivai%5D%20Inazuma%20Eleven%2023%20%28Fan-kai%29%20-%20Emprise%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "4f4a4e416f47e3f5cfaaaf348ec3917b921f9d0f",
               "size": "2.1 GiB",
               "pub_date": "2023-10-16 20:30",
-              "seeders": 8,
+              "seeders": 6,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "4f4a4e416f47e3f5cfaaaf348ec3917b921f9d0f",
-              "path": "[Livaï] Inazuma Eleven 23 (Fan-kai) - Emprise - 720p.MULTI.x264.mkv",
-              "file_index": 0,
+              "path": "Inazuma Eleven 23 (Fan-kai) - Emprise.mkv",
+              "file_index": null,
               "formatted_name": "Inazuma Eleven Fan-Cut.S03E23.MULTI.720p.x264-FANKAI",
               "nfo_filename": "[Livaï] Inazuma Eleven 23 (Fan-kai) - Emprise - 720p.MULTI.x264.nfo",
               "original_filename": "[Livaï] Inazuma Eleven 23 (Fan-kai) - Emprise - 720p.MULTI.x264.mkv"
@@ -603,7 +603,7 @@
               "infohash": "8e8331065d96af25e17ba91c9af6968d72459ba3",
               "size": "1.4 GiB",
               "pub_date": "2023-10-17 20:14",
-              "seeders": 9,
+              "seeders": 8,
               "fankai": true
             }
           ],
@@ -637,7 +637,7 @@
               "infohash": "45b9b939c0ac9dba401a73110d5122e53fb1d3a0",
               "size": "1.4 GiB",
               "pub_date": "2023-10-18 19:26",
-              "seeders": 8,
+              "seeders": 6,
               "fankai": true
             }
           ],
