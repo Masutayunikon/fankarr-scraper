@@ -19,7 +19,7 @@
           "infohash": "d2ebb700c71e3155db51ceeb1280b4407434a575",
           "size": "6.2 GiB",
           "pub_date": "2025-03-24 11:13",
-          "seeders": 9,
+          "seeders": 6,
           "fankai": true
         }
       ],
@@ -246,5 +246,6 @@
       "torrents": [],
       "episodes": []
     }
-  ]
+  ],
+  "wiki": "https://fan-kai.fandom.com/fr/wiki/Kenshin_le_vagabond_Hensh%C5%AB"
 }

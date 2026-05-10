@@ -13,7 +13,7 @@
       "infohash": "e9acde526588d7b38a9fb649446c835b8ff2a265",
       "size": "34.2 GiB",
       "pub_date": "2021-03-14 13:31",
-      "seeders": 24,
+      "seeders": 20,
       "fankai": true
     }
   ],
@@ -478,5 +478,6 @@
         }
       ]
     }
-  ]
+  ],
+  "wiki": "https://fan-kai.fandom.com/fr/wiki/Hunter_x_Hunter_(2011)_Kai"
 }
