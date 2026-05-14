@@ -1,8 +1,22 @@
 {
   "id": 83,
   "title": "Dragon Ball Yabai",
-  "show_title": "Dragon Ball Yabai",
-  "torrents": [],
+  "show_title": null,
+  "torrents": [
+    {
+      "nyaa_id": 1227553,
+      "nyaa_url": "https://nyaa.si/view/1227553",
+      "title": "Dragon Ball Yabaï (Fan-Kai) - INTEGRALE (14 films) - 720p.MULTI.VF/VOSTFR.x264 [Mixouille]",
+      "torrent_name": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]",
+      "torrent_url": "https://nyaa.si/download/1227553.torrent",
+      "magnet": "magnet:?xt=urn:btih:d2ec9e9a7d12e46d90d3e527f058e7655cd51f48&dn=Dragon%20Ball%20Yaba%C3%AF%20%28Fan-Kai%29%20-%20INTEGRALE%20%2814%20films%29%20-%20720p.MULTI.VF%2FVOSTFR.x264%20%5BMixouille%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+      "size": "21.7 GiB",
+      "pub_date": "2021-03-13 10:36",
+      "seeders": 25,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 202,
@@ -19,7 +33,16 @@
           "formatted_name": "Dragon Ball Yabai.S01E01.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 01 - A la recherche des Dragon Balls - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 01 - A la recherche des Dragon Balls - 720p.MULTI.x264.mkv",
+              "file_index": 8,
+              "formatted_name": "Dragon Ball Yabai.S01E01.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 01 - A la recherche des Dragon Balls - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 01 - A la recherche des Dragon Balls - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1224,
@@ -30,7 +53,16 @@
           "formatted_name": "Dragon Ball Yabai.S01E02.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 02 - Le Roi et le Singe - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 02 - Le Roi et le Singe - 720p.MULTI.x264.mkv",
+              "file_index": 1,
+              "formatted_name": "Dragon Ball Yabai.S01E02.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 02 - Le Roi et le Singe - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 02 - Le Roi et le Singe - 720p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -49,7 +81,16 @@
           "formatted_name": "Dragon Ball Yabai.S02E03.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 03 - L'Entraînement selon l'Ermite - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 03 - L'Entraînement selon l'Ermite - 720p.MULTI.x264.mkv",
+              "file_index": 2,
+              "formatted_name": "Dragon Ball Yabai.S02E03.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 03 - L'Entraînement selon l'Ermite - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 03 - L'Entraînement selon l'Ermite - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1216,
@@ -60,7 +101,16 @@
           "formatted_name": "Dragon Ball Yabai.S02E04.VOSTFR.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.mkv",
+              "file_index": 3,
+              "formatted_name": "Dragon Ball Yabai.S02E04.VOSTFR.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -79,7 +129,16 @@
           "formatted_name": "Dragon Ball Yabai.S03E05.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 05 - Le Red Ribon - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 05 - Le Red Ribon - 720p.MULTI.x264.mkv",
+              "file_index": 4,
+              "formatted_name": "Dragon Ball Yabai.S03E05.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 05 - Le Red Ribon - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 05 - Le Red Ribon - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1214,
@@ -90,7 +149,16 @@
           "formatted_name": "Dragon Ball Yabai.S03E06.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 06 - Le Commandant Blue - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 06 - Le Commandant Blue - 720p.MULTI.x264.mkv",
+              "file_index": 5,
+              "formatted_name": "Dragon Ball Yabai.S03E06.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 06 - Le Commandant Blue - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 06 - Le Commandant Blue - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1213,
@@ -101,7 +169,16 @@
           "formatted_name": "Dragon Ball Yabai.S03E07.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 07 - La Tour Karin - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 07 - La Tour Karin - 720p.MULTI.x264.mkv",
+              "file_index": 6,
+              "formatted_name": "Dragon Ball Yabai.S03E07.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 07 - La Tour Karin - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 07 - La Tour Karin - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1211,
@@ -112,7 +189,16 @@
           "formatted_name": "Dragon Ball Yabai.S03E08.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 08 - Baba la Voyante - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 08 - Baba la Voyante - 720p.MULTI.x264.mkv",
+              "file_index": 7,
+              "formatted_name": "Dragon Ball Yabai.S03E08.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 08 - Baba la Voyante - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 08 - Baba la Voyante - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1212,
@@ -123,7 +209,16 @@
           "formatted_name": "Dragon Ball Yabai.S03E09.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 09 - Le 22e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 09 - Le 22e Tenkaichi Budokai - 720p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Dragon Ball Yabai.S03E09.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 09 - Le 22e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 09 - Le 22e Tenkaichi Budokai - 720p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -142,7 +237,16 @@
           "formatted_name": "Dragon Ball Yabai.S04E10.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 10 - Le Roi Démon - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 10 - Le Roi Démon - 720p.MULTI.x264.mkv",
+              "file_index": 9,
+              "formatted_name": "Dragon Ball Yabai.S04E10.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 10 - Le Roi Démon - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 10 - Le Roi Démon - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1220,
@@ -153,7 +257,16 @@
           "formatted_name": "Dragon Ball Yabai.S04E11.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 11 - Le King Castle - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 11 - Le King Castle - 720p.MULTI.x264.mkv",
+              "file_index": 10,
+              "formatted_name": "Dragon Ball Yabai.S04E11.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 11 - Le King Castle - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 11 - Le King Castle - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1219,
@@ -164,7 +277,16 @@
           "formatted_name": "Dragon Ball Yabai.S04E12.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 12 - Le Temple Céleste - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 12 - Le Temple Céleste - 720p.MULTI.x264.mkv",
+              "file_index": 11,
+              "formatted_name": "Dragon Ball Yabai.S04E12.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 12 - Le Temple Céleste - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 12 - Le Temple Céleste - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1222,
@@ -175,7 +297,16 @@
           "formatted_name": "Dragon Ball Yabai.S04E13.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 13 - Le 23e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 13 - Le 23e Tenkaichi Budokai - 720p.MULTI.x264.mkv",
+              "file_index": 12,
+              "formatted_name": "Dragon Ball Yabai.S04E13.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 13 - Le 23e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 13 - Le 23e Tenkaichi Budokai - 720p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1218,
@@ -186,7 +317,16 @@
           "formatted_name": "Dragon Ball Yabai.S04E14.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Mixouille] Dragon Ball Yabai - 14 - Piccolo - 720p.FINAL.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 14 - Piccolo - 720p.FINAL.MULTI.x264.mkv",
+              "file_index": 13,
+              "formatted_name": "Dragon Ball Yabai.S04E14.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 14 - Piccolo - 720p.FINAL.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 14 - Piccolo - 720p.FINAL.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     }

@@ -1,8 +1,22 @@
 {
   "id": 84,
   "title": "Food Wars Kaï",
-  "show_title": "Food Wars Kaï",
-  "torrents": [],
+  "show_title": null,
+  "torrents": [
+    {
+      "nyaa_id": 1878380,
+      "nyaa_url": "https://nyaa.si/view/1878380",
+      "title": "[Tenma] Food Wars Kai - Integral - 1080p.x264 [DUB][VO|VF|EN] [Multi Sub] [EN|FR|POR|DEU|ESP|ARA|ITA] (Shokugeki no Souma)",
+      "torrent_name": "Food Wars Kai [Tenma]",
+      "torrent_url": "https://nyaa.si/download/1878380.torrent",
+      "magnet": "magnet:?xt=urn:btih:5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2&dn=%5BTenma%5D%20Food%20Wars%20Kai%20-%20Integral%20-%201080p.x264%20%5BDUB%5D%5BVO%7CVF%7CEN%5D%20%5BMulti%20Sub%5D%20%5BEN%7CFR%7CPOR%7CDEU%7CESP%7CARA%7CITA%5D%20%28Shokugeki%20no%20Souma%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+      "size": "45.4 GiB",
+      "pub_date": "2024-09-27 23:28",
+      "seeders": 14,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 208,
@@ -19,7 +33,16 @@
           "formatted_name": "Food Wars Kaï.S01E01.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 01 - L'École des Chefs  - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 01 - L'École des Chefs  - 1080p.MULTI.x264.mkv",
+              "file_index": 188,
+              "formatted_name": "Food Wars Kaï.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 01 - L'École des Chefs  - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 01 - L'École des Chefs - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1248,
@@ -30,7 +53,16 @@
           "formatted_name": "Food Wars Kaï.S01E02.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 02 - Le Camp de l'Enfer - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 02 - Le Camp de l'Enfer - 1080p.MULTI.x264.mkv",
+              "file_index": 189,
+              "formatted_name": "Food Wars Kaï.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 02 - Le Camp de l'Enfer - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 02 - Le Camp de l'Enfer - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1249,
@@ -41,7 +73,16 @@
           "formatted_name": "Food Wars Kaï.S01E03.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 03 - Le Karaage de la Jeunesse - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 03 - Le Karaage de la Jeunesse - 1080p.MULTI.x264.mkv",
+              "file_index": 190,
+              "formatted_name": "Food Wars Kaï.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 03 - Le Karaage de la Jeunesse - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 03 - Le Karaage de la Jeunesse - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1247,
@@ -52,7 +93,16 @@
           "formatted_name": "Food Wars Kaï.S01E04.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 04 - L'Homme qu'on Surnommait le Démon - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 04 - L'Homme qu'on Surnommait le Démon - 1080p.MULTI.x264.mkv",
+              "file_index": 191,
+              "formatted_name": "Food Wars Kaï.S01E04.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 04 - L'Homme qu'on Surnommait le Démon - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 04 - L'Homme qu'on Surnommait le Démon - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1246,
@@ -63,7 +113,16 @@
           "formatted_name": "Food Wars Kaï.S01E05.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 05 - Les Elections d'Automne - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 1/[Tenma] Food Wars Kai - 05 - Les Élections d'Automne - 1080p.MULTI.x264.mkv",
+              "file_index": 192,
+              "formatted_name": "Food Wars Kaï.S01E05.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 05 - Les Elections d'Automne - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 05 - Les Elections d'Automne - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -82,7 +141,16 @@
           "formatted_name": "Food Wars Kaï.S02E06.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 06 - La Génération Diamant - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 2/[Tenma] Food Wars Kai - 06 - La Génération Diamant - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Food Wars Kaï.S02E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 06 - La Génération Diamant - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 06 - La Génération Diamant - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1242,
@@ -93,7 +161,16 @@
           "formatted_name": "Food Wars Kaï.S02E07.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 07 - Finale sous la Lune - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 2/[Tenma] Food Wars Kai - 07 - Finale sous la Lune - 1080p.MULTI.x264.mkv",
+              "file_index": 194,
+              "formatted_name": "Food Wars Kaï.S02E07.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 07 - Finale sous la Lune - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 07 - Finale sous la Lune - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1241,
@@ -104,7 +181,16 @@
           "formatted_name": "Food Wars Kaï.S02E08.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 08 - Les Stagiaires - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 2/[Tenma] Food Wars Kai - 08 - Les Stagiaires - 1080p.MULTI.x264.mkv",
+              "file_index": 195,
+              "formatted_name": "Food Wars Kaï.S02E08.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 08 - Les Stagiaires - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 08 - Les Stagiaires - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -123,7 +209,16 @@
           "formatted_name": "Food Wars Kaï.S03E09.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 09 - Le Festival Gekkyô - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 09 - Le Festival Gekkyô - 1080p.MULTI.x264.mkv",
+              "file_index": 196,
+              "formatted_name": "Food Wars Kaï.S03E09.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 09 - Le Festival Gekkyô - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 09 - Le Festival Gekkyô - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1236,
@@ -134,7 +229,16 @@
           "formatted_name": "Food Wars Kaï.S03E10.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 10 - Centrale - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 10 - Centrale - 1080p.MULTI.x264.mkv",
+              "file_index": 197,
+              "formatted_name": "Food Wars Kaï.S03E10.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 10 - Centrale - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 10 - Centrale - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1233,
@@ -145,7 +249,16 @@
           "formatted_name": "Food Wars Kaï.S03E11.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 11 - La Chasse aux Survivants - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 11 - La Chasse aux Survivants - 1080p.MULTI.x264.mkv",
+              "file_index": 198,
+              "formatted_name": "Food Wars Kaï.S03E11.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 11 - La Chasse aux Survivants - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 11 - La Chasse aux Survivants - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1232,
@@ -156,7 +269,16 @@
           "formatted_name": "Food Wars Kaï.S03E12.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 12 - Examens de Passage - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 12 - Examens de Passage - 1080p.MULTI.x264.mkv",
+              "file_index": 199,
+              "formatted_name": "Food Wars Kaï.S03E12.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 12 - Examens de Passage - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 12 - Examens de Passage - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1234,
@@ -167,7 +289,16 @@
           "formatted_name": "Food Wars Kaï.S03E13.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 13 - Régiment de Cuisine - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 3/[Tenma] Food Wars Kai - 13 - Régiment de Cuisine - 1080p.MULTI.x264.mkv",
+              "file_index": 200,
+              "formatted_name": "Food Wars Kaï.S03E13.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 13 - Régiment de Cuisine - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 13 - Régiment de Cuisine - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -186,7 +317,16 @@
           "formatted_name": "Food Wars Kaï.S04E14.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 14 - Le Régiment de l'Espoir - 1080p.VO-EN.Multi.Sub.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 4/[Tenma] Food Wars Kai - 14 - Le Régiment de l'Espoir - 1080p.VO-EN.Multi.Sub.x264.mkv",
+              "file_index": 201,
+              "formatted_name": "Food Wars Kaï.S04E14.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 14 - Le Régiment de l'Espoir - 1080p.VO-EN.Multi.Sub.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 14 - Le Régiment de l'Espoir - 1080p.VO-EN.Multi.Sub.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1243,
@@ -197,7 +337,16 @@
           "formatted_name": "Food Wars Kaï.S04E15.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 15 - Le Plat Véritable - 1080p.VO-EN.Multi.Sub.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 4/[Tenma] Food Wars Kai - 15 - Le Plat Véritable - 1080p.VO-EN.Multi.Sub.x264.mkv",
+              "file_index": 202,
+              "formatted_name": "Food Wars Kaï.S04E15.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 15 - Le Plat Véritable - 1080p.VO-EN.Multi.Sub.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 15 - Le Plat Véritable - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -216,7 +365,16 @@
           "formatted_name": "Food Wars Kaï.S05E16.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 16 - Les Cuisiniers Noirs - 1080p.VO-EN.Multi.Sub.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 5/[Tenma] Food Wars Kai - 16 - Les Cuisiniers Noirs - 1080p.VO-EN.Multi.Sub.x264.mkv",
+              "file_index": 203,
+              "formatted_name": "Food Wars Kaï.S05E16.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 16 - Les Cuisiniers Noirs - 1080p.VO-EN.Multi.Sub.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 16 - Les Cuisiniers Noirs - 1080p.VO-EN.Multi.Sub.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1238,
@@ -227,7 +385,16 @@
           "formatted_name": "Food Wars Kaï.S05E17.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 17 - The Blue - 1080p.VO-EN.Multi.Sub.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 5/[Tenma] Food Wars Kai - 17 - The Blue - 1080p.VO-EN.Multi.Sub.x264.mkv",
+              "file_index": 204,
+              "formatted_name": "Food Wars Kaï.S05E17.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 17 - The Blue - 1080p.VO-EN.Multi.Sub.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 17 - The Blue - 1080p.VO-EN.Multi.Sub.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1239,
@@ -238,7 +405,16 @@
           "formatted_name": "Food Wars Kaï.S05E18.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Tenma] Food Wars Kai - 18 - À Votre Service ! - 1080p.VO-EN.Multi.Sub.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2",
+              "path": "Food Wars Kai [Tenma]/Saison 5/[Tenma] Food Wars Kai - 18 - À Votre Service ! - 1080p.VO-EN.Multi.Sub.x264.mkv",
+              "file_index": 205,
+              "formatted_name": "Food Wars Kaï.S05E18.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Food Wars Kai - 18 - À Votre Service ! - 1080p.VO-EN.Multi.Sub.x264.nfo",
+              "original_filename": "[Tenma] Food Wars Kai - 18 - À Votre Service ! - 1080p.VO-EN.Multi.Sub.x264.mkv"
+            }
+          ]
         }
       ]
     }

@@ -1,8 +1,22 @@
 {
   "id": 76,
   "title": "Frieren Henshū",
-  "show_title": "Frieren Henshū",
-  "torrents": [],
+  "show_title": null,
+  "torrents": [
+    {
+      "nyaa_id": 1891848,
+      "nyaa_url": "https://nyaa.si/view/1891848",
+      "title": "[Shalouf] Frieren Henshu - Saison 1 - 8 Films - Multisubs",
+      "torrent_name": "[Shalouf] Frieren Henshu",
+      "torrent_url": "https://nyaa.si/download/1891848.torrent",
+      "magnet": "magnet:?xt=urn:btih:5cd5594ceddee53bf2f2c22fb4f258b1c05316cf&dn=%5BShalouf%5D%20Frieren%20Henshu%20-%20Saison%201%20-%208%20Films%20-%20Multisubs&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+      "size": "12.5 GiB",
+      "pub_date": "2024-10-27 22:34",
+      "seeders": 21,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 186,
@@ -19,7 +33,16 @@
           "formatted_name": "Frieren Henshū.S01E01.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 01 - Beyond Journey's End 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 01 - Beyond Journey's End 1080p.x264 [Multi Sub].mkv",
+              "file_index": 0,
+              "formatted_name": "Frieren Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 01 - Beyond Journey's End 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 01 - Beyond Journey's End 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1159,
@@ -30,7 +53,16 @@
           "formatted_name": "Frieren Henshū.S01E02.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 02 - Aura The Guillotine 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 02 - Aura The Guillotine 1080p.x264 [Multi Sub].mkv",
+              "file_index": 1,
+              "formatted_name": "Frieren Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 02 - Aura The Guillotine 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 02 - Aura The Guillotine 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1158,
@@ -41,7 +73,16 @@
           "formatted_name": "Frieren Henshū.S01E03.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 03 - Frieren The Slayer 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 03 - Frieren The Slayer 1080p.x264 [Multi Sub].mkv",
+              "file_index": 2,
+              "formatted_name": "Frieren Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 03 - Frieren The Slayer 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 03 - Frieren The Slayer 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1160,
@@ -52,7 +93,16 @@
           "formatted_name": "Frieren Henshū.S01E04.VOSTFR.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 04 - Travels to Äußerst 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 04 - Travels to Äußerst 1080p.x264 [Multi Sub].mkv",
+              "file_index": 3,
+              "formatted_name": "Frieren Henshū.S01E04.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 04 - Travels to Äußerst 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 04 - Travels to Žuáerst 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1161,
@@ -63,7 +113,16 @@
           "formatted_name": "Frieren Henshū.S01E05.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 05 - A Reason to Begin the Journey 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 05 - A Reason to Begin the Journey 1080p.x264 [Multi Sub].mkv",
+              "file_index": 4,
+              "formatted_name": "Frieren Henshū.S01E05.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 05 - A Reason to Begin the Journey 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 05 - A Reason to Begin the Journey 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1163,
@@ -74,7 +133,16 @@
           "formatted_name": "Frieren Henshū.S01E06.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 06 - Bird Hunting 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 06 - Bird Hunting 1080p.x264 [Multi Sub].mkv",
+              "file_index": 5,
+              "formatted_name": "Frieren Henshū.S01E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 06 - Bird Hunting 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 06 - Bird Hunting 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1165,
@@ -85,7 +153,16 @@
           "formatted_name": "Frieren Henshū.S01E07.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 07 - The Strongest Mage 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 07 - The Strongest Mage 1080p.x264 [Multi Sub].mkv",
+              "file_index": 6,
+              "formatted_name": "Frieren Henshū.S01E07.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 07 - The Strongest Mage 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 07 - The Strongest Mage 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         },
         {
           "id": 1164,
@@ -96,7 +173,16 @@
           "formatted_name": "Frieren Henshū.S01E08.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Shalouf] Frieren Henshu 08 - Final exam 1080p.x264 [Multi Sub].nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf",
+              "path": "[Shalouf] Frieren Henshu/[Shalouf] Frieren Henshu 08 - Final exam 1080p.x264 [Multi Sub].mkv",
+              "file_index": 7,
+              "formatted_name": "Frieren Henshū.S01E08.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Frieren Henshu 08 - Final exam 1080p.x264 [Multi Sub].nfo",
+              "original_filename": "[Shalouf] Frieren Henshu 08 - Final exam 1080p.x264 [Multi Sub].mkv"
+            }
+          ]
         }
       ]
     }
