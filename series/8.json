@@ -2,7 +2,21 @@
   "id": 8,
   "title": "Boruto Kaï",
   "show_title": null,
-  "torrents": [],
+  "torrents": [
+    {
+      "nyaa_id": null,
+      "nyaa_url": null,
+      "title": "Reborn! Kaï",
+      "torrent_name": "Reborn! Kaï",
+      "torrent_url": null,
+      "magnet": "magnet:?xt=urn:btih:b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388&dn=Reborn%21%20Ka%C3%AF&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+      "size": "34.9 GiB",
+      "pub_date": null,
+      "seeders": null,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 211,
@@ -29,7 +43,20 @@
               "infohash": "680ac0786ef7ca13b9319797f8d78136e93c29a3",
               "size": "1.4 GiB",
               "pub_date": "2026-03-25 18:02",
-              "seeders": 20,
+              "seeders": 21,
+              "fankai": true
+            },
+            {
+              "nyaa_id": 1846048,
+              "nyaa_url": "https://nyaa.si/view/1846048",
+              "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+              "torrent_name": "Radiant Kaï S1 [Esdra]",
+              "torrent_url": "https://nyaa.si/download/1846048.torrent",
+              "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "size": "6.8 GiB",
+              "pub_date": "2024-07-15 14:28",
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -38,6 +65,14 @@
               "infohash": "680ac0786ef7ca13b9319797f8d78136e93c29a3",
               "path": "[Brazh] Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S00E01.VOSTFR.HD.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï Saison 1.mkv",
+              "file_index": null,
               "formatted_name": "Boruto Kaï.S00E01.VOSTFR.HD.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï Spécial #1 - Le Septième Hokage et le Printemps écarlate - 1080p.MULTI.x264.mkv"
@@ -63,7 +98,20 @@
               "infohash": "64fe7f0a83e21301bdff231f881d4596a5d1ff01",
               "size": "401.6 MiB",
               "pub_date": "2026-03-26 15:04",
-              "seeders": 18,
+              "seeders": 19,
+              "fankai": true
+            },
+            {
+              "nyaa_id": 1846048,
+              "nyaa_url": "https://nyaa.si/view/1846048",
+              "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+              "torrent_name": "Radiant Kaï S1 [Esdra]",
+              "torrent_url": "https://nyaa.si/download/1846048.torrent",
+              "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "size": "6.8 GiB",
+              "pub_date": "2024-07-15 14:28",
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -72,6 +120,14 @@
               "infohash": "64fe7f0a83e21301bdff231f881d4596a5d1ff01",
               "path": "[Brazh] Boruto Kaï Spécial #2 - Le Chemin éclairé par la pleine lune - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S00E02.VOSTFR.HD.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï Spécial #2 - Le Chemin éclairé par la pleine lune - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï Spécial #2 - Le Chemin éclairé par la pleine lune - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï Saison 1.mkv",
+              "file_index": null,
               "formatted_name": "Boruto Kaï.S00E02.VOSTFR.HD.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï Spécial #2 - Le Chemin éclairé par la pleine lune - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï Spécial #2 - Le Chemin éclairé par la pleine lune - 1080p.MULTI.x264.mkv"
@@ -105,7 +161,20 @@
               "infohash": "4edc091916b76268d1d46cb71fe61d86448af0e4",
               "size": "2.0 GiB",
               "pub_date": "2025-01-28 17:31",
-              "seeders": 15,
+              "seeders": 17,
+              "fankai": true
+            },
+            {
+              "nyaa_id": 1846048,
+              "nyaa_url": "https://nyaa.si/view/1846048",
+              "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+              "torrent_name": "Radiant Kaï S1 [Esdra]",
+              "torrent_url": "https://nyaa.si/download/1846048.torrent",
+              "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "size": "6.8 GiB",
+              "pub_date": "2024-07-15 14:28",
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -114,6 +183,22 @@
               "infohash": "4edc091916b76268d1d46cb71fe61d86448af0e4",
               "path": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 01 - Seth, Apprenti Sorcier - 1080p.MULTI.x264 [Esdra].mkv",
+              "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 01 - Reborn débarque - 1080p.VOSTFR.x264.mkv",
+              "file_index": 16,
               "formatted_name": "Boruto Kaï.S01E01.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 01 - C'est mon histoire - 1080p.MULTI.x264.mkv"
@@ -139,7 +224,20 @@
               "infohash": "574bee404f7de8ec4777e23e11f176f037e910bb",
               "size": "722.0 MiB",
               "pub_date": "2025-02-05 18:09",
-              "seeders": 17,
+              "seeders": 19,
+              "fankai": true
+            },
+            {
+              "nyaa_id": 1846048,
+              "nyaa_url": "https://nyaa.si/view/1846048",
+              "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+              "torrent_name": "Radiant Kaï S1 [Esdra]",
+              "torrent_url": "https://nyaa.si/download/1846048.torrent",
+              "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "size": "6.8 GiB",
+              "pub_date": "2024-07-15 14:28",
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -148,6 +246,22 @@
               "infohash": "574bee404f7de8ec4777e23e11f176f037e910bb",
               "path": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 02 - Rumble Town - 1080p.MULTI.x264 [Esdra].mkv",
+              "file_index": 2,
+              "formatted_name": "Boruto Kaï.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 02 - La famille déjantée s'agrandit - 1080p.VOSTFR.x264.mkv",
+              "file_index": 1,
               "formatted_name": "Boruto Kaï.S01E02.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 02 - Les bandits Mujina - 1080p.MULTI.x264.mkv"
@@ -173,7 +287,20 @@
               "infohash": "dd229eca10f819457c95985df91f4df1afbde37f",
               "size": "1.8 GiB",
               "pub_date": "2025-02-22 08:29",
-              "seeders": 15,
+              "seeders": 17,
+              "fankai": true
+            },
+            {
+              "nyaa_id": 1846048,
+              "nyaa_url": "https://nyaa.si/view/1846048",
+              "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+              "torrent_name": "Radiant Kaï S1 [Esdra]",
+              "torrent_url": "https://nyaa.si/download/1846048.torrent",
+              "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "size": "6.8 GiB",
+              "pub_date": "2024-07-15 14:28",
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -182,6 +309,22 @@
               "infohash": "dd229eca10f819457c95985df91f4df1afbde37f",
               "path": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 03 - Hameline - 1080p.MULTI.x264 [Esdra].mkv",
+              "file_index": 3,
+              "formatted_name": "Boruto Kaï.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 1\\[kadero_san] Reborn! Kaï 03 - Tsunaze pour toujours - 1080p.VOSTFR.x264.mkv",
+              "file_index": 2,
               "formatted_name": "Boruto Kaï.S01E03.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 03 - Ao l'ex-shinobi - 1080p.MULTI.x264.mkv"
@@ -207,7 +350,20 @@
               "infohash": "bae666a8859d9c93eebb4100b5b66a6d4263c8cf",
               "size": "2.3 GiB",
               "pub_date": "2025-03-05 10:15",
-              "seeders": 15,
+              "seeders": 17,
+              "fankai": true
+            },
+            {
+              "nyaa_id": 1846048,
+              "nyaa_url": "https://nyaa.si/view/1846048",
+              "title": "[Esdra] Radiant Kaï Saison 1 - 1080p.MULTI.x264",
+              "torrent_name": "Radiant Kaï S1 [Esdra]",
+              "torrent_url": "https://nyaa.si/download/1846048.torrent",
+              "magnet": "magnet:?xt=urn:btih:76b7c02ea65837f6435e929ba80029409219d0ef&dn=%5BEsdra%5D%20Radiant%20Ka%C3%AF%20Saison%201%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "size": "6.8 GiB",
+              "pub_date": "2024-07-15 14:28",
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -216,6 +372,22 @@
               "infohash": "bae666a8859d9c93eebb4100b5b66a6d4263c8cf",
               "path": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E04.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "76b7c02ea65837f6435e929ba80029409219d0ef",
+              "path": "Radiant Kaï S1 [Esdra]/Radiant Kai 04 - Les Faiseurs de Miracles - 1080p.MULTI.x264 [Esdra].mkv",
+              "file_index": 4,
+              "formatted_name": "Boruto Kaï.S01E04.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 2\\[kadero_san] Reborn! Kaï 04 - Le gang de Kokuyô - 1080p.VOSTFR.x264.mkv",
+              "file_index": 3,
               "formatted_name": "Boruto Kaï.S01E04.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 04 - La résonance - 1080p.MULTI.x264.mkv"
@@ -241,7 +413,7 @@
               "infohash": "fef6fbfd6038e80d148b2e050e85cd6f9ebe4363",
               "size": "1.3 GiB",
               "pub_date": "2025-04-23 17:41",
-              "seeders": 17,
+              "seeders": 18,
               "fankai": true
             }
           ],
@@ -250,6 +422,14 @@
               "infohash": "fef6fbfd6038e80d148b2e050e85cd6f9ebe4363",
               "path": "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E05.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 2\\[kadero_san] Reborn! Kaï 05 - Vacances d'été - 1080p.VOSTFR.x264.mkv",
+              "file_index": 4,
               "formatted_name": "Boruto Kaï.S01E05.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 05 - Le type qui craint - 1080p.MULTI.x264.mkv"
@@ -275,7 +455,7 @@
               "infohash": "b4e9180c4b612d7e7512d581c661e19970b3dfcd",
               "size": "2.0 GiB",
               "pub_date": "2025-08-06 13:11",
-              "seeders": 15,
+              "seeders": 17,
               "fankai": true
             }
           ],
@@ -284,6 +464,14 @@
               "infohash": "b4e9180c4b612d7e7512d581c661e19970b3dfcd",
               "path": "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 06 - Les anneaux Vongola - 1080p.VOSTFR.x264.mkv",
+              "file_index": 5,
               "formatted_name": "Boruto Kaï.S01E06.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 06 - La nouvelle Équipe 7 - 1080p.MULTI.x264.mkv"
@@ -309,7 +497,7 @@
               "infohash": "4282ed04c67efc02164f495b1353519d5503b645",
               "size": "1.3 GiB",
               "pub_date": "2025-12-14 19:03",
-              "seeders": 20,
+              "seeders": 23,
               "fankai": true
             }
           ],
@@ -318,6 +506,14 @@
               "infohash": "4282ed04c67efc02164f495b1353519d5503b645",
               "path": "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E07.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 07 - Le combat pour les anneaux - 1080p.VOSTFR.x264.mkv",
+              "file_index": 6,
               "formatted_name": "Boruto Kaï.S01E07.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 07 - Mode Baryon - 1080p.MULTI.x264.mkv"
@@ -343,7 +539,7 @@
               "infohash": "c41a128014f6bd3ebaf995956b4fb0e685a1e4f0",
               "size": "2.0 GiB",
               "pub_date": "2026-02-25 19:59",
-              "seeders": 20,
+              "seeders": 22,
               "fankai": true
             }
           ],
@@ -352,6 +548,14 @@
               "infohash": "c41a128014f6bd3ebaf995956b4fb0e685a1e4f0",
               "path": "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.mkv",
               "file_index": 0,
+              "formatted_name": "Boruto Kaï.S01E08.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388",
+              "path": "Reborn! Kaï\\Saison 3\\[kadero_san] Reborn! Kaï 08 - La pluie & le brouillard - 1080p.VOSTFR.x264.mkv",
+              "file_index": 7,
               "formatted_name": "Boruto Kaï.S01E08.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Boruto Kaï 08 - Tuer ou se faire tuer - 1080p.MULTI.x264.mkv"
