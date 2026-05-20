@@ -29,7 +29,7 @@
               "infohash": "925011ff024037963e4f1abc84fa6e273fd1ac02",
               "size": "1.1 GiB",
               "pub_date": "2022-09-06 21:41",
-              "seeders": 23,
+              "seeders": 22,
               "fankai": true
             }
           ],
@@ -97,7 +97,7 @@
               "infohash": "6531c9e4d94dfc261c5a1fdd1443e686e437b65f",
               "size": "2.0 GiB",
               "pub_date": "2022-09-18 17:08",
-              "seeders": 23,
+              "seeders": 22,
               "fankai": true
             }
           ],
@@ -131,7 +131,7 @@
               "infohash": "10598f9f4e6429ee3ced4a3a986fcb24b9829a56",
               "size": "995.5 MiB",
               "pub_date": "2022-09-23 17:35",
-              "seeders": 23,
+              "seeders": 21,
               "fankai": true
             }
           ],
@@ -173,7 +173,7 @@
               "infohash": "0f8b25d909e64213849084da796552e42e8bd066",
               "size": "1.5 GiB",
               "pub_date": "2022-09-30 15:55",
-              "seeders": 22,
+              "seeders": 21,
               "fankai": true
             }
           ],
@@ -241,7 +241,7 @@
               "infohash": "f6a7485063bb37eedc62875f3a35386e820b7204",
               "size": "1.5 GiB",
               "pub_date": "2022-11-23 19:32",
-              "seeders": 25,
+              "seeders": 24,
               "fankai": true
             }
           ],
@@ -343,7 +343,7 @@
               "infohash": "cef610b3a6e1c27f2cfef3010799aa60a3319812",
               "size": "2.2 GiB",
               "pub_date": "2022-12-14 17:00",
-              "seeders": 25,
+              "seeders": 23,
               "fankai": true
             }
           ],
@@ -385,7 +385,7 @@
               "infohash": "3586a47c7559fd2e1217d99aefd9189c32134a5e",
               "size": "2.0 GiB",
               "pub_date": "2023-01-09 20:04",
-              "seeders": 24,
+              "seeders": 22,
               "fankai": true
             }
           ],
@@ -453,7 +453,7 @@
               "infohash": "f9736b61fea72e5929a549c86fa471241a3a4113",
               "size": "1.6 GiB",
               "pub_date": "2023-01-15 16:51",
-              "seeders": 25,
+              "seeders": 24,
               "fankai": true
             }
           ],
@@ -563,7 +563,7 @@
               "infohash": "47ac8a85ab25af522e497c8cf5c0e58d981414d7",
               "size": "1.4 GiB",
               "pub_date": "2023-02-01 17:57",
-              "seeders": 23,
+              "seeders": 22,
               "fankai": true
             }
           ],
@@ -631,7 +631,7 @@
               "infohash": "7dffe68ea92304fd9f7fe335c6ffb14b0e80d1ee",
               "size": "1.1 GiB",
               "pub_date": "2023-02-24 17:07",
-              "seeders": 23,
+              "seeders": 22,
               "fankai": true
             }
           ],
@@ -665,7 +665,7 @@
               "infohash": "cd02bcd0b2513c6433b6ec2121cfedceaede9abe",
               "size": "1.4 GiB",
               "pub_date": "2023-02-27 17:45",
-              "seeders": 22,
+              "seeders": 20,
               "fankai": true
             }
           ],
@@ -711,6 +711,40 @@
               "formatted_name": "Shingeki No Kyojin Henshū.S04E20.VOSTFR.1080p.x264-FANKAI",
               "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.VOSTFR.x264.nfo",
               "original_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.VOSTFR.x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1588,
+          "episode_number": 21,
+          "title": "Grondement",
+          "aired": "2023-03-01",
+          "original_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264.mkv",
+          "formatted_name": "Shingeki No Kyojin Henshū.S04E21.VOSTFR.1080p.x264-FANKAI",
+          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264.nfo",
+          "torrents": [
+            {
+              "nyaa_id": 1643756,
+              "nyaa_url": "https://nyaa.si/view/1643756",
+              "title": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264 (L'Attaque des Titans Henshū)",
+              "torrent_name": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264 (1).mkv",
+              "torrent_url": "https://nyaa.si/download/1643756.torrent",
+              "magnet": "magnet:?xt=urn:btih:189801def939748c2bf92c19c9480ea740820a60&dn=%5BJohker%5D%20Shingeki%20No%20Kyojin%20Hensh%C5%AB%20-%2021%20-%20Grondement%20-%201080p.VOSTFR.x264%20%28L%27Attaque%20des%20Titans%20Hensh%C5%AB%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "189801def939748c2bf92c19c9480ea740820a60",
+              "size": "1.5 GiB",
+              "pub_date": "2023-03-01 18:09",
+              "seeders": 22,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "189801def939748c2bf92c19c9480ea740820a60",
+              "path": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264 (1).mkv",
+              "file_index": 0,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E21.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264.mkv"
             }
           ]
         },

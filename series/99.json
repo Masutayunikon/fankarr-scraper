@@ -45,6 +45,26 @@
           ]
         },
         {
+          "id": 1587,
+          "episode_number": 2,
+          "title": "Le goût du baiser",
+          "aired": "2023-02-05",
+          "original_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.mkv",
+          "formatted_name": "Chainsaw Man Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
+              "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 02 - Le goût du baiser - 1080p.MULTI.x264.mkv",
+              "file_index": 2,
+              "formatted_name": "Chainsaw Man Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.nfo",
+              "original_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.mkv"
+            }
+          ]
+        },
+        {
           "id": 1433,
           "episode_number": 3,
           "title": "Une dernière cigarette",
