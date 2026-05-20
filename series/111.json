@@ -1,5 +1,5 @@
 {
-  "id": 99,
+  "id": 111,
   "title": "Chainsaw Man Henshū",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
       "size": "9.3 GiB",
       "pub_date": "2026-04-06 18:23",
-      "seeders": 14,
+      "seeders": 17,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 236,
+      "id": 267,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 1432,
+          "id": 1589,
           "episode_number": 1,
           "title": "Objectif Nibards",
           "aired": "2023-01-29",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 1587,
+          "id": 1590,
           "episode_number": 2,
           "title": "Le goût du baiser",
           "aired": "2023-02-05",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": 1433,
+          "id": 1591,
           "episode_number": 3,
           "title": "Une dernière cigarette",
           "aired": "2023-02-09",
