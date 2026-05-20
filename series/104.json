@@ -1,0 +1,159 @@
+{
+  "id": 104,
+  "title": "Made In Abyss Henshū",
+  "show_title": null,
+  "torrents": [
+    {
+      "nyaa_id": 1846639,
+      "nyaa_url": "https://nyaa.si/view/1846639",
+      "title": "[Odji-san] Made in Abyss Henshū - Films 1 à 6 1080p.MULTI.x264 [DUB][VO|VF] [Multiple Subtitle] [|FR|ESP]",
+      "torrent_name": "Made In Abyss Henshû",
+      "torrent_url": "https://nyaa.si/download/1846639.torrent",
+      "magnet": "magnet:?xt=urn:btih:5180b86ed00ac2142d995ef6027fd11762016fc3&dn=%5BOdji-san%5D%20Made%20in%20Abyss%20Hensh%C5%AB%20-%20Films%201%20%C3%A0%206%201080p.MULTI.x264%20%5BDUB%5D%5BVO%7CVF%5D%20%5BMultiple%20Subtitle%5D%20%5B%7CFR%7CESP%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+      "size": "11.5 GiB",
+      "pub_date": "2024-07-17 07:00",
+      "seeders": 15,
+      "fankai": true
+    }
+  ],
+  "seasons": [
+    {
+      "id": 245,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1475,
+          "episode_number": 1,
+          "title": "Au bord de l'abysse",
+          "aired": "2023-07-21",
+          "original_filename": "[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse 1080p Multi x264.mkv",
+          "formatted_name": "Made In Abyss Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse  1080p Multi x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+              "path": "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse  1080p Multi x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Made In Abyss Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse  1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Made in Abyss Henshû 01 - Au bord de l'abysse 1080p Multi x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1474,
+          "episode_number": 2,
+          "title": "La délivrance de l'âme",
+          "aired": "2023-07-30",
+          "original_filename": "[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.mkv",
+          "formatted_name": "Made In Abyss Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+              "path": "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.mkv",
+              "file_index": 12,
+              "formatted_name": "Made In Abyss Henshū.S01E02.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Made in Abyss Henshû 02 - La délivrance de l'âme 1080p Multi x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1473,
+          "episode_number": 3,
+          "title": "L'aube de l'âme profonde",
+          "aired": "2023-08-15",
+          "original_filename": "[Odji-san] Made In Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.mkv",
+          "formatted_name": "Made In Abyss Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Odji-san] Made In Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+              "path": "Made In Abyss Henshû/Saison 1/[Odji-san] Made in Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.mkv",
+              "file_index": 15,
+              "formatted_name": "Made In Abyss Henshū.S01E03.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made In Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Made In Abyss Henshû 03 - L'aube de l'âme profonde 1080p Multi x264.mkv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "season_number": 2,
+      "title": "La ville d'or incandescente",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1476,
+          "episode_number": 4,
+          "title": "La princesse des ombres",
+          "aired": "2024-03-14",
+          "original_filename": "[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.mkv",
+          "formatted_name": "Made In Abyss Henshū.S02E04.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+              "path": "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.mkv",
+              "file_index": 18,
+              "formatted_name": "Made In Abyss Henshū.S02E04.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Made in Abyss Henshû 04 - La princesse des ombres 1080p Multi x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1478,
+          "episode_number": 5,
+          "title": "La ville d'or incandescente",
+          "aired": "2024-03-14",
+          "original_filename": "[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescante 1080p Multi x264.mkv",
+          "formatted_name": "Made In Abyss Henshū.S02E05.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescente 1080p Multi x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+              "path": "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescente 1080p Multi x264.mkv",
+              "file_index": 21,
+              "formatted_name": "Made In Abyss Henshū.S02E05.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescente 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Made in Abyss Henshû 05 - La ville d'or incandescante 1080p Multi x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1477,
+          "episode_number": 6,
+          "title": "Chaleureuses Ténèbres",
+          "aired": "2024-03-14",
+          "original_filename": "[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.mkv",
+          "formatted_name": "Made In Abyss Henshū.S02E06.MULTI.1080p.x264-FANKAI",
+          "nfo_filename": "[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
+              "path": "Made In Abyss Henshû/Saison 2/[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.mkv",
+              "file_index": 24,
+              "formatted_name": "Made In Abyss Henshū.S02E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.nfo",
+              "original_filename": "[Odji-san] Made in Abyss Henshû 06 - Chaleureuses ténèbres 1080p Multi x264.mkv"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "wiki": "https://fan-kai.fandom.com/fr/wiki/Made_In_Abyss_Hensh%C5%AB"
+}
