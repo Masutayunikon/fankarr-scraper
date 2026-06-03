@@ -1,17 +1,17 @@
 {
-  "id": 50,
+  "id": 113,
   "title": "World Trigger Kaï",
   "show_title": null,
   "torrents": [],
   "seasons": [
     {
-      "id": 97,
+      "id": 270,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 615,
+          "id": 1604,
           "episode_number": 1,
           "title": "Les visiteurs venus d'un autre monde",
           "aired": "2023-04-29",
@@ -29,7 +29,7 @@
               "infohash": "c51cd3d3d7a802154c3493593aee7ce7496362d1",
               "size": "2.9 GiB",
               "pub_date": "2023-07-02 19:33",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 614,
+          "id": 1603,
           "episode_number": 2,
           "title": "Le Black Trigger",
           "aired": "2023-07-03",
@@ -63,7 +63,7 @@
               "infohash": "9eb05f38dd860ce263925b5d6efa0b1ce93c6432",
               "size": "2.8 GiB",
               "pub_date": "2023-07-03 12:20",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "id": 613,
+          "id": 1602,
           "episode_number": 3,
           "title": "Les troupes d'élite du Border",
           "aired": "2024-03-31",
@@ -97,7 +97,7 @@
               "infohash": "00d75268a9c23f6eeac3aaea57c21224ffb09595",
               "size": "2.0 GiB",
               "pub_date": "2024-03-31 13:57",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],

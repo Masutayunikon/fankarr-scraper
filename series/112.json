@@ -1,11 +1,11 @@
 {
-  "id": 41,
+  "id": 112,
   "title": "Yu-Gi-Oh! Kaï",
   "show_title": null,
   "torrents": [],
   "seasons": [
     {
-      "id": 79,
+      "id": 268,
       "season_number": 1,
       "title": "Yami no Game",
       "torrents": [
@@ -25,7 +25,7 @@
       ],
       "episodes": [
         {
-          "id": 526,
+          "id": 1595,
           "episode_number": 1,
           "title": "Le Jeu des Ténèbres",
           "aired": "2025-12-31",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 525,
+          "id": 1594,
           "episode_number": 2,
           "title": "On se reverra, Yûgi",
           "aired": "2025-12-31",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": 523,
+          "id": 1592,
           "episode_number": 3,
           "title": "Death-T",
           "aired": "2025-12-31",
@@ -85,7 +85,7 @@
           ]
         },
         {
-          "id": 524,
+          "id": 1593,
           "episode_number": 4,
           "title": "Un nouvel élève",
           "aired": "2025-12-31",
@@ -107,13 +107,13 @@
       ]
     },
     {
-      "id": 78,
+      "id": 269,
       "season_number": 2,
       "title": "Le Royaume des duellistes",
       "torrents": [],
       "episodes": [
         {
-          "id": 520,
+          "id": 1597,
           "episode_number": 5,
           "title": "Le Royaume des duellistes",
           "aired": "2026-04-10",
@@ -147,7 +147,7 @@
           ]
         },
         {
-          "id": 521,
+          "id": 1599,
           "episode_number": 6,
           "title": "Les cicatrices de la défaite",
           "aired": "2026-04-10",
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "id": 522,
+          "id": 1601,
           "episode_number": 7,
           "title": "Pris au piège",
           "aired": "2026-04-10",
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "id": 1282,
+          "id": 1600,
           "episode_number": 8,
           "title": "Le champion contre le créateur",
           "aired": "2026-04-10",
@@ -249,7 +249,7 @@
           ]
         },
         {
-          "id": 1281,
+          "id": 1598,
           "episode_number": 9,
           "title": "La machination de Keith",
           "aired": "2026-04-10",
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "id": 1280,
+          "id": 1596,
           "episode_number": 10,
           "title": "Le match du millénium",
           "aired": "2026-04-10",
