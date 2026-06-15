@@ -19,7 +19,7 @@
           "infohash": "2e278f3a5bdc86889eb1c0210e6d9dbe9485876d",
           "size": "7.2 GiB",
           "pub_date": "2025-12-31 11:35",
-          "seeders": 13,
+          "seeders": 11,
           "fankai": true
         }
       ],
@@ -233,7 +233,7 @@
               "infohash": "895f2237467efbeb2b2ec6d4142b27d36cbb3706",
               "size": "4.2 GiB",
               "pub_date": "2026-04-10 16:46",
-              "seeders": 12,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -267,7 +267,7 @@
               "infohash": "895f2237467efbeb2b2ec6d4142b27d36cbb3706",
               "size": "4.2 GiB",
               "pub_date": "2026-04-10 16:46",
-              "seeders": 12,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -301,7 +301,7 @@
               "infohash": "895f2237467efbeb2b2ec6d4142b27d36cbb3706",
               "size": "4.2 GiB",
               "pub_date": "2026-04-10 16:46",
-              "seeders": 12,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -313,6 +313,82 @@
               "formatted_name": "Yu-Gi-Oh! Kaï.S02E10.VOSTFR.480p.x264-FANKAI",
               "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 10 - Le match du millénium - 480p.MULTISUB.x264.nfo",
               "original_filename": "[Manny] Yu-Gi-Oh! Kaï 10 - Le match du millénium - 480p.MULTISUB.x264.mkv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "season_number": 3,
+      "title": "Le tournoi de Bataille-Ville",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1614,
+          "episode_number": 11,
+          "title": "Dungeon Dice Monsters",
+          "aired": "2026-05-31",
+          "original_filename": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.mkv",
+          "formatted_name": "Yu-Gi-Oh! Kaï.S03E11.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.nfo",
+          "torrents": [
+            {
+              "nyaa_id": 2116577,
+              "nyaa_url": "https://nyaa.si/view/2116577",
+              "title": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.mkv",
+              "torrent_name": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.mkv",
+              "torrent_url": "https://nyaa.si/download/2116577.torrent",
+              "magnet": "magnet:?xt=urn:btih:95a462b6dd98d1ac587c76dd0b487cf766a2e3e6&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2011%20-%20Dungeon%20Dice%20Monsters%20-%20480p.MULTISUB.x264.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "95a462b6dd98d1ac587c76dd0b487cf766a2e3e6",
+              "size": "1.8 GiB",
+              "pub_date": "2026-05-31 19:24",
+              "seeders": 5,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "95a462b6dd98d1ac587c76dd0b487cf766a2e3e6",
+              "path": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Yu-Gi-Oh! Kaï.S03E11.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.nfo",
+              "original_filename": "[Manny] Yu-Gi-Oh! Kaï 11 - Dungeon Dice Monsters - 480p.MULTISUB.x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1615,
+          "episode_number": 12,
+          "title": "La stèle de la mémoire",
+          "aired": "2026-06-14",
+          "original_filename": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.mkv",
+          "formatted_name": "Yu-Gi-Oh! Kaï.S03E12.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.nfo",
+          "torrents": [
+            {
+              "nyaa_id": 2121810,
+              "nyaa_url": "https://nyaa.si/view/2121810",
+              "title": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264",
+              "torrent_name": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.mkv",
+              "torrent_url": "https://nyaa.si/download/2121810.torrent",
+              "magnet": "magnet:?xt=urn:btih:d840ab67344aaddff2662e71da28fedd25dbdc45&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2012%20-%20La%20st%C3%A8le%20de%20la%20m%C3%A9moire%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "d840ab67344aaddff2662e71da28fedd25dbdc45",
+              "size": "1.6 GiB",
+              "pub_date": "2026-06-14 18:32",
+              "seeders": 12,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "d840ab67344aaddff2662e71da28fedd25dbdc45",
+              "path": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Yu-Gi-Oh! Kaï.S03E12.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.nfo",
+              "original_filename": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.mkv"
             }
           ]
         }
