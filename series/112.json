@@ -131,7 +131,7 @@
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
               "size": "4.8 GiB",
               "pub_date": "2026-01-30 14:52",
-              "seeders": 5,
+              "seeders": 6,
               "fankai": true
             }
           ],
@@ -165,7 +165,7 @@
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
               "size": "4.8 GiB",
               "pub_date": "2026-01-30 14:52",
-              "seeders": 5,
+              "seeders": 6,
               "fankai": true
             }
           ],
@@ -199,7 +199,7 @@
               "infohash": "7d8d7b80fc39ecbf15966eb423a8db751a1d4e7a",
               "size": "4.8 GiB",
               "pub_date": "2026-01-30 14:52",
-              "seeders": 5,
+              "seeders": 6,
               "fankai": true
             }
           ],
@@ -343,7 +343,7 @@
               "infohash": "95a462b6dd98d1ac587c76dd0b487cf766a2e3e6",
               "size": "1.8 GiB",
               "pub_date": "2026-05-31 19:24",
-              "seeders": 6,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -368,22 +368,22 @@
           "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.nfo",
           "torrents": [
             {
-              "nyaa_id": 2121810,
-              "nyaa_url": "https://nyaa.si/view/2121810",
+              "nyaa_id": 2122380,
+              "nyaa_url": "https://nyaa.si/view/2122380",
               "title": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264",
               "torrent_name": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.mkv",
-              "torrent_url": "https://nyaa.si/download/2121810.torrent",
-              "magnet": "magnet:?xt=urn:btih:d840ab67344aaddff2662e71da28fedd25dbdc45&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2012%20-%20La%20st%C3%A8le%20de%20la%20m%C3%A9moire%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "d840ab67344aaddff2662e71da28fedd25dbdc45",
+              "torrent_url": "https://nyaa.si/download/2122380.torrent",
+              "magnet": "magnet:?xt=urn:btih:48c3d2c930630ffc1a78feb8dd7792b9c73e20fb&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2012%20-%20La%20st%C3%A8le%20de%20la%20m%C3%A9moire%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "48c3d2c930630ffc1a78feb8dd7792b9c73e20fb",
               "size": "1.6 GiB",
-              "pub_date": "2026-06-14 18:32",
-              "seeders": 11,
+              "pub_date": "2026-06-16 22:34",
+              "seeders": 8,
               "fankai": true
             }
           ],
           "paths": [
             {
-              "infohash": "d840ab67344aaddff2662e71da28fedd25dbdc45",
+              "infohash": "48c3d2c930630ffc1a78feb8dd7792b9c73e20fb",
               "path": "[Manny] Yu-Gi-Oh! Kaï 12 - La stèle de la mémoire - 480p.MULTISUB.x264.mkv",
               "file_index": 0,
               "formatted_name": "Yu-Gi-Oh! Kaï.S03E12.VOSTFR.480p.x264-FANKAI",
