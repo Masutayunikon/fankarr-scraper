@@ -25,13 +25,13 @@
       "torrents": [],
       "episodes": [
         {
-          "id": 1589,
+          "id": 1616,
           "episode_number": 1,
           "title": "Objectif Nibards",
           "aired": "2023-01-29",
           "original_filename": "[Shalouf] Chainsaw Man 01 - Objectif Nibards.mkv",
           "formatted_name": "Chainsaw Man Henshū.S01E01.MULTI.1080p.x264-FANKAI",
-          "nfo_filename": "[Shalouf] Chainsaw Man 01 - Objectif Nibards.nfo",
+          "nfo_filename": "[Shalouf] Chainsaw Man Henshū 01 - Objectif Nibards - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -39,19 +39,19 @@
               "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 01 - Objectif Nibards - 1080p.MULTI.x264.mkv",
               "file_index": 0,
               "formatted_name": "Chainsaw Man Henshū.S01E01.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Shalouf] Chainsaw Man 01 - Objectif Nibards.nfo",
+              "nfo_filename": "[Shalouf] Chainsaw Man Henshū 01 - Objectif Nibards - 1080p.MULTI.x264.nfo",
               "original_filename": "[Shalouf] Chainsaw Man 01 - Objectif Nibards.mkv"
             }
           ]
         },
         {
-          "id": 1590,
+          "id": 1617,
           "episode_number": 2,
           "title": "Le goût du baiser",
           "aired": "2023-02-05",
           "original_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.mkv",
           "formatted_name": "Chainsaw Man Henshū.S01E02.MULTI.1080p.x264-FANKAI",
-          "nfo_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.nfo",
+          "nfo_filename": "[Shalouf] Chainsaw Man Henshū 02 - Le goût du baiser - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -59,19 +59,19 @@
               "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 02 - Le goût du baiser - 1080p.MULTI.x264.mkv",
               "file_index": 2,
               "formatted_name": "Chainsaw Man Henshū.S01E02.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.nfo",
+              "nfo_filename": "[Shalouf] Chainsaw Man Henshū 02 - Le goût du baiser - 1080p.MULTI.x264.nfo",
               "original_filename": "[Shalouf] Chainsaw Man 02 - Le goût du baiser.mkv"
             }
           ]
         },
         {
-          "id": 1591,
+          "id": 1618,
           "episode_number": 3,
           "title": "Une dernière cigarette",
           "aired": "2023-02-09",
           "original_filename": "[Shalouf] Chainsaw Man 03 - Une dernière cigarette.mkv",
           "formatted_name": "Chainsaw Man Henshū.S01E03.MULTI.1080p.x264-FANKAI",
-          "nfo_filename": "[Shalouf] Chainsaw Man 03 - Une dernière cigarette.nfo",
+          "nfo_filename": "[Shalouf] Chainsaw Man Henshū 03 - Une dernière cigarette - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -79,7 +79,7 @@
               "path": "[Shalouf] Chainsaw Man Henshū (Fan-Kaï)/[Shalouf] Chainsaw Man Henshū 03 - Une dernière cigarette - 1080p.MULTI.x264.mkv",
               "file_index": 4,
               "formatted_name": "Chainsaw Man Henshū.S01E03.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Shalouf] Chainsaw Man 03 - Une dernière cigarette.nfo",
+              "nfo_filename": "[Shalouf] Chainsaw Man Henshū 03 - Une dernière cigarette - 1080p.MULTI.x264.nfo",
               "original_filename": "[Shalouf] Chainsaw Man 03 - Une dernière cigarette.mkv"
             }
           ]
