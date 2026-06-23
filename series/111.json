@@ -13,7 +13,7 @@
       "infohash": "4c8969b1f5e038e7486d46e03188b2347603203b",
       "size": "9.3 GiB",
       "pub_date": "2026-04-06 18:23",
-      "seeders": 13,
+      "seeders": 17,
       "fankai": true
     }
   ],
@@ -81,6 +81,40 @@
               "formatted_name": "Chainsaw Man Henshū.S01E03.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Shalouf] Chainsaw Man Henshū 03 - Une dernière cigarette - 1080p.MULTI.x264.nfo",
               "original_filename": "[Shalouf] Chainsaw Man 03 - Une dernière cigarette.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1619,
+          "episode_number": 4,
+          "title": "Arc Reze",
+          "aired": "2026-06-20",
+          "original_filename": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Chainsaw Man Henshū.S01E04.VOSTFR.HD.x264-FANKAI",
+          "nfo_filename": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.nfo",
+          "torrents": [
+            {
+              "nyaa_id": 2124815,
+              "nyaa_url": "https://nyaa.si/view/2124815",
+              "title": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze",
+              "torrent_name": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264",
+              "torrent_url": "https://nyaa.si/download/2124815.torrent",
+              "magnet": "magnet:?xt=urn:btih:ace5ba44e961422566d8b6a19bd99022dc15500b&dn=%5BShalouf%5D%20Chainsaw%20Man%20Hensh%C5%AB%2004%20-%20Arc%20Reze&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "ace5ba44e961422566d8b6a19bd99022dc15500b",
+              "size": "3.4 GiB",
+              "pub_date": "2026-06-23 19:09",
+              "seeders": 1,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "ace5ba44e961422566d8b6a19bd99022dc15500b",
+              "path": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264/[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Chainsaw Man Henshū.S01E04.VOSTFR.HD.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.mkv"
             }
           ]
         }
