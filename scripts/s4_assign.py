@@ -490,7 +490,7 @@ def assign(structure, torrent, ttype):
 def _torrent_key(t):
     return t.get("nyaa_id") or t.get("infohash")
 
-def _populate_paths_from_torrent(structure, pack_raw, append=False):
+def _populate_paths_from_torrent(structure, pack_raw, append=False, seasons=None):
     path_idx        = build_ep_path_index(pack_raw)
     title_path_idx  = build_title_path_index(pack_raw)
     folder_idx_c    = build_folder_ep_index(pack_raw)
@@ -512,7 +512,8 @@ def _populate_paths_from_torrent(structure, pack_raw, append=False):
             obj["original_filename"] = ep.get("original_filename")
         return obj
 
-    for season in structure["seasons"]:
+    target_seasons = seasons if seasons is not None else structure["seasons"]
+    for season in target_seasons:
         is_specials     = season.get("season_number") == 0
         folder_key      = find_best_folder(season.get("title", ""), folder_idx_c)
         season_path_idx = folder_idx_c.get(folder_key, {}) if folder_key else {}
@@ -628,49 +629,66 @@ def consolidate(structures, torrents_by_id, torrents_by_infohash):
             consolidated += 1
             continue
 
-        # 2. Même torrent sur tous les épisodes d'une saison → season["torrents"]
+        # 2. Même(s) torrent(s) sur tous les épisodes d'une saison → season["torrents"]
+        #    NB: un épisode peut avoir PLUSIEURS torrents en pack complet de saison
+        #    (ex: une v1 x264 et une v2 AV1 qui couvrent chacune toute la saison).
+        #    On ne peut donc pas se contenter de ep["torrents"][0] : il faut compter
+        #    les clés sur TOUTES les positions, comme au bloc 1. ci-dessus.
         for season in structure["seasons"]:
-            ep_torrents = [ep["torrents"][0] for ep in season["episodes"] if ep["torrents"]]
-            ep_keys     = {_torrent_key(t) for t in ep_torrents if _torrent_key(t)}
-            nb_eps      = sum(1 for ep in season["episodes"] if ep.get("aired") or ep.get("torrents"))
-            if (len(ep_keys) == 1 and len(ep_torrents) >= max(1, nb_eps - 2)
-                    and nb_eps > 1 and not season["torrents"]):
-                pack_key = next(iter(ep_keys))
+            nb_eps = sum(1 for ep in season["episodes"] if ep.get("aired") or ep.get("torrents"))
+            if nb_eps <= 1 or season["torrents"]:
+                continue
+
+            key_counts_season = Counter()
+            for ep in season["episodes"]:
+                for k in {_torrent_key(t) for t in ep["torrents"] if _torrent_key(t)}:
+                    key_counts_season[k] += 1
+
+            full_keys = [k for k, cnt in key_counts_season.items()
+                         if cnt >= max(1, nb_eps - 2)]
+            if not full_keys:
+                continue
+
+            full_keys_set   = set(full_keys)
+            nb_real         = len([s for s in structure["seasons"] if s.get("season_number", 0) != 0])
+            pack_raws       = []
+
+            for pack_key in full_keys:
                 pack_raw = torrents_by_id.get(pack_key) or torrents_by_infohash.get(pack_key, {})
-                nb_real = len([s for s in structure["seasons"] if s.get("season_number", 0) != 0])
+                pack_raws.append(pack_raw)
+                pack_ref = next(
+                    t for ep in season["episodes"] for t in ep["torrents"]
+                    if _torrent_key(t) == pack_key
+                )
                 if nb_real <= 1:
-                    _add_torrent_to_structure(structure, ep_torrents[0])
+                    _add_torrent_to_structure(structure, pack_ref)
                 else:
-                    season["torrents"].append(ep_torrents[0])
-                path_idx        = build_ep_path_index(pack_raw)
-                title_path_idx  = build_title_path_index(pack_raw)
-                folder_idx_c    = build_folder_ep_index(pack_raw)
-                fidx2           = build_file_index(pack_raw)
-                is_specials     = season.get("season_number") == 0
-                folder_key      = find_best_folder(season.get("title", ""), folder_idx_c)
-                season_path_idx = folder_idx_c.get(folder_key, {}) if folder_key else {}
-                pack_infohash2  = pack_raw.get("infohash")
-                nb_seasons_real = len([s for s in structure["seasons"] if s.get("season_number", 0) != 0])
-                for ep in season["episodes"]:
-                    ep["torrents"] = []
-                    n = ep.get("episode_number")
-                    p = _compute_path(ep, n, is_specials, folder_key, season_path_idx,
-                                      path_idx, title_path_idx, nb_seasons_real)
-                    if p:
-                        path_obj = {"infohash": pack_infohash2, "path": p,
-                                    "file_index": file_index_of(p, fidx2)}
-                        variant = get_variant_for_torrent(ep, pack_raw, p)
-                        if variant:
-                            path_obj["formatted_name"]    = variant.get("formatted_name")
-                            path_obj["nfo_filename"]      = variant.get("nfo_filename")
-                        else:
-                            path_obj["formatted_name"]    = ep.get("formatted_name")
-                            path_obj["nfo_filename"]      = ep.get("nfo_filename")
-                        path_obj["original_filename"] = ep.get("original_filename")
-                        ep["paths"] = [path_obj]
-                    else:
-                        ep["paths"] = []
-                consolidated += 1
+                    season["torrents"].append(pack_ref)
+
+            # On retire des épisodes les torrents remontés au niveau saison, en
+            # conservant ceux qui n'en font pas partie (torrents ponctuels).
+            for ep in season["episodes"]:
+                kept_torrents, kept_paths = [], []
+                for t in ep["torrents"]:
+                    if _torrent_key(t) not in full_keys_set:
+                        kept_torrents.append(t)
+                        existing = next(
+                            (obj for obj in ep["paths"]
+                             if isinstance(obj, dict) and obj.get("infohash") == t.get("infohash")),
+                            None
+                        )
+                        if existing:
+                            kept_paths.append(existing)
+                ep["torrents"] = kept_torrents
+                ep["paths"]    = kept_paths
+
+            # On repeuple les chemins pour CHAQUE pack détecté (append, pas overwrite),
+            # limité à cette saison uniquement.
+            for pack_raw in pack_raws:
+                if pack_raw.get("files"):
+                    _populate_paths_from_torrent(structure, pack_raw, append=True, seasons=[season])
+
+            consolidated += 1
 
         # 1b. structure["torrents"] non-vide → peupler depuis chaque pack intégral
         if structure["torrents"]:
