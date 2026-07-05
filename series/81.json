@@ -105,26 +105,6 @@
           ]
         },
         {
-          "id": 1208,
-          "episode_number": 5,
-          "title": "Le 14 mai 1878",
-          "aired": "2025-03-24",
-          "original_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 14 mai 1878 - 1080p.VOSTFR.x264.mkv",
-          "formatted_name": "Kenshin le Vagabond Henshū.S01E05.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 𝟣𝟦 mai 𝟣𝟪𝟩𝟪 - 1080p.VOSTFR.x264.nfo",
-          "torrents": [],
-          "paths": [
-            {
-              "infohash": "d2ebb700c71e3155db51ceeb1280b4407434a575",
-              "path": "[Brazh] Kenshin le vagabond Henshū - Saison 1 (Arc Tokyo) - 1080p.VOSTFR.x264/Saison 1/[Brazh] Kenshin le vagabond Henshū 05 - Le 14 mai 1878 - 1080p.VOSTFR.x264.mkv",
-              "file_index": 5,
-              "formatted_name": "Kenshin le Vagabond Henshū.S01E05.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 𝟣𝟦 mai 𝟣𝟪𝟩𝟪 - 1080p.VOSTFR.x264.nfo",
-              "original_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 14 mai 1878 - 1080p.VOSTFR.x264.mkv"
-            }
-          ]
-        },
-        {
           "id": 1204,
           "episode_number": 14,
           "title": "Brazh Kenshin le vagabond Henshū 05 Le 14 mai 1878 VOSTFR",
@@ -152,11 +132,22 @@
           "infohash": "b854769297b2ddd240c8c8a3fe3d6f5b3ac36afa",
           "size": "5.5 GiB",
           "pub_date": "2025-09-01 08:48",
-          "seeders": 10,
+          "seeders": 7,
           "fankai": true
         }
       ],
       "episodes": [
+        {
+          "id": 1610,
+          "episode_number": 5,
+          "title": "Le 14 mai 1878",
+          "aired": "2025-03-24",
+          "original_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 14 mai 1878 - 1080p.VOSTFR.x264.mkv",
+          "formatted_name": "Kenshin le Vagabond Henshū.S02E05.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 𝟣𝟦 mai 𝟣𝟪𝟩𝟪 - 1080p.VOSTFR.x264.nfo",
+          "torrents": [],
+          "paths": []
+        },
         {
           "id": 1200,
           "episode_number": 6,

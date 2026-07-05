@@ -1,5 +1,5 @@
 {
-  "id": 72,
+  "id": 104,
   "title": "Made In Abyss Henshū",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "5180b86ed00ac2142d995ef6027fd11762016fc3",
       "size": "11.5 GiB",
       "pub_date": "2024-07-17 07:00",
-      "seeders": 17,
+      "seeders": 18,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 174,
+      "id": 245,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 1103,
+          "id": 1475,
           "episode_number": 1,
           "title": "Au bord de l'abysse",
           "aired": "2023-07-21",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 1102,
+          "id": 1474,
           "episode_number": 2,
           "title": "La délivrance de l'âme",
           "aired": "2023-07-30",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": 1101,
+          "id": 1473,
           "episode_number": 3,
           "title": "L'aube de l'âme profonde",
           "aired": "2023-08-15",
@@ -87,13 +87,13 @@
       ]
     },
     {
-      "id": 173,
+      "id": 246,
       "season_number": 2,
       "title": "La ville d'or incandescente",
       "torrents": [],
       "episodes": [
         {
-          "id": 1098,
+          "id": 1476,
           "episode_number": 4,
           "title": "La princesse des ombres",
           "aired": "2024-03-14",
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "id": 1100,
+          "id": 1478,
           "episode_number": 5,
           "title": "La ville d'or incandescente",
           "aired": "2024-03-14",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "id": 1099,
+          "id": 1477,
           "episode_number": 6,
           "title": "Chaleureuses Ténèbres",
           "aired": "2024-03-14",

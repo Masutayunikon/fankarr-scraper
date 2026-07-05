@@ -1,5 +1,5 @@
 {
-  "id": 57,
+  "id": 108,
   "title": "Reborn! Kaï",
   "show_title": null,
   "torrents": [
@@ -19,13 +19,13 @@
   ],
   "seasons": [
     {
-      "id": 129,
+      "id": 258,
       "season_number": 1,
       "title": "Daily Life",
       "torrents": [],
       "episodes": [
         {
-          "id": 853,
+          "id": 1539,
           "episode_number": 1,
           "title": "Reborn débarque",
           "aired": "2020-02-13",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 852,
+          "id": 1538,
           "episode_number": 2,
           "title": "La Famille déjantée s'agrandit",
           "aired": "2020-03-21",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": 851,
+          "id": 1537,
           "episode_number": 3,
           "title": "Tsunaze pour toujours",
           "aired": "2021-12-29",
@@ -87,13 +87,13 @@
       ]
     },
     {
-      "id": 127,
+      "id": 259,
       "season_number": 2,
       "title": "Vs Kokuyô",
       "torrents": [],
       "episodes": [
         {
-          "id": 838,
+          "id": 1541,
           "episode_number": 4,
           "title": "Le gang de Kokuyô",
           "aired": "2022-01-04",
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "id": 837,
+          "id": 1540,
           "episode_number": 5,
           "title": "Vacances d'été",
           "aired": "2022-02-17",
@@ -135,13 +135,13 @@
       ]
     },
     {
-      "id": 126,
+      "id": 260,
       "season_number": 3,
       "title": "Vs VARIA",
       "torrents": [],
       "episodes": [
         {
-          "id": 832,
+          "id": 1543,
           "episode_number": 6,
           "title": "Les anneaux Vongola",
           "aired": "2022-02-26",
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "id": 834,
+          "id": 1545,
           "episode_number": 7,
           "title": "Le combat pour les anneaux",
           "aired": "2022-06-08",
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "id": 835,
+          "id": 1546,
           "episode_number": 8,
           "title": "La pluie et le brouillard",
           "aired": "2022-10-20",
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "id": 833,
+          "id": 1544,
           "episode_number": 9,
           "title": "Gola Mosca",
           "aired": "2023-01-29",
@@ -221,7 +221,7 @@
           ]
         },
         {
-          "id": 831,
+          "id": 1542,
           "episode_number": 10,
           "title": "Le combat des cieux",
           "aired": "2023-03-21",
@@ -241,7 +241,7 @@
           ]
         },
         {
-          "id": 836,
+          "id": 1547,
           "episode_number": 11,
           "title": "Daily Life, le retour",
           "aired": "2023-04-27",
@@ -263,13 +263,13 @@
       ]
     },
     {
-      "id": 128,
+      "id": 261,
       "season_number": 4,
       "title": "Futur",
       "torrents": [],
       "episodes": [
         {
-          "id": 840,
+          "id": 1549,
           "episode_number": 12,
           "title": "Dix ans après",
           "aired": "2023-05-27",
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "id": 849,
+          "id": 1558,
           "episode_number": 13,
           "title": "Héritage",
           "aired": "2023-08-01",
@@ -309,7 +309,7 @@
           ]
         },
         {
-          "id": 846,
+          "id": 1555,
           "episode_number": 14,
           "title": "Traître infiltré",
           "aired": "2023-08-04",
@@ -329,7 +329,7 @@
           ]
         },
         {
-          "id": 844,
+          "id": 1553,
           "episode_number": 15,
           "title": "Préparatifs avant l'assaut",
           "aired": "2023-08-06",
@@ -349,7 +349,7 @@
           ]
         },
         {
-          "id": 843,
+          "id": 1552,
           "episode_number": 16,
           "title": "X-BURNER",
           "aired": "2023-08-06",
@@ -369,7 +369,7 @@
           ]
         },
         {
-          "id": 847,
+          "id": 1556,
           "episode_number": 17,
           "title": "La famille Giglionero",
           "aired": "2023-08-29",
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "id": 850,
+          "id": 1559,
           "episode_number": 18,
           "title": "Le plan de Shoichi Irie",
           "aired": "2023-08-31",
@@ -409,7 +409,7 @@
           ]
         },
         {
-          "id": 839,
+          "id": 1548,
           "episode_number": 19,
           "title": "Le front italien",
           "aired": "2023-11-13",
@@ -429,7 +429,7 @@
           ]
         },
         {
-          "id": 845,
+          "id": 1554,
           "episode_number": 20,
           "title": "L'éveil des boîtes",
           "aired": "2024-04-13",
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "id": 841,
+          "id": 1550,
           "episode_number": 21,
           "title": "L'heure du Choice",
           "aired": "2025-01-01",
@@ -469,7 +469,7 @@
           ]
         },
         {
-          "id": 842,
+          "id": 1551,
           "episode_number": 22,
           "title": "Protéger Uni",
           "aired": "2025-01-04",
@@ -489,7 +489,7 @@
           ]
         },
         {
-          "id": 848,
+          "id": 1557,
           "episode_number": 23,
           "title": "La bataille finale",
           "aired": "2025-02-16",

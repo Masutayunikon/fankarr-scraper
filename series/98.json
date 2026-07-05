@@ -1,5 +1,5 @@
 {
-  "id": 92,
+  "id": 98,
   "title": "Call of the Night Henshū",
   "show_title": null,
   "torrents": [
@@ -13,7 +13,7 @@
       "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
       "size": "3.8 GiB",
       "pub_date": "2026-03-24 20:28",
-      "seeders": 4,
+      "seeders": 3,
       "fankai": true
     },
     {
@@ -26,19 +26,19 @@
       "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
       "size": "2.7 GiB",
       "pub_date": "2026-03-19 23:24",
-      "seeders": 6,
+      "seeders": 10,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 222,
+      "id": 235,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 1345,
+          "id": 1427,
           "episode_number": 1,
           "title": "L'ambiance de la nuit",
           "aired": "2023-11-14",
@@ -66,13 +66,13 @@
           ],
           "codec_variants": {
             "x264": {
-              "id": 1345,
+              "id": 1427,
               "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.nfo"
             },
             "x265": {
-              "id": 1349,
+              "id": 1431,
               "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x265-FANKAI",
               "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.nfo"
@@ -80,7 +80,7 @@
           }
         },
         {
-          "id": 1347,
+          "id": 1429,
           "episode_number": 2,
           "title": "Les activités nocturnes",
           "aired": "2023-12-04",
@@ -108,13 +108,13 @@
           ],
           "codec_variants": {
             "x265": {
-              "id": 1347,
+              "id": 1429,
               "formatted_name": "Call of the Night Henshū.S01E02.MULTI.1080p.x265-FANKAI",
               "nfo_filename": "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x265.nfo"
             },
             "x264": {
-              "id": 1348,
+              "id": 1430,
               "formatted_name": "Call of the Night Henshū.S01E02.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x264.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 02 - Les activités nocturnes - 1080p.MULTI.x264.nfo"
@@ -122,7 +122,7 @@
           }
         },
         {
-          "id": 1343,
+          "id": 1425,
           "episode_number": 3,
           "title": "Retrouvailles de nuit",
           "aired": "2023-12-15",
@@ -150,13 +150,13 @@
           ],
           "codec_variants": {
             "x265": {
-              "id": 1343,
+              "id": 1425,
               "formatted_name": "Call of the Night Henshū.S01E03.MULTI.1080p.x265-FANKAI",
               "nfo_filename": "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x265.nfo"
             },
             "x264": {
-              "id": 1344,
+              "id": 1426,
               "formatted_name": "Call of the Night Henshū.S01E03.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x264.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 03 - Retrouvailles de nuit - 1080p.MULTI.x264.nfo"
@@ -164,7 +164,7 @@
           }
         },
         {
-          "id": 1342,
+          "id": 1424,
           "episode_number": 4,
           "title": "Conflits nocturnes",
           "aired": "2023-12-19",
@@ -192,13 +192,13 @@
           ],
           "codec_variants": {
             "x264": {
-              "id": 1342,
+              "id": 1424,
               "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.nfo"
             },
             "x265": {
-              "id": 1346,
+              "id": 1428,
               "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x265-FANKAI",
               "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.nfo",
               "nfo_path": "Call of the Night Henshū/Saison 1/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.nfo"

@@ -1,5 +1,5 @@
 {
-  "id": 73,
+  "id": 102,
   "title": "Haikyuu!! Henshū",
   "show_title": null,
   "torrents": [
@@ -13,19 +13,19 @@
       "infohash": "95f5c60c6b1f180f67f8aac8c2c55228e3f8878d",
       "size": "34.3 GiB",
       "pub_date": "2024-11-13 09:17",
-      "seeders": 10,
+      "seeders": 8,
       "fankai": true
     }
   ],
   "seasons": [
     {
-      "id": 178,
+      "id": 240,
       "season_number": 1,
       "title": "Haikyū!!",
       "torrents": [],
       "episodes": [
         {
-          "id": 1119,
+          "id": 1447,
           "episode_number": 1,
           "title": "La vue du sommet",
           "aired": "2023-05-24",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 1124,
+          "id": 1452,
           "episode_number": 2,
           "title": "Match d'entraînement",
           "aired": "2023-05-24",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": 1120,
+          "id": 1448,
           "episode_number": 3,
           "title": "La passe au champion",
           "aired": "2023-05-24",
@@ -85,7 +85,7 @@
           ]
         },
         {
-          "id": 1123,
+          "id": 1451,
           "episode_number": 4,
           "title": "Chats et corbeaux",
           "aired": "2023-05-24",
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "id": 1122,
+          "id": 1450,
           "episode_number": 5,
           "title": "Le mur de fer",
           "aired": "2023-05-24",
@@ -125,7 +125,7 @@
           ]
         },
         {
-          "id": 1121,
+          "id": 1449,
           "episode_number": 6,
           "title": "La force d'un aîné",
           "aired": "2023-05-24",
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "id": 176,
+      "id": 241,
       "season_number": 2,
       "title": "Seconde Saison",
       "torrents": [],
       "episodes": [
         {
-          "id": 1108,
+          "id": 1455,
           "episode_number": 7,
           "title": "Les examens trimestriels",
           "aired": "2023-11-26",
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "id": 1109,
+          "id": 1456,
           "episode_number": 8,
           "title": "Camp d'entraînement",
           "aired": "2023-11-26",
@@ -193,7 +193,7 @@
           ]
         },
         {
-          "id": 1110,
+          "id": 1457,
           "episode_number": 9,
           "title": "Une force pure et simple",
           "aired": "2023-11-26",
@@ -213,7 +213,7 @@
           ]
         },
         {
-          "id": 1106,
+          "id": 1453,
           "episode_number": 10,
           "title": "Un duel de petits géants",
           "aired": "2023-11-26",
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "id": 1107,
+          "id": 1454,
           "episode_number": 11,
           "title": "Rouages imprévisibles",
           "aired": "2023-11-26",
@@ -255,13 +255,13 @@
       ]
     },
     {
-      "id": 175,
+      "id": 242,
       "season_number": 3,
       "title": "Karasuno High School vs Shiratorizawa Academy",
       "torrents": [],
       "episodes": [
         {
-          "id": 1104,
+          "id": 1458,
           "episode_number": 12,
           "title": "Force et raison",
           "aired": "2024-10-14",
@@ -281,7 +281,7 @@
           ]
         },
         {
-          "id": 1105,
+          "id": 1459,
           "episode_number": 13,
           "title": "Bataille de concepts",
           "aired": "2024-10-14",
@@ -303,13 +303,13 @@
       ]
     },
     {
-      "id": 177,
+      "id": 243,
       "season_number": 4,
       "title": "Haikyū!! To The Top",
       "torrents": [],
       "episodes": [
         {
-          "id": 1117,
+          "id": 1466,
           "episode_number": 14,
           "title": "Terre contre Ciel",
           "aired": "2024-10-15",
@@ -329,7 +329,7 @@
           ]
         },
         {
-          "id": 1116,
+          "id": 1465,
           "episode_number": 15,
           "title": "Ramasseur de balles",
           "aired": "2024-10-15",
@@ -349,7 +349,7 @@
           ]
         },
         {
-          "id": 1111,
+          "id": 1460,
           "episode_number": 16,
           "title": "L'Avènement",
           "aired": "2024-10-15",
@@ -369,7 +369,7 @@
           ]
         },
         {
-          "id": 1112,
+          "id": 1461,
           "episode_number": 17,
           "title": "Ligne de front",
           "aired": "2024-10-15",
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "id": 1115,
+          "id": 1464,
           "episode_number": 18,
           "title": "Le gars ordinaire",
           "aired": "2024-10-15",
@@ -409,7 +409,7 @@
           ]
         },
         {
-          "id": 1113,
+          "id": 1462,
           "episode_number": 19,
           "title": "Pris au piège",
           "aired": "2024-10-15",
@@ -429,7 +429,7 @@
           ]
         },
         {
-          "id": 1114,
+          "id": 1463,
           "episode_number": 20,
           "title": "Le festin des monstres",
           "aired": "2024-10-15",
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "id": 1118,
+          "id": 1467,
           "episode_number": 21,
           "title": "La guerre des poubelles",
           "aired": "2024-11-13",

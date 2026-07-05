@@ -1,5 +1,5 @@
 {
-  "id": 54,
+  "id": 106,
   "title": "Radiant Kaï",
   "show_title": null,
   "torrents": [
@@ -19,13 +19,13 @@
   ],
   "seasons": [
     {
-      "id": 119,
+      "id": 251,
       "season_number": 1,
       "title": "Saison 1",
       "torrents": [],
       "episodes": [
         {
-          "id": 806,
+          "id": 1515,
           "episode_number": 1,
           "title": "Seth Apprenti Sorcier",
           "aired": "2023-04-30",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": 803,
+          "id": 1512,
           "episode_number": 2,
           "title": "Rumble Town",
           "aired": "2024-07-15",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": 804,
+          "id": 1513,
           "episode_number": 3,
           "title": "Hameline",
           "aired": "2024-07-15",
@@ -85,7 +85,7 @@
           ]
         },
         {
-          "id": 805,
+          "id": 1514,
           "episode_number": 4,
           "title": "Les Faiseurs de Miracles",
           "aired": "2024-07-15",
