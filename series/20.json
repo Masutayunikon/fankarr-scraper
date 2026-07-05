@@ -8,7 +8,21 @@
       "id": 39,
       "season_number": 1,
       "title": "La 86 d'Akina",
-      "torrents": [],
+      "torrents": [
+        {
+          "nyaa_id": 1679589,
+          "nyaa_url": "https://nyaa.si/view/1679589",
+          "title": "[Roro]Initial D Kai - Films 1 à 5",
+          "torrent_name": "[Roro]Initial D Kai Films 1 à 5",
+          "torrent_url": "https://nyaa.si/download/1679589.torrent",
+          "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
+          "size": "8.9 GiB",
+          "pub_date": "2023-06-05 21:11",
+          "seeders": 8,
+          "fankai": true
+        }
+      ],
       "episodes": [
         {
           "id": 1627,
@@ -29,20 +43,7 @@
               "infohash": "b8abba5536eedb4e83cd4c16cb3fc7c93e878bfb",
               "size": "808.2 MiB",
               "pub_date": "2026-07-02 14:42",
-              "seeders": 13,
-              "fankai": true
-            },
-            {
-              "nyaa_id": 1679589,
-              "nyaa_url": "https://nyaa.si/view/1679589",
-              "title": "[Roro]Initial D Kai - Films 1 à 5",
-              "torrent_name": "[Roro]Initial D Kai Films 1 à 5",
-              "torrent_url": "https://nyaa.si/download/1679589.torrent",
-              "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
-              "size": "8.9 GiB",
-              "pub_date": "2023-06-05 21:11",
-              "seeders": 9,
+              "seeders": 12,
               "fankai": true
             }
           ],
@@ -84,20 +85,7 @@
               "infohash": "1c9adaa39af44d099e0b28b9a0f8510ecd5a4add",
               "size": "635.0 MiB",
               "pub_date": "2026-07-04 15:43",
-              "seeders": 11,
-              "fankai": true
-            },
-            {
-              "nyaa_id": 1679589,
-              "nyaa_url": "https://nyaa.si/view/1679589",
-              "title": "[Roro]Initial D Kai - Films 1 à 5",
-              "torrent_name": "[Roro]Initial D Kai Films 1 à 5",
-              "torrent_url": "https://nyaa.si/download/1679589.torrent",
-              "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
-              "size": "8.9 GiB",
-              "pub_date": "2023-06-05 21:11",
-              "seeders": 9,
+              "seeders": 13,
               "fankai": true
             }
           ],
@@ -128,21 +116,7 @@
           "original_filename": "[Brazh] Initial D Kaï 03 - Un duel à mort - 480p.MULTI.x264.mkv",
           "formatted_name": "Initial D Kaï.S01E03.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Brazh] Initial D Kaï 03 - Un duel à mort - 480p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1679589,
-              "nyaa_url": "https://nyaa.si/view/1679589",
-              "title": "[Roro]Initial D Kai - Films 1 à 5",
-              "torrent_name": "[Roro]Initial D Kai Films 1 à 5",
-              "torrent_url": "https://nyaa.si/download/1679589.torrent",
-              "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
-              "size": "8.9 GiB",
-              "pub_date": "2023-06-05 21:11",
-              "seeders": 9,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
@@ -162,21 +136,7 @@
           "original_filename": "[Brazh] Initial D Kaï 04 - La comète blanche d'Akagi - 480p.MULTI.x264.mkv",
           "formatted_name": "Initial D Kaï.S01E04.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Brazh] Initial D Kaï 04 - La comète blanche d'Akagi - 480p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1679589,
-              "nyaa_url": "https://nyaa.si/view/1679589",
-              "title": "[Roro]Initial D Kai - Films 1 à 5",
-              "torrent_name": "[Roro]Initial D Kai Films 1 à 5",
-              "torrent_url": "https://nyaa.si/download/1679589.torrent",
-              "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
-              "size": "8.9 GiB",
-              "pub_date": "2023-06-05 21:11",
-              "seeders": 9,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
@@ -196,21 +156,7 @@
           "original_filename": "[Brazh] Initial D Kaï 05 - Un défi vers l'inconnu - 480p.MULTI.x264.mkv",
           "formatted_name": "Initial D Kaï.S01E05.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Brazh] Initial D Kaï 05 - Un défi vers l'inconnu - 480p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1679589,
-              "nyaa_url": "https://nyaa.si/view/1679589",
-              "title": "[Roro]Initial D Kai - Films 1 à 5",
-              "torrent_name": "[Roro]Initial D Kai Films 1 à 5",
-              "torrent_url": "https://nyaa.si/download/1679589.torrent",
-              "magnet": "magnet:?xt=urn:btih:bc3a56faefe38f07c01814c678537b563a8361b2&dn=%5BRoro%5DInitial%20D%20Kai%20-%20Films%201%20%C3%A0%205&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",
-              "size": "8.9 GiB",
-              "pub_date": "2023-06-05 21:11",
-              "seeders": 9,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "bc3a56faefe38f07c01814c678537b563a8361b2",

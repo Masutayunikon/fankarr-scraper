@@ -10,6 +10,19 @@
       "title": "Saison 1",
       "torrents": [
         {
+          "nyaa_id": 2008410,
+          "nyaa_url": "https://nyaa.si/view/2008410",
+          "title": "[Tenma] Major Henshū - Seasons 1 & 2 - 1080p.x264 [Multiple Subtitle] [ENG][FRE]",
+          "torrent_name": "Major Henshū [Tenma]",
+          "torrent_url": "https://nyaa.si/download/2008410.torrent",
+          "magnet": "magnet:?xt=urn:btih:810b68507d4d0d90ca952a3486c3c97e27c19d5f&dn=%5BTenma%5D%20Major%20Hensh%C5%AB%20-%20Seasons%201%20%26%202%20-%201080p.x264%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+          "size": "12.4 GiB",
+          "pub_date": "2025-08-19 17:18",
+          "seeders": 3,
+          "fankai": true
+        },
+        {
           "nyaa_id": 2102814,
           "nyaa_url": "https://nyaa.si/view/2102814",
           "title": "[Tenma] Major Henshū - Seasons 1 & 2 V2 - 1080p.AV1[Multiple Subtitle] [ENG][FRE-ADN][FRE-FANSUB]",
@@ -19,7 +32,7 @@
           "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
           "size": "8.9 GiB",
           "pub_date": "2026-04-25 18:52",
-          "seeders": 7,
+          "seeders": 6,
           "fankai": true
         }
       ],
@@ -34,6 +47,14 @@
           "nfo_filename": "[Tenma] Major Henshū 01 - Le Rêve de Goro - 1080p.MULTISUB.AV1.nfo",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 01 - Le Rêve de Goro - 1080p.MULTISUB.x264.mkv",
+              "file_index": 1,
+              "formatted_name": "Major Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 01 - Le Rêve de Goro - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 01 - Le Rêve de Goro - 1080p.MULTISUB.AV1.mkv"
+            },
             {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 01 - Le Rêve de Goro - 1080p.MULTISUB.AV1.mkv",
@@ -55,6 +76,14 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 02 - Mifune Dolphins - 1080p.MULTISUB.x264.mkv",
+              "file_index": 2,
+              "formatted_name": "Major Henshū.S01E02.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 02 - Mifune Dolphins - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 02 - Mifune Dolphins - 1080p.MULTISUB.AV1.mkv"
+            },
+            {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 02 - Mifune Dolphins - 1080p.MULTISUB.AV1.mkv",
               "file_index": 1,
@@ -74,6 +103,14 @@
           "nfo_filename": "[Tenma] Major Henshū 03 - Major All Star Game - 1080p.MULTISUB.AV1.nfo",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 03 - Major All Star Game - 1080p.MULTISUB.x264.mkv",
+              "file_index": 3,
+              "formatted_name": "Major Henshū.S01E03.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 03 - Major All Star Game - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 03 - Major All Star Game - 1080p.MULTISUB.AV1.mkv"
+            },
             {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 03 - Major All Star Game - 1080p.MULTISUB.AV1.mkv",
@@ -95,6 +132,14 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 04 - Camp d'Entrainement - 1080p.MULTISUB.mkv",
+              "file_index": 4,
+              "formatted_name": "Major Henshū.S01E04.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 04 - Camp d'Entrainement - 1080p.MULTISUB.nfo",
+              "original_filename": "[Tenma] Major Henshū - 04 - Camp d'Entraînement - 1080p.VOSTFR-EN.x264.mkv"
+            },
+            {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 04 - Camp d'Entrainement - 1080p.MULTISUB.AV1.mkv",
               "file_index": 3,
@@ -114,6 +159,14 @@
           "nfo_filename": "[Tenma] Major Henshū 05 - Le Tournoi Commence - 1080p.MULTISUB.AV1.nfo",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 05 - Le Tournoi Commence - 1080p.MULTISUB.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Major Henshū.S01E05.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 05 - Le Tournoi Commence - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū 05 - Le Tournoi Commence - 1080p.MULTISUB.AV1.mkv"
+            },
             {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 05 - Le Tournoi Commence - 1080p.MULTISUB.AV1.mkv",
@@ -135,6 +188,14 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 1/[Tenma] Major Henshū 06 - Quart de Finale Décisif - 1080p.MULTISUB.x264.mkv",
+              "file_index": 6,
+              "formatted_name": "Major Henshū.S01E06.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 06 - Quart de Finale Décisif - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 06 - Quart de Final décisif - 1080p.MULTISUB.AV1.mkv"
+            },
+            {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 06 - Quart de Finale Décisif - 1080p.MULTISUB.AV1.mkv",
               "file_index": 5,
@@ -152,6 +213,19 @@
       "title": "Saison 2",
       "torrents": [
         {
+          "nyaa_id": 2008410,
+          "nyaa_url": "https://nyaa.si/view/2008410",
+          "title": "[Tenma] Major Henshū - Seasons 1 & 2 - 1080p.x264 [Multiple Subtitle] [ENG][FRE]",
+          "torrent_name": "Major Henshū [Tenma]",
+          "torrent_url": "https://nyaa.si/download/2008410.torrent",
+          "magnet": "magnet:?xt=urn:btih:810b68507d4d0d90ca952a3486c3c97e27c19d5f&dn=%5BTenma%5D%20Major%20Hensh%C5%AB%20-%20Seasons%201%20%26%202%20-%201080p.x264%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+          "size": "12.4 GiB",
+          "pub_date": "2025-08-19 17:18",
+          "seeders": 3,
+          "fankai": true
+        },
+        {
           "nyaa_id": 2102814,
           "nyaa_url": "https://nyaa.si/view/2102814",
           "title": "[Tenma] Major Henshū - Seasons 1 & 2 V2 - 1080p.AV1[Multiple Subtitle] [ENG][FRE-ADN][FRE-FANSUB]",
@@ -161,7 +235,7 @@
           "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
           "size": "8.9 GiB",
           "pub_date": "2026-04-25 18:52",
-          "seeders": 7,
+          "seeders": 6,
           "fankai": true
         }
       ],
@@ -176,6 +250,14 @@
           "nfo_filename": "[Tenma] Major Henshū 07 - Le Retour de Goro - 1080p.MULTISUB.AV1.nfo",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 07 - Le Retour de Goro - 1080p.MULTISUB.x264.mkv",
+              "file_index": 7,
+              "formatted_name": "Major Henshū.S02E07.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 07 - Le Retour de Goro - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 07 - Le Retour de Goro - 1080p.MULTISUB.AV1.mkv"
+            },
             {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 07 - Le Retour de Goro - 1080p.MULTISUB.AV1.mkv",
@@ -197,6 +279,14 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 08 - Tournoi des Collèges - 1080p.MULTISUB.x264.mkv",
+              "file_index": 8,
+              "formatted_name": "Major Henshū.S02E08.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 08 - Tournoi des Collèges - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 08 - Tournoi des Collèges et Conspiration - 1080p.MULTISUB.AV1.mkv"
+            },
+            {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 08 - Tournoi des Collèges - 1080p.MULTISUB.AV1.mkv",
               "file_index": 7,
@@ -216,6 +306,14 @@
           "nfo_filename": "[Tenma] Major Henshū 09 - Sélection pour Kaido - 1080p.MULTISUB.AV1.nfo",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 09 - Sélection pour Kaido - 1080p.MULTISUB.x264.mkv",
+              "file_index": 9,
+              "formatted_name": "Major Henshū.S02E09.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 09 - Sélection pour Kaido - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 09 - Sélection pour Kaido - 1080p.MULTISUB.AV1.mkv"
+            },
             {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 09 - Sélection pour Kaido - 1080p.MULTISUB.AV1.mkv",
@@ -237,6 +335,14 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 10 - L'Île des Rêves - 1080p.MULTISUB.x264.mkv",
+              "file_index": 10,
+              "formatted_name": "Major Henshū.S02E10.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 10 - L'Île des Rêves - 1080p.MULTISUB.x264.nfo",
+              "original_filename": "[Tenma] Major Henshū - 10 - L'île des Rêves - 1080p.VOSTFR-EN.x264.mkv"
+            },
+            {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 10 - L'Île des Rêves - 1080p.MULTISUB.AV1.mkv",
               "file_index": 9,
@@ -257,6 +363,14 @@
           "torrents": [],
           "paths": [
             {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 11 - Goro contre le Manuel - 1080p.MULTISUB.x264.mkv",
+              "file_index": 11,
+              "formatted_name": "Major Henshū.S02E11.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 11 - Goro contre le Manuel - 1080p.MULTISUB.x264.nfo",
+              "original_filename": "[Tenma] Major Henshū - 11 - Goro Contre le Manuel - 1080p.VOSTFR-EN.x264.mkv"
+            },
+            {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 11 - Goro contre le Manuel - 1080p.MULTISUB.AV1.mkv",
               "file_index": 10,
@@ -276,6 +390,14 @@
           "nfo_filename": "[Tenma] Major Henshū 12 - Nouvel Objectif - 1080p.MULTISUB.x264.nfo",
           "torrents": [],
           "paths": [
+            {
+              "infohash": "810b68507d4d0d90ca952a3486c3c97e27c19d5f",
+              "path": "Major Henshū [Tenma]/Saison 2/[Tenma] Major Henshū 12 - Nouvel Objectif - 1080p.MULTISUB.x264.mkv",
+              "file_index": 12,
+              "formatted_name": "Major Henshū.S02E12.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Tenma] Major Henshū 12 - Nouvel Objectif - 1080p.MULTISUB.x264.nfo",
+              "original_filename": "[Tenma] Major Henshū - 12 - Nouvel Objectif - 1080p.VOSTFR-EN.x264.mkv"
+            },
             {
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "path": "Major Henshū [Tenma]/[Tenma] Major Henshū 12 - Nouvel Objectif - 1080p.MULTISUB.AV1.mkv",
