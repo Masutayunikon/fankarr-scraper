@@ -19,7 +19,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 10,
+          "seeders": 9,
           "fankai": true
         }
       ],
@@ -201,7 +201,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 10,
+          "seeders": 9,
           "fankai": true
         }
       ],
@@ -467,7 +467,7 @@
               "infohash": "fe0e9190fd34811674969c88e46ea5d1b5cf3e17",
               "size": "1.1 GiB",
               "pub_date": "2023-04-17 19:17",
-              "seeders": 5,
+              "seeders": 6,
               "fankai": true
             }
           ],
@@ -671,7 +671,7 @@
               "infohash": "965fc7eb604d2638a56d0ac07842f665ded504de",
               "size": "1.8 GiB",
               "pub_date": "2024-10-10 19:26",
-              "seeders": 4,
+              "seeders": 5,
               "fankai": true
             }
           ],
