@@ -29,7 +29,7 @@
               "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:47",
-              "seeders": 12,
+              "seeders": 13,
               "fankai": true
             }
           ],
@@ -57,7 +57,7 @@
               "nyaa_id": 1705104,
               "nyaa_url": "https://nyaa.si/view/1705104",
               "title": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres [Multiple Subtitle] [ENG][FRE]",
-              "torrent_name": null,
+              "torrent_name": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv",
               "torrent_url": "https://nyaa.si/download/1705104.torrent",
               "magnet": "magnet:?xt=urn:btih:f475d56c1deae051ce9103caa3a464dd1a2daa98&dn=%5BTriggerforce%5D%20Gintama%20Ka%C3%AF%2002%20-%20Les%20animaux%20ressemblent%20%C3%A0%20leurs%20ma%C3%AEtres%20%5BMultiple%20Subtitle%5D%20%5BENG%5D%5BFRE%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
@@ -70,8 +70,8 @@
           "paths": [
             {
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
-              "path": "Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres [Multiple Subtitle] [ENG][FRE].mkv",
-              "file_index": null,
+              "path": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv",
+              "file_index": 0,
               "formatted_name": "Gintama Kaï.S01E02.VOSTFR.1080p.x264-FANKAI",
               "nfo_filename": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.nfo",
               "original_filename": "[Triggerforce] Gintama Kaï 02 - Les animaux ressemblent à leurs maîtres.mkv"
