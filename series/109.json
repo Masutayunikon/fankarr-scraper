@@ -18,8 +18,31 @@
           "original_filename": "[Hokage] Seven Deadly Sins Henshū 01 - Les 7 péchés capitaux - 1080p.MULTI.x264.mkv",
           "formatted_name": "Seven Deadly Sins Henshū.S01E01.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Hokage] Seven Deadly Sins Henshū 01 - Les 7 péchés capitaux - 1080p.MULTI.x264.nfo",
-          "torrents": [],
-          "paths": []
+          "torrents": [
+            {
+              "nyaa_id": 1413331,
+              "nyaa_url": "https://nyaa.si/view/1413331",
+              "title": "[Hokage] Seven Deadly Sins Henshū 01 - Les 7 péchés capitaux - 1080p.MULTI.x264",
+              "torrent_name": "[Hokage] Seven Deadly Sins Henshū 1 - Les 7 péchés capitaux - 1080p.MULTI.x264.mkv",
+              "torrent_url": "https://nyaa.si/download/1413331.torrent",
+              "magnet": "magnet:?xt=urn:btih:fccd4bb408f6257da34f4f323f3d54b4f0cb8563&dn=%5BHokage%5D%20Seven%20Deadly%20Sins%20Hensh%C5%AB%2001%20-%20Les%207%20p%C3%A9ch%C3%A9s%20capitaux%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "fccd4bb408f6257da34f4f323f3d54b4f0cb8563",
+              "size": "1.6 GiB",
+              "pub_date": "2021-07-26 16:13",
+              "seeders": 7,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "fccd4bb408f6257da34f4f323f3d54b4f0cb8563",
+              "path": "[Hokage] Seven Deadly Sins Henshū 1 - Les 7 péchés capitaux - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Seven Deadly Sins Henshū.S01E01.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Hokage] Seven Deadly Sins Henshū 01 - Les 7 péchés capitaux - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Hokage] Seven Deadly Sins Henshū 01 - Les 7 péchés capitaux - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1563,

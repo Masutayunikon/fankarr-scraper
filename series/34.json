@@ -32,8 +32,31 @@
           "original_filename": "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.mkv",
           "formatted_name": "Nichijou Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
           "nfo_filename": "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.nfo",
-          "torrents": [],
-          "paths": []
+          "torrents": [
+            {
+              "nyaa_id": 1460754,
+              "nyaa_url": "https://nyaa.si/view/1460754",
+              "title": "Nichijou Henshû 01 VOSTFR - Roro",
+              "torrent_name": "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.mkv",
+              "torrent_url": "https://nyaa.si/download/1460754.torrent",
+              "magnet": "magnet:?xt=urn:btih:93b0b1c92b3b55b03967e8822f30f6f13fd7e82c&dn=Nichijou%20Hensh%C3%BB%2001%20VOSTFR%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "93b0b1c92b3b55b03967e8822f30f6f13fd7e82c",
+              "size": "1.2 GiB",
+              "pub_date": "2021-11-27 11:33",
+              "seeders": 5,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "93b0b1c92b3b55b03967e8822f30f6f13fd7e82c",
+              "path": "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Nichijou Henshū.S01E01.VOSTFR.1080p.x264-FANKAI",
+              "nfo_filename": "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.nfo",
+              "original_filename": "[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.mkv"
+            }
+          ]
         },
         {
           "id": 481,
