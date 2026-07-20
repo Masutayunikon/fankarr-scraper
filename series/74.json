@@ -37,21 +37,21 @@
               "nyaa_id": 1646151,
               "nyaa_url": "https://nyaa.si/view/1646151",
               "title": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation",
-              "torrent_name": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv",
+              "torrent_name": null,
               "torrent_url": "https://nyaa.si/download/1646151.torrent",
               "magnet": "magnet:?xt=urn:btih:29907c00eeebbcc10d81d3b0e7f14bdde15488b1&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2001%20-%20R%C3%A9incarnation&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
               "size": "1.5 GiB",
               "pub_date": "2023-03-07 17:20",
-              "seeders": 2,
+              "seeders": 3,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
-              "path": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv",
-              "file_index": 0,
+              "path": "Tokyo Revengers Henshu 01 - Réincarnation.mkv",
+              "file_index": null,
               "formatted_name": "Tokyo Revengers Henshū.S01E01.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.1080p.MULTI.x264.nfo",
               "original_filename": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv"
@@ -85,7 +85,7 @@
               "infohash": "9c331362cc90a6e1e5d5b15b0b73a340d813a112",
               "size": "2.5 GiB",
               "pub_date": "2023-03-09 15:16",
-              "seeders": 3,
+              "seeders": 4,
               "fankai": true
             }
           ],
@@ -127,7 +127,7 @@
               "infohash": "050913b346aa0bc5b93d4c8f2506e37d4ae08bb4",
               "size": "2.1 GiB",
               "pub_date": "2023-03-11 08:06",
-              "seeders": 4,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -169,7 +169,7 @@
               "infohash": "31dcb859dc9bcd287664cbbb11c7ef818dd77423",
               "size": "1.6 GiB",
               "pub_date": "2023-04-01 08:09",
-              "seeders": 4,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -211,7 +211,7 @@
               "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
               "size": "2.8 GiB",
               "pub_date": "2023-05-01 09:43",
-              "seeders": 4,
+              "seeders": 5,
               "fankai": true
             }
           ],
