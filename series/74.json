@@ -37,21 +37,21 @@
               "nyaa_id": 1646151,
               "nyaa_url": "https://nyaa.si/view/1646151",
               "title": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation",
-              "torrent_name": null,
+              "torrent_name": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv",
               "torrent_url": "https://nyaa.si/download/1646151.torrent",
               "magnet": "magnet:?xt=urn:btih:29907c00eeebbcc10d81d3b0e7f14bdde15488b1&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2001%20-%20R%C3%A9incarnation&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
               "size": "1.5 GiB",
               "pub_date": "2023-03-07 17:20",
-              "seeders": 3,
+              "seeders": 2,
               "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
-              "path": "Tokyo Revengers Henshu 01 - Réincarnation.mkv",
-              "file_index": null,
+              "path": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv",
+              "file_index": 0,
               "formatted_name": "Tokyo Revengers Henshū.S01E01.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.1080p.MULTI.x264.nfo",
               "original_filename": "[Triggerforce]Tokyo Revengers Henshu 01 - Réincarnation.mkv"
