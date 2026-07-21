@@ -105,6 +105,54 @@
           ]
         }
       ]
+    },
+    {
+      "id": 272,
+      "season_number": 2,
+      "title": "Saison 2",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1639,
+          "episode_number": 5,
+          "title": "Cursed House Pt.2",
+          "aired": "2026-07-21",
+          "original_filename": "[Shalouf] Dandadan Henshū 05 - Cursed House Pt.2 - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Dandadan Henshū.S02E05.VOSTFR.HD.x264-FANKAI",
+          "nfo_filename": "[Shalouf] Dandadan Henshū 05 - Cursed House Pt.2 - 1080p.MULTI.x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "ba1cc80d2e259be36a2a47114cb18daa45928e17",
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 05 - Cursed House Pt.2 - 1080p.MULTI.x264.mkv",
+              "file_index": 4,
+              "formatted_name": "Dandadan Henshū.S02E05.VOSTFR.HD.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Dandadan Henshū 05 - Cursed House Pt.2 - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Shalouf] Dandadan Henshū 05 - Cursed House Pt.2 - 1080p.MULTI.x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1640,
+          "episode_number": 6,
+          "title": "Evil Eye",
+          "aired": "2026-07-21",
+          "original_filename": "[Shalouf] Dandadan Henshū 06 - Evil Eye - 1080p.MULTI.x264.mkv",
+          "formatted_name": "Dandadan Henshū.S02E06.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Shalouf] Dandadan Henshū 06 - Evil Eye - 1080p.MULTI.x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "ba1cc80d2e259be36a2a47114cb18daa45928e17",
+              "path": "[Shalouf] Dandadan Henshū (Fan-Kaï)/[Shalouf] Dandadan Henshū 06 - Evil Eye - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Dandadan Henshū.S02E06.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Shalouf] Dandadan Henshū 06 - Evil Eye - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Shalouf] Dandadan Henshū 06 - Evil Eye - 1080p.MULTI.x264.mkv"
+            }
+          ]
+        }
+      ]
     }
   ],
   "wiki": "https://fan-kai.fandom.com/fr/wiki/Dandadan_Hensh%C5%AB"
