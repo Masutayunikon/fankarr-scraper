@@ -13,7 +13,7 @@
       "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
       "size": "43.9 GiB",
       "pub_date": "2026-07-25 17:06",
-      "seeders": 5,
+      "seeders": 15,
       "fankai": true
     }
   ],
@@ -429,13 +429,13 @@
           ]
         },
         {
-          "id": 1583,
+          "id": 1650,
           "episode_number": 20,
           "title": "De toi, il y a deux mille ans",
           "aired": "2023-02-28",
           "original_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.mkv",
           "formatted_name": "Shingeki No Kyojin Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.VOSTFR.x264.nfo",
+          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -443,19 +443,19 @@
               "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.mkv",
               "file_index": 21,
               "formatted_name": "Shingeki No Kyojin Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.VOSTFR.x264.nfo",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.nfo",
               "original_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.mkv"
             }
           ]
         },
         {
-          "id": 1588,
+          "id": 1649,
           "episode_number": 21,
           "title": "Grondement",
           "aired": "2023-03-01",
           "original_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.mkv",
           "formatted_name": "Shingeki No Kyojin Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264.nfo",
+          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -463,19 +463,19 @@
               "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.mkv",
               "file_index": 22,
               "formatted_name": "Shingeki No Kyojin Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.VOSTFR.x264.nfo",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.nfo",
               "original_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.mkv"
             }
           ]
         },
         {
-          "id": 1586,
+          "id": 1648,
           "episode_number": 22,
           "title": "Mains salies",
           "aired": "2023-03-02",
           "original_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.mkv",
           "formatted_name": "Shingeki No Kyojin Henshū.S04E22.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.VOSTFR.x264.nfo",
+          "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.nfo",
           "torrents": [],
           "paths": [
             {
@@ -483,7 +483,7 @@
               "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.mkv",
               "file_index": 23,
               "formatted_name": "Shingeki No Kyojin Henshū.S04E22.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.VOSTFR.x264.nfo",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.nfo",
               "original_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.mkv"
             }
           ]
