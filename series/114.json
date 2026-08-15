@@ -1,28 +1,14 @@
 {
   "id": 114,
   "title": "Classroom of the Elite",
-  "show_title": null,
+  "show_title": "Classroom of the Elite",
   "torrents": [],
   "seasons": [
     {
       "id": 273,
       "season_number": 1,
       "title": "Première année",
-      "torrents": [
-        {
-          "nyaa_id": 2144235,
-          "nyaa_url": "https://nyaa.si/view/2144235",
-          "title": "[Manny] Classroom of the Elite Henshu - Year 1 (1er trimestre)  - 1080p.MULTI.x264",
-          "torrent_name": "[Manny] Classroom of the Elite Henshu - Year 1 (1er trimestre)  - 1080p.MULTI.x264",
-          "torrent_url": "https://nyaa.si/download/2144235.torrent",
-          "magnet": "magnet:?xt=urn:btih:cc47dfbed7c7d7cc757cebf0e58871f51c806740&dn=%5BManny%5D%20Classroom%20of%20the%20Elite%20Henshu%20-%20Year%201%20%281er%20trimestre%29%20%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "cc47dfbed7c7d7cc757cebf0e58871f51c806740",
-          "size": "7.0 GiB",
-          "pub_date": "2026-08-09 20:46",
-          "seeders": 6,
-          "fankai": true
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 1653,
@@ -33,16 +19,7 @@
           "formatted_name": "Classroom of the Elite.S01E01.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Classroom of the Elite Henshu 01 - L'Enfer, c'est les autres  - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": [
-            {
-              "infohash": "cc47dfbed7c7d7cc757cebf0e58871f51c806740",
-              "path": "[Manny] Classroom of the Elite Henshu - Year 1 (1er trimestre)  - 1080p.MULTI.x264/[Manny] Classroom of the Elite Henshu 01 - L'Enfer, c'est les autres  - 1080p.MULTI.x264.mkv",
-              "file_index": 0,
-              "formatted_name": "Classroom of the Elite.S01E01.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Manny] Classroom of the Elite Henshu 01 - L'Enfer, c'est les autres  - 1080p.MULTI.x264.nfo",
-              "original_filename": "[Manny] Classroom of the Elite Henshu 01 - L'Enfer, c'est les autres  - 1080p.MULTI.x264.mkv"
-            }
-          ]
+          "paths": []
         },
         {
           "id": 1652,
@@ -53,16 +30,7 @@
           "formatted_name": "Classroom of the Elite.S01E02.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Classroom of the Elite Henshu 02 - L'île des stratégies - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": [
-            {
-              "infohash": "cc47dfbed7c7d7cc757cebf0e58871f51c806740",
-              "path": "[Manny] Classroom of the Elite Henshu - Year 1 (1er trimestre)  - 1080p.MULTI.x264/[Manny] Classroom of the Elite Henshu 02 - L'île des stratégies - 1080p.MULTI.x264.mkv",
-              "file_index": 1,
-              "formatted_name": "Classroom of the Elite.S01E02.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Manny] Classroom of the Elite Henshu 02 - L'île des stratégies - 1080p.MULTI.x264.nfo",
-              "original_filename": "[Manny] Classroom of the Elite Henshu 02 - L'île des stratégies - 1080p.MULTI.x264.mkv"
-            }
-          ]
+          "paths": []
         },
         {
           "id": 1651,
@@ -73,16 +41,7 @@
           "formatted_name": "Classroom of the Elite.S01E03.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Classroom of the Elite Henshu 03 - L'examen spécial - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": [
-            {
-              "infohash": "cc47dfbed7c7d7cc757cebf0e58871f51c806740",
-              "path": "[Manny] Classroom of the Elite Henshu - Year 1 (1er trimestre)  - 1080p.MULTI.x264/[Manny] Classroom of the Elite Henshu 03 - L'examen spécial - 1080p.MULTI.x264.mkv",
-              "file_index": 2,
-              "formatted_name": "Classroom of the Elite.S01E03.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Manny] Classroom of the Elite Henshu 03 - L'examen spécial - 1080p.MULTI.x264.nfo",
-              "original_filename": "[Manny] Classroom of the Elite Henshu 03 - L'examen spécial - 1080p.MULTI.x264.mkv"
-            }
-          ]
+          "paths": []
         }
       ]
     },
