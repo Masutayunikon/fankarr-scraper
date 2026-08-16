@@ -29,7 +29,7 @@
               "infohash": "817d3605a634efe0cfb910801b9c491449b3b369",
               "size": "1.8 GiB",
               "pub_date": "2024-08-25 17:45",
-              "seeders": 15,
+              "seeders": 16,
               "fankai": true
             }
           ],
@@ -199,7 +199,7 @@
               "infohash": "22df77a48eba629875866195758db994d8569a71",
               "size": "3.0 GiB",
               "pub_date": "2024-10-09 14:45",
-              "seeders": 17,
+              "seeders": 16,
               "fankai": true
             }
           ],
@@ -227,7 +227,7 @@
               "nyaa_id": 1883916,
               "nyaa_url": "https://nyaa.si/view/1883916",
               "title": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264",
-              "torrent_name": null,
+              "torrent_name": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264",
               "torrent_url": "https://nyaa.si/download/1883916.torrent",
               "magnet": "magnet:?xt=urn:btih:200929bab14a648f30e53a82a3f0970d2b3e51f4&dn=%5BBrazh%5D%20Demon%20Slayer%20Hensh%C5%AB%2007%20-%20L%27infiltration%20travestie%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "200929bab14a648f30e53a82a3f0970d2b3e51f4",
@@ -240,8 +240,8 @@
           "paths": [
             {
               "infohash": "200929bab14a648f30e53a82a3f0970d2b3e51f4",
-              "path": "Demon Slayer Henshū 07 - L'infiltration travestie.mkv",
-              "file_index": null,
+              "path": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
               "formatted_name": "Demon Slayer Henshū.S01E07.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Demon Slayer Henshū 07 - L'infiltration travestie - 1080p.MULTI.x264.mkv"
