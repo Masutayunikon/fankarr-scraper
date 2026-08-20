@@ -19,7 +19,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 11,
+          "seeders": 10,
           "fankai": true
         }
       ],
@@ -201,7 +201,7 @@
           "infohash": "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
           "size": "24.0 GiB",
           "pub_date": "2022-07-20 14:23",
-          "seeders": 11,
+          "seeders": 10,
           "fankai": true
         }
       ],
@@ -631,7 +631,7 @@
               "nyaa_id": 1731011,
               "nyaa_url": "https://nyaa.si/view/1731011",
               "title": "[Livai] Inazuma Eleven 25 (Fan-kai) - La Contre-Attaque Catenaccio - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 25 (Fan-kai) - La Contre-Attaque Catenaccio - 720p.MULTI.x264.mkv",
+              "torrent_name": null,
               "torrent_url": "https://nyaa.si/download/1731011.torrent",
               "magnet": "magnet:?xt=urn:btih:45b9b939c0ac9dba401a73110d5122e53fb1d3a0&dn=%5BLivai%5D%20Inazuma%20Eleven%2025%20%28Fan-kai%29%20-%20La%20Contre-Attaque%20Catenaccio%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "45b9b939c0ac9dba401a73110d5122e53fb1d3a0",
@@ -644,8 +644,8 @@
           "paths": [
             {
               "infohash": "45b9b939c0ac9dba401a73110d5122e53fb1d3a0",
-              "path": "[Livaï] Inazuma Eleven 25 (Fan-kai) - La Contre-Attaque Catenaccio - 720p.MULTI.x264.mkv",
-              "file_index": 0,
+              "path": "Inazuma Eleven 25 (Fan-kai) - La Contre-Attaque Catenaccio.mkv",
+              "file_index": null,
               "formatted_name": "Inazuma Eleven Fan-Cut.S03E25.MULTI.720p.x264-FANKAI",
               "nfo_filename": "[Livaï] Inazuma Eleven 25 (Fan-kai) - La Contre-Attaque Catenaccio - 720p.MULTI.x264.nfo",
               "original_filename": "[Livaï] Inazuma Eleven 25 (Fan-kai) - La Contre-Attaque Catenaccio - 720p.MULTI.x264.mkv"
@@ -705,7 +705,7 @@
               "infohash": "6d63ed4836215690f86a5bacbcc6a1f9e87f85a3",
               "size": "1.4 GiB",
               "pub_date": "2024-10-11 19:24",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
@@ -773,7 +773,7 @@
               "infohash": "b38e4987bcdf7ef77c16e8d120b7ceaed145bb67",
               "size": "2.6 GiB",
               "pub_date": "2024-11-04 20:15",
-              "seeders": 8,
+              "seeders": 7,
               "fankai": true
             }
           ],
