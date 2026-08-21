@@ -97,7 +97,7 @@
               "nyaa_id": 2124815,
               "nyaa_url": "https://nyaa.si/view/2124815",
               "title": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze",
-              "torrent_name": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264",
+              "torrent_name": null,
               "torrent_url": "https://nyaa.si/download/2124815.torrent",
               "magnet": "magnet:?xt=urn:btih:ace5ba44e961422566d8b6a19bd99022dc15500b&dn=%5BShalouf%5D%20Chainsaw%20Man%20Hensh%C5%AB%2004%20-%20Arc%20Reze&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "ace5ba44e961422566d8b6a19bd99022dc15500b",
@@ -110,8 +110,8 @@
           "paths": [
             {
               "infohash": "ace5ba44e961422566d8b6a19bd99022dc15500b",
-              "path": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264/[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.mkv",
-              "file_index": 0,
+              "path": "Chainsaw Man Henshū 04 - Arc Reze.mkv",
+              "file_index": null,
               "formatted_name": "Chainsaw Man Henshū.S01E04.VOSTFR.HD.x264-FANKAI",
               "nfo_filename": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.nfo",
               "original_filename": "[Shalouf] Chainsaw Man Henshū 04 - Arc Reze - 1080p.MULTI.x264.mkv"

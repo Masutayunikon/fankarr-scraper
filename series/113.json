@@ -125,7 +125,7 @@
               "nyaa_id": 2117650,
               "nyaa_url": "https://nyaa.si/view/2117650",
               "title": "[Hellinouille] World Trigger Kaï 04 - L’enrôlement au Border",
-              "torrent_name": "[Hellinouille] World Trigger Kaï 04 - L’enrôlement au Border - VOSTFR.1080p.x264.mkv",
+              "torrent_name": null,
               "torrent_url": "https://nyaa.si/download/2117650.torrent",
               "magnet": "magnet:?xt=urn:btih:88b1c6318311407b2917136c658a23a0426c3fd2&dn=%5BHellinouille%5D%20World%20Trigger%20Ka%C3%AF%2004%20-%20L%E2%80%99enr%C3%B4lement%20au%20Border&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "88b1c6318311407b2917136c658a23a0426c3fd2",
@@ -138,8 +138,8 @@
           "paths": [
             {
               "infohash": "88b1c6318311407b2917136c658a23a0426c3fd2",
-              "path": "[Hellinouille] World Trigger Kaï 04 - L’enrôlement au Border - VOSTFR.1080p.x264.mkv",
-              "file_index": 0,
+              "path": "World Trigger Kaï 04 - L’enrôlement au Border.mkv",
+              "file_index": null,
               "formatted_name": "World Trigger Kaï.S01E04.VOSTFR.HD.x264-FANKAI",
               "nfo_filename": "[Hellinouille] World Trigger Kaï 04 - L’enrôlement au Border - VOSTFR.1080p.x264.nfo",
               "original_filename": "[Hellinouille] World Trigger Kaï 04 - L’enrôlement au Border - VOSTFR.1080p.x264.mkv"
