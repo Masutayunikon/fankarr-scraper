@@ -13,7 +13,7 @@
       "infohash": "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
       "size": "19.6 GiB",
       "pub_date": "2026-03-07 11:22",
-      "seeders": 11,
+      "seeders": 10,
       "fankai": true
     }
   ],
@@ -205,7 +205,7 @@
               "nyaa_id": 1667031,
               "nyaa_url": "https://nyaa.si/view/1667031",
               "title": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits",
-              "torrent_name": null,
+              "torrent_name": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.mkv",
               "torrent_url": "https://nyaa.si/download/1667031.torrent",
               "magnet": "magnet:?xt=urn:btih:07a04de62868cfe8f7330bf7718ee793b15f7812&dn=%5BTriggerforce%5DTokyo%20Revengers%20Henshu%2005%20-%20Derniers%20souhaits&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
               "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
@@ -218,8 +218,8 @@
           "paths": [
             {
               "infohash": "07a04de62868cfe8f7330bf7718ee793b15f7812",
-              "path": "Tokyo Revengers Henshu 05 - Derniers souhaits.mkv",
-              "file_index": null,
+              "path": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.mkv",
+              "file_index": 0,
               "formatted_name": "Tokyo Revengers Henshū.S01E05.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.1080p.MULTI.x264.nfo",
               "original_filename": "[Triggerforce]Tokyo Revengers Henshu 05 - Derniers souhaits.mkv"
