@@ -2,7 +2,21 @@
   "id": 110,
   "title": "Shingeki No Kyojin Henshū",
   "show_title": null,
-  "torrents": [],
+  "torrents": [
+    {
+      "nyaa_id": 2137295,
+      "nyaa_url": "https://nyaa.si/view/2137295",
+      "title": "[Johker] Shingeki No Kyojin Henshū (Fan-Kaï) 1-23 - 1080p.MULTI.VF/VOSTFR.x264 (L'Attaque des Titans Henshū)",
+      "torrent_name": "[Johker] Shingeki no Kyojin (Fan-Kaï)",
+      "torrent_url": "https://nyaa.si/download/2137295.torrent",
+      "magnet": "magnet:?xt=urn:btih:a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd&dn=%5BJohker%5D%20Shingeki%20No%20Kyojin%20Hensh%C5%AB%20%28Fan-Ka%C3%AF%29%201-23%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%28L%27Attaque%20des%20Titans%20Hensh%C5%AB%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+      "size": "43.9 GiB",
+      "pub_date": "2026-07-25 17:06",
+      "seeders": 33,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 263,
@@ -19,7 +33,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S01E01.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 01 - Pour toi, dans deux mille ans - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 1 - Un Monde Cruel/[Johker] Shingeki No Kyojin Henshū - 01 - Pour toi, dans deux mille ans - 1080p.MULTI.x264.mkv",
+              "file_index": 2,
+              "formatted_name": "Shingeki No Kyojin Henshū.S01E01.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 01 - Pour toi, dans deux mille ans - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 01 - Pour toi, dans deux mille ans - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1566,
@@ -30,7 +53,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S01E02.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 02 - Se battre pour vaincre, vaincre pour vivre - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 1 - Un Monde Cruel/[Johker] Shingeki No Kyojin Henshū - 02 - Se battre pour vaincre, vaincre pour vivre - 1080p.MULTI.x264.mkv",
+              "file_index": 3,
+              "formatted_name": "Shingeki No Kyojin Henshū.S01E02.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 02 - Se battre pour vaincre, vaincre pour vivre - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 02 - Se battre pour vaincre, vaincre pour vivre - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1569,
@@ -41,7 +73,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S01E03.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 03 - Un nouvel espoir - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 1 - Un Monde Cruel/[Johker] Shingeki No Kyojin Henshū - 03 - Un nouvel espoir - 1080p.MULTI.x264.mkv",
+              "file_index": 4,
+              "formatted_name": "Shingeki No Kyojin Henshū.S01E03.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 03 - Un nouvel espoir - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 03 - Un nouvel espoir - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1568,
@@ -52,7 +93,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S01E04.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 04 - Le temps des désillusions - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 1 - Un Monde Cruel/[Johker] Shingeki No Kyojin Henshū - 04 - Le temps des désillusions - 1080p.MULTI.x264.mkv",
+              "file_index": 5,
+              "formatted_name": "Shingeki No Kyojin Henshū.S01E04.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 04 - Le temps des désillusions - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 04 - Le temps des désillusions - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -71,7 +121,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S02E05.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 05 - Les Ailes de la liberté - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 2 - Les Ailes de la Liberté/[Johker] Shingeki No Kyojin Henshū - 05 - Les Ailes de la liberté - 1080p.MULTI.x264.mkv",
+              "file_index": 6,
+              "formatted_name": "Shingeki No Kyojin Henshū.S02E05.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 05 - Les Ailes de la liberté - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 05 - Les Ailes de la liberté - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1571,
@@ -82,7 +141,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S02E06.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 06 - Présence féminine - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 2 - Les Ailes de la Liberté/[Johker] Shingeki No Kyojin Henshū - 06 - Présence féminine - 1080p.MULTI.x264.mkv",
+              "file_index": 7,
+              "formatted_name": "Shingeki No Kyojin Henshū.S02E06.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 06 - Présence féminine - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 06 - Présence féminine - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1575,
@@ -93,7 +161,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S02E07.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 07 - Piège de cristal - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 2 - Les Ailes de la Liberté/[Johker] Shingeki No Kyojin Henshū - 07 - Piège de cristal - 1080p.MULTI.x264.mkv",
+              "file_index": 8,
+              "formatted_name": "Shingeki No Kyojin Henshū.S02E07.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 07 - Piège de cristal - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 07 - Piège de cristal - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1570,
@@ -104,7 +181,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S02E08.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 08 - Soldats d'ici-bas - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 2 - Les Ailes de la Liberté/[Johker] Shingeki No Kyojin Henshū - 08 - Soldats d'ici-bas - 1080p.MULTI.x264.mkv",
+              "file_index": 9,
+              "formatted_name": "Shingeki No Kyojin Henshū.S02E08.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 08 - Soldats d'ici-bas - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 08 - Soldats d'ici-bas - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1574,
@@ -115,7 +201,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S02E09.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 09 - Guerriers d'au-delà - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 2 - Les Ailes de la Liberté/[Johker] Shingeki No Kyojin Henshū - 09 - Guerriers d'au-delà - 1080p.MULTI.x264.mkv",
+              "file_index": 10,
+              "formatted_name": "Shingeki No Kyojin Henshū.S02E09.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 09 - Guerriers d'au-delà - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 09 - Guerriers d'au-delà - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1573,
@@ -126,7 +221,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S02E10.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 10 - Choc des Titans - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 2 - Les Ailes de la Liberté/[Johker] Shingeki No Kyojin Henshū - 10 - Choc des Titans - 1080p.MULTI.x264.mkv",
+              "file_index": 11,
+              "formatted_name": "Shingeki No Kyojin Henshū.S02E10.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 10 - Choc des Titans - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 10 - Choc des Titans - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -145,7 +249,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S03E11.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 11 - Coup d'Etat - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 3 - Tournant Majeur/[Johker] Shingeki No Kyojin Henshū - 11 - Coup d'État - 1080p.MULTI.x264.mkv",
+              "file_index": 12,
+              "formatted_name": "Shingeki No Kyojin Henshū.S03E11.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 11 - Coup d'Etat - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 11 - Coup d'État - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1576,
@@ -156,7 +269,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S03E12.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 12 - Fantômes du passé - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 3 - Tournant Majeur/[Johker] Shingeki No Kyojin Henshū - 12 - Fantômes du passé - 1080p.MULTI.x264.mkv",
+              "file_index": 13,
+              "formatted_name": "Shingeki No Kyojin Henshū.S03E12.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 12 - Fantômes du passé - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 12 - Fantômes du passé - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1579,
@@ -167,7 +289,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S03E13.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 13 - Sans regrets - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 3 - Tournant Majeur/[Johker] Shingeki No Kyojin Henshū - 13 - Sans regrets - 1080p.MULTI.x264.mkv",
+              "file_index": 14,
+              "formatted_name": "Shingeki No Kyojin Henshū.S03E13.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 13 - Sans regrets - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 13 - Sans regrets - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1580,
@@ -178,7 +309,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S03E14.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 14 - Offrez votre coeur - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 3 - Tournant Majeur/[Johker] Shingeki No Kyojin Henshū - 14 - Offrez votre coeur - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Shingeki No Kyojin Henshū.S03E14.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 14 - Offrez votre coeur - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 14 - Offrez votre cœur - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1578,
@@ -189,7 +329,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S03E15.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 15 - Le sous-sol des secrets - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 3 - Tournant Majeur/[Johker] Shingeki No Kyojin Henshū - 15 - Le sous-sol des secrets - 1080p.MULTI.x264.mkv",
+              "file_index": 16,
+              "formatted_name": "Shingeki No Kyojin Henshū.S03E15.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 15 - Le sous-sol des secrets - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 15 - Le sous-sol des secrets - 1080p.MULTI.x264.mkv"
+            }
+          ]
         }
       ]
     },
@@ -208,7 +357,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E16.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 16 - Guerriers d'ici-bas - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 16 - Guerriers d'ici-bas - 1080p.MULTI.x264.mkv",
+              "file_index": 17,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E16.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 16 - Guerriers d'ici-bas - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 16 - Guerriers d'ici-bas - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1582,
@@ -219,7 +377,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E17.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 17 - Démons d'au-delà - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 17 - Démons d'au-delà - 1080p.MULTI.x264.mkv",
+              "file_index": 18,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E17.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 17 - Démons d'au-delà - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 17 - Démons d'au-delà - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1585,
@@ -230,7 +397,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E18.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 18 - Une nouvelle crainte - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 18 - Une nouvelle crainte - 1080p.MULTI.x264.mkv",
+              "file_index": 19,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E18.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 18 - Une nouvelle crainte - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 18 - Une nouvelle crainte - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1584,
@@ -241,7 +417,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E19.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 19 - Santé - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 19 - Santé - 1080p.MULTI.x264.mkv",
+              "file_index": 20,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E19.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 19 - Santé - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 19 - Santé - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1650,
@@ -252,7 +437,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.mkv",
+              "file_index": 21,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 20 - De toi, il y a deux mille ans - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1649,
@@ -263,7 +457,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.mkv",
+              "file_index": 22,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 21 - Grondement - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1648,
@@ -274,7 +477,16 @@
           "formatted_name": "Shingeki No Kyojin Henshū.S04E22.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.nfo",
           "torrents": [],
-          "paths": []
+          "paths": [
+            {
+              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.mkv",
+              "file_index": 23,
+              "formatted_name": "Shingeki No Kyojin Henshū.S04E22.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Johker] Shingeki No Kyojin Henshū - 22 - Mains salies - 1080p.MULTI.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1647,
@@ -284,26 +496,12 @@
           "original_filename": "[Johker] Shingeki No Kyojin Henshū - 23 - Le Grand terrassement - 1080p.MULTI.x264.mkv",
           "formatted_name": "Shingeki No Kyojin Henshū.S04E23.VOSTFR.HD.x264-FANKAI",
           "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 23 - Le Grand Terrassement - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 2137295,
-              "nyaa_url": "https://nyaa.si/view/2137295",
-              "title": "[Johker] Shingeki No Kyojin Henshū (Fan-Kaï) 1-23 - 1080p.MULTI.VF/VOSTFR.x264 (L'Attaque des Titans Henshū)",
-              "torrent_name": null,
-              "torrent_url": "https://nyaa.si/download/2137295.torrent",
-              "magnet": "magnet:?xt=urn:btih:a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd&dn=%5BJohker%5D%20Shingeki%20No%20Kyojin%20Hensh%C5%AB%20%28Fan-Ka%C3%AF%29%201-23%20-%201080p.MULTI.VF%2FVOSTFR.x264%20%28L%27Attaque%20des%20Titans%20Hensh%C5%AB%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
-              "size": "43.9 GiB",
-              "pub_date": "2026-07-25 17:06",
-              "seeders": 33,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd",
-              "path": "Shingeki No Kyojin Henshū (Fan-Kaï) 1-23.mkv",
-              "file_index": null,
+              "path": "[Johker] Shingeki no Kyojin (Fan-Kaï)/Saga 4 - Guerre pour Paradis/[Johker] Shingeki No Kyojin Henshū - 23 - Le Grand Terrassement - 1080p.MULTI.x264.mkv",
+              "file_index": 24,
               "formatted_name": "Shingeki No Kyojin Henshū.S04E23.VOSTFR.HD.x264-FANKAI",
               "nfo_filename": "[Johker] Shingeki No Kyojin Henshū - 23 - Le Grand Terrassement - 1080p.MULTI.x264.nfo",
               "original_filename": "[Johker] Shingeki No Kyojin Henshū - 23 - Le Grand terrassement - 1080p.MULTI.x264.mkv"
