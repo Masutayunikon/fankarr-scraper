@@ -399,9 +399,10 @@ def assign(structure, torrent, ttype):
         folder_idx      = build_folder_ep_index(torrent)
         nb_seasons_loc  = len([s for s in structure["seasons"] if s.get("season_number", 0) != 0])
         assigned = False
+        season_exists = any(s.get("season_number") == season_num for s in structure["seasons"])
         for season in structure["seasons"]:
             sn = season.get("season_number", 0)
-            if season_num is not None and sn != 0 and sn != season_num:
+            if season_num is not None and season_exists and sn != 0 and sn != season_num:
                 continue
             is_specials     = sn == 0
             folder_key      = find_best_folder(season.get("title", ""), folder_idx)
