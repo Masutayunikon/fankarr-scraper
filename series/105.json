@@ -13,7 +13,7 @@
       "infohash": "876936e25512b5e31c764d71cf08b55958d6cd79",
       "size": "23.7 GiB",
       "pub_date": "2026-08-27 20:06",
-      "seeders": 4,
+      "seeders": 9,
       "fankai": true
     }
   ],
@@ -43,7 +43,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -85,7 +85,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -127,7 +127,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -169,7 +169,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -211,7 +211,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -253,7 +253,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -303,7 +303,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -345,7 +345,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -387,7 +387,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -429,7 +429,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -471,7 +471,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -513,7 +513,7 @@
               "infohash": "ae7e7164b54a2813d1b142c841793ef59b60739b",
               "size": "8.9 GiB",
               "pub_date": "2026-04-25 18:52",
-              "seeders": 10,
+              "seeders": 9,
               "fankai": true
             }
           ],
@@ -563,7 +563,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -605,7 +605,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -647,7 +647,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -689,7 +689,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -731,7 +731,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -763,13 +763,13 @@
       "torrents": [],
       "episodes": [
         {
-          "id": 1509,
+          "id": 1669,
           "episode_number": 18,
           "title": "Rêve Américain",
           "aired": "2026-08-28",
           "original_filename": "[Tenma] Major Henshū - 18 - Rêve Américain - 1080p.VOSTFR-EN.x264.mkv",
           "formatted_name": "Major Henshū.S04E18.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Tenma] Major Henshū - 18 - Rêve Américain - 1080p.VOSTFR-EN.x264.nfo",
+          "nfo_filename": "[Tenma] Major Henshū 18 - Rêve Américain - 1080p.MULTISUB.x264.nfo",
           "torrents": [
             {
               "nyaa_id": 2152355,
@@ -781,7 +781,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -791,7 +791,7 @@
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 18 - Rêve Américain - 1080p.MULTISUB.AV1.mkv",
               "file_index": 6,
               "formatted_name": "Major Henshū.S04E18.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 18 - Rêve Américain - 1080p.VOSTFR-EN.x264.nfo",
+              "nfo_filename": "[Tenma] Major Henshū 18 - Rêve Américain - 1080p.MULTISUB.x264.nfo",
               "original_filename": "[Tenma] Major Henshū - 18 - Rêve Américain - 1080p.VOSTFR-EN.x264.mkv"
             },
             {
@@ -799,19 +799,19 @@
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 18 - Rêve Américain - 1080p.MULTISUB.x264.mkv",
               "file_index": 18,
               "formatted_name": "Major Henshū.S04E18.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 18 - Rêve Américain - 1080p.VOSTFR-EN.x264.nfo",
+              "nfo_filename": "[Tenma] Major Henshū 18 - Rêve Américain - 1080p.MULTISUB.x264.nfo",
               "original_filename": "[Tenma] Major Henshū - 18 - Rêve Américain - 1080p.VOSTFR-EN.x264.mkv"
             }
           ]
         },
         {
-          "id": 1511,
+          "id": 1673,
           "episode_number": 19,
           "title": "Memphis Bats",
           "aired": "2026-08-28",
-          "original_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.VOSTFR-EN.x264.mkv",
+          "original_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.MULTISUB.AV1.mkv",
           "formatted_name": "Major Henshū.S04E19.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.VOSTFR-EN.x264.nfo",
+          "nfo_filename": "[Tenma] Major Henshū 19 - Memphis Bats - 1080p.MULTISUB.AV1.nfo",
           "torrents": [
             {
               "nyaa_id": 2152355,
@@ -823,7 +823,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -833,27 +833,27 @@
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 19 - Memphis Bats - 1080p.MULTISUB.AV1.mkv",
               "file_index": 7,
               "formatted_name": "Major Henshū.S04E19.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.VOSTFR-EN.x264.nfo",
-              "original_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.VOSTFR-EN.x264.mkv"
+              "nfo_filename": "[Tenma] Major Henshū 19 - Memphis Bats - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.MULTISUB.AV1.mkv"
             },
             {
               "infohash": "876936e25512b5e31c764d71cf08b55958d6cd79",
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 19 - Memphis Bats - 1080p.MULTISUB.x264.mkv",
               "file_index": 19,
               "formatted_name": "Major Henshū.S04E19.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.VOSTFR-EN.x264.nfo",
-              "original_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.VOSTFR-EN.x264.mkv"
+              "nfo_filename": "[Tenma] Major Henshū 19 - Memphis Bats - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 19 - Memphis Bats - 1080p.MULTISUB.AV1.mkv"
             }
           ]
         },
         {
-          "id": 1510,
+          "id": 1667,
           "episode_number": 20,
           "title": "Playoff",
           "aired": "2026-08-28",
-          "original_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.VOSTFR-EN.x264.mkv",
+          "original_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.MULTISUB.AV1.mkv",
           "formatted_name": "Major Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.VOSTFR-EN.x264.nfo",
+          "nfo_filename": "[Tenma] Major Henshū 20 - Playoff - 1080p.MULTISUB.AV1.nfo",
           "torrents": [
             {
               "nyaa_id": 2152355,
@@ -865,7 +865,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -875,27 +875,27 @@
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 20 - Playoff - 1080p.MULTISUB.AV1.mkv",
               "file_index": 8,
               "formatted_name": "Major Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.VOSTFR-EN.x264.nfo",
-              "original_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.VOSTFR-EN.x264.mkv"
+              "nfo_filename": "[Tenma] Major Henshū 20 - Playoff - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.MULTISUB.AV1.mkv"
             },
             {
               "infohash": "876936e25512b5e31c764d71cf08b55958d6cd79",
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 20 - Playoff - 1080p.MULTISUB.x264.mkv",
               "file_index": 20,
               "formatted_name": "Major Henshū.S04E20.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.VOSTFR-EN.x264.nfo",
-              "original_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.VOSTFR-EN.x264.mkv"
+              "nfo_filename": "[Tenma] Major Henshū 20 - Playoff - 1080p.MULTISUB.AV1.nfo",
+              "original_filename": "[Tenma] Major Henshū - 20 - Playoff - 1080p.MULTISUB.AV1.mkv"
             }
           ]
         },
         {
-          "id": 1508,
+          "id": 1668,
           "episode_number": 21,
           "title": "Lanceur vs Batteur",
           "aired": "2026-08-28",
           "original_filename": "[Tenma] Major Henshū - 21 - Lanceur vs Batteur - 1080p.VOSTFR-EN.x264.mkv",
           "formatted_name": "Major Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
-          "nfo_filename": "[Tenma] Major Henshū - 21 - Lanceur vs Batteur - 1080p.VOSTFR-EN.x264.nfo",
+          "nfo_filename": "[Tenma] Major Henshū 21 - Lanceur vs Batteur - 1080p.MULTISUB.x264.nfo",
           "torrents": [
             {
               "nyaa_id": 2152355,
@@ -907,7 +907,7 @@
               "infohash": "435cd1ebacaa496fd162912d881b2d2328dc825c",
               "size": "7.9 GiB",
               "pub_date": "2026-08-27 20:05",
-              "seeders": 6,
+              "seeders": 5,
               "fankai": true
             }
           ],
@@ -917,7 +917,7 @@
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 21 - Lanceur vs Batteur - 1080p.MULTISUB.AV1.mkv",
               "file_index": 9,
               "formatted_name": "Major Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 21 - Lanceur vs Batteur - 1080p.VOSTFR-EN.x264.nfo",
+              "nfo_filename": "[Tenma] Major Henshū 21 - Lanceur vs Batteur - 1080p.MULTISUB.x264.nfo",
               "original_filename": "[Tenma] Major Henshū - 21 - Lanceur vs Batteur - 1080p.VOSTFR-EN.x264.mkv"
             },
             {
@@ -925,7 +925,7 @@
               "path": "Major Henshū [Tenma]/Saison 4/[Tenma] Major Henshū 21 - Lanceur vs Batteur - 1080p.MULTISUB.x264.mkv",
               "file_index": 21,
               "formatted_name": "Major Henshū.S04E21.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "[Tenma] Major Henshū - 21 - Lanceur vs Batteur - 1080p.VOSTFR-EN.x264.nfo",
+              "nfo_filename": "[Tenma] Major Henshū 21 - Lanceur vs Batteur - 1080p.MULTISUB.x264.nfo",
               "original_filename": "[Tenma] Major Henshū - 21 - Lanceur vs Batteur - 1080p.VOSTFR-EN.x264.mkv"
             }
           ]
