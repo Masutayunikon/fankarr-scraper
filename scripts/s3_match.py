@@ -116,9 +116,10 @@ _IS_INTEGRAL = re.compile(r"""
     | toutes?\s*(?:les\s*)?saisons
     | all\s*seasons
     | films?\s+\d+\s*[àa]\s*\d+
-    | saisons?\s*\d+\s*[/&,]\s*\d
-    | seasons?\s*\d+\s*[/&,]\s*\d
-    | parties?\s*\d+\s*[/&,]\s*\d
+    | \d+\s*films?
+    | saisons?\s*\d+\s*(?:et|[àa]|to|-|/|&|,)\s*\d
+    | seasons?\s*\d+\s*(?:et|[àa]|to|-|/|&|,)\s*\d
+    | parties?\s*\d+\s*(?:et|[àa]|to|-|/|&|,)\s*\d
     | s\d{1,2}\s*/\s*s\d{1,2}
     | saga\s*\d+/\d+
     """, re.IGNORECASE | re.VERBOSE)

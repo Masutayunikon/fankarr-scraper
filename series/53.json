@@ -13,7 +13,7 @@
       "infohash": "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
       "size": "278.1 GiB",
       "pub_date": "2026-03-09 18:30",
-      "seeders": 53,
+      "seeders": 79,
       "fankai": true
     }
   ],
@@ -2947,6 +2947,40 @@
               "formatted_name": "One Piece Kaï.S12E133.VOSTFR.1080p.x264-FANKAI",
               "nfo_filename": "One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].nfo",
               "original_filename": "One Piece Kaï - 133 - Les Héritiers de la Vérité - 1080p.VOSTFR.x264 [Johker].mkv"
+            }
+          ]
+        },
+        {
+          "id": 1675,
+          "episode_number": 134,
+          "title": "La Descente du Dieu Guerrier",
+          "aired": "2026-08-31",
+          "original_filename": "One Piece Kaï - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker].mkv",
+          "formatted_name": "One Piece Kaï.S12E134.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "One Piece Kaï - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker].nfo",
+          "torrents": [
+            {
+              "nyaa_id": 2154561,
+              "nyaa_url": "https://nyaa.si/view/2154561",
+              "title": "One Piece Kai - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker]",
+              "torrent_name": "One Piece Kaï - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker].mkv",
+              "torrent_url": "https://nyaa.si/download/2154561.torrent",
+              "magnet": "magnet:?xt=urn:btih:f5e09a9753134c96f5323cb15c7d6daf6a3de5fe&dn=One%20Piece%20Kai%20-%20134%20-%20La%20Descente%20du%20Dieu%20Guerrier%20-%201080p.VOSTFR.x264%20%5BJohker%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "f5e09a9753134c96f5323cb15c7d6daf6a3de5fe",
+              "size": "2.1 GiB",
+              "pub_date": "2026-08-31 17:31",
+              "seeders": 54,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "f5e09a9753134c96f5323cb15c7d6daf6a3de5fe",
+              "path": "One Piece Kaï - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker].mkv",
+              "file_index": 0,
+              "formatted_name": "One Piece Kaï.S12E134.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "One Piece Kaï - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker].nfo",
+              "original_filename": "One Piece Kaï - 134 - La Descente du Dieu Guerrier - 1080p.VOSTFR.x264 [Johker].mkv"
             }
           ]
         }
