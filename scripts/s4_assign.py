@@ -27,7 +27,7 @@ DELAY          = 0.3
 # ── Épisodes à ignorer (erreurs API, doublons, etc.) ─────────────────────────
 # Ajouter ici les IDs d'épisodes à exclure de toute assignation.
 IGNORED_EPISODE_IDS: set[int] = {
-    1270,  # erreur API temporaire
+    1204,  # erreur API temporaire
 }
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
