@@ -103,17 +103,6 @@
               "original_filename": "[Brazh] Kenshin le vagabond Henshū 04 - Le kenjutsu à l'ère Meiji - 1080p.VOSTFR.x264.mkv"
             }
           ]
-        },
-        {
-          "id": 1204,
-          "episode_number": 14,
-          "title": "Brazh Kenshin le vagabond Henshū 05 Le 14 mai 1878 VOSTFR",
-          "aired": null,
-          "original_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 14 mai 1878 - 1080p.VOSTFR.x264.mkv",
-          "formatted_name": "Kenshin le Vagabond Henshū.S01E14.VOSTFR.1080p.x264-FANKAI",
-          "nfo_filename": "[Brazh] Kenshin le vagabond Henshū 05 - Le 14 mai 1878 - 1080p.VOSTFR.x264.nfo",
-          "torrents": [],
-          "paths": []
         }
       ]
     },
@@ -132,7 +121,7 @@
           "infohash": "b854769297b2ddd240c8c8a3fe3d6f5b3ac36afa",
           "size": "5.5 GiB",
           "pub_date": "2025-09-01 08:48",
-          "seeders": 10,
+          "seeders": 11,
           "fankai": true
         }
       ],
