@@ -13,7 +13,7 @@
       "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
       "size": "3.8 GiB",
       "pub_date": "2026-03-24 20:28",
-      "seeders": 1,
+      "seeders": 2,
       "fankai": true
     },
     {
@@ -26,7 +26,7 @@
       "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
       "size": "2.7 GiB",
       "pub_date": "2026-03-19 23:24",
-      "seeders": 9,
+      "seeders": 11,
       "fankai": true
     }
   ],
@@ -43,24 +43,24 @@
           "title": "L'ambiance de la nuit",
           "aired": "2023-11-14",
           "original_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv",
-          "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x264-FANKAI",
-          "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.nfo",
+          "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x265-FANKAI",
+          "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.nfo",
           "torrents": [],
           "paths": [
             {
               "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
               "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.mkv",
               "file_index": 2,
-              "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.nfo",
+              "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x265-FANKAI",
+              "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.nfo",
               "original_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv"
             },
             {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.mkv",
               "file_index": 2,
-              "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x264.nfo",
+              "formatted_name": "Call of the Night Henshū.S01E01.MULTI.1080p.x265-FANKAI",
+              "nfo_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.x265.nfo",
               "original_filename": "Call of the Night Henshū 01 - L'ambiance de la nuit - 1080p.MULTI.FR.ENG.mkv"
             }
           ]
@@ -127,24 +127,24 @@
           "title": "Conflits nocturnes",
           "aired": "2023-12-19",
           "original_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv",
-          "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x264-FANKAI",
-          "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.nfo",
+          "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x265-FANKAI",
+          "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.nfo",
           "torrents": [],
           "paths": [
             {
               "infohash": "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
               "path": "Call of the Night Henshū/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.mkv",
               "file_index": 3,
-              "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.nfo",
+              "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x265-FANKAI",
+              "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.nfo",
               "original_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv"
             },
             {
               "infohash": "a8be1aa27155d54541e2a1ba6decd9464db310dc",
               "path": "Call of the Night Henshū/Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.mkv",
               "file_index": 3,
-              "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x264.nfo",
+              "formatted_name": "Call of the Night Henshū.S01E04.MULTI.1080p.x265-FANKAI",
+              "nfo_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.x265.nfo",
               "original_filename": "Call of the Night Henshū 04 - Conflits nocturnes - 1080p.MULTI.FR.ENG.mkv"
             }
           ]
