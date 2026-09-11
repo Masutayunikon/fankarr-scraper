@@ -1,7 +1,7 @@
 {
   "id": 12,
   "title": "Naruto Shippuden Yabai",
-  "show_title": null,
+  "show_title": "Naruto Shippuden Yabai",
   "torrents": [],
   "seasons": [
     {
@@ -383,31 +383,8 @@
           "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 33 - Le Rideau tombe.mkv",
           "formatted_name": "Naruto Shippuden Yabai.S04E33.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 33 - Un monde qui a échoué.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1873333,
-              "nyaa_url": "https://nyaa.si/view/1873333",
-              "title": "[Triggerforce] Naruto Shippuden Yabaï 33 - Un monde qui a échoué 1080p.MULTI.VFVOSTFR.x264",
-              "torrent_name": "[Triggerforce]Naruto Shippuden Yabaï 33 - Un monde qui a échoué.mkv",
-              "torrent_url": "https://nyaa.si/download/1873333.torrent",
-              "magnet": "magnet:?xt=urn:btih:bf9f5d4aeca79d5586128cc15ed9ec90c6599d83&dn=%5BTriggerforce%5D%20Naruto%20Shippuden%20Yaba%C3%AF%2033%20-%20Un%20monde%20qui%20a%20%C3%A9chou%C3%A9%201080p.MULTI.VFVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bf9f5d4aeca79d5586128cc15ed9ec90c6599d83",
-              "size": "1.9 GiB",
-              "pub_date": "2024-09-14 16:07",
-              "seeders": 44,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "bf9f5d4aeca79d5586128cc15ed9ec90c6599d83",
-              "path": "[Triggerforce]Naruto Shippuden Yabaï 33 - Un monde qui a échoué.mkv",
-              "file_index": 0,
-              "formatted_name": "Naruto Shippuden Yabai.S04E33.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 33 - Un monde qui a échoué.nfo",
-              "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 33 - Le Rideau tombe.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 229,
@@ -417,31 +394,8 @@
           "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate.mkv",
           "formatted_name": "Naruto Shippuden Yabai.S04E34.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1896190,
-              "nyaa_url": "https://nyaa.si/view/1896190",
-              "title": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate 1080p.MULTI.VFVOSTFR.x264",
-              "torrent_name": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate.mkv",
-              "torrent_url": "https://nyaa.si/download/1896190.torrent",
-              "magnet": "magnet:?xt=urn:btih:45ba5096f7270bb95f384d171bd4ba99f41faf08&dn=%5BTriggerforce%5DNaruto%20Shippuden%20Yaba%C3%AF%2034%20-%20Un%20printemps%20%C3%A9carlate%201080p.MULTI.VFVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "45ba5096f7270bb95f384d171bd4ba99f41faf08",
-              "size": "2.2 GiB",
-              "pub_date": "2024-11-07 07:52",
-              "seeders": 49,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "45ba5096f7270bb95f384d171bd4ba99f41faf08",
-              "path": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate.mkv",
-              "file_index": 0,
-              "formatted_name": "Naruto Shippuden Yabai.S04E34.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate.nfo",
-              "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 34 - Un printemps écarlate.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 227,
@@ -451,31 +405,8 @@
           "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun.mkv",
           "formatted_name": "Naruto Shippuden Yabai.S04E35.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1896660,
-              "nyaa_url": "https://nyaa.si/view/1896660",
-              "title": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun 1080p.MULTI.VFVOSTFR.x264",
-              "torrent_name": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun.mkv",
-              "torrent_url": "https://nyaa.si/download/1896660.torrent",
-              "magnet": "magnet:?xt=urn:btih:50ee4c6dd1f7fcc92374c5683de6c460ae2a6334&dn=%5BTriggerforce%5DNaruto%20Shippuden%20Yaba%C3%AF%2035%20-%20Un%20r%C3%AAve%20en%20commun%201080p.MULTI.VFVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "50ee4c6dd1f7fcc92374c5683de6c460ae2a6334",
-              "size": "2.9 GiB",
-              "pub_date": "2024-11-08 07:29",
-              "seeders": 46,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "50ee4c6dd1f7fcc92374c5683de6c460ae2a6334",
-              "path": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun.mkv",
-              "file_index": 0,
-              "formatted_name": "Naruto Shippuden Yabai.S04E35.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun.nfo",
-              "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 35 - Un rêve en commun.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 224,
@@ -485,31 +416,8 @@
           "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke.mkv",
           "formatted_name": "Naruto Shippuden Yabai.S04E36.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1900095,
-              "nyaa_url": "https://nyaa.si/view/1900095",
-              "title": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke 1080p.MULTI.VFVOSTFR.x264",
-              "torrent_name": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke.mkv",
-              "torrent_url": "https://nyaa.si/download/1900095.torrent",
-              "magnet": "magnet:?xt=urn:btih:7e5a92d309969f046c9a7c8dc3e1e8052df97aee&dn=%5BTriggerforce%5DNaruto%20Shippuden%20Yaba%C3%AF%2036%20-%20Naruto%20et%20Sasuke%201080p.MULTI.VFVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "7e5a92d309969f046c9a7c8dc3e1e8052df97aee",
-              "size": "1.2 GiB",
-              "pub_date": "2024-11-16 08:05",
-              "seeders": 47,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "7e5a92d309969f046c9a7c8dc3e1e8052df97aee",
-              "path": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke.mkv",
-              "file_index": 0,
-              "formatted_name": "Naruto Shippuden Yabai.S04E36.MULTI.1080p.x264-FANKAI",
-              "nfo_filename": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke.nfo",
-              "original_filename": "[Triggerforce]Naruto Shippuden Yabaï 36 - Naruto et Sasuke.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         }
       ]
     }

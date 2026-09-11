@@ -1,7 +1,7 @@
 {
   "id": 15,
   "title": "Inazuma Eleven Fan-Cut",
-  "show_title": null,
+  "show_title": "Inazuma Eleven Fan-Cut",
   "torrents": [],
   "seasons": [
     {
@@ -309,31 +309,8 @@
           "original_filename": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E26.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1883550,
-              "nyaa_url": "https://nyaa.si/view/1883550",
-              "title": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264.mkv",
-              "torrent_url": "https://nyaa.si/download/1883550.torrent",
-              "magnet": "magnet:?xt=urn:btih:965fc7eb604d2638a56d0ac07842f665ded504de&dn=%5BLiva%C3%AF%5D%20Inazuma%20Eleven%2026%20%28Fan-kai%29%20-%20La%20l%C3%A9gende%20de%20Liocott%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "965fc7eb604d2638a56d0ac07842f665ded504de",
-              "size": "1.8 GiB",
-              "pub_date": "2024-10-10 19:26",
-              "seeders": 6,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "965fc7eb604d2638a56d0ac07842f665ded504de",
-              "path": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264.mkv",
-              "file_index": 0,
-              "formatted_name": "Inazuma Eleven Fan-Cut.S03E26.MULTI.720p.x264-FANKAI",
-              "nfo_filename": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264.nfo",
-              "original_filename": "[Livaï] Inazuma Eleven 26 (Fan-kai) - La légende de Liocott - 720p.MULTI.x264.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 258,
@@ -343,31 +320,8 @@
           "original_filename": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E27.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1884048,
-              "nyaa_url": "https://nyaa.si/view/1884048",
-              "title": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264.mkv",
-              "torrent_url": "https://nyaa.si/download/1884048.torrent",
-              "magnet": "magnet:?xt=urn:btih:6d63ed4836215690f86a5bacbcc6a1f9e87f85a3&dn=%5BLiva%C3%AF%5D%20Inazuma%20Eleven%2027%20%28Fan-kai%29%20-%20La%20Face%20cach%C3%A9e%20des%20Rois%20du%20Football%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "6d63ed4836215690f86a5bacbcc6a1f9e87f85a3",
-              "size": "1.4 GiB",
-              "pub_date": "2024-10-11 19:24",
-              "seeders": 7,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "6d63ed4836215690f86a5bacbcc6a1f9e87f85a3",
-              "path": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264.mkv",
-              "file_index": 0,
-              "formatted_name": "Inazuma Eleven Fan-Cut.S03E27.MULTI.720p.x264-FANKAI",
-              "nfo_filename": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264.nfo",
-              "original_filename": "[Livaï] Inazuma Eleven 27 (Fan-kai) - La Face cachée des Rois du Football - 720p.MULTI.x264.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 253,
@@ -377,31 +331,8 @@
           "original_filename": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E28.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1884578,
-              "nyaa_url": "https://nyaa.si/view/1884578",
-              "title": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264.mkv",
-              "torrent_url": "https://nyaa.si/download/1884578.torrent",
-              "magnet": "magnet:?xt=urn:btih:bf22f471f828e59cf7110ec755f3a5b2194a4b78&dn=%5BLiva%C3%AF%5D%20Inazuma%20Eleven%2028%20%28Fan-kai%29%20-%20Les%20joueurs%20de%20derni%C3%A8re%20g%C3%A9n%C3%A9ration%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "bf22f471f828e59cf7110ec755f3a5b2194a4b78",
-              "size": "1.1 GiB",
-              "pub_date": "2024-10-12 19:33",
-              "seeders": 6,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "bf22f471f828e59cf7110ec755f3a5b2194a4b78",
-              "path": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264.mkv",
-              "file_index": 0,
-              "formatted_name": "Inazuma Eleven Fan-Cut.S03E28.MULTI.720p.x264-FANKAI",
-              "nfo_filename": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264.nfo",
-              "original_filename": "[Livaï] Inazuma Eleven 28 (Fan-kai) - Les joueurs de dernière génération - 720p.MULTI.x264.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 255,
@@ -411,31 +342,8 @@
           "original_filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E29.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet - 720p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1895263,
-              "nyaa_url": "https://nyaa.si/view/1895263",
-              "title": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet  - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet  - 720p.MULTI.x264.mkv",
-              "torrent_url": "https://nyaa.si/download/1895263.torrent",
-              "magnet": "magnet:?xt=urn:btih:b38e4987bcdf7ef77c16e8d120b7ceaed145bb67&dn=%5BLiva%C3%AF%5D%20Inazuma%20Eleven%2029%20%28Fan-kai%29%20-%20Duel%20au%20sommet%20%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "b38e4987bcdf7ef77c16e8d120b7ceaed145bb67",
-              "size": "2.6 GiB",
-              "pub_date": "2024-11-04 20:15",
-              "seeders": 6,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "b38e4987bcdf7ef77c16e8d120b7ceaed145bb67",
-              "path": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet  - 720p.MULTI.x264.mkv",
-              "file_index": 0,
-              "formatted_name": "Inazuma Eleven Fan-Cut.S03E29.MULTI.720p.x264-FANKAI",
-              "nfo_filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet - 720p.MULTI.x264.nfo",
-              "original_filename": "[Livaï] Inazuma Eleven 29 (Fan-kai) - Duel au sommet - 720p.MULTI.x264.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         },
         {
           "id": 263,
@@ -445,31 +353,8 @@
           "original_filename": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264.mkv",
           "formatted_name": "Inazuma Eleven Fan-Cut.S03E30.MULTI.720p.x264-FANKAI",
           "nfo_filename": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1895680,
-              "nyaa_url": "https://nyaa.si/view/1895680",
-              "title": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264",
-              "torrent_name": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264.mkv",
-              "torrent_url": "https://nyaa.si/download/1895680.torrent",
-              "magnet": "magnet:?xt=urn:btih:8c61d17aafb639328463abc435902c44b74ad998&dn=%5BLiva%C3%AF%5D%20Inazuma%20Eleven%2030%20%28Fan-kai%29%20-%20Le%20coup%20d%27envoi%20de%20l%27avenir%20-%20720p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "8c61d17aafb639328463abc435902c44b74ad998",
-              "size": "850.6 MiB",
-              "pub_date": "2024-11-05 20:27",
-              "seeders": 7,
-              "fankai": true
-            }
-          ],
-          "paths": [
-            {
-              "infohash": "8c61d17aafb639328463abc435902c44b74ad998",
-              "path": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264.mkv",
-              "file_index": 0,
-              "formatted_name": "Inazuma Eleven Fan-Cut.S03E30.MULTI.720p.x264-FANKAI",
-              "nfo_filename": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264.nfo",
-              "original_filename": "[Livaï] Inazuma Eleven 30 (Fan-kai) - Le coup d'envoi de l'avenir - 720p.MULTI.x264.mkv"
-            }
-          ]
+          "torrents": [],
+          "paths": []
         }
       ]
     }
