@@ -3,5 +3,80 @@
   "title": "Monster Kaï",
   "show_title": "Monster Kaï",
   "torrents": [],
-  "seasons": []
+  "seasons": [
+    {
+      "id": 287,
+      "season_number": 1,
+      "title": "Saison 1",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1723,
+          "episode_number": 1,
+          "title": "Le Poids d'une Vie",
+          "aired": "2021-01-24",
+          "original_filename": "Monster Kaï - 01 - Le Poids d'une Vie.mkv",
+          "formatted_name": "Monster Kaï.S01E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Monster Kaï - 01 - Le Poids d'une Vie.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1725,
+          "episode_number": 2,
+          "title": "Kinderheim 511",
+          "aired": "2021-02-01",
+          "original_filename": "Monster Kaï - 02 - Kinderheim.mkv",
+          "formatted_name": "Monster Kaï.S01E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Monster Kaï - 02 - Kinderheim.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1722,
+          "episode_number": 3,
+          "title": "Be My Baby",
+          "aired": "2021-02-07",
+          "original_filename": "Monster Kaï - 03 - Be My Baby.mkv",
+          "formatted_name": "Monster Kaï.S01E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Monster Kaï - 03 - Be My Baby.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1720,
+          "episode_number": 4,
+          "title": "Retrouvailles",
+          "aired": "2021-02-14",
+          "original_filename": "Monster Kaï - 04 - Retrouvailles.mkv",
+          "formatted_name": "Monster Kaï.S01E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Monster Kaï - 04 - Retrouvailles.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1721,
+          "episode_number": 5,
+          "title": "Les Yeux du Diable (Partie 1)",
+          "aired": "2021-02-21",
+          "original_filename": "Monster Kaï - 05 - Les Yeux du Diable (Partie 1).mkv",
+          "formatted_name": "Monster Kaï.S01E05.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Monster Kaï - 05 - Les Yeux du Diable (Partie 1).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1724,
+          "episode_number": 6,
+          "title": "Les Yeux du Diable (Partie 2)",
+          "aired": "2021-04-13",
+          "original_filename": "Monster Kai - 06 - Les Yeux du Diable (Partie 2).mkv",
+          "formatted_name": "Monster Kaï.S01E06.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Monster Kai - 06 - Les Yeux du Diable (Partie 2).nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    }
+  ]
 }

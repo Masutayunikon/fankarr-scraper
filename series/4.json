@@ -5,6 +5,69 @@
   "torrents": [],
   "seasons": [
     {
+      "id": 288,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1727,
+          "episode_number": 1,
+          "title": "La Légende de la pomme d'or",
+          "aired": "1987-07-18",
+          "original_filename": "Saint Seiya - S00E01 (Éris La Légende de la pomme d'or).mkv",
+          "formatted_name": "Saint Seiya Kaï.S00E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Saint Seiya - S00E01 (Éris La Légende de la pomme d'or).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1730,
+          "episode_number": 2,
+          "title": "La Guerre des dieux",
+          "aired": "1988-03-12",
+          "original_filename": "Saint Seiya - S00E02 (La Guerre des dieux).mkv",
+          "formatted_name": "Saint Seiya Kaï.S00E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Saint Seiya - S00E02 (La Guerre des dieux).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1731,
+          "episode_number": 3,
+          "title": "Les Guerriers d'Abel",
+          "aired": "1988-07-23",
+          "original_filename": "Saint Seiya - S00E03 (Les Guerriers d'Abel).mkv",
+          "formatted_name": "Saint Seiya Kaï.S00E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Saint Seiya - S00E03 (Les Guerriers d'Abel).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1729,
+          "episode_number": 4,
+          "title": "Le Dieu des Enfers",
+          "aired": "1989-03-18",
+          "original_filename": "Saint Seiya - S00E04 (Lucifer  Le Dieu des Enfers).mkv",
+          "formatted_name": "Saint Seiya Kaï.S00E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Saint Seiya - S00E04 (Lucifer  Le Dieu des Enfers).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1728,
+          "episode_number": 5,
+          "title": "Chapitre du Monde Céleste : Ouverture",
+          "aired": "2004-02-14",
+          "original_filename": "Saint Seiya - S00E05 (Chapitre du Monde Céleste  Ouverture).mkv",
+          "formatted_name": "Saint Seiya Kaï.S00E05.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Saint Seiya - S00E05 (Chapitre du Monde Céleste  Ouverture).nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
       "id": 6,
       "season_number": 1,
       "title": "Saison 1",

@@ -13,11 +13,85 @@
       "infohash": "6dea0a142b6c1271a95e182892e997b3027cacaa",
       "size": "12.1 GiB",
       "pub_date": "2024-04-03 20:09",
-      "seeders": 6,
+      "seeders": 7,
       "fankai": true
     }
   ],
   "seasons": [
+    {
+      "id": 286,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1716,
+          "episode_number": 1,
+          "title": "Le gratte ciel infernal",
+          "aired": "1997-04-19",
+          "original_filename": "Détective Conan - S00E01 (Le gratte-ciel infernal).mkv",
+          "formatted_name": "Détective Conan Kaï.S00E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Détective Conan - S00E01 (Le gratte-ciel infernal).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1715,
+          "episode_number": 2,
+          "title": "La quatorzième cible",
+          "aired": "1998-04-18",
+          "original_filename": "Détective Conan - S00E02 (La quatorzième cible).mkv",
+          "formatted_name": "Détective Conan Kaï.S00E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Détective Conan - S00E02 (La quatorzième cible).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1714,
+          "episode_number": 3,
+          "title": "Le magicien de la fin du siècle",
+          "aired": "1999-01-28",
+          "original_filename": "Détective Conan - S00E03 (Le magicien de la fin du siècle).mkv",
+          "formatted_name": "Détective Conan Kaï.S00E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Détective Conan - S00E03 (Le magicien de la fin du siècle).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1718,
+          "episode_number": 4,
+          "title": "Mémoire assassine",
+          "aired": "2000-04-22",
+          "original_filename": "Détective Conan - S00E04 (Mémoire assassine).mkv",
+          "formatted_name": "Détective Conan Kaï.S00E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Détective Conan - S00E04 (Mémoire assassine).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1719,
+          "episode_number": 5,
+          "title": "Décompte aux cieux",
+          "aired": "2001-04-21",
+          "original_filename": "Détective Conan - S00E05 (Décompte aux cieux).mkv",
+          "formatted_name": "Détective Conan Kaï.S00E05.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Détective Conan - S00E05 (Décompte aux cieux).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1717,
+          "episode_number": 6,
+          "title": "Le fantôme de Baker Street",
+          "aired": "2002-04-20",
+          "original_filename": "Détective Conan - S00E06 (Le fantôme de Baker Street).mkv",
+          "formatted_name": "Détective Conan Kaï.S00E06.VOSTFR.HD.x264-FANKAI",
+          "nfo_filename": "Détective Conan - S00E06 (Le fantôme de Baker Street).nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
     {
       "id": 33,
       "season_number": 1,

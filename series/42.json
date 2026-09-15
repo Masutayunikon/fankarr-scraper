@@ -285,7 +285,7 @@
           "infohash": "664451466c0b38b513b3b86dda2d3c9f0d61bd2a",
           "size": "9.0 GiB",
           "pub_date": "2023-02-20 12:21",
-          "seeders": 13,
+          "seeders": 14,
           "fankai": true
         }
       ],
@@ -389,6 +389,58 @@
               "original_filename": "[Roro] Sword Art Online Kai 15 - Fin de partie - MULTI 1080p x264.mkv"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "season_number": 5,
+      "title": "Alicization - War of Underworld",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1733,
+          "episode_number": 16,
+          "title": "Dark Territory",
+          "aired": null,
+          "original_filename": "[Roro] Sword Art Online Kaï S05E01.mkv",
+          "formatted_name": "Sword Art Online Kaï.S05E16.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Roro] Sword Art Online Kaï 16 - Dark Territory - MULTI 1080p x264.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1734,
+          "episode_number": 17,
+          "title": "De sang et de haine",
+          "aired": null,
+          "original_filename": "[Roro] Sword Art Online Kaï S05E02.mkv",
+          "formatted_name": "Sword Art Online Kaï.S05E17.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Roro] Sword Art Online Kaï 17 - De sang et de haine - MULTI 1080p x264.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1735,
+          "episode_number": 18,
+          "title": "La Grande Guerre de l'Underworld",
+          "aired": null,
+          "original_filename": "[Roro] Sword Art Online Kaï S05E03.mkv",
+          "formatted_name": "Sword Art Online Kaï.S05E18.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Roro] Sword Art Online Kaï 18 - La Grande Guerre de l'Underworld - MULTI 1080p x264.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1732,
+          "episode_number": 19,
+          "title": "Par delà le temps",
+          "aired": null,
+          "original_filename": "[Roro] Sword Art Online Kaï S05E04.mkv",
+          "formatted_name": "Sword Art Online Kaï.S05E19.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "[Roro] Sword Art Online Kaï 19 - Par delà le temps - MULTI 1080p x264.nfo",
+          "torrents": [],
+          "paths": []
         }
       ]
     }

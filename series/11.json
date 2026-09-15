@@ -19,6 +19,69 @@
   ],
   "seasons": [
     {
+      "id": 284,
+      "season_number": 0,
+      "title": "Épisodes Spéciaux",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1694,
+          "episode_number": 5,
+          "title": "Pardonne-moi, monsieur robot !",
+          "aired": null,
+          "original_filename": "Dragon Ball Z Recut - 005.5.mkv",
+          "formatted_name": "Dragon Ball Z Recut.S00E05.VOSTFR.HD.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z Recut - 005.5.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1695,
+          "episode_number": 26,
+          "title": "Entraînement sur la Planète Kaio",
+          "aired": null,
+          "original_filename": "Dragon Ball Z Recut - 026.5.mkv",
+          "formatted_name": "Dragon Ball Z Recut.S00E26.VOSTFR.480p.x265-FANKAI",
+          "nfo_filename": "Dragon Ball Z Recut - 026.5.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1697,
+          "episode_number": 50,
+          "title": "Freezer revient",
+          "aired": null,
+          "original_filename": "Dragon Ball Z Recut - 050.5.mkv",
+          "formatted_name": "Dragon Ball Z Recut.S00E50.VOSTFR.480p.x265-FANKAI",
+          "nfo_filename": "Dragon Ball Z Recut - 050.5.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1696,
+          "episode_number": 54,
+          "title": "Goku et Piccolo passent le permis !",
+          "aired": null,
+          "original_filename": "Dragon Ball Z Recut - 054.5.mkv",
+          "formatted_name": "Dragon Ball Z Recut.S00E54.VOSTFR.HD.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z Recut - 054.5.nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1698,
+          "episode_number": 78,
+          "title": "Reprenons les Dragon Balls !",
+          "aired": null,
+          "original_filename": "Dragon Ball Z Recut - 078.5.mkv",
+          "formatted_name": "Dragon Ball Z Recut.S00E78.VOSTFR.480p.x265-FANKAI",
+          "nfo_filename": "Dragon Ball Z Recut - 078.5.nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
+    {
       "id": 20,
       "season_number": 1,
       "title": "Saiyens",

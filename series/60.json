@@ -13,11 +13,81 @@
       "infohash": "74e5e6cf9f17e8794758b8dff03d373e3d4082b3",
       "size": "11.7 GiB",
       "pub_date": "2021-03-12 23:28",
-      "seeders": 16,
+      "seeders": 18,
       "fankai": true
     }
   ],
   "seasons": [
+    {
+      "id": 282,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1685,
+          "episode_number": 1,
+          "title": "Battle of Gods",
+          "aired": "2013-03-30",
+          "original_filename": "Dragon Ball Super - S00E01 (Battle of Gods).mkv",
+          "formatted_name": "Dragon Ball Super Kaï.S00E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Super - S00E01 (Battle of Gods).nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "74e5e6cf9f17e8794758b8dff03d373e3d4082b3",
+              "path": "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mp4",
+              "file_index": 8,
+              "formatted_name": "Dragon Ball Super Kaï.S00E01.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "Dragon Ball Super - S00E01 (Battle of Gods).nfo",
+              "original_filename": "Dragon Ball Super - S00E01 (Battle of Gods).mkv"
+            }
+          ]
+        },
+        {
+          "id": 1686,
+          "episode_number": 2,
+          "title": "La Résurrection de F",
+          "aired": "2015-04-18",
+          "original_filename": "Dragon Ball Super - S00E02 (La Résurrection de F).mkv",
+          "formatted_name": "Dragon Ball Super Kaï.S00E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Super - S00E02 (La Résurrection de F).nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "74e5e6cf9f17e8794758b8dff03d373e3d4082b3",
+              "path": "Dragon Ball Super (Fan-Kai) [Kaimisama]/[Kaimisama] Dragon Ball Super (Fan-Kai) 02 - La resurrection de l'empereur - 720p.VOSTFR.x264.mp4",
+              "file_index": 1,
+              "formatted_name": "Dragon Ball Super Kaï.S00E02.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "Dragon Ball Super - S00E02 (La Résurrection de F).nfo",
+              "original_filename": "Dragon Ball Super - S00E02 (La Résurrection de F).mkv"
+            }
+          ]
+        },
+        {
+          "id": 1687,
+          "episode_number": 3,
+          "title": "Broly",
+          "aired": "2018-12-14",
+          "original_filename": "Dragon Ball Super - S00E03 (Broly).mkv",
+          "formatted_name": "Dragon Ball Super Kaï.S00E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Super - S00E03 (Broly).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1688,
+          "episode_number": 4,
+          "title": "Super Hero",
+          "aired": "2022-06-11",
+          "original_filename": "Dragon Ball Super - S00E04 (Super Hero).mkv",
+          "formatted_name": "Dragon Ball Super Kaï.S00E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Super - S00E04 (Super Hero).nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
     {
       "id": 136,
       "season_number": 1,

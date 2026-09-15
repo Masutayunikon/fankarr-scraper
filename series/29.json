@@ -13,11 +13,202 @@
       "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
       "size": "40.3 GiB",
       "pub_date": "2021-04-16 19:30",
-      "seeders": 31,
+      "seeders": 34,
       "fankai": true
     }
   ],
   "seasons": [
+    {
+      "id": 285,
+      "season_number": 0,
+      "title": "Films et Spéciaux",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1706,
+          "episode_number": 1,
+          "title": "À la poursuite de Garlic",
+          "aired": "1989-07-15",
+          "original_filename": "Dragon Ball Z - S01E01 (À la poursuite de Garlic).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E01 (À la poursuite de Garlic).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1709,
+          "episode_number": 2,
+          "title": "Le Robot des glaces",
+          "aired": "1990-03-10",
+          "original_filename": "Dragon Ball Z - S01E02 (Le Robot des glaces).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E02 (Le Robot des glaces).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1699,
+          "episode_number": 3,
+          "title": "Dragon Ball Z Le Combat fratricide",
+          "aired": "1990-07-07",
+          "original_filename": "Dragon Ball Z - S01E03 (Le Combat fratricide).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E03 (Le Combat fratricide).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1707,
+          "episode_number": 4,
+          "title": "La Menace de Namek",
+          "aired": "1991-03-09",
+          "original_filename": "Dragon Ball Z - S01E04 (La Menace de Namek).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E04 (La Menace de Namek).nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
+              "path": "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 1 - Les Saiyens (01-03) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 01 - La Menace Saiyenne - 720p.MULTI.x264.mkv",
+              "file_index": 16,
+              "formatted_name": "Dragon Ball Z Yabai.S00E04.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "Dragon Ball Z - S00E04 (La Menace de Namek).nfo",
+              "original_filename": "Dragon Ball Z - S01E04 (La Menace de Namek).mkv"
+            }
+          ]
+        },
+        {
+          "id": 1710,
+          "episode_number": 5,
+          "title": "La Revanche de Cooler",
+          "aired": "1991-07-20",
+          "original_filename": "Dragon Ball Z - S01E05 (La Revanche de Cooler).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E05.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E05 (La Revanche de Cooler).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1713,
+          "episode_number": 6,
+          "title": "Cent Mille Guerriers de Métal",
+          "aired": "1992-03-07",
+          "original_filename": "Dragon Ball Z - S01E06 (Cent Mille Guerriers de Métal).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E06.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E06 (Cent Mille Guerriers de Métal).nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
+              "path": "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 10 - Les Guerriers de Métal - 720p.MULTI.x264.mkv",
+              "file_index": 9,
+              "formatted_name": "Dragon Ball Z Yabai.S00E06.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "Dragon Ball Z - S00E06 (Cent Mille Guerriers de Métal).nfo",
+              "original_filename": "Dragon Ball Z - S01E06 (Cent Mille Guerriers de Métal).mkv"
+            }
+          ]
+        },
+        {
+          "id": 1712,
+          "episode_number": 7,
+          "title": "L'offensive des Cyborgs",
+          "aired": "1992-07-11",
+          "original_filename": "Dragon Ball Z - S01E07 (Super Android 13).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E07.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E07 (L'offensive des Cyborgs).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1704,
+          "episode_number": 8,
+          "title": "Broly le super guerrier",
+          "aired": "1993-03-06",
+          "original_filename": "Dragon Ball Z - S01E08 (Broly le super guerrier).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E08.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E08 (Broly le super guerrier).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1702,
+          "episode_number": 9,
+          "title": "Les Mercenaires de l'espace",
+          "aired": "1993-07-10",
+          "original_filename": "Dragon Ball Z - S01E09 (Les Mercenaires de l'espace).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E09.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E09 (Les Mercenaires de l'espace).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1705,
+          "episode_number": 10,
+          "title": "Rivaux dangereux",
+          "aired": "1994-03-12",
+          "original_filename": "Dragon Ball Z - S01E10 (Rivaux dangereux).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E10.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E10 (Rivaux dangereux).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1703,
+          "episode_number": 11,
+          "title": "Attaque Super Warrior",
+          "aired": "1994-07-09",
+          "original_filename": "Dragon Ball Z - S01E11 (Attaque Super Warrior).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E11.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E11 (Attaque Super Warrior).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1708,
+          "episode_number": 12,
+          "title": "Fusions",
+          "aired": "1995-03-04",
+          "original_filename": "Dragon Ball Z - S01E12 (Fusions).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E12.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E12 (Fusions).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1701,
+          "episode_number": 13,
+          "title": "L'Attaque du dragon",
+          "aired": "1995-07-15",
+          "original_filename": "Dragon Ball Z - S01E13 (L'Attaque du dragon).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E13.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E13 (L'Attaque du dragon).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1700,
+          "episode_number": 14,
+          "title": "Le père de Son Goku",
+          "aired": "1990-10-17",
+          "original_filename": "Dragon Ball Z - S01E14 (Le père de Son Goku).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E14.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E14 (Le père de Son Goku).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1711,
+          "episode_number": 15,
+          "title": "L'Histoire de Trunks",
+          "aired": "1993-02-24",
+          "original_filename": "Dragon Ball Z - S01E15 (L'Histoire de Trunks).mkv",
+          "formatted_name": "Dragon Ball Z Yabai.S00E15.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball Z - S00E15 (L'Histoire de Trunks).nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
     {
       "id": 59,
       "season_number": 1,

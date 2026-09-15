@@ -13,11 +13,72 @@
       "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
       "size": "21.7 GiB",
       "pub_date": "2021-03-13 10:36",
-      "seeders": 31,
+      "seeders": 35,
       "fankai": true
     }
   ],
   "seasons": [
+    {
+      "id": 283,
+      "season_number": 0,
+      "title": "Films Officiels",
+      "torrents": [],
+      "episodes": [
+        {
+          "id": 1690,
+          "episode_number": 1,
+          "title": "La Légende de Shenron",
+          "aired": "1986-12-20",
+          "original_filename": "Dragon Ball - S00E01 (La Légende de Shenron).mkv",
+          "formatted_name": "Dragon Ball Yabai.S00E01.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball - S00E01 (La Légende de Shenron).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1693,
+          "episode_number": 2,
+          "title": "Le Château du Démon",
+          "aired": "1987-07-18",
+          "original_filename": "Dragon Ball - S00E02 (Le Château du Démon).mkv",
+          "formatted_name": "Dragon Ball Yabai.S00E02.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball - S00E02 (Le Château du Démon).nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 10 - Le Roi Démon - 720p.MULTI.x264.mkv",
+              "file_index": 9,
+              "formatted_name": "Dragon Ball Yabai.S00E02.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "Dragon Ball - S00E02 (Le Château du Démon).nfo",
+              "original_filename": "Dragon Ball - S00E02 (Le Château du Démon).mkv"
+            }
+          ]
+        },
+        {
+          "id": 1691,
+          "episode_number": 3,
+          "title": "L'aventure Mystique",
+          "aired": "1988-07-09",
+          "original_filename": "Dragon Ball - S00E03 (L’aventure Mystique).mkv",
+          "formatted_name": "Dragon Ball Yabai.S00E03.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball - S00E03 (L’aventure Mystique).nfo",
+          "torrents": [],
+          "paths": []
+        },
+        {
+          "id": 1692,
+          "episode_number": 4,
+          "title": "L'Armée du Ruban Rouge",
+          "aired": "1996-03-02",
+          "original_filename": "Dragon Ball - S00E04 (L'Armée du Ruban Rouge).mkv",
+          "formatted_name": "Dragon Ball Yabai.S00E04.VOSTFR.480p.x264-FANKAI",
+          "nfo_filename": "Dragon Ball - S00E04 (L'Armée du Ruban Rouge).nfo",
+          "torrents": [],
+          "paths": []
+        }
+      ]
+    },
     {
       "id": 202,
       "season_number": 1,
@@ -89,6 +150,26 @@
               "formatted_name": "Dragon Ball Yabai.S02E03.MULTI.720p.x264-FANKAI",
               "nfo_filename": "[Mixouille] Dragon Ball Yabai - 03 - L'Entraînement selon l'Ermite - 720p.MULTI.x264.nfo",
               "original_filename": "[Mixouille] Dragon Ball Yabai - 03 - L'Entraînement selon l'Ermite - 720p.MULTI.x264.mkv"
+            }
+          ]
+        },
+        {
+          "id": 1689,
+          "episode_number": 4,
+          "title": "Le 21e Tenkaichi Budokai",
+          "aired": "2018-06-01",
+          "original_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.mkv",
+          "formatted_name": "Dragon Ball Yabai.S02E04.MULTI.720p.x264-FANKAI",
+          "nfo_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
+          "torrents": [],
+          "paths": [
+            {
+              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
+              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.mkv",
+              "file_index": 3,
+              "formatted_name": "Dragon Ball Yabai.S02E04.MULTI.720p.x264-FANKAI",
+              "nfo_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.nfo",
+              "original_filename": "[Mixouille] Dragon Ball Yabai - 04 - Le 21e Tenkaichi Budokai - 720p.MULTI.x264.mkv"
             }
           ]
         }
