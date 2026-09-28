@@ -19,7 +19,7 @@
           "infohash": "dd30798ab27fc80402e2a494274e7ef3ea5ba719",
           "size": "16.7 GiB",
           "pub_date": "2026-08-20 21:26",
-          "seeders": 7,
+          "seeders": 10,
           "fankai": true
         }
       ],
@@ -121,7 +121,7 @@
           "infohash": "dd30798ab27fc80402e2a494274e7ef3ea5ba719",
           "size": "16.7 GiB",
           "pub_date": "2026-08-20 21:26",
-          "seeders": 7,
+          "seeders": 10,
           "fankai": true
         }
       ],
@@ -280,16 +280,16 @@
           "fankai": true
         },
         {
-          "nyaa_id": 2161635,
-          "nyaa_url": "https://nyaa.si/view/2161635",
+          "nyaa_id": 2167326,
+          "nyaa_url": "https://nyaa.si/view/2167326",
           "title": "[Manny] Yu-Gi-Oh! Kaï 13 - Les prestidigitateurs - 480p.MULTISUB.x264",
           "torrent_name": "[Manny] Yu-Gi-Oh! Kaï 13 - Les prestidigitateurs - 480p.MULTISUB.x264",
-          "torrent_url": "https://nyaa.si/download/2161635.torrent",
-          "magnet": "magnet:?xt=urn:btih:4a43bd99d972af037b1add94f30e727a1bfb90a9&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2013%20-%20Les%20prestidigitateurs%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "4a43bd99d972af037b1add94f30e727a1bfb90a9",
+          "torrent_url": "https://nyaa.si/download/2167326.torrent",
+          "magnet": "magnet:?xt=urn:btih:f2aac38ca906d46c0c59b58585eec44b17ea60b5&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2013%20-%20Les%20prestidigitateurs%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "f2aac38ca906d46c0c59b58585eec44b17ea60b5",
           "size": "1.9 GiB",
-          "pub_date": "2026-09-14 21:04",
-          "seeders": 9,
+          "pub_date": "2026-09-28 21:27",
+          "seeders": 4,
           "fankai": true
         }
       ],
@@ -345,7 +345,7 @@
           "torrents": [],
           "paths": [
             {
-              "infohash": "4a43bd99d972af037b1add94f30e727a1bfb90a9",
+              "infohash": "f2aac38ca906d46c0c59b58585eec44b17ea60b5",
               "path": "[Manny] Yu-Gi-Oh! Kaï 13 - Les prestidigitateurs - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 13 - Les prestidigitateurs - 480p.MULTISUB.x264.mkv",
               "file_index": 0,
               "formatted_name": "Yu-Gi-Oh! Kaï.S03E13.VOSTFR.480p.x264-FANKAI",
