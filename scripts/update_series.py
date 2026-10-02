@@ -1224,7 +1224,7 @@ def write_series_files(series: list[dict], output_dir: Path = OUTPUT_DIR) -> Non
 
 MULTI_SERIES_TORRENTS = [
     {
-        "ids": ["2024827"],
+        "ids": ["2084491"],
         "series": {
             "one piece kai": None,
             "one piece yabai": None,
