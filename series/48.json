@@ -1,28 +1,28 @@
 {
   "id": 48,
   "title": "Monster Henshū",
-  "show_title": null,
-  "torrents": [
-    {
-      "nyaa_id": 1899777,
-      "nyaa_url": "https://nyaa.si/view/1899777",
-      "title": "[Brazh] Monster Henshū (Fan-Kai) - Intégrale (14 films) - 1080p.MULTI.x264",
-      "torrent_name": "[Brazh] Monster Henshū (Fan-Kai)",
-      "torrent_url": "https://nyaa.si/download/1899777.torrent",
-      "magnet": "magnet:?xt=urn:btih:a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60&dn=%5BBrazh%5D%20Monster%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20Int%C3%A9grale%20%2814%20films%29%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60",
-      "size": "22.2 GiB",
-      "pub_date": "2024-11-15 14:49",
-      "seeders": 24,
-      "fankai": true
-    }
-  ],
+  "show_title": "Monster Henshū",
+  "torrents": [],
   "seasons": [
     {
       "id": 94,
       "season_number": 1,
       "title": "Intégrale",
-      "torrents": [],
+      "torrents": [
+        {
+          "nyaa_id": 1899777,
+          "nyaa_url": "https://nyaa.si/view/1899777",
+          "title": "[Brazh] Monster Henshū (Fan-Kai) - Intégrale (14 films) - 1080p.MULTI.x264",
+          "torrent_name": "[Brazh] Monster Henshū (Fan-Kai)",
+          "torrent_url": "https://nyaa.si/download/1899777.torrent",
+          "magnet": "magnet:?xt=urn:btih:a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60&dn=%5BBrazh%5D%20Monster%20Hensh%C5%AB%20%28Fan-Kai%29%20-%20Int%C3%A9grale%20%2814%20films%29%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60",
+          "size": "22.2 GiB",
+          "pub_date": "2024-11-15 14:49",
+          "seeders": 28,
+          "fankai": true
+        }
+      ],
       "episodes": [
         {
           "id": 599,
@@ -223,23 +223,23 @@
               "infohash": "f69dc67aac88bb5c5c422f3147d031e753600e37",
               "size": "1.8 GiB",
               "pub_date": "2026-04-11 19:57",
-              "seeders": 7,
+              "seeders": 10,
               "fankai": true
             }
           ],
           "paths": [
             {
-              "infohash": "f69dc67aac88bb5c5c422f3147d031e753600e37",
-              "path": "[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.mkv",
-              "file_index": 0,
+              "infohash": "a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60",
+              "path": "[Brazh] Monster Henshū (Fan-Kai)/Saison 1/[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.mkv",
+              "file_index": 10,
               "formatted_name": "Monster Henshū.S01E10.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.mkv"
             },
             {
-              "infohash": "a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60",
-              "path": "[Brazh] Monster Henshū (Fan-Kai)/Saison 1/[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.mkv",
-              "file_index": 10,
+              "infohash": "f69dc67aac88bb5c5c422f3147d031e753600e37",
+              "path": "[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
               "formatted_name": "Monster Henshū.S01E10.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.nfo",
               "original_filename": "[Brazh] Monster Henshū 10 - La villa des roses - 1080p.MULTI.x264.mkv"

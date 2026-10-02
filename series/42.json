@@ -1,28 +1,28 @@
 {
   "id": 42,
   "title": "Sword Art Online Kaï",
-  "show_title": null,
-  "torrents": [],
+  "show_title": "Sword Art Online Kaï",
+  "torrents": [
+    {
+      "nyaa_id": 1639979,
+      "nyaa_url": "https://nyaa.si/view/1639979",
+      "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
+      "torrent_name": "SAO Kai - Films 1-10",
+      "torrent_url": "https://nyaa.si/download/1639979.torrent",
+      "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
+      "size": "15.3 GiB",
+      "pub_date": "2023-02-20 14:09",
+      "seeders": 19,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 83,
       "season_number": 1,
       "title": "Sword Art Online",
-      "torrents": [
-        {
-          "nyaa_id": 1639979,
-          "nyaa_url": "https://nyaa.si/view/1639979",
-          "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
-          "torrent_name": "SAO Kai - Films 1-10",
-          "torrent_url": "https://nyaa.si/download/1639979.torrent",
-          "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
-          "size": "15.3 GiB",
-          "pub_date": "2023-02-20 14:09",
-          "seeders": 15,
-          "fankai": true
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 539,
@@ -110,21 +110,7 @@
       "id": 81,
       "season_number": 2,
       "title": "Gun Gale Online",
-      "torrents": [
-        {
-          "nyaa_id": 1639979,
-          "nyaa_url": "https://nyaa.si/view/1639979",
-          "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
-          "torrent_name": "SAO Kai - Films 1-10",
-          "torrent_url": "https://nyaa.si/download/1639979.torrent",
-          "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
-          "size": "15.3 GiB",
-          "pub_date": "2023-02-20 14:09",
-          "seeders": 15,
-          "fankai": true
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 531,
@@ -212,21 +198,7 @@
       "id": 80,
       "season_number": 3,
       "title": "Aincrad - Caliber",
-      "torrents": [
-        {
-          "nyaa_id": 1639979,
-          "nyaa_url": "https://nyaa.si/view/1639979",
-          "title": "Sword Art Online Kaï Films 01 à 10 - MULTI - Roro",
-          "torrent_name": "SAO Kai - Films 1-10",
-          "torrent_url": "https://nyaa.si/download/1639979.torrent",
-          "magnet": "magnet:?xt=urn:btih:39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9&dn=Sword%20Art%20Online%20Ka%C3%AF%20Films%2001%20%C3%A0%2010%20-%20MULTI%20-%20Roro&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-          "infohash": "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
-          "size": "15.3 GiB",
-          "pub_date": "2023-02-20 14:09",
-          "seeders": 15,
-          "fankai": true
-        }
-      ],
+      "torrents": [],
       "episodes": [
         {
           "id": 527,
@@ -285,7 +257,7 @@
           "infohash": "664451466c0b38b513b3b86dda2d3c9f0d61bd2a",
           "size": "9.0 GiB",
           "pub_date": "2023-02-20 12:21",
-          "seeders": 16,
+          "seeders": 17,
           "fankai": true
         }
       ],
@@ -402,7 +374,7 @@
           "id": 1733,
           "episode_number": 16,
           "title": "Dark Territory",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Roro] Sword Art Online Kaï S05E01.mkv",
           "formatted_name": "Sword Art Online Kaï.S05E16.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Roro] Sword Art Online Kaï 16 - Dark Territory - MULTI 1080p x264.nfo",
@@ -413,7 +385,7 @@
           "id": 1734,
           "episode_number": 17,
           "title": "De sang et de haine",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Roro] Sword Art Online Kaï S05E02.mkv",
           "formatted_name": "Sword Art Online Kaï.S05E17.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Roro] Sword Art Online Kaï 17 - De sang et de haine - MULTI 1080p x264.nfo",
@@ -424,7 +396,7 @@
           "id": 1735,
           "episode_number": 18,
           "title": "La Grande Guerre de l'Underworld",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Roro] Sword Art Online Kaï S05E03.mkv",
           "formatted_name": "Sword Art Online Kaï.S05E18.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Roro] Sword Art Online Kaï 18 - La Grande Guerre de l'Underworld - MULTI 1080p x264.nfo",
@@ -435,7 +407,7 @@
           "id": 1732,
           "episode_number": 19,
           "title": "Par delà le temps",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Roro] Sword Art Online Kaï S05E04.mkv",
           "formatted_name": "Sword Art Online Kaï.S05E19.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Roro] Sword Art Online Kaï 19 - Par delà le temps - MULTI 1080p x264.nfo",

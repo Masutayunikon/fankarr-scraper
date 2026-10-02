@@ -1,7 +1,7 @@
 {
   "id": 83,
   "title": "Dragon Ball Yabai",
-  "show_title": null,
+  "show_title": "Dragon Ball Yabai",
   "torrents": [
     {
       "nyaa_id": 1227553,
@@ -13,7 +13,7 @@
       "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
       "size": "21.7 GiB",
       "pub_date": "2021-03-13 10:36",
-      "seeders": 26,
+      "seeders": 30,
       "fankai": true
     }
   ],
@@ -44,16 +44,7 @@
           "formatted_name": "Dragon Ball Yabai.S00E02.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "Dragon Ball - S00E02 (Le Château du Démon).nfo",
           "torrents": [],
-          "paths": [
-            {
-              "infohash": "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48",
-              "path": "Dragon Ball Yabai - INTEGRALE - 01-14 - 720p.MULTI.x264 [Mixouille]/[Mixouille] Dragon Ball Yabai - 10 - Le Roi Démon - 720p.MULTI.x264.mkv",
-              "file_index": 9,
-              "formatted_name": "Dragon Ball Yabai.S00E02.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "Dragon Ball - S00E02 (Le Château du Démon).nfo",
-              "original_filename": "Dragon Ball - S00E02 (Le Château du Démon).mkv"
-            }
-          ]
+          "paths": []
         },
         {
           "id": 1691,

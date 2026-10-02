@@ -1,7 +1,7 @@
 {
   "id": 10,
   "title": "Gintama Kaï",
-  "show_title": null,
+  "show_title": "Gintama Kaï",
   "torrents": [],
   "seasons": [
     {
@@ -29,7 +29,7 @@
               "infohash": "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:47",
-              "seeders": 10,
+              "seeders": 11,
               "fankai": true
             }
           ],
@@ -63,7 +63,7 @@
               "infohash": "f475d56c1deae051ce9103caa3a464dd1a2daa98",
               "size": "1.6 GiB",
               "pub_date": "2023-08-16 22:52",
-              "seeders": 7,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -97,7 +97,7 @@
               "infohash": "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
               "size": "1.5 GiB",
               "pub_date": "2023-08-16 22:24",
-              "seeders": 8,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -131,7 +131,7 @@
               "infohash": "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
               "size": "2.9 GiB",
               "pub_date": "2025-10-03 16:00",
-              "seeders": 7,
+              "seeders": 10,
               "fankai": true
             }
           ],
@@ -150,7 +150,7 @@
           "id": 79,
           "episode_number": 5,
           "title": "Sers-toi de tes poings pour réaliser tes rêves !",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Triggerforce] Gintama Kaï 05 - Sers-toi de tes poings pour réaliser tes rêves !.mkv",
           "formatted_name": "Gintama Kaï.S01E05.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Triggerforce] Gintama Kaï 05 - Sers-toi de tes poings pour réaliser tes rêves !.nfo",
@@ -161,7 +161,7 @@
           "id": 73,
           "episode_number": 7,
           "title": "Il ne faut pas juger les gens sur leur apparence.",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Triggerforce] Gintama Kaï 07 - Il ne faut pas juger les gens sur leur apparence.mkv",
           "formatted_name": "Gintama Kaï.S01E07.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Triggerforce] Gintama Kaï 07 - Il ne faut pas juger les gens sur leur apparence.nfo",
@@ -172,7 +172,7 @@
           "id": 77,
           "episode_number": 8,
           "title": "Il y a des monstres partout.",
-          "aired": null,
+          "aired": "",
           "original_filename": "[Triggerforce] Gintama Kaï 08 - Il y a des monstres partout.mkv",
           "formatted_name": "Gintama Kaï.S01E08.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Triggerforce] Gintama Kaï 08 - Il y a des monstres partout.nfo",

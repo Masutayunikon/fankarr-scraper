@@ -1,7 +1,7 @@
 {
   "id": 55,
   "title": "Yu Yu Hakusho Kaï",
-  "show_title": null,
+  "show_title": "Yu Yu Hakusho Kaï",
   "torrents": [
     {
       "nyaa_id": 1373047,
@@ -13,7 +13,7 @@
       "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
       "size": "22.7 GiB",
       "pub_date": "2021-04-16 19:14",
-      "seeders": 11,
+      "seeders": 12,
       "fankai": true
     }
   ],
@@ -212,8 +212,8 @@
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv",
-              "file_index": 9,
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv",
+              "file_index": 8,
               "formatted_name": "Yu Yu Hakusho Kaï.S03E09.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Yu Yu Hakusho - film 09 - L'héritage de Sakyô.nfo",
               "original_filename": "Yu Yu Hakusho - film 09 - L'héritage de Sakyô.mkv"
@@ -232,8 +232,8 @@
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv",
-              "file_index": 10,
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv",
+              "file_index": 9,
               "formatted_name": "Yu Yu Hakusho Kaï.S03E10.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Yu Yu Hakusho - Film 10 - Le briseur de sort.nfo",
               "original_filename": "Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv"
@@ -252,8 +252,8 @@
           "paths": [
             {
               "infohash": "b1bab199c3f76805270205d0d46b96b034d9ae98",
-              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 9 - L'héritage de Sakyô.mkv",
-              "file_index": 8,
+              "path": "Yu Yu Hakusho [Titou]/Yu Yu Hakusho Kaï - Saga 3 - Chapter Black [Titou]/Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv",
+              "file_index": 10,
               "formatted_name": "Yu Yu Hakusho Kaï.S03E11.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "Yu Yu Hakusho - Film 11 - Le grand atavisme.nfo",
               "original_filename": "Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv"

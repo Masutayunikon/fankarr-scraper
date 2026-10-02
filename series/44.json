@@ -1,7 +1,7 @@
 {
   "id": 44,
   "title": "Kuroko No Basket Henshū",
-  "show_title": null,
+  "show_title": "Kuroko No Basket Henshū",
   "torrents": [],
   "seasons": [
     {
@@ -19,7 +19,7 @@
           "infohash": "7a70659b7cbcae14a2231e36be6b25d14b14a68f",
           "size": "6.9 GiB",
           "pub_date": "2020-04-20 17:35",
-          "seeders": 11,
+          "seeders": 14,
           "fankai": true
         }
       ],
@@ -181,7 +181,7 @@
           "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
           "size": "7.4 GiB",
           "pub_date": "2020-04-20 17:35",
-          "seeders": 9,
+          "seeders": 11,
           "fankai": true
         }
       ],
@@ -198,8 +198,8 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 10 - La Zone.mkv",
-              "file_index": 0,
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 8 - Retrouvailles.mkv",
+              "file_index": 2,
               "formatted_name": "Kuroko No Basket Henshū.S02E08.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Livaï]Kuroko no Basket Henshū 08 - Retrouvailles.nfo",
               "original_filename": "[Livaï]Kuroko no Basket Henshū 08 - Retrouvailles.mkv"
@@ -218,8 +218,8 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.mkv",
-              "file_index": 1,
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 9 - Qualifications pour la Winter Cup.mkv",
+              "file_index": 3,
               "formatted_name": "Kuroko No Basket Henshū.S02E09.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Livaï]Kuroko no Basket Henshū 09 - Qualifications pour la Winter Cup.nfo",
               "original_filename": "[Livaï]Kuroko no Basket Henshū 09 - Qualifications pour la Winter Cup.mkv"
@@ -238,8 +238,8 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 8 - Retrouvailles.mkv",
-              "file_index": 2,
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 10 - La Zone.mkv",
+              "file_index": 0,
               "formatted_name": "Kuroko No Basket Henshū.S02E10.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Livaï]Kuroko no Basket Henshū 10 - La Zone.nfo",
               "original_filename": "[Livaï]Kuroko no Basket Henshū 10 - La Zone.mkv"
@@ -258,8 +258,8 @@
           "paths": [
             {
               "infohash": "e7c18642a2fe65d89fc239583cee234219161216",
-              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 9 - Qualifications pour la Winter Cup.mkv",
-              "file_index": 3,
+              "path": "[Livaï]Kuroko no Basket Henshū - Saison 2/[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.mkv",
+              "file_index": 1,
               "formatted_name": "Kuroko No Basket Henshū.S02E11.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.nfo",
               "original_filename": "[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.mkv"

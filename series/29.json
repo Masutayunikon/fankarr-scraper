@@ -1,7 +1,7 @@
 {
   "id": 29,
   "title": "Dragon Ball Z Yabai",
-  "show_title": null,
+  "show_title": "Dragon Ball Z Yabai",
   "torrents": [
     {
       "nyaa_id": 1373053,
@@ -13,7 +13,7 @@
       "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
       "size": "40.3 GiB",
       "pub_date": "2021-04-16 19:30",
-      "seeders": 24,
+      "seeders": 29,
       "fankai": true
     }
   ],
@@ -66,16 +66,7 @@
           "formatted_name": "Dragon Ball Z Yabai.S00E04.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "Dragon Ball Z - S00E04 (La Menace de Namek).nfo",
           "torrents": [],
-          "paths": [
-            {
-              "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
-              "path": "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 1 - Les Saiyens (01-03) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 01 - La Menace Saiyenne - 720p.MULTI.x264.mkv",
-              "file_index": 16,
-              "formatted_name": "Dragon Ball Z Yabai.S00E04.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "Dragon Ball Z - S00E04 (La Menace de Namek).nfo",
-              "original_filename": "Dragon Ball Z - S01E04 (La Menace de Namek).mkv"
-            }
-          ]
+          "paths": []
         },
         {
           "id": 1710,
@@ -97,16 +88,7 @@
           "formatted_name": "Dragon Ball Z Yabai.S00E06.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "Dragon Ball Z - S00E06 (Cent Mille Guerriers de Métal).nfo",
           "torrents": [],
-          "paths": [
-            {
-              "infohash": "ccd2f08caff81bde8176ef33bc514c53a4f1941b",
-              "path": "Dragon Ball Z Yabai [Mixouille]/Dragon Ball Z Yabai - Saga 3 - Les Cyborgs (09-14) [Mixouille]/[Mixouille] Dragon Ball Z Yabai - 10 - Les Guerriers de Métal - 720p.MULTI.x264.mkv",
-              "file_index": 9,
-              "formatted_name": "Dragon Ball Z Yabai.S00E06.VOSTFR.480p.x264-FANKAI",
-              "nfo_filename": "Dragon Ball Z - S00E06 (Cent Mille Guerriers de Métal).nfo",
-              "original_filename": "Dragon Ball Z - S01E06 (Cent Mille Guerriers de Métal).mkv"
-            }
-          ]
+          "paths": []
         },
         {
           "id": 1712,

@@ -1,8 +1,22 @@
 {
   "id": 96,
   "title": "Spy x Family Henshū",
-  "show_title": null,
-  "torrents": [],
+  "show_title": "Spy x Family Henshū",
+  "torrents": [
+    {
+      "nyaa_id": 1887686,
+      "nyaa_url": "https://nyaa.si/view/1887686",
+      "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
+      "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
+      "torrent_url": "https://nyaa.si/download/1887686.torrent",
+      "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+      "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
+      "size": "17.0 GiB",
+      "pub_date": "2024-10-18 19:30",
+      "seeders": 8,
+      "fankai": true
+    }
+  ],
   "seasons": [
     {
       "id": 228,
@@ -18,21 +32,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S00E01.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū - S00E01 - Code White - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -50,7 +50,21 @@
       "id": 227,
       "season_number": 1,
       "title": "Intégrale",
-      "torrents": [],
+      "torrents": [
+        {
+          "nyaa_id": 2150220,
+          "nyaa_url": "https://nyaa.si/view/2150220",
+          "title": "[Brazh] Spy x Family Henshū - Saison 3 - 1080p.MULTI.x264",
+          "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
+          "torrent_url": "https://nyaa.si/download/2150220.torrent",
+          "magnet": "magnet:?xt=urn:btih:6a0ec532e403fbd0774deaa735c943ef37d142e1&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saison%203%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
+          "size": "4.5 GiB",
+          "pub_date": "2026-08-23 06:29",
+          "seeders": 9,
+          "fankai": true
+        }
+      ],
       "episodes": [
         {
           "id": 1399,
@@ -60,21 +74,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E01.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 01 - Admission - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -94,21 +94,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 02 - Police - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E02.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 02 - Police - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -128,21 +114,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 03 - Chien - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E03.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 03 - Chien - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -162,21 +134,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 04 - Examens - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E04.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 04 - Examens - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -196,21 +154,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 05 - Tennis - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E05.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 05 - Tennis - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -230,21 +174,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 06 - Contact - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E06.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 06 - Contact - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -264,21 +194,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E07.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 07 - Croisière - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 1887686,
-              "nyaa_url": "https://nyaa.si/view/1887686",
-              "title": "[Brazh] Spy x Family Henshū - Saisons 1/2 + Code White - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/1887686.torrent",
-              "magnet": "magnet:?xt=urn:btih:1df60f85090a1d5ab03a69de4462ee5272ccbe67&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saisons%201%2F2%20%2B%20Code%20White%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
-              "size": "17.0 GiB",
-              "pub_date": "2024-10-18 19:30",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
@@ -298,21 +214,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 08 - Passé - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E08.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 08 - Passé - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 2150220,
-              "nyaa_url": "https://nyaa.si/view/2150220",
-              "title": "[Brazh] Spy x Family Henshū - Saison 3 - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/2150220.torrent",
-              "magnet": "magnet:?xt=urn:btih:6a0ec532e403fbd0774deaa735c943ef37d142e1&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saison%203%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
-              "size": "4.5 GiB",
-              "pub_date": "2026-08-23 06:29",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
@@ -332,21 +234,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 09 - Copinage - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E09.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 09 - Copinage - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 2150220,
-              "nyaa_url": "https://nyaa.si/view/2150220",
-              "title": "[Brazh] Spy x Family Henshū - Saison 3 - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/2150220.torrent",
-              "magnet": "magnet:?xt=urn:btih:6a0ec532e403fbd0774deaa735c943ef37d142e1&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saison%203%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
-              "size": "4.5 GiB",
-              "pub_date": "2026-08-23 06:29",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
@@ -366,21 +254,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 10 - Bus - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E10.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 10 - Bus - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 2150220,
-              "nyaa_url": "https://nyaa.si/view/2150220",
-              "title": "[Brazh] Spy x Family Henshū - Saison 3 - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/2150220.torrent",
-              "magnet": "magnet:?xt=urn:btih:6a0ec532e403fbd0774deaa735c943ef37d142e1&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saison%203%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
-              "size": "4.5 GiB",
-              "pub_date": "2026-08-23 06:29",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
@@ -400,21 +274,7 @@
           "original_filename": "[Brazh] Spy x Family Henshū 11 - Taupe - 1080p.MULTI.x264.mkv",
           "formatted_name": "Spy x Family Henshū.S01E11.MULTI.1080p.x264-FANKAI",
           "nfo_filename": "[Brazh] Spy x Family Henshū 11 - Taupe - 1080p.MULTI.x264.nfo",
-          "torrents": [
-            {
-              "nyaa_id": 2150220,
-              "nyaa_url": "https://nyaa.si/view/2150220",
-              "title": "[Brazh] Spy x Family Henshū - Saison 3 - 1080p.MULTI.x264",
-              "torrent_name": "[Brazh] Spy x Family Henshū (Fan-Kaï)",
-              "torrent_url": "https://nyaa.si/download/2150220.torrent",
-              "magnet": "magnet:?xt=urn:btih:6a0ec532e403fbd0774deaa735c943ef37d142e1&dn=%5BBrazh%5D%20Spy%20x%20Family%20Hensh%C5%AB%20-%20Saison%203%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-              "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",
-              "size": "4.5 GiB",
-              "pub_date": "2026-08-23 06:29",
-              "seeders": 8,
-              "fankai": true
-            }
-          ],
+          "torrents": [],
           "paths": [
             {
               "infohash": "6a0ec532e403fbd0774deaa735c943ef37d142e1",

@@ -1,7 +1,7 @@
 {
   "id": 7,
   "title": "Vinland Saga Henshū",
-  "show_title": null,
+  "show_title": "Vinland Saga Henshū",
   "torrents": [
     {
       "nyaa_id": 1846682,
@@ -13,7 +13,7 @@
       "infohash": "ddbd0d0864ae2526a91d1817cbcebac7301f02c3",
       "size": "23.0 GiB",
       "pub_date": "2024-07-17 11:25",
-      "seeders": 12,
+      "seeders": 14,
       "fankai": true
     }
   ],

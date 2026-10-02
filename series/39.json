@@ -1,7 +1,7 @@
 {
   "id": 39,
   "title": "Record of Ragnarok Henshū",
-  "show_title": null,
+  "show_title": "Record of Ragnarok Henshū",
   "torrents": [
     {
       "nyaa_id": 1918226,
@@ -13,7 +13,7 @@
       "infohash": "edbb6d30921c0a42a286f73c63920622b82d2123",
       "size": "15.2 GiB",
       "pub_date": "2025-01-05 22:41",
-      "seeders": 6,
+      "seeders": 7,
       "fankai": true
     }
   ],

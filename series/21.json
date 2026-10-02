@@ -1,28 +1,28 @@
 {
   "id": 21,
   "title": "Kaguya-sama : Love is War Henshū",
-  "show_title": null,
-  "torrents": [
-    {
-      "nyaa_id": 2075959,
-      "nyaa_url": "https://nyaa.si/view/2075959",
-      "title": "[Brazh & Foxthug] Kaguya-sama - Love Is War Henshū - Saisons 1/2/3 (11 films) - 1080p.MULTI.x264",
-      "torrent_name": "Kaguya-sama - Love Is War Henshū",
-      "torrent_url": "https://nyaa.si/download/2075959.torrent",
-      "magnet": "magnet:?xt=urn:btih:1e4912a0de9bd3adbefa2814a241edb11ea0b871&dn=%5BBrazh%20%26%20Foxthug%5D%20Kaguya-sama%20-%20Love%20Is%20War%20Hensh%C5%AB%20-%20Saisons%201%2F2%2F3%20%2811%20films%29%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-      "infohash": "1e4912a0de9bd3adbefa2814a241edb11ea0b871",
-      "size": "19.5 GiB",
-      "pub_date": "2026-02-13 17:38",
-      "seeders": 5,
-      "fankai": true
-    }
-  ],
+  "show_title": "Kaguya-sama : Love is War Henshū",
+  "torrents": [],
   "seasons": [
     {
       "id": 40,
       "season_number": 1,
       "title": "Love is War",
-      "torrents": [],
+      "torrents": [
+        {
+          "nyaa_id": 2075959,
+          "nyaa_url": "https://nyaa.si/view/2075959",
+          "title": "[Brazh & Foxthug] Kaguya-sama - Love Is War Henshū - Saisons 1/2/3 (11 films) - 1080p.MULTI.x264",
+          "torrent_name": "Kaguya-sama - Love Is War Henshū",
+          "torrent_url": "https://nyaa.si/download/2075959.torrent",
+          "magnet": "magnet:?xt=urn:btih:1e4912a0de9bd3adbefa2814a241edb11ea0b871&dn=%5BBrazh%20%26%20Foxthug%5D%20Kaguya-sama%20-%20Love%20Is%20War%20Hensh%C5%AB%20-%20Saisons%201%2F2%2F3%20%2811%20films%29%20-%201080p.MULTI.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "infohash": "1e4912a0de9bd3adbefa2814a241edb11ea0b871",
+          "size": "19.5 GiB",
+          "pub_date": "2026-02-13 17:38",
+          "seeders": 6,
+          "fankai": true
+        }
+      ],
       "episodes": [
         {
           "id": 339,
@@ -263,7 +263,7 @@
               "infohash": "ffc87e28a92b55ca1dba148ee57598262ee58423",
               "size": "1.7 GiB",
               "pub_date": "2026-03-28 17:00",
-              "seeders": 2,
+              "seeders": 3,
               "fankai": true
             }
           ],
