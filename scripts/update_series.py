@@ -811,11 +811,14 @@ def resolve_episodes(series, batch_size=BATCH_SIZE, refresh=False, use_cache=Tru
                 # série, on re-télécharge ses épisodes. Sinon Jev ne voit pas
                 # le nouvel épisode et choisit le « plus proche » (ex. Demon
                 # Slayer 12 rangé dans l'épisode 6).
+                # Seule la série concernée est rafraîchie. Premier passage
+                # (liste 'infohashes' absente du cache) : on l'initialise
+                # sans rafraîchir.
                 key = str(serie["id"])
                 infohashes = sorted({torrent_infohash(t) for t in serie["torrents"]})
-                seen = set(seasons_cache.get(key, {}).get("infohashes") or [])
+                seen = seasons_cache.get(key, {}).get("infohashes")
 
-                if not refresh and not set(infohashes) <= seen:
+                if not refresh and seen is not None and not set(infohashes) <= set(seen):
                     print("  [i] Nouveau torrent : rafraîchissement des épisodes")
                     seasons = get_series_seasons(serie, seasons_cache, refresh=True)
 
