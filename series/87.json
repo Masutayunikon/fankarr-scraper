@@ -201,12 +201,33 @@
               "pub_date": "2024-10-09 14:45",
               "seeders": 9,
               "fankai": true
+            },
+            {
+              "nyaa_id": 2177260,
+              "nyaa_url": "https://nyaa.si/view/2177260",
+              "title": "[Brazh] Demon Slayer Henshū 12 - La forteresse infinie (partie 1) - 1080p.MULTI.VF/VOSTFR.x264",
+              "torrent_name": "[Brazh] Demon Slayer Henshū 12 - La forteresse infinie (partie 1) - 1080p.MULTI.x264.mkv",
+              "torrent_url": "https://nyaa.si/download/2177260.torrent",
+              "magnet": "magnet:?xt=urn:btih:744c6ba41acd6f4e9230dc47c56ce9e9a19e094e&dn=%5BBrazh%5D%20Demon%20Slayer%20Hensh%C5%AB%2012%20-%20La%20forteresse%20infinie%20%28partie%201%29%20-%201080p.MULTI.VF%2FVOSTFR.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "744c6ba41acd6f4e9230dc47c56ce9e9a19e094e",
+              "size": "3.7 GiB",
+              "pub_date": "2026-10-22 13:39",
+              "seeders": 30,
+              "fankai": true
             }
           ],
           "paths": [
             {
               "infohash": "22df77a48eba629875866195758db994d8569a71",
               "path": "[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264/[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Demon Slayer Henshū.S01E06.MULTI.1080p.x264-FANKAI",
+              "nfo_filename": "[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264.nfo",
+              "original_filename": "[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264.mkv"
+            },
+            {
+              "infohash": "744c6ba41acd6f4e9230dc47c56ce9e9a19e094e",
+              "path": "[Brazh] Demon Slayer Henshū 12 - La forteresse infinie (partie 1) - 1080p.MULTI.x264.mkv",
               "file_index": 0,
               "formatted_name": "Demon Slayer Henshū.S01E06.MULTI.1080p.x264-FANKAI",
               "nfo_filename": "[Brazh] Demon Slayer Henshū 06 - Le train de l'infini - 1080p.MULTI.x264.nfo",
