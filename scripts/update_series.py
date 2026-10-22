@@ -762,6 +762,27 @@ def attach_file(episode: dict, torrent: dict, file: dict) -> None:
     })
 
 
+def episode_count(seasons: list[dict]) -> int:
+    return sum(len(s["episodes"]) for s in seasons)
+
+
+def file_cache_entry(file_cache: dict, key: str, by_id: dict, n_episodes: int):
+    """
+    Entrée du cache Jev si elle est encore valable : l'épisode existe toujours
+    et la liste d'épisodes n'a pas changé depuis le match (sinon Jev avait
+    peut-être dû choisir un « plus proche » faute du bon épisode).
+    """
+    entry = file_cache.get(key)
+
+    if not entry or entry.get("episode_id") not in by_id:
+        return None
+
+    if entry.get("episodes") not in (None, n_episodes):
+        return None
+
+    return entry
+
+
 def resolve_episodes(series, batch_size=BATCH_SIZE, refresh=False, use_cache=True,
                      only_series=None):
     """
@@ -784,9 +805,27 @@ def resolve_episodes(series, batch_size=BATCH_SIZE, refresh=False, use_cache=Tru
 
             try:
                 seasons = get_series_seasons(serie, seasons_cache, refresh)
+
+                # 'last_update' ne bouge pas toujours quand un épisode est
+                # ajouté côté API : dès qu'un nouveau torrent arrive pour la
+                # série, on re-télécharge ses épisodes. Sinon Jev ne voit pas
+                # le nouvel épisode et choisit le « plus proche » (ex. Demon
+                # Slayer 12 rangé dans l'épisode 6).
+                key = str(serie["id"])
+                infohashes = sorted({torrent_infohash(t) for t in serie["torrents"]})
+                seen = set(seasons_cache.get(key, {}).get("infohashes") or [])
+
+                if not refresh and not set(infohashes) <= seen:
+                    print("  [i] Nouveau torrent : rafraîchissement des épisodes")
+                    seasons = get_series_seasons(serie, seasons_cache, refresh=True)
+
+                if key in seasons_cache:
+                    seasons_cache[key]["infohashes"] = infohashes
             except Exception as e:
                 print(f"  [!] {serie['title']} : épisodes indisponibles : {e}")
                 continue
+
+            n_episodes = episode_count(seasons)
 
             # (le reste est inchangé : by_id, by_filename, serie["seasons"] = seasons,
             #  puis `for torrent in serie["torrents"]:` …)
@@ -838,13 +877,9 @@ def resolve_episodes(series, batch_size=BATCH_SIZE, refresh=False, use_cache=Tru
 
                 for file in rest:
                     key = f"{torrent['infohash']}:{file['index']}:{serie['id']}"
-                    entry = file_cache.get(key)
+                    entry = file_cache_entry(file_cache, key, by_id, n_episodes)
 
-                    if (
-                        entry
-                        and entry["episode_id"] in by_id
-                        and entry["episode_id"] not in used
-                    ):
+                    if entry and entry["episode_id"] not in used:
                         attach_file(by_id[entry["episode_id"]], torrent, file)
                         used.add(entry["episode_id"])
                         cached += 1
@@ -899,6 +934,7 @@ def resolve_episodes(series, batch_size=BATCH_SIZE, refresh=False, use_cache=Tru
                             "episode_id": episode_id,
                             "confidence": confidence,
                             "path": file["path"],
+                            "episodes": n_episodes,
                         }
 
                         mark = "~" if confidence < LOW_CONFIDENCE else "✓"
@@ -915,6 +951,8 @@ def resolve_episodes(series, batch_size=BATCH_SIZE, refresh=False, use_cache=Tru
                     f"{exact} nom exact, {cached} cache, {via_jev} Jev, "
                     f"{ignored} ignorée(s)"
                 )
+
+    save_json(SEASONS_CACHE, seasons_cache)
 
     return series
 
