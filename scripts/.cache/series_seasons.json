@@ -95,6 +95,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "23ebdc911bdab8637df13da53a4345e2026f980c"
     ]
   },
   "4": {
@@ -186,7 +189,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "6": {
     "version": "1790719203.0022027",
@@ -471,6 +475,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "c1a1a90e689fd936d7e4ef912fc45a686f0dba61"
     ]
   },
   "7": {
@@ -553,6 +560,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "ddbd0d0864ae2526a91d1817cbcebac7301f02c3"
     ]
   },
   "8": {
@@ -662,6 +672,18 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "4282ed04c67efc02164f495b1353519d5503b645",
+      "4edc091916b76268d1d46cb71fe61d86448af0e4",
+      "574bee404f7de8ec4777e23e11f176f037e910bb",
+      "64fe7f0a83e21301bdff231f881d4596a5d1ff01",
+      "680ac0786ef7ca13b9319797f8d78136e93c29a3",
+      "b4e9180c4b612d7e7512d581c661e19970b3dfcd",
+      "bae666a8859d9c93eebb4100b5b66a6d4263c8cf",
+      "c41a128014f6bd3ebaf995956b4fb0e685a1e4f0",
+      "dd229eca10f819457c95985df91f4df1afbde37f",
+      "fef6fbfd6038e80d148b2e050e85cd6f9ebe4363"
     ]
   },
   "10": {
@@ -737,6 +759,12 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "4e86612eea0bb2edd51dbdf602ef9ec6940f9817",
+      "d0aae7b7b52d077f1337ce959af1e82abeffb6f4",
+      "ee0a2bd7f7f384608a505eaecf6f0135b2ecb478",
+      "f475d56c1deae051ce9103caa3a464dd1a2daa98"
     ]
   },
   "11": {
@@ -1974,6 +2002,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "b8770d78d8e665132536f3631a35c16ab354fbed"
     ]
   },
   "12": {
@@ -2331,6 +2362,30 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "08b7445c386817de09375b26b7e928435c4d55e0",
+      "13379895f4da65df771cef9ed3b42809d20bd487",
+      "2f2aaff89d06a9e27a762290933bc9f1cb9b7ab9",
+      "3f6114603ce8011f64c93ae0784010e950a0ace3",
+      "40c5b00072b00cbe9f1bee40362adcb860f2bbb7",
+      "4318b2ef3f08293a53e9fa7abbfeac48bfc8049e",
+      "45ba5096f7270bb95f384d171bd4ba99f41faf08",
+      "50ee4c6dd1f7fcc92374c5683de6c460ae2a6334",
+      "5fd2491005f5c90ccfecea3fc725ba88c7d3d2af",
+      "6c17c30e65d73aa07a12bd9e8127d27e3e31c60a",
+      "6ebfded95e2c01a8db5a279929d200226008664c",
+      "70a8e63cf2ae413899135128f37e228c4596957a",
+      "7e5a92d309969f046c9a7c8dc3e1e8052df97aee",
+      "85a24f6cfcdb0e91beb1fa11b56e92879db6cb5c",
+      "880368333c8f693443385bc9b097ead4cc9c8c6a",
+      "97974e9663cdc6e3d38cc69e3447b77e4a1e42d3",
+      "aa12df5259fefc2c25d942ba561928985d925e02",
+      "bbf732c8921fa51a6a1074d5f3401b6a224dc0ef",
+      "bf9f5d4aeca79d5586128cc15ed9ec90c6599d83",
+      "e480c2b484e8162a20f5a929b2df910b6f5896d3",
+      "f0e2e04d1c2525700d5dd012a8e68bd67e5cbdbf",
+      "fac93965318a68549e14f5e0ec335be1c660c1bf"
     ]
   },
   "13": {
@@ -2460,6 +2515,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "14c4a1278f9da775be9f05c6529b2669af85985f"
     ]
   },
   "14": {
@@ -2499,7 +2557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "15": {
     "version": "1790719202.9982028",
@@ -2795,6 +2854,21 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "17c0a7f519773091705808564a056aa1f7a7559c",
+      "37aadeb72da2f5d1236ba8e113f0d23da314096e",
+      "45b9b939c0ac9dba401a73110d5122e53fb1d3a0",
+      "4f4a4e416f47e3f5cfaaaf348ec3917b921f9d0f",
+      "6d63ed4836215690f86a5bacbcc6a1f9e87f85a3",
+      "8c61d17aafb639328463abc435902c44b74ad998",
+      "8e8331065d96af25e17ba91c9af6968d72459ba3",
+      "965fc7eb604d2638a56d0ac07842f665ded504de",
+      "b38e4987bcdf7ef77c16e8d120b7ceaed145bb67",
+      "bf22f471f828e59cf7110ec755f3a5b2194a4b78",
+      "c56316903ae379af0b788dc234b1f88b3e656af1",
+      "e7d82377db02546c18f1bffbe50fbc73b1b0eb57",
+      "fe0e9190fd34811674969c88e46ea5d1b5cf3e17"
     ]
   },
   "16": {
@@ -2888,7 +2962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "17": {
     "version": "1790719203.0102026",
@@ -2942,6 +3017,9 @@
         "title": "Saison 2",
         "episodes": []
       }
+    ],
+    "infohashes": [
+      "0de8acdafab53b42fcc743d9de0064ab0f0464eb"
     ]
   },
   "18": {
@@ -3008,6 +3086,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "3deb4ab14f4d605d9cea2d5ce596afa9edac6559"
     ]
   },
   "19": {
@@ -3198,6 +3279,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "6dea0a142b6c1271a95e182892e997b3027cacaa"
     ]
   },
   "20": {
@@ -3388,6 +3472,11 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "1c9adaa39af44d099e0b28b9a0f8510ecd5a4add",
+      "b8abba5536eedb4e83cd4c16cb3fc7c93e878bfb",
+      "bc3a56faefe38f07c01814c678537b563a8361b2"
     ]
   },
   "21": {
@@ -3508,6 +3597,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "1e4912a0de9bd3adbefa2814a241edb11ea0b871",
+      "ffc87e28a92b55ca1dba148ee57598262ee58423"
     ]
   },
   "22": {
@@ -3574,6 +3667,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "2ffe54633511817b86907b0bc3e4e5e8bd7f571d"
     ]
   },
   "23": {
@@ -3595,6 +3691,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "98ea9a977b9256b9e4be1f13bad1b1b0e8ff28a2"
     ]
   },
   "24": {
@@ -3661,6 +3760,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "21bc7398d2f5c762b385c557163befec8ec97435"
     ]
   },
   "25": {
@@ -3856,6 +3958,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "3bb2afd33f6cf8ba94cfb2bb17e3960531756562"
     ]
   },
   "26": {
@@ -3972,6 +4077,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "a860a71cccb550415df4a4e7d5c7c0b69053eaef"
     ]
   },
   "27": {
@@ -4257,6 +4365,12 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "2b81acabef97a5a0fff13e269a85f0acd2c4334b",
+      "492adeb5fd6354e812c0949c635bb20d00952571",
+      "8db63a2a3c3ca9e9abad44b30ff6813cc5829684",
+      "c4ebdf756962ff1e56ace0106d3161bee1a45ab7"
     ]
   },
   "28": {
@@ -4332,7 +4446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "29": {
     "version": "1790719202.9942029",
@@ -4705,6 +4820,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "ccd2f08caff81bde8176ef33bc514c53a4f1941b"
     ]
   },
   "30": {
@@ -4744,6 +4862,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "3eba9c3338cf53991ffcbcaea5deb255f5623c5e"
     ]
   },
   "31": {
@@ -4989,6 +5110,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "aaa6f6b390523fa7e8c1294e0285d799cad4d0df"
     ]
   },
   "33": {
@@ -5082,6 +5206,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "19b6658f9833ed7b49d12f36a4409a8c567d3316",
+      "6d88c8e60019f5661b905fc72391f58a5e60f70e"
     ]
   },
   "34": {
@@ -5148,6 +5276,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "93b0b1c92b3b55b03967e8822f30f6f13fd7e82c",
+      "cf78a7b6d12baefc3c99dd818f2e8a225967dd80"
     ]
   },
   "35": {
@@ -5214,7 +5346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "38": {
     "version": "1790719202.986203",
@@ -5253,6 +5386,11 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "60106c4bf93bce7ebbb46a2598a31887edb828af",
+      "be5571e2a1b7828dece89f5e23ad40457ca5ec4a",
+      "e2046f86bddd1b0acc7cd97a105c9b12edb384f5"
     ]
   },
   "39": {
@@ -5326,6 +5464,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "edbb6d30921c0a42a286f73c63920622b82d2123"
     ]
   },
   "40": {
@@ -5426,6 +5567,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "079ad95fd3f1a5c08c72f0c9a7168bbf7c19a897"
     ]
   },
   "42": {
@@ -5637,6 +5781,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "39a099e16e5f412cd7d1463e8f2c871dcdd3e1c9",
+      "664451466c0b38b513b3b86dda2d3c9f0d61bd2a"
     ]
   },
   "43": {
@@ -5676,6 +5824,11 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "73b36340cc0e19f87ee6e27072f2c0b0c9446221",
+      "bbb4dcc1d38769d1dece84324bb35e7e7f93982e",
+      "bf7f02b80af121368b0e769c25640c87cf4a893f"
     ]
   },
   "44": {
@@ -5837,6 +5990,11 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "5320bb4089d9567e30aaa6e9eaddb22c18fa5de3",
+      "7a70659b7cbcae14a2231e36be6b25d14b14a68f",
+      "e7c18642a2fe65d89fc239583cee234219161216"
     ]
   },
   "45": {
@@ -5876,6 +6034,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "37fefb6eb476713d6ffa72dfa701e261fe80fb11",
+      "4c9a2f116cd448a75daeabf12d96ffd7d8cdde5d"
     ]
   },
   "46": {
@@ -5924,7 +6086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "48": {
     "version": "1790719203.0022027",
@@ -6062,6 +6225,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "a32fc9b47dc3c3e7c5fd3e459ed6fb397afcef60",
+      "f69dc67aac88bb5c5c422f3147d031e753600e37"
     ]
   },
   "49": {
@@ -6171,6 +6338,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "47bffd209fe6b06e6bb795ffcfa840c28c7186f8"
     ]
   },
   "51": {
@@ -6551,6 +6721,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "ab642e341383e18b5d44d80f123e14791e21a285"
     ]
   },
   "53": {
@@ -7925,6 +8098,14 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "20925685fa34a7edeb30d432652f622669e10cce",
+      "5be7ed0a7007ed44a3ab6a5d182a83d4cda7cd9f",
+      "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
+      "aa7d9d22a739606e5fb23c29d7c3e80c3bd9a652",
+      "c03540ecd6779b10ac1ae6a475bebec2a4feb2d9",
+      "f5e09a9753134c96f5323cb15c7d6daf6a3de5fe"
     ]
   },
   "55": {
@@ -8075,6 +8256,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "b1bab199c3f76805270205d0d46b96b034d9ae98"
     ]
   },
   "56": {
@@ -8193,6 +8377,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "7a4fc589d6438a3e1e554681b15546e52a2aa2a5",
+      "b7bbf5294413d982ab2d7e4daacdd7527ae1982f"
     ]
   },
   "58": {
@@ -8259,7 +8447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "60": {
     "version": "1790719202.9942029",
@@ -8434,6 +8623,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "74e5e6cf9f17e8794758b8dff03d373e3d4082b3"
     ]
   },
   "61": {
@@ -8753,6 +8945,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "1078afd85dc66cee136eec916b13b3ffd7f3b173"
     ]
   },
   "64": {
@@ -9031,6 +9226,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "c17d46ea9e694da23eedfdb302f9386e71dcf9ff"
     ]
   },
   "65": {
@@ -9258,6 +9456,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "7c3162d2b0288aa6cab1189409a403c001816c1b"
     ]
   },
   "67": {
@@ -10104,6 +10305,13 @@
         "title": "Whole Cake Island",
         "episodes": []
       }
+    ],
+    "infohashes": [
+      "207b5e9d0d968b1060d6cbfe5bde4acb8b1d7a0c",
+      "21c0a39553099daf4acf7aff51235d8e5920b0ab",
+      "3e3693681e874407ab115d55375d8fd0aa1c4f83",
+      "89f8ee4c67ef236a88d4a7f0c419807a7a0b6496",
+      "91e015a5e58fb28f6d264d2a685b28c2b10c7076"
     ]
   },
   "68": {
@@ -10186,7 +10394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "71": {
     "version": "1790719202.9982028",
@@ -10415,6 +10624,15 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "1e1e4c3925de5c999ca9d80a530700fd3ae73149",
+      "27e901e06d05fc0bee0eeddd5c9ff3e0d5a11617",
+      "7a43bd0f156e5c174e714ecfcb56460573ea7bf6",
+      "8e6b45a9083b6724a87017c6a08e75e09688d814",
+      "b877541af3eab3fe20e2527bdd174e029dbd7d44",
+      "c2e1e7574c304e60ceb0b84d50fb72e425d37761",
+      "e9acde526588d7b38a9fb649446c835b8ff2a265"
     ]
   },
   "74": {
@@ -10549,6 +10767,14 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "050913b346aa0bc5b93d4c8f2506e37d4ae08bb4",
+      "07a04de62868cfe8f7330bf7718ee793b15f7812",
+      "29907c00eeebbcc10d81d3b0e7f14bdde15488b1",
+      "31dcb859dc9bcd287664cbbb11c7ef818dd77423",
+      "6999c9ccfbd68627bc2ac3239c21f4d5a65fb10a",
+      "9c331362cc90a6e1e5d5b15b0b73a340d813a112"
     ]
   },
   "76": {
@@ -10633,6 +10859,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "5cd5594ceddee53bf2f2c22fb4f258b1c05316cf"
     ]
   },
   "77": {
@@ -10699,6 +10928,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "fba5710724e70b4e041649eeb5f415fbcde8bf06"
     ]
   },
   "78": {
@@ -10840,6 +11072,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "e380efbfde922e075c6d5c3f6fa3295df157967b"
     ]
   },
   "79": {
@@ -10933,6 +11168,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "b5ddec5ae3e90f8298cd10c3bae24d1d2b525a1d"
     ]
   },
   "80": {
@@ -11006,6 +11244,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "6867832cef6544bcfdab9396dfd37b1d9e5d6212"
     ]
   },
   "81": {
@@ -11112,6 +11353,10 @@
         "title": "Jinchu",
         "episodes": []
       }
+    ],
+    "infohashes": [
+      "b854769297b2ddd240c8c8a3fe3d6f5b3ac36afa",
+      "d2ebb700c71e3155db51ceeb1280b4407434a575"
     ]
   },
   "82": {
@@ -11250,7 +11495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "83": {
     "version": "1790719202.9942029",
@@ -11452,6 +11698,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "d2ec9e9a7d12e46d90d3e527f058e7655cd51f48"
     ]
   },
   "84": {
@@ -11654,6 +11903,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "5d28e4a3c4d8272af8a7dbfd026b2495d3c2bff2"
     ]
   },
   "85": {
@@ -11738,6 +11990,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "59d6e698f9a9d539b34b671463876850ebe2303b"
     ]
   },
   "86": {
@@ -11804,6 +12059,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "26715e5a8bd2ebbdc9950a9171d3e87efc6ad476"
     ]
   },
   "87": {
@@ -11912,9 +12170,32 @@
             "original_filename": "[Brazh] Demon Slayer Henshū 11 - L'entraînement des piliers - 1080p.MULTI.x264.mkv",
             "formatted_name": "Demon Slayer Henshū.S01E11.MULTI.1080p.x264-FANKAI",
             "nfo_filename": "[Brazh] Demon Slayer Henshū 11 - L'entraînement des piliers - 1080p.MULTI.x264.nfo"
+          },
+          {
+            "id": 1760,
+            "episode_number": 12,
+            "title": "La forteresse infinie (partie 1)",
+            "aired": "2026-10-22",
+            "original_filename": "[Brazh] Demon Slayer Henshū 12 - La forteresse infinie (partie 1) - 1080p.MULTI.x264.mkv",
+            "formatted_name": "Demon Slayer Henshū.S01E12.VOSTFR.480p.x264-FANKAI",
+            "nfo_filename": "[Brazh] Demon Slayer Henshū 12 - La forteresse infinie (partie 1) - 1080p.MULTI.x264.nfo"
           }
         ]
       }
+    ],
+    "infohashes": [
+      "1162ff5dc57ebee952b298cdf36929cfa853e90b",
+      "200929bab14a648f30e53a82a3f0970d2b3e51f4",
+      "22df77a48eba629875866195758db994d8569a71",
+      "2c434621e58b00e409b062ad48b848bb844b2010",
+      "4efb07027bdf87b2c7559ad3dc2d013055570223",
+      "7025e392f84fe69726c315d44a3f961ac75a3628",
+      "744c6ba41acd6f4e9230dc47c56ce9e9a19e094e",
+      "817d3605a634efe0cfb910801b9c491449b3b369",
+      "b586fc79b7db5ba75f2f7b2e1b6d20dfb3b24437",
+      "b5a5a8d5a6d174d030faf0ef726d53e5baf3cf2f",
+      "d33dae02564f9029f8fbfa54cd1f0c8bae0024c3",
+      "e07d8dbfb898abc9de927b4d3956f5f493c960cb"
     ]
   },
   "90": {
@@ -12078,6 +12359,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "e2ab66abda3501342f9dfc8fdda91157d886a43f"
     ]
   },
   "91": {
@@ -12135,7 +12419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "infohashes": []
   },
   "93": {
     "version": "1790719202.990203",
@@ -12208,6 +12493,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "ba1cc80d2e259be36a2a47114cb18daa45928e17"
     ]
   },
   "94": {
@@ -12281,6 +12569,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "c5e7eb04674612488129d3ddfc835ae4447bb2d9"
     ]
   },
   "95": {
@@ -12392,6 +12683,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "01d1a37df351e7b9ec3278d42c08d94ffafe419d"
     ]
   },
   "96": {
@@ -12519,6 +12813,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "1df60f85090a1d5ab03a69de4462ee5272ccbe67",
+      "6a0ec532e403fbd0774deaa735c943ef37d142e1"
     ]
   },
   "98": {
@@ -12567,6 +12865,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "3b384fd5b405f74329d0d7f98e1aae04d16a97fe",
+      "a8be1aa27155d54541e2a1ba6decd9464db310dc"
     ]
   },
   "100": {
@@ -12703,6 +13005,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "fa687d0ff1687a374271dcda24b728db8e874a81"
     ]
   },
   "101": {
@@ -12760,6 +13065,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "5b3099bb9a1fc757d2b2cfaf26f49a723ac9fe1e"
     ]
   },
   "102": {
@@ -12982,6 +13290,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "95f5c60c6b1f180f67f8aac8c2c55228e3f8878d"
     ]
   },
   "103": {
@@ -13039,6 +13350,13 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "4ecddb2e4596697cc04e6982cff6fa9e9fe5160d",
+      "793a3a9fe25f11493b992b954dd8d405f1814412",
+      "bdbef6d189ea5c6a86bb98468fce89255430193f",
+      "eca4b22f77b3553558290824dc6f7dea5d960714",
+      "ed3bc61b2f6a0ce954c022f42a8fc0e17a8e2009"
     ]
   },
   "104": {
@@ -13112,6 +13430,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "5180b86ed00ac2142d995ef6027fd11762016fc3"
     ]
   },
   "105": {
@@ -13334,6 +13655,11 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "435cd1ebacaa496fd162912d881b2d2328dc825c",
+      "876936e25512b5e31c764d71cf08b55958d6cd79",
+      "ae7e7164b54a2813d1b142c841793ef59b60739b"
     ]
   },
   "106": {
@@ -13382,6 +13708,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "76b7c02ea65837f6435e929ba80029409219d0ef"
     ]
   },
   "108": {
@@ -13622,6 +13951,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "b5a8cb78ce2f36dc9f012c52f4dca8b6bb596388"
     ]
   },
   "109": {
@@ -13688,6 +14020,14 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "2184189145f9f493cca2e6b7526002951694ad09",
+      "3a6ca6f72071a373aa0f2aa6896cb5c2a548aafc",
+      "5da77843a36f6e17e90baacf8eecc4eee65950c4",
+      "bd8d303dd8ffd450f7d2a586f70bc9da48ad7a42",
+      "f7bea7a6c1a10bd5676b0848fd192111c3681d60",
+      "fccd4bb408f6257da34f4f323f3d54b4f0cb8563"
     ]
   },
   "110": {
@@ -13928,6 +14268,9 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "a2ef5f1aaa154b7bb19051cfdd4c43623a6316cd"
     ]
   },
   "111": {
@@ -13976,6 +14319,10 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "4c8969b1f5e038e7486d46e03188b2347603203b",
+      "ace5ba44e961422566d8b6a19bd99022dc15500b"
     ]
   },
   "112": {
@@ -14225,6 +14572,13 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "48c3d2c930630ffc1a78feb8dd7792b9c73e20fb",
+      "95a462b6dd98d1ac587c76dd0b487cf766a2e3e6",
+      "dd30798ab27fc80402e2a494274e7ef3ea5ba719",
+      "f2aac38ca906d46c0c59b58585eec44b17ea60b5",
+      "fd0c10cf381e74e3769f04e9abcf4eb8b7c80ecf"
     ]
   },
   "113": {
@@ -14273,6 +14627,12 @@
           }
         ]
       }
+    ],
+    "infohashes": [
+      "00d75268a9c23f6eeac3aaea57c21224ffb09595",
+      "88b1c6318311407b2917136c658a23a0426c3fd2",
+      "9eb05f38dd860ce263925b5d6efa0b1ce93c6432",
+      "c51cd3d3d7a802154c3493593aee7ce7496362d1"
     ]
   },
   "116": {
@@ -14324,6 +14684,9 @@
         "title": "Troisième année",
         "episodes": []
       }
+    ],
+    "infohashes": [
+      "cc47dfbed7c7d7cc757cebf0e58871f51c806740"
     ]
   }
 }
