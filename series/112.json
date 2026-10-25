@@ -384,8 +384,31 @@
           "original_filename": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264.mkv",
           "formatted_name": "Yu-Gi-Oh! Kaï.S03E15.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264.nfo",
-          "torrents": [],
-          "paths": []
+          "torrents": [
+            {
+              "nyaa_id": 2178835,
+              "nyaa_url": "https://nyaa.si/view/2178835",
+              "title": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264",
+              "torrent_name": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264",
+              "torrent_url": "https://nyaa.si/download/2178835.torrent",
+              "magnet": "magnet:?xt=urn:btih:337b8ec17465ccf725ce1f69867c0967b25fc48f&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2015%20-%20L%27union%20des%20forces%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "337b8ec17465ccf725ce1f69867c0967b25fc48f",
+              "size": "2.2 GiB",
+              "pub_date": "2026-10-25 20:43",
+              "seeders": 4,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "337b8ec17465ccf725ce1f69867c0967b25fc48f",
+              "path": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Yu-Gi-Oh! Kaï.S03E15.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264.nfo",
+              "original_filename": "[Manny] Yu-Gi-Oh! Kaï 15 - L'union des forces - 480p.MULTISUB.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1737,
@@ -395,8 +418,31 @@
           "original_filename": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264.mkv",
           "formatted_name": "Yu-Gi-Oh! Kaï.S03E16.VOSTFR.480p.x264-FANKAI",
           "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264.nfo",
-          "torrents": [],
-          "paths": []
+          "torrents": [
+            {
+              "nyaa_id": 2178836,
+              "nyaa_url": "https://nyaa.si/view/2178836",
+              "title": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264",
+              "torrent_name": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264",
+              "torrent_url": "https://nyaa.si/download/2178836.torrent",
+              "magnet": "magnet:?xt=urn:btih:c2433d7f4709c260b743d30da63a033abfc24709&dn=%5BManny%5D%20Yu-Gi-Oh%21%20Ka%C3%AF%2016%20-%20Les%20huit%20qualifi%C3%A9s%20-%20480p.MULTISUB.x264&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+              "infohash": "c2433d7f4709c260b743d30da63a033abfc24709",
+              "size": "2.2 GiB",
+              "pub_date": "2026-10-25 20:46",
+              "seeders": 9,
+              "fankai": true
+            }
+          ],
+          "paths": [
+            {
+              "infohash": "c2433d7f4709c260b743d30da63a033abfc24709",
+              "path": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264.mkv",
+              "file_index": 0,
+              "formatted_name": "Yu-Gi-Oh! Kaï.S03E16.VOSTFR.480p.x264-FANKAI",
+              "nfo_filename": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264.nfo",
+              "original_filename": "[Manny] Yu-Gi-Oh! Kaï 16 - Les huit qualifiés - 480p.MULTISUB.x264.mkv"
+            }
+          ]
         },
         {
           "id": 1741,
