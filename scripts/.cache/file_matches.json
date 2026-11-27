@@ -2063,5 +2063,17 @@
     "episode_id": 1293,
     "confidence": 0.64,
     "path": "[Brazh] Demon Slayer Henshū 12 - La forteresse infinie (partie 1) - 1080p.MULTI.x264.mkv"
+  },
+  "d7dcc268a3c86e59badccbc1016bcb83b5d31107:0:112": {
+    "episode_id": 1743,
+    "confidence": 0.98,
+    "path": "[Manny] Yu-Gi-Oh! Kaï 18 - La tour du duel - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 18 - La tour du duel - 480p.MULTISUB.x264.mkv",
+    "episodes": 24
+  },
+  "c617ff390a080454019b9fca1b0fa02646a35325:0:112": {
+    "episode_id": 1741,
+    "confidence": 1.0,
+    "path": "[Manny] Yu-Gi-Oh! Kaï 17 - Le clan des gardiens du tombeau - 480p.MULTISUB.x264/[Manny] Yu-Gi-Oh! Kaï 17 - Le clan des gardiens du tombeau - 480p.MULTISUB.x264.mkv",
+    "episodes": 24
   }
 }
